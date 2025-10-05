@@ -1,0 +1,49 @@
+name: Update Strava Club Calendar
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"  # every 15 minutes
+  workflow_dispatch:          # allow manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+          cache: false
+
+      - name: Prepare Google credentials
+        run: |
+          echo "${{ secrets.SERVICE_ACCOUNT_B64 }}" | base64 --decode > service-account.json
+
+      - name: Run Strava to Google Calendar Sync
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLUB_ID: ${{ secrets.STRAVA_CLUB_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.REFRESH_TOKEN }}
+          GOOGLE_CALENDAR_ID: ${{ secrets.GOOGLE_CALENDAR_ID }}
+        run: |
+          echo "Environment variables check:"
+          echo "STRAVA_CLIENT_ID: ${STRAVA_CLIENT_ID:-NOT_SET}"
+          echo "STRAVA_CLUB_ID: ${STRAVA_CLUB_ID:-NOT_SET}"
+          echo "CLIENT_SECRET: ${CLIENT_SECRET:-NOT_SET}"
+          echo "REFRESH_TOKEN: ${REFRESH_TOKEN:-NOT_SET}"
+          echo "GOOGLE_CALENDAR_ID: ${GOOGLE_CALENDAR_ID:-NOT_SET}"
+          mkdir -p output/schedules output/events
+          go run .
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output/schedules
+          publish_branch: gh-pages
+          keep_files: false

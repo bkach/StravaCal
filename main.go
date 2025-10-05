@@ -39,8 +39,7 @@ import (
 
 const (
 	eventsFile   = "output/events/events.json"
-	scheduleFile = "output/schedules/index.html"
-	calendarFile = "output/schedules/calendar.ics"
+	calendarFile = "output/calendar.ics"
 )
 
 func main() {
@@ -48,9 +47,6 @@ func main() {
 		switch os.Args[1] {
 		case "test":
 			testWithSampleData()
-			return
-		case "html":
-			generateHTMLOnly()
 			return
 		case "ics":
 			generateICSOnly()
@@ -61,7 +57,7 @@ func main() {
 		}
 	}
 
-	// Default: Full sync - fetch from Strava, sync to Google Calendar, generate HTML and ICS
+	// Default: Full sync - fetch from Strava, sync to Google Calendar, generate ICS
 	log.Println("Starting Strava to Google Calendar Sync...")
 
 	// Load Strava tokens
@@ -134,15 +130,15 @@ func main() {
 		log.Println("✓ Google Calendar sync completed successfully!")
 	}
 
-	// Generate HTML schedule and ICS file
-	log.Println("Generating HTML schedule and ICS file...")
-	generateScheduleFiles()
+	// Generate ICS file
+	log.Println("Generating ICS file...")
+	generateICSFromCache()
 
 	log.Println("✓ All tasks completed successfully!")
 }
 
-// generateScheduleFiles generates both HTML and ICS files from cached events
-func generateScheduleFiles() {
+// generateICSFromCache generates ICS file from cached events
+func generateICSFromCache() {
 	// Load events from JSON
 	events, err := loadExistingEvents()
 	if err != nil {
@@ -164,19 +160,6 @@ func generateScheduleFiles() {
 	sort.Slice(filteredEvents, func(i, j int) bool {
 		return filteredEvents[i].Start.Before(filteredEvents[j].Start)
 	})
-
-	// Generate HTML
-	htmlContent := generateHTML()
-
-	// Ensure output directory exists
-	if err := os.MkdirAll("output/schedules", 0755); err != nil {
-		log.Fatalf("Failed to create output directory: %v", err)
-	}
-
-	// Save HTML file
-	if err := os.WriteFile(scheduleFile, []byte(htmlContent), 0644); err != nil {
-		log.Fatalf("Error saving HTML file: %v", err)
-	}
 
 	// Generate and save ICS file
 	icsContent := generateICS(filteredEvents)
@@ -184,49 +167,7 @@ func generateScheduleFiles() {
 		log.Fatalf("Error saving ICS file: %v", err)
 	}
 
-	log.Printf("Generated %s and %s with %d events from next 60 days", scheduleFile, calendarFile, len(filteredEvents))
-}
-
-// generateHTMLOnly generates only the HTML file from cached events
-func generateHTMLOnly() {
-	log.Println("Generating HTML schedule from cached events...")
-
-	// Load events from JSON
-	events, err := loadExistingEvents()
-	if err != nil {
-		log.Fatalf("Failed to load existing events: %v", err)
-	}
-
-	// Filter for events in the next 60 days
-	now := time.Now()
-	sixtyDaysFromNow := now.AddDate(0, 0, 60)
-
-	var filteredEvents []Event
-	for _, event := range events {
-		if event.Start.After(now) && event.Start.Before(sixtyDaysFromNow) {
-			filteredEvents = append(filteredEvents, event)
-		}
-	}
-
-	// Sort chronologically
-	sort.Slice(filteredEvents, func(i, j int) bool {
-		return filteredEvents[i].Start.Before(filteredEvents[j].Start)
-	})
-
-	// Generate HTML
-	htmlContent := generateHTML()
-
-	// Ensure output directory exists
-	if err := os.MkdirAll("output/schedules", 0755); err != nil {
-		log.Fatalf("Failed to create output directory: %v", err)
-	}
-
-	// Save HTML file
-	if err := os.WriteFile(scheduleFile, []byte(htmlContent), 0644); err != nil {
-		log.Fatalf("Error saving HTML file: %v", err)
-	}
-
-	log.Printf("Generated %s with %d events", scheduleFile, len(filteredEvents))
+	log.Printf("Generated %s with %d events from next 60 days", calendarFile, len(filteredEvents))
 }
 
 // generateICSOnly generates only the ICS file from cached events

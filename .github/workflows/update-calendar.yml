@@ -37,13 +37,13 @@ jobs:
           echo "CLIENT_SECRET: ${CLIENT_SECRET:-NOT_SET}"
           echo "REFRESH_TOKEN: ${REFRESH_TOKEN:-NOT_SET}"
           echo "GOOGLE_CALENDAR_ID: ${GOOGLE_CALENDAR_ID:-NOT_SET}"
-          mkdir -p output/schedules output/events
+          mkdir -p output/events
           go run .
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy ICS to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./output/schedules
+          publish_dir: ./output
           publish_branch: gh-pages
           keep_files: false

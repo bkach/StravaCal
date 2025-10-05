@@ -1,0 +1,793 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//StravaCal//Strava Club Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Malvern Buzzards Running Club
+X-WR-CALDESC:Club running events from Strava
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:20070325T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071028T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1457866@strava.com
+DTSTART;TZID=Europe/London:20251005T080000
+DTEND;TZID=Europe/London:20251005T100000
+DTSTAMP:20251004T103831Z
+SUMMARY:Malvern to Upton and Around
+DESCRIPTION:Leader: Andy Dingley
+
+Location: (52.0956\, -2.3208)
+
+A loop fro
+ m Peachfield Road to Upton and meandering back.  About 3 hours.  Intermedia
+ te level - 07801 252100
+
+View on Strava: https://www.strava.com/clubs/20870
+ 5/group_events/1457866
+LOCATION:(52.0956\, -2.3208)
+URL:https://www.strava.com/clubs/208705/group_events/1457866
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3408710457127240806@strava.com
+DTSTART;TZID=Europe/London:20251006T060000
+DTEND;TZID=Europe/London:20251006T080000
+DTSTAMP:20251004T103831Z
+SUMMARY:Joust Loop - 5 Miles (8k) With 40 Minute Target Time
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: Wyche Cutting
+
+Head torch early 
+ morning trail run . 5 miles / 8k in 40 minutes.
+
+Loop of the hills from Wyc
+ he (route added when on laptop). 
+
+LiRF: Sim Buzzard 0734 108 1992
+
+Click o
+ ut if you can't make it. 
+
+
+View on Strava: https://www.strava.com/clubs/20
+ 8705/group_events/3408710457127240806
+LOCATION:Wyche Cutting
+URL:https://www.strava.com/clubs/208705/group_events/3408710457127240806
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2164834@strava.com
+DTSTART;TZID=Europe/London:20251006T183000
+DTEND;TZID=Europe/London:20251006T203000
+DTSTAMP:20251004T103831Z
+SUMMARY:Take Flight #5
+DESCRIPTION:Leader: Sarah Fowkes
+
+Location: Priory Park
+
+Take Flight is our
+  couch to 5k equivalent (C25K).
+This is for supporters\, for Buzzards wanti
+ ng to redo the programme or if you’re returning to running and want a gen
+ tle reintroduction.
+We shall start with a warmup\, then some running/walkin
+ g and then finish with a cooldown/stretch.
+We shall stay within the park an
+ d so no one will be left behind.
+We shall meet at the bandstand.
+Any questi
+ ons: Sarah (run leader) 
+07738 827081
+
+View on Strava: https://www.strava.c
+ om/clubs/208705/group_events/2164834
+LOCATION:Priory Park
+URL:https://www.strava.com/clubs/208705/group_events/2164834
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3408705261860780254@strava.com
+DTSTART;TZID=Europe/London:20251007T053000
+DTEND;TZID=Europe/London:20251007T073000
+DTSTAMP:20251004T103831Z
+SUMMARY:BCB - Simtervals 800m - Your Pace
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: Kiln Road
+
+BCB Intervals. 800m s
+ ession. Your pace. Max 8 reps (advanced) session. One hour total. 
+
+Head to
+ rch and high Viz please.
+
+LiRF: Simeon Foreman 0734 108 1992
+
+Click out if 
+ you can't make it. Thanks 
+
+View on Strava: https://www.strava.com/clubs/20
+ 8705/group_events/3408705261860780254
+LOCATION:Kiln Road
+URL:https://www.strava.com/clubs/208705/group_events/3408705261860780254
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3402005019504481140@strava.com
+DTSTART;TZID=Europe/London:20251007T190000
+DTEND;TZID=Europe/London:20251007T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Tuesday 10k
+DESCRIPTION:Leader: Julie Slack
+
+Location: Victoria Park
+
+
+A road run for t
+ hose who are regularly running upwards of 8k and want to do 10k in 1 1/4 ho
+ urs. 
+
+Nobody will be left behind and we will walk-run hills as required. 
+
+ 
+Hi-Viz and head / chest torches please so that you are seen and safe. 
+
+Pl
+ ease click out if you become unable to take part.
+
+LiRF: Julie Slack 075993
+ 93367
+
+View on Strava: https://www.strava.com/clubs/208705/group_events/340
+ 2005019504481140
+LOCATION:Victoria Park
+URL:https://www.strava.com/clubs/208705/group_events/3402005019504481140
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3409128783303891546@strava.com
+DTSTART;TZID=Europe/London:20251008T190000
+DTEND;TZID=Europe/London:20251008T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Chip chop chop - 8 Miles In 56 Minutes 
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: Barnards Green Fish Bar
+
+8 mile 
+ (14k ISH) run in 56 mins. Relatively flat on lit pavements. High Viz still 
+ needed.
+
+You will be rewarded with a bag of chips to share at the end. Like
+  proper athletes.
+
+Option to drop off about 10k if you want a shorter effor
+ t session.
+
+LiRF: Sim Foreman 0734 108 1992
+
+Click out if not coming so can
+  start in time. Thanks
+
+View on Strava: https://www.strava.com/clubs/208705
+ /group_events/3409128783303891546
+LOCATION:Barnards Green Fish Bar
+URL:https://www.strava.com/clubs/208705/group_events/3409128783303891546
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1892059@strava.com
+DTSTART;TZID=Europe/London:20251008T190000
+DTEND;TZID=Europe/London:20251008T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Return of the Ramparts
+DESCRIPTION:Leader: Andy Dingley
+
+Location: Wyche Cutting Bus Stop
+
+It's ba
+ ck - the popular run around British Camp ramparts.  Roughly 11km - it's not
+  too hilly or challenging.  Please note time change for this week! Contact 
+ Andy 07801 252100
+
+View on Strava: https://www.strava.com/clubs/208705/grou
+ p_events/1892059
+LOCATION:Wyche Cutting Bus Stop
+URL:https://www.strava.com/clubs/208705/group_events/1892059
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3392553444318075416@strava.com
+DTSTART;TZID=Europe/London:20251009T183000
+DTEND;TZID=Europe/London:20251009T203000
+DTSTAMP:20251004T103831Z
+SUMMARY:Thursday Hills 
+DESCRIPTION:Leader: Lily Price
+
+Location: 
+
+Thursday Hills 7/8km on the hil
+ ls in 1hours/1 hour 10 mins 
+Social run - whether it’s your chatty run pa
+ ce or pushy pace you will be supported by the group or support others. 
+30:
+ 30 (run/walk) on hills to keep momentum and keep together. 
+trail shoes nee
+ ded 
+Headtorch needed 
+Route changes weekly
+Always start at Wyche cutting b
+ us stop 
+
+Lily - 07769264349
+
+View on Strava: https://www.strava.com/clubs/
+ 208705/group_events/3392553444318075416
+URL:https://www.strava.com/clubs/208705/group_events/3392553444318075416
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3409230103531099352@strava.com
+DTSTART;TZID=Europe/London:20251009T190000
+DTEND;TZID=Europe/London:20251009T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Thirsty Thursday - The Bluebell
+DESCRIPTION:Leader: Barbara Gawlak
+
+Location: the bluebell\, Guarlford road
+  
+
+Fully on the roads now with some footpaths potentially. We will pull a c
+ lassic route out of the locker this week\, there will be ups\, downs\, and 
+ anything in between. 
+
+High Viz and lights essential. 
+
+Distance: 10km
+Pace
+ : 5:10-5:30/km
+
+Optional debrief at The Blue Bell after. 
+
+Barbara
+07763745
+ 098
+
+View on Strava: https://www.strava.com/clubs/208705/group_events/34092
+ 30103531099352
+LOCATION:the bluebell\, Guarlford road 
+URL:https://www.strava.com/clubs/208705/group_events/3409230103531099352
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3408504997786257426@strava.com
+DTSTART;TZID=Europe/London:20251009T190000
+DTEND;TZID=Europe/London:20251009T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Thirsty Thursday 
+DESCRIPTION:Leader: Robyn Hall
+
+Location: Bluebell Inn
+
+5K in approximately
+  40 minutes. 
+
+There will be street lights for the most part but reflective
+  clothing and or lights advisable. 
+
+No one left behind 
+
+Lirf: Robyn 07930
+ 038877
+
+View on Strava: https://www.strava.com/clubs/208705/group_events/34
+ 08504997786257426
+LOCATION:Bluebell Inn
+URL:https://www.strava.com/clubs/208705/group_events/3408504997786257426
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2171556@strava.com
+DTSTART;TZID=Europe/London:20251010T063000
+DTEND;TZID=Europe/London:20251010T083000
+DTSTAMP:20251004T103831Z
+SUMMARY:Rise & Run
+DESCRIPTION:Leader: Hannah Thompson
+
+Location: Rosebank Gardens
+
+**Rise & R
+ un**
+
+Note: Neil covering for Hannah this week.
+
+Weekly run of approximatel
+ y 5km on the hills to start your day.
+
+Pace: We will average between 8-9min
+ /km overall. Running the flats/downs\, and walking or run/walk the ups.
+No 
+ one left behind.
+
+Distance: 5km
+
+Time: ~45 minutes
+
+Meeting point: The Buzz
+ ards in Rosebank Gardens
+
+Headtorches needed for the start of the run now!
+
+ 
+Please remember to click out if you can no longer make it.
+
+Neil
+07899 991
+ 635
+
+View on Strava: https://www.strava.com/clubs/208705/group_events/21715
+ 56
+LOCATION:Rosebank Gardens
+URL:https://www.strava.com/clubs/208705/group_events/2171556
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3409092724248116598@strava.com
+DTSTART;TZID=Europe/London:20251010T093000
+DTEND;TZID=Europe/London:20251010T113000
+DTSTAMP:20251004T103831Z
+SUMMARY:5 on Friday
+DESCRIPTION:Leader: Julie Slack
+
+Location: Rose Bank Gardens
+
+5k ish run on
+  nearby trails. 
+Gentle and chatty with walks up hills as appropriate. 
+
+Ro
+ ute determined as we go along and according to who clicks in. 
+
+Optional po
+ st run coffee debrief. 
+
+Please click out if you’re unable to come. 
+
+LiR
+ F: Julie Slack 07599393367
+
+View on Strava: https://www.strava.com/clubs/20
+ 8705/group_events/3409092724248116598
+LOCATION:Rose Bank Gardens
+URL:https://www.strava.com/clubs/208705/group_events/3409092724248116598
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3394379963988822492@strava.com
+DTSTART;TZID=Europe/London:20251012T113000
+DTEND;TZID=Europe/London:20251012T133000
+DTSTAMP:20251004T103831Z
+SUMMARY:HBXC Winter XC: Race #1
+DESCRIPTION:Leader: Andrew Elwood
+
+Location: Builth Wells\, Builth Wells\, 
+ Powys\, Wales\, United Kingdom
+
+The first race of the Winter Cross Country 
+ (XC) series being hosted by Builth. This series consists of 1 race each mon
+ th from Oct - Feb and will provide some great club competition for runners 
+ of all abilities.
+
+After out success with so many people collecting trophie
+ s at the Summer series\, it would be great to see as many of you click in t
+ o the series as possible.
+
+More details about the event will be added to th
+ is as they get released. For now\, get clicked in. 
+
+View on Strava: https:
+ //www.strava.com/clubs/208705/group_events/3394379963988822492
+LOCATION:Builth Wells\, Builth Wells\, Powys\, Wales\, United Kingdom
+URL:https://www.strava.com/clubs/208705/group_events/3394379963988822492
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3408701610278707642@strava.com
+DTSTART;TZID=Europe/London:20251012T190000
+DTEND;TZID=Europe/London:20251012T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Sunday Night HM (13 Miles in 1 H 45 M)
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: Rosebank Gardens
+
+Sunday evening
+  HM in time of 1 h 45m. 
+
+High Viz please with head torch optional.
+
+LiRF: 
+ Sim Buzzard 0734 108 1992
+
+Please click out if you can't make it.
+
+View on 
+ Strava: https://www.strava.com/clubs/208705/group_events/340870161027870764
+ 2
+LOCATION:Rosebank Gardens
+URL:https://www.strava.com/clubs/208705/group_events/3408701610278707642
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2164839@strava.com
+DTSTART;TZID=Europe/London:20251013T183000
+DTEND;TZID=Europe/London:20251013T203000
+DTSTAMP:20251004T103831Z
+SUMMARY:Take Flight #6
+DESCRIPTION:Leader: Sarah Fowkes
+
+Location: Priory Park
+
+Take Flight is our
+  couch to 5k equivalent. This is for supporters\, for Buzzards wanting to r
+ edo the programme or if you’re returning to running and want a gentle rei
+ ntroduction.
+We shall start with a warmup\, then some running/walking and t
+ hen finish with a cooldown/stretch.
+We shall stay within the park and so no
+  one will be left behind.
+We shall meet at the bandstand.
+Any questions: Sa
+ rah (run leader) 
+07738 827081
+
+View on Strava: https://www.strava.com/club
+ s/208705/group_events/2164839
+LOCATION:Priory Park
+URL:https://www.strava.com/clubs/208705/group_events/2164839
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3408714500514679632@strava.com
+DTSTART;TZID=Europe/London:20251016T190000
+DTEND;TZID=Europe/London:20251016T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:Buzzard Day Pilgrimage 
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: Rosebank Gardens
+
+To celebrate t
+ he club's birthday I am leading a 5k ISH from the Buzzards through town to 
+ Buzzard Crescent and back. This has been very social in previous years and 
+ hope to repeat that in 2025.
+
+Head torch advised but high Viz essential. 
+
+
+ Aim to complete in about an hour for those who want to go to Weavers for a 
+ drink.
+
+We will get obligatory photos at Buzzards and Buzzard crescent.
+
+Li
+ RF: Sim Foreman 0734 108 1992
+
+Click out if you can't make it. Thanks 
+
+Vie
+ w on Strava: https://www.strava.com/clubs/208705/group_events/3408714500514
+ 679632
+LOCATION:Rosebank Gardens
+URL:https://www.strava.com/clubs/208705/group_events/3408714500514679632
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3408712155371188446@strava.com
+DTSTART;TZID=Europe/London:20251016T200000
+DTEND;TZID=Europe/London:20251016T220000
+DTSTAMP:20251004T103831Z
+SUMMARY:Buzzard Day Social Meet (NOT A RUN)
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: 
+
+The Committee decided to move 
+ away from the Great Malvern Hotel for Buzzard Day drinks this year and opti
+ ng for Weavers instead.
+
+Putting this as not a run so those unable to join 
+ club runs can click in. 
+
+Sim Buzzard 
+Club Chair 
+0734 108 1992
+
+View on S
+ trava: https://www.strava.com/clubs/208705/group_events/3408712155371188446
+URL:https://www.strava.com/clubs/208705/group_events/3408712155371188446
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3407357493042272132@strava.com
+DTSTART;TZID=Europe/London:20251018T083000
+DTEND;TZID=Europe/London:20251018T103000
+DTSTAMP:20251004T103831Z
+SUMMARY:Common Cross Country Training
+DESCRIPTION:Leader: Andrew Kenchington
+
+Location: Rosebank Gardens
+
+Meet un
+ der Buzzards. Warm up jog down to Common. Then mix of loops and hill effort
+ s on Comon. All on laps so we keep together at own effort pace and regroupi
+ ng. Warm downjog to Buzzards by 10am total distance 7 miles max. Off road s
+ hoes needed. Andy 07825561694
+
+View on Strava: https://www.strava.com/clubs
+ /208705/group_events/3407357493042272132
+LOCATION:Rosebank Gardens
+URL:https://www.strava.com/clubs/208705/group_events/3407357493042272132
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2164888@strava.com
+DTSTART;TZID=Europe/London:20251018T090000
+DTEND;TZID=Europe/London:20251018T110000
+DTSTAMP:20251004T103831Z
+SUMMARY:‘League Event’ Take Flight Graduation Worcester Woods Parkrun 
+DESCRIPTION:Leader: Sarah Fowkes
+
+Location: Worcester Woods Country Park
+
+P
+ lease come and support us at Worcester Woods Parkrun\, when our Take Flight
+  fledglings will graduate by running the 5k. 
+
+League points will be alloca
+ ted at a flat rate.
+
+I am sure there will be cake at the finish too.
+
+Any q
+ uestions: Sarah (run leader)
+07738 827081
+
+View on Strava: https://www.stra
+ va.com/clubs/208705/group_events/2164888
+LOCATION:Worcester Woods Country Park
+URL:https://www.strava.com/clubs/208705/group_events/2164888
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1954769@strava.com
+DTSTART;TZID=Europe/London:20251026T090000
+DTEND;TZID=Europe/London:20251026T110000
+DTSTAMP:20251004T103831Z
+SUMMARY:*League event* Stroud half marathon and 10k
+DESCRIPTION:Leader: Sarah Reeves
+
+Location: 
+
+A new addition to this year’s league\, but their website promises 13.1 miles of fun and frolics!
+
+A lo
+ vely progression for anyone running Worcester 10k in September\, or if you’re already fit for Worcester half marathon you may as well do this one to
+ o.
+
+More information at Stroudhalf(dot)com
+
+
+View on Strava: https://www.st
+ rava.com/clubs/208705/group_events/1954769
+URL:https://www.strava.com/clubs/208705/group_events/1954769
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2111840@strava.com
+DTSTART;TZID=Europe/London:20251109T090000
+DTEND;TZID=Europe/London:20251109T110000
+DTSTAMP:20251004T103831Z
+SUMMARY:Monopoly Board\, London (Grand Day Out) 16 Miles In 5-6 Hours
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: Great Malvern Station
+
+Buzzard G
+ rand Day Out to London to run the "Monopoly Board". This is a 16 mile run a
+ nd we have about 5 -6 hours to do it.
+Train leaves GMV about 0900 and gets 
+ into PAD about 1130. Return train about 1730 back to Malvern about 2000.
+
+G
+ roup travel will be booked if we get more than 10 people. 
+
+Chatty pace to 
+ have fun. Multiple run leaders in this so it proves to be a bumper day. 
+
+H
+ opefully time to get up to the distance bit you could always grab a few "se
+ ts" if you want the day out.
+
+Do not pass Go\, do not collect £200...
+
+Sim
+  Buzzard and Julie Slack
+0734 108 1992
+
+View on Strava: https://www.strava.
+ com/clubs/208705/group_events/2111840
+LOCATION:Great Malvern Station
+URL:https://www.strava.com/clubs/208705/group_events/2111840
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:1985882@strava.com
+DTSTART;TZID=Europe/London:20251114T190000
+DTEND;TZID=Europe/London:20251114T210000
+DTSTAMP:20251004T103831Z
+SUMMARY:WBUH Firewalk **Not A Run**
+DESCRIPTION:Leader: Sim Buzzard
+
+Location: TBC
+
+Final "Elements" event from
+  Worcestershire Breast Unit Haven (WBUH) is a firewalk 🔥 
+
+Venue and tim
+ ings to be confirmed but another placeholder to show which Buzzards will be
+  doing this. 
+
+You will need to book in with WBUH directly. Links will be s
+ hared on our other platforms due to Strava's silly ban on them.
+
+Feet of fi
+ re 🔥 make you faster I am told....
+
+View on Strava: https://www.strava.c
+ om/clubs/208705/group_events/1985882
+LOCATION:TBC
+URL:https://www.strava.com/clubs/208705/group_events/1985882
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3394381358581372894@strava.com
+DTSTART;TZID=Europe/London:20251116T113000
+DTEND;TZID=Europe/London:20251116T133000
+DTSTAMP:20251004T103831Z
+SUMMARY:*League event* HBXC Winter XC: Race #2 Croft Ambrey 
+DESCRIPTION:Leader: Andrew Elwood
+
+Location: 
+
+Winter XC Race #2 hosted by 
+ Croft Ambrey. The race is approx. 10km (6 miles)  in length on varying terr
+ ain (mainly off road).
+
+This is also the November Buzzard league race with 
+ flat rate points for all participants.
+
+After our success this summer\, it 
+ would be great to see as many of you clicked in to as many of these as poss
+ ible\, so please get involved. 
+
+More information to follow.
+
+View on Strav
+ a: https://www.strava.com/clubs/208705/group_events/3394381358581372894
+URL:https://www.strava.com/clubs/208705/group_events/3394381358581372894
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3405493636671738844@strava.com
+DTSTART;TZID=Europe/London:20251117T183000
+DTEND;TZID=Europe/London:20251117T203000
+DTSTAMP:20251004T103831Z
+SUMMARY:Pre celebration run
+DESCRIPTION:Leader: Sarah Fowkes
+
+Location: Priory Park
+
+This run is aimed 
+ at the latest Take Flight cohort\, any previous TF cohorts\, any supporters
+  and club members. We shall meet at the bandstand in Priory Park and run fo
+ r 5k taking about 45 minutes\, walking/Jeffing up any hills.
+High Viz and h
+ ead/chest torches please.
+The run will end at the Red Lion where we shall h
+ ave chilli and refreshments.
+Please click into both events  if you wish to 
+ have chilli.
+Any questions Sarah 07738827081
+
+View on Strava: https://www.s
+ trava.com/clubs/208705/group_events/3405493636671738844
+LOCATION:Priory Park
+URL:https://www.strava.com/clubs/208705/group_events/3405493636671738844
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3405491541734617052@strava.com
+DTSTART;TZID=Europe/London:20251117T191500
+DTEND;TZID=Europe/London:20251117T211500
+DTSTAMP:20251004T103831Z
+SUMMARY:Not a run\, Take Flight Celebration 
+DESCRIPTION:Leader: Sarah Fowkes
+
+Location: Red Lion
+
+This celebration is a
+ imed at anyone who has done Take Flight or who has supported Take Flight. W
+ e want to celebrate our new cohort and all the previous ones of whom many h
+ ave progressed into seasoned runners. 
+Or you may be new (or not) to the cl
+ ub and would like to meet some other members. 
+The Red Lion has agreed to p
+ ut on a chilli at a cost of £14 per head. 
+If you wish to come just for th
+ e chilli\, please click in here so that I can pass on numbers for food.
+
+I 
+ shall then contact you for payment.
+Any questions Sarah 07738827081
+
+View o
+ n Strava: https://www.strava.com/clubs/208705/group_events/3405491541734617
+ 052
+LOCATION:Red Lion
+URL:https://www.strava.com/clubs/208705/group_events/3405491541734617052
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:2155136@strava.com
+DTSTART;TZID=Europe/London:20251129T090000
+DTEND;TZID=Europe/London:20251129T110000
+DTSTAMP:20251004T103831Z
+SUMMARY:Saturday Expedition
+DESCRIPTION:Leader: Julie Slack
+
+Location: Winchcombe Back Lane Car Park\, 
+ Back Ln\, Cheltenham\, GL54 5PZ\, United Kingdom
+
+Meet at the Car park for 
+ a 09:00am start. A circular route starting in Winchcombe. About 15km with a
+ pproximately 450m elevation. 
+
+This is a lovely Cotswold route with ancient
+  burial ground\, Roman Villa and Norman Castle (I think) along the way. It 
+ has some 'lovely' elevations but we'll tackle these however we feel on the 
+ day. 
+
+There's a lovely coffee shop which Sarah A and I rested out so all s
+ hould be good! 
+
+Train shoes required and bring water and whatever are you 
+ nutrition requiements. 
+Please click out / keep in touch so that our start 
+ is prompt. Thank you. 
+
+LiRF: Julie Slack 07599393367
+
+View on Strava: http
+ s://www.strava.com/clubs/208705/group_events/2155136
+LOCATION:Winchcombe Back Lane Car Park\, Back Ln\, Cheltenham\, GL54 5PZ\, United Kingdom
+URL:https://www.strava.com/clubs/208705/group_events/2155136
+CATEGORIES:Running,Club Event
+END:VEVENT
+END:VCALENDAR
+

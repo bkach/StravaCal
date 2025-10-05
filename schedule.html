@@ -1,0 +1,909 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        :root {
+            --primary-color: #1e293b;
+            --primary-light: #334155;
+            --accent-color: #e91e63;
+            --background-color: #f8fafc;
+            --surface-color: #ffffff;
+            --text-primary: #1e293b;
+            --text-secondary: #64748b;
+            --text-muted: #94a3b8;
+            --border-color: #e2e8f0;
+            --success-color: #15803d;
+            --warning-color: #d97706;
+            --error-color: #dc2626;
+            --info-color: #4338ca;
+            --today-bg: #fef3c7;
+            --today-border: #f59e0b;
+            --link-color: #3b82f6;
+            --link-hover: #2563eb;
+            --accent-hover: #be185d;
+
+            /* Spacing Scale */
+            --spacing-xs: 4px;
+            --spacing-sm: 8px;
+            --spacing-md: 12px;
+            --spacing-lg: 16px;
+            --spacing-xl: 24px;
+            --spacing-2xl: 32px;
+
+            /* Typography Scale */
+            --font-size-xs: 11px;
+            --font-size-sm: 14px;
+            --font-size-base: 16px;
+            --font-size-lg: 18px;
+            --font-size-xl: 20px;
+            --font-size-2xl: 24px;
+
+            /* Line Heights */
+            --line-height-tight: 1.25;
+            --line-height-normal: 1.5;
+            --line-height-relaxed: 1.6;
+
+            /* Font Weights */
+            --font-weight-normal: 400;
+            --font-weight-medium: 500;
+            --font-weight-semibold: 600;
+            --font-weight-bold: 700;
+
+            /* Additional Colors */
+            --white: #ffffff;
+            --gray-50: #f8fafc;
+            --gray-100: #f1f5f9;
+            --border-light: #e2e8f0;
+
+            /* Border Radius */
+            --border-radius-sm: 4px;
+            --border-radius-md: 8px;
+
+            --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            --border-radius: 8px;
+            --border-radius-lg: 12px;
+            --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+            --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: var(--font-family);
+            margin: 0;
+            padding: 20px;
+            background-color: var(--background-color);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: var(--surface-color);
+            border-radius: var(--border-radius-lg);
+            box-shadow: var(--shadow-md);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
+            color: white;
+            text-align: center;
+            padding: 24px;
+        }
+
+        h1 {
+            margin: 0 0 8px 0;
+            font-size: clamp(20px, 4vw, 28px);
+            font-weight: 700;
+            letter-spacing: -0.025em;
+            line-height: 1.2;
+        }
+
+        .last-updated {
+            margin: 0;
+            font-size: 14px;
+            opacity: 0.9;
+            font-weight: 400;
+            color: rgba(255, 255, 255, 0.85);
+        }
+
+        .footer-subtle {
+            border-top: 1px solid var(--border-light);
+            padding: 24px;
+            text-align: center;
+            background-color: var(--background-color);
+        }
+
+        .calendar-download-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 16px;
+            background-color: var(--gray-100);
+            color: var(--text-primary);
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 500;
+            font-size: 14px;
+            transition: all 0.2s ease;
+            margin-bottom: 12px;
+        }
+
+        .calendar-download-link:hover {
+            background-color: var(--border-color);
+            color: var(--text-primary);
+            text-decoration: none;
+        }
+
+        .footer-help-text {
+            font-size: 13px;
+            color: var(--text-muted);
+            line-height: 1.4;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+            font-family: var(--font-family);
+        }
+
+        th {
+            background: var(--accent-color);
+            color: white;
+            padding: 16px 12px;
+            text-align: left;
+            font-weight: 700;
+            font-size: 13px;
+            font-family: var(--font-family);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            border: none;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid var(--border-color);
+            vertical-align: top;
+            font-size: 13px;
+            line-height: 1.5;
+            font-family: var(--font-family);
+        }
+
+        .row-normal {
+            background-color: var(--surface-color);
+            transition: var(--transition);
+        }
+
+        .row-alt {
+            background-color: var(--background-color);
+            transition: var(--transition);
+        }
+
+        .row-today {
+            background-color: var(--today-bg);
+            border-left: 4px solid var(--today-border);
+            font-weight: 500;
+            transition: var(--transition);
+        }
+
+        .clickable-row {
+            cursor: pointer;
+            user-select: none;
+            transition: var(--transition);
+        }
+
+        .clickable-row:hover {
+            background-color: #f1f5f9;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-sm);
+        }
+
+        /* Column Styles */
+        .date-col {
+            width: 12%;
+            font-weight: 600;
+            color: var(--text-primary);
+            font-feature-settings: 'tnum';
+        }
+
+        .time-col {
+            width: 8%;
+            font-family: 'SF Mono', Monaco, 'Cascadia Code', monospace;
+            color: var(--text-primary);
+            font-feature-settings: 'tnum';
+            font-weight: 500;
+        }
+
+        .run-col {
+            width: 30%;
+            font-weight: 500;
+            color: var(--text-primary);
+        }
+
+        .location-col {
+            width: 20%;
+            color: var(--text-primary);
+        }
+
+        .level-col {
+            width: 12%;
+            text-align: center;
+            color: var(--text-primary);
+        }
+
+        .leader-col {
+            width: 15%;
+            color: var(--text-primary);
+            font-weight: 500;
+        }
+
+        /* Level Badges */
+        .level-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: var(--border-radius);
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.025em;
+            font-family: var(--font-family);
+            transition: var(--transition);
+        }
+
+        .level-beginner {
+            background-color: #dcfce7;
+            color: var(--success-color);
+        }
+
+        .level-intermediate {
+            background-color: #fef3c7;
+            color: var(--warning-color);
+        }
+
+        .level-advanced {
+            background-color: #fee2e2;
+            color: var(--error-color);
+        }
+
+        .level-all {
+            background-color: #e0e7ff;
+            color: var(--info-color);
+        }
+
+        .description-row {
+            display: none;
+            background-color: #f8fafc;
+            border-top: 1px solid #e2e8f0;
+        }
+
+        .description-row.expanded {
+            display: table-row;
+        }
+
+        .description-content {
+            padding: var(--spacing-lg) var(--spacing-md);
+            font-size: var(--font-size-sm);
+            line-height: var(--line-height-relaxed);
+            color: var(--text-secondary);
+            border-left: 3px solid var(--border-light);
+            font-family: var(--font-family);
+        }
+
+        .event-detail {
+            margin-bottom: var(--spacing-sm);
+        }
+
+        .event-detail strong {
+            color: var(--primary-color);
+            font-weight: var(--font-weight-semibold);
+            display: inline-block;
+            min-width: 80px;
+            font-family: var(--font-family);
+        }
+
+        .event-url {
+            color: var(--link-color);
+            text-decoration: none;
+            word-break: break-all;
+            font-family: var(--font-family);
+            transition: var(--transition);
+        }
+
+        .event-url:hover {
+            text-decoration: underline;
+            color: var(--link-hover);
+        }
+
+        .location-link {
+            color: var(--link-color);
+            text-decoration: none;
+            font-family: var(--font-family);
+            transition: var(--transition);
+        }
+
+        .location-link:hover {
+            text-decoration: underline;
+            color: var(--link-hover);
+        }
+
+        .event-description-text {
+            margin-top: var(--spacing-lg);
+            padding-top: var(--spacing-lg);
+            border-top: 1px solid var(--border-light);
+            white-space: pre-wrap;
+            font-family: var(--font-family);
+        }
+
+
+        .footer {
+            padding: var(--spacing-lg) var(--spacing-xl);
+            background: var(--gray-50);
+            color: var(--text-muted);
+            text-align: center;
+            font-size: var(--font-size-sm);
+            font-family: var(--font-family);
+        }
+
+        .clickable-hint {
+            font-size: var(--font-size-xs);
+            color: var(--text-muted);
+            font-style: italic;
+            margin-top: var(--spacing-sm);
+            font-family: var(--font-family);
+        }
+
+        /* Mobile Responsive Styles */
+        @media (max-width: 768px) {
+            body {
+                padding: var(--spacing-sm);
+            }
+
+            .container {
+                border-radius: var(--border-radius-md);
+                box-shadow: var(--shadow-sm);
+            }
+
+            h1 {
+                padding: var(--spacing-lg);
+                font-size: var(--font-size-xl);
+            }
+
+            table {
+                display: block;
+            }
+
+            thead, tbody, th, td, tr {
+                display: block;
+            }
+
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+
+            tr {
+                border: 1px solid var(--border-light);
+                margin: var(--spacing-md) 0;
+                border-radius: var(--border-radius-sm);
+                padding: var(--spacing-md);
+                background: var(--white);
+                position: relative;
+                cursor: pointer;
+                box-shadow: var(--shadow-sm);
+            }
+
+            tr.row-alt {
+                background: var(--gray-50);
+            }
+
+            tr.row-today {
+                background: var(--today-bg);
+                border-left: 4px solid var(--today-border);
+                font-weight: var(--font-weight-medium);
+            }
+
+            /* Hide cells we don't need in mobile view */
+            td:nth-child(4), td:nth-child(5), td:nth-child(6) {
+                display: none;
+            }
+
+            td {
+                border: none !important;
+                padding: var(--spacing-xs) 0 !important;
+                margin: 0;
+                font-family: var(--font-family);
+                line-height: var(--line-height-tight);
+            }
+
+            td:before {
+                display: none;
+            }
+
+            /* First line: Date + Time - use full width */
+            .date-col {
+                font-size: var(--font-size-lg);
+                font-weight: var(--font-weight-semibold);
+                color: var(--primary-color);
+                margin-bottom: var(--spacing-sm);
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                width: 100%;
+            }
+
+            .date-col:after {
+                content: attr(data-time);
+                font-weight: var(--font-weight-medium);
+                color: var(--text-secondary);
+                font-size: var(--font-size-base);
+            }
+
+            /* Second line: Run Name + Location - use full width */
+            .time-col {
+                display: none; /* Hidden as it's shown inline with date */
+            }
+
+            .run-col {
+                font-size: var(--font-size-base);
+                font-weight: var(--font-weight-medium);
+                color: var(--text-primary);
+                margin-bottom: var(--spacing-sm);
+                line-height: var(--line-height-normal);
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-start;
+                width: 100%;
+            }
+
+            .run-col:after {
+                content: attr(data-location);
+                font-weight: var(--font-weight-normal);
+                color: var(--text-secondary);
+                font-size: var(--font-size-sm);
+                text-align: right;
+                max-width: 40%;
+                flex-shrink: 0;
+                margin-left: var(--spacing-md);
+            }
+
+            .description-row {
+                margin-top: 0;
+                border-top: 1px solid var(--border-light);
+                padding-top: var(--spacing-sm);
+            }
+
+            .description-content {
+                padding: var(--spacing-sm);
+                font-size: var(--font-size-sm);
+            }
+
+            .footer {
+                padding: var(--spacing-md) var(--spacing-lg);
+                font-size: var(--font-size-sm);
+            }
+
+            .clickable-hint {
+                font-size: var(--font-size-xs);
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: var(--spacing-xs);
+            }
+
+            h1 {
+                font-size: var(--font-size-lg);
+                padding: var(--spacing-md);
+            }
+
+            .date-col {
+                font-size: var(--font-size-sm);
+            }
+
+            .run-col {
+                font-size: var(--font-size-xs);
+            }
+        }
+    </style>
+    <script>
+        function toggleDescription(rowIndex) {
+            const descRow = document.getElementById('desc-' + rowIndex);
+
+            if (descRow.classList.contains('expanded')) {
+                descRow.classList.remove('expanded');
+            } else {
+                descRow.classList.add('expanded');
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Buzzard Runs Schedule</h1>
+            <p class="last-updated">Last updated: Sat, 4 Oct @ 11:38 AM</p>
+        </div>
+
+        <table>
+            <thead>
+                <tr>
+                    <th class="date-col">Date</th>
+                    <th class="time-col">Time</th>
+                    <th class="run-col">Run</th>
+                    <th class="location-col">Start Location</th>
+                    <th class="level-col">Level</th>
+                    <th class="leader-col">Leader</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(0)">
+                    <td class="date-col" data-label="Date" data-time="8:00 AM">Sunday 5th Oct</td>
+                    <td class="time-col" data-label="Time">8:00 AM</td>
+                    <td class="run-col" data-label="Run" data-location="TBC">Malvern to Upton and Around</td>
+                    <td class="location-col" data-label="Location">TBC</td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-intermediate">Intermediate</span></td>
+                    <td class="leader-col" data-label="Leader">Andy Dingley</td>
+                </tr>
+                <tr class="description-row" id="desc-0">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Malvern to Upton and Around</div><div class="event-detail"><strong>Start:</strong> 8:00 AM</div><div class="event-detail"><strong>End:</strong> 10:00 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=(52.0956%2C+-2.3208)" target="_blank" class="location-link">(52.0956, -2.3208)</a></div><div class="event-detail"><strong>Organizer:</strong> Andy Dingley</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/1457866" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/1457866</a></div><div class="event-description-text">A loop from Peachfield Road to Upton and meandering back.  About 3 hours.  Intermediate level - 07801 252100</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(1)">
+                    <td class="date-col" data-label="Date" data-time="6:00 AM">Monday 6th Oct</td>
+                    <td class="time-col" data-label="Time">6:00 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Wyche Cutting">Joust Loop - 5 Miles (8k) With 40 Min...</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Wyche+Cutting" target="_blank" class="location-link">Wyche Cutting</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-1">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Joust Loop - 5 Miles (8k) With 40 Minute Target Time</div><div class="event-detail"><strong>Start:</strong> 6:00 AM</div><div class="event-detail"><strong>End:</strong> 8:00 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Wyche+Cutting" target="_blank" class="location-link">Wyche Cutting</a></div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3408710457127240806" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3408710457127240806</a></div><div class="event-description-text">Head torch early morning trail run . 5 miles / 8k in 40 minutes.<br><br>Loop of the hills from Wyche (route added when on laptop). <br><br>LiRF: Sim Buzzard 0734 108 1992<br><br>Click out if you can't make it. <br></div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(2)">
+                    <td class="date-col" data-label="Date" data-time="6:30 PM">Monday 6th Oct</td>
+                    <td class="time-col" data-label="Time">6:30 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Priory Park">Take Flight #5</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Priory+Park" target="_blank" class="location-link">Priory Park</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-beginner">Beginner</span></td>
+                    <td class="leader-col" data-label="Leader">Sarah Fowkes</td>
+                </tr>
+                <tr class="description-row" id="desc-2">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Take Flight #5</div><div class="event-detail"><strong>Start:</strong> 6:30 PM</div><div class="event-detail"><strong>End:</strong> 8:30 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Priory+Park" target="_blank" class="location-link">Priory Park</a></div><div class="event-detail"><strong>Organizer:</strong> Sarah Fowkes</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/2164834" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/2164834</a></div><div class="event-description-text">Take Flight is our couch to 5k equivalent (C25K).<br>This is for supporters, for Buzzards wanting to redo the programme or if you’re returning to running and want a gentle reintroduction.<br>We shall start with a warmup, then some running/walking and then finish with a cooldown/stretch.<br>We shall stay within the park and so no one will be left behind.<br>We shall meet at the bandstand.<br>Any questions: Sarah (run leader) <br>07738 827081</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(3)">
+                    <td class="date-col" data-label="Date" data-time="5:30 AM">Tuesday 7th Oct</td>
+                    <td class="time-col" data-label="Time">5:30 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Kiln Road">BCB - Simtervals 800m - Your Pace</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Kiln+Road" target="_blank" class="location-link">Kiln Road</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-advanced">Advanced</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-3">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> BCB - Simtervals 800m - Your Pace</div><div class="event-detail"><strong>Start:</strong> 5:30 AM</div><div class="event-detail"><strong>End:</strong> 7:30 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Kiln+Road" target="_blank" class="location-link">Kiln Road</a></div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3408705261860780254" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3408705261860780254</a></div><div class="event-description-text">BCB Intervals. 800m session. Your pace. Max 8 reps (advanced) session. One hour total. <br><br>Head torch and high Viz please.<br><br>LiRF: Simeon Foreman 0734 108 1992<br><br>Click out if you can't make it. Thanks </div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(4)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Tuesday 7th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Victoria Park">Tuesday 10k</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Victoria+Park" target="_blank" class="location-link">Victoria Park</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Julie Slack</td>
+                </tr>
+                <tr class="description-row" id="desc-4">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Tuesday 10k</div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Victoria+Park" target="_blank" class="location-link">Victoria Park</a></div><div class="event-detail"><strong>Organizer:</strong> Julie Slack</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3402005019504481140" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3402005019504481140</a></div><div class="event-description-text"><br>A road run for those who are regularly running upwards of 8k and want to do 10k in 1 1/4 hours. <br><br>Nobody will be left behind and we will walk-run hills as required. <br><br>Hi-Viz and head / chest torches please so that you are seen and safe. <br><br>Please click out if you become unable to take part.<br><br>LiRF: Julie Slack 07599393367</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(5)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Wednesday 8th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Barnards Green Fish Bar">Chip chop chop - 8 Miles In 56 Minutes </td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Barnards+Green+Fish+Bar" target="_blank" class="location-link">Barnards Green Fish Bar</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-5">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Chip chop chop - 8 Miles In 56 Minutes </div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Barnards+Green+Fish+Bar" target="_blank" class="location-link">Barnards Green Fish Bar</a></div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3409128783303891546" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3409128783303891546</a></div><div class="event-description-text">8 mile (14k ISH) run in 56 mins. Relatively flat on lit pavements. High Viz still needed.<br><br>You will be rewarded with a bag of chips to share at the end. Like proper athletes.<br><br>Option to drop off about 10k if you want a shorter effort session.<br><br>LiRF: Sim Foreman 0734 108 1992<br><br>Click out if not coming so can start in time. Thanks</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(6)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Wednesday 8th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Wyche Cutting Bus Stop">Return of the Ramparts</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Wyche+Cutting+Bus+Stop" target="_blank" class="location-link">Wyche Cutting Bus Stop</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Andy Dingley</td>
+                </tr>
+                <tr class="description-row" id="desc-6">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Return of the Ramparts</div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Wyche+Cutting+Bus+Stop" target="_blank" class="location-link">Wyche Cutting Bus Stop</a></div><div class="event-detail"><strong>Organizer:</strong> Andy Dingley</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/1892059" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/1892059</a></div><div class="event-description-text">It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy 07801 252100</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(7)">
+                    <td class="date-col" data-label="Date" data-time="6:30 PM">Thursday 9th Oct</td>
+                    <td class="time-col" data-label="Time">6:30 PM</td>
+                    <td class="run-col" data-label="Run" data-location="TBC">Thursday Hills </td>
+                    <td class="location-col" data-label="Location">TBC</td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Lily Price</td>
+                </tr>
+                <tr class="description-row" id="desc-7">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Thursday Hills </div><div class="event-detail"><strong>Start:</strong> 6:30 PM</div><div class="event-detail"><strong>End:</strong> 8:30 PM</div><div class="event-detail"><strong>Organizer:</strong> Lily Price</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3392553444318075416" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3392553444318075416</a></div><div class="event-description-text">Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins <br>Social run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. <br>30:30 (run/walk) on hills to keep momentum and keep together. <br>trail shoes needed <br>Headtorch needed <br>Route changes weekly<br>Always start at Wyche cutting bus stop <br><br>Lily - 07769264349</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(8)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Thursday 9th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="the bluebell, Guarlford road ">Thirsty Thursday - The Bluebell</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=the+bluebell%2C+Guarlford+road+" target="_blank" class="location-link">the bluebell, Guarlford road </a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Barbara Gawlak</td>
+                </tr>
+                <tr class="description-row" id="desc-8">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Thirsty Thursday - The Bluebell</div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=the+bluebell%2C+Guarlford+road+" target="_blank" class="location-link">the bluebell, Guarlford road </a></div><div class="event-detail"><strong>Organizer:</strong> Barbara Gawlak</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3409230103531099352" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3409230103531099352</a></div><div class="event-description-text">Fully on the roads now with some footpaths potentially. We will pull a classic route out of the locker this week, there will be ups, downs, and anything in between. <br><br>High Viz and lights essential. <br><br>Distance: 10km<br>Pace: 5:10-5:30/km<br><br>Optional debrief at The Blue Bell after. <br><br>Barbara<br>07763745098</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(9)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Thursday 9th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Bluebell Inn">Thirsty Thursday </td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Bluebell+Inn" target="_blank" class="location-link">Bluebell Inn</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Robyn Hall</td>
+                </tr>
+                <tr class="description-row" id="desc-9">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Thirsty Thursday </div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Bluebell+Inn" target="_blank" class="location-link">Bluebell Inn</a></div><div class="event-detail"><strong>Organizer:</strong> Robyn Hall</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3408504997786257426" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3408504997786257426</a></div><div class="event-description-text">5K in approximately 40 minutes. <br><br>There will be street lights for the most part but reflective clothing and or lights advisable. <br><br>No one left behind <br><br>Lirf: Robyn 07930038877</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(10)">
+                    <td class="date-col" data-label="Date" data-time="6:30 AM">Friday 10th Oct</td>
+                    <td class="time-col" data-label="Time">6:30 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Rosebank Gardens">Rise & Run</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Hannah Thompson</td>
+                </tr>
+                <tr class="description-row" id="desc-10">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Rise & Run</div><div class="event-detail"><strong>Start:</strong> 6:30 AM</div><div class="event-detail"><strong>End:</strong> 8:30 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></div><div class="event-detail"><strong>Organizer:</strong> Hannah Thompson</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/2171556" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/2171556</a></div><div class="event-description-text">**Rise & Run**<br><br>Note: Neil covering for Hannah this week.<br><br>Weekly run of approximately 5km on the hills to start your day.<br><br>Pace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.<br>No one left behind.<br><br>Distance: 5km<br><br>Time: ~45 minutes<br><br>Meeting point: The Buzzards in Rosebank Gardens<br><br>Headtorches needed for the start of the run now!<br><br>Please remember to click out if you can no longer make it.<br><br>Neil<br>07899 991635</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(11)">
+                    <td class="date-col" data-label="Date" data-time="9:30 AM">Friday 10th Oct</td>
+                    <td class="time-col" data-label="Time">9:30 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Rose Bank Gardens">5 on Friday</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Rose+Bank+Gardens" target="_blank" class="location-link">Rose Bank Gardens</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Julie Slack</td>
+                </tr>
+                <tr class="description-row" id="desc-11">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> 5 on Friday</div><div class="event-detail"><strong>Start:</strong> 9:30 AM</div><div class="event-detail"><strong>End:</strong> 11:30 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Rose+Bank+Gardens" target="_blank" class="location-link">Rose Bank Gardens</a></div><div class="event-detail"><strong>Organizer:</strong> Julie Slack</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3409092724248116598" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3409092724248116598</a></div><div class="event-description-text">5k ish run on nearby trails. <br>Gentle and chatty with walks up hills as appropriate. <br><br>Route determined as we go along and according to who clicks in. <br><br>Optional post run coffee debrief. <br><br>Please click out if you’re unable to come. <br><br>LiRF: Julie Slack 07599393367</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(12)">
+                    <td class="date-col" data-label="Date" data-time="11:30 AM">Sunday 12th Oct</td>
+                    <td class="time-col" data-label="Time">11:30 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Builth Wells, Builth Wells, Powys, Wales, United Kingdom">HBXC Winter XC: Race #1</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Builth+Wells%2C+Builth+Wells%2C+Powys%2C+Wales%2C+United+Kingdom" target="_blank" class="location-link">Builth Wells, Builth Wells, Powys, Wales, United Kingdom</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Andrew Elwood</td>
+                </tr>
+                <tr class="description-row" id="desc-12">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> HBXC Winter XC: Race #1</div><div class="event-detail"><strong>Start:</strong> 11:30 AM</div><div class="event-detail"><strong>End:</strong> 1:30 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Builth+Wells%2C+Builth+Wells%2C+Powys%2C+Wales%2C+United+Kingdom" target="_blank" class="location-link">Builth Wells, Builth Wells, Powys, Wales, United Kingdom</a></div><div class="event-detail"><strong>Organizer:</strong> Andrew Elwood</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3394379963988822492" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3394379963988822492</a></div><div class="event-description-text">The first race of the Winter Cross Country (XC) series being hosted by Builth. This series consists of 1 race each month from Oct - Feb and will provide some great club competition for runners of all abilities.<br><br>After out success with so many people collecting trophies at the Summer series, it would be great to see as many of you click in to the series as possible.<br><br>More details about the event will be added to this as they get released. For now, get clicked in. </div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(13)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Sunday 12th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Rosebank Gardens">Sunday Night HM (13 Miles in 1 H 45 M)</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-13">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Sunday Night HM (13 Miles in 1 H 45 M)</div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3408701610278707642" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3408701610278707642</a></div><div class="event-description-text">Sunday evening HM in time of 1 h 45m. <br><br>High Viz please with head torch optional.<br><br>LiRF: Sim Buzzard 0734 108 1992<br><br>Please click out if you can't make it.</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(14)">
+                    <td class="date-col" data-label="Date" data-time="6:30 PM">Monday 13th Oct</td>
+                    <td class="time-col" data-label="Time">6:30 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Priory Park">Take Flight #6</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Priory+Park" target="_blank" class="location-link">Priory Park</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-beginner">Beginner</span></td>
+                    <td class="leader-col" data-label="Leader">Sarah Fowkes</td>
+                </tr>
+                <tr class="description-row" id="desc-14">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Take Flight #6</div><div class="event-detail"><strong>Start:</strong> 6:30 PM</div><div class="event-detail"><strong>End:</strong> 8:30 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Priory+Park" target="_blank" class="location-link">Priory Park</a></div><div class="event-detail"><strong>Organizer:</strong> Sarah Fowkes</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/2164839" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/2164839</a></div><div class="event-description-text">Take Flight is our couch to 5k equivalent. This is for supporters, for Buzzards wanting to redo the programme or if you’re returning to running and want a gentle reintroduction.<br>We shall start with a warmup, then some running/walking and then finish with a cooldown/stretch.<br>We shall stay within the park and so no one will be left behind.<br>We shall meet at the bandstand.<br>Any questions: Sarah (run leader) <br>07738 827081</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(15)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Thursday 16th Oct</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Rosebank Gardens">Buzzard Day Pilgrimage </td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-15">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Buzzard Day Pilgrimage </div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3408714500514679632" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3408714500514679632</a></div><div class="event-description-text">To celebrate the club's birthday I am leading a 5k ISH from the Buzzards through town to Buzzard Crescent and back. This has been very social in previous years and hope to repeat that in 2025.<br><br>Head torch advised but high Viz essential. <br><br>Aim to complete in about an hour for those who want to go to Weavers for a drink.<br><br>We will get obligatory photos at Buzzards and Buzzard crescent.<br><br>LiRF: Sim Foreman 0734 108 1992<br><br>Click out if you can't make it. Thanks </div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(16)">
+                    <td class="date-col" data-label="Date" data-time="8:00 PM">Thursday 16th Oct</td>
+                    <td class="time-col" data-label="Time">8:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="TBC">Buzzard Day Social Meet (NOT A RUN)</td>
+                    <td class="location-col" data-label="Location">TBC</td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-16">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Buzzard Day Social Meet (NOT A RUN)</div><div class="event-detail"><strong>Start:</strong> 8:00 PM</div><div class="event-detail"><strong>End:</strong> 10:00 PM</div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3408712155371188446" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3408712155371188446</a></div><div class="event-description-text">The Committee decided to move away from the Great Malvern Hotel for Buzzard Day drinks this year and opting for Weavers instead.<br><br>Putting this as not a run so those unable to join club runs can click in. <br><br>Sim Buzzard <br>Club Chair <br>0734 108 1992</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(17)">
+                    <td class="date-col" data-label="Date" data-time="8:30 AM">Saturday 18th Oct</td>
+                    <td class="time-col" data-label="Time">8:30 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Rosebank Gardens">Common Cross Country Training</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Andrew Kenchington</td>
+                </tr>
+                <tr class="description-row" id="desc-17">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Common Cross Country Training</div><div class="event-detail"><strong>Start:</strong> 8:30 AM</div><div class="event-detail"><strong>End:</strong> 10:30 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Rosebank+Gardens" target="_blank" class="location-link">Rosebank Gardens</a></div><div class="event-detail"><strong>Organizer:</strong> Andrew Kenchington</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3407357493042272132" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3407357493042272132</a></div><div class="event-description-text">Meet under Buzzards. Warm up jog down to Common. Then mix of loops and hill efforts on Comon. All on laps so we keep together at own effort pace and regrouping. Warm downjog to Buzzards by 10am total distance 7 miles max. Off road shoes needed. Andy 07825561694</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(18)">
+                    <td class="date-col" data-label="Date" data-time="9:00 AM">Saturday 18th Oct</td>
+                    <td class="time-col" data-label="Time">9:00 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Worcester Woods Country Park">‘League Event’ Take Flight Gradua...</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Worcester+Woods+Country+Park" target="_blank" class="location-link">Worcester Woods Country Park</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-beginner">Beginner</span></td>
+                    <td class="leader-col" data-label="Leader">Sarah Fowkes</td>
+                </tr>
+                <tr class="description-row" id="desc-18">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> ‘League Event’ Take Flight Graduation Worcester Woods Parkrun </div><div class="event-detail"><strong>Start:</strong> 9:00 AM</div><div class="event-detail"><strong>End:</strong> 11:00 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Worcester+Woods+Country+Park" target="_blank" class="location-link">Worcester Woods Country Park</a></div><div class="event-detail"><strong>Organizer:</strong> Sarah Fowkes</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/2164888" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/2164888</a></div><div class="event-description-text">Please come and support us at Worcester Woods Parkrun, when our Take Flight fledglings will graduate by running the 5k. <br><br>League points will be allocated at a flat rate.<br><br>I am sure there will be cake at the finish too.<br><br>Any questions: Sarah (run leader)<br>07738 827081</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(19)">
+                    <td class="date-col" data-label="Date" data-time="9:00 AM">Sunday 26th Oct</td>
+                    <td class="time-col" data-label="Time">9:00 AM</td>
+                    <td class="run-col" data-label="Run" data-location="TBC">*League event* Stroud half marathon a...</td>
+                    <td class="location-col" data-label="Location">TBC</td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sarah Reeves</td>
+                </tr>
+                <tr class="description-row" id="desc-19">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> *League event* Stroud half marathon and 10k</div><div class="event-detail"><strong>Start:</strong> 9:00 AM</div><div class="event-detail"><strong>End:</strong> 11:00 AM</div><div class="event-detail"><strong>Organizer:</strong> Sarah Reeves</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/1954769" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/1954769</a></div><div class="event-description-text">A new addition to this year’s league, but their website promises 13.1 miles of fun and frolics!<br><br>A lovely progression for anyone running Worcester 10k in September, or if you’re already fit for Worcester half marathon you may as well do this one too.<br><br>More information at Stroudhalf(dot)com<br></div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(20)">
+                    <td class="date-col" data-label="Date" data-time="9:00 AM">Sunday 9th Nov</td>
+                    <td class="time-col" data-label="Time">9:00 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Great Malvern Station">Monopoly Board, London (Grand Day Out...</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Great+Malvern+Station" target="_blank" class="location-link">Great Malvern Station</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-20">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Monopoly Board, London (Grand Day Out) 16 Miles In 5-6 Hours</div><div class="event-detail"><strong>Start:</strong> 9:00 AM</div><div class="event-detail"><strong>End:</strong> 11:00 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Great+Malvern+Station" target="_blank" class="location-link">Great Malvern Station</a></div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/2111840" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/2111840</a></div><div class="event-description-text">Buzzard Grand Day Out to London to run the "Monopoly Board". This is a 16 mile run and we have about 5 -6 hours to do it.<br>Train leaves GMV about 0900 and gets into PAD about 1130. Return train about 1730 back to Malvern about 2000.<br><br>Group travel will be booked if we get more than 10 people. <br><br>Chatty pace to have fun. Multiple run leaders in this so it proves to be a bumper day. <br><br>Hopefully time to get up to the distance bit you could always grab a few "sets" if you want the day out.<br><br>Do not pass Go, do not collect £200...<br><br>Sim Buzzard and Julie Slack<br>0734 108 1992</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(21)">
+                    <td class="date-col" data-label="Date" data-time="7:00 PM">Friday 14th Nov</td>
+                    <td class="time-col" data-label="Time">7:00 PM</td>
+                    <td class="run-col" data-label="Run" data-location="TBC">WBUH Firewalk **Not A Run**</td>
+                    <td class="location-col" data-label="Location">TBC</td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Sim Buzzard</td>
+                </tr>
+                <tr class="description-row" id="desc-21">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> WBUH Firewalk **Not A Run**</div><div class="event-detail"><strong>Start:</strong> 7:00 PM</div><div class="event-detail"><strong>End:</strong> 9:00 PM</div><div class="event-detail"><strong>Location:</strong> TBC</div><div class="event-detail"><strong>Organizer:</strong> Sim Buzzard</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/1985882" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/1985882</a></div><div class="event-description-text">Final "Elements" event from Worcestershire Breast Unit Haven (WBUH) is a firewalk 🔥 <br><br>Venue and timings to be confirmed but another placeholder to show which Buzzards will be doing this. <br><br>You will need to book in with WBUH directly. Links will be shared on our other platforms due to Strava's silly ban on them.<br><br>Feet of fire 🔥 make you faster I am told....</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(22)">
+                    <td class="date-col" data-label="Date" data-time="11:30 AM">Sunday 16th Nov</td>
+                    <td class="time-col" data-label="Time">11:30 AM</td>
+                    <td class="run-col" data-label="Run" data-location="TBC">*League event* HBXC Winter XC: Race #...</td>
+                    <td class="location-col" data-label="Location">TBC</td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Andrew Elwood</td>
+                </tr>
+                <tr class="description-row" id="desc-22">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> *League event* HBXC Winter XC: Race #2 Croft Ambrey </div><div class="event-detail"><strong>Start:</strong> 11:30 AM</div><div class="event-detail"><strong>End:</strong> 1:30 PM</div><div class="event-detail"><strong>Organizer:</strong> Andrew Elwood</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3394381358581372894" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3394381358581372894</a></div><div class="event-description-text">Winter XC Race #2 hosted by Croft Ambrey. The race is approx. 10km (6 miles)  in length on varying terrain (mainly off road).<br><br>This is also the November Buzzard league race with flat rate points for all participants.<br><br>After our success this summer, it would be great to see as many of you clicked in to as many of these as possible, so please get involved. <br><br>More information to follow.</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(23)">
+                    <td class="date-col" data-label="Date" data-time="6:30 PM">Monday 17th Nov</td>
+                    <td class="time-col" data-label="Time">6:30 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Priory Park">Pre celebration run</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Priory+Park" target="_blank" class="location-link">Priory Park</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-beginner">Beginner</span></td>
+                    <td class="leader-col" data-label="Leader">Sarah Fowkes</td>
+                </tr>
+                <tr class="description-row" id="desc-23">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Pre celebration run</div><div class="event-detail"><strong>Start:</strong> 6:30 PM</div><div class="event-detail"><strong>End:</strong> 8:30 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Priory+Park" target="_blank" class="location-link">Priory Park</a></div><div class="event-detail"><strong>Organizer:</strong> Sarah Fowkes</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3405493636671738844" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3405493636671738844</a></div><div class="event-description-text">This run is aimed at the latest Take Flight cohort, any previous TF cohorts, any supporters and club members. We shall meet at the bandstand in Priory Park and run for 5k taking about 45 minutes, walking/Jeffing up any hills.<br>High Viz and head/chest torches please.<br>The run will end at the Red Lion where we shall have chilli and refreshments.<br>Please click into both events  if you wish to have chilli.<br>Any questions Sarah 07738827081</div></div>
+                    </td>
+                </tr>
+                <tr class="row-normal clickable-row" onclick="toggleDescription(24)">
+                    <td class="date-col" data-label="Date" data-time="7:15 PM">Monday 17th Nov</td>
+                    <td class="time-col" data-label="Time">7:15 PM</td>
+                    <td class="run-col" data-label="Run" data-location="Red Lion">Not a run, Take Flight Celebration </td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Red+Lion" target="_blank" class="location-link">Red Lion</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-beginner">Beginner</span></td>
+                    <td class="leader-col" data-label="Leader">Sarah Fowkes</td>
+                </tr>
+                <tr class="description-row" id="desc-24">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Not a run, Take Flight Celebration </div><div class="event-detail"><strong>Start:</strong> 7:15 PM</div><div class="event-detail"><strong>End:</strong> 9:15 PM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Red+Lion" target="_blank" class="location-link">Red Lion</a></div><div class="event-detail"><strong>Organizer:</strong> Sarah Fowkes</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/3405491541734617052" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/3405491541734617052</a></div><div class="event-description-text">This celebration is aimed at anyone who has done Take Flight or who has supported Take Flight. We want to celebrate our new cohort and all the previous ones of whom many have progressed into seasoned runners. <br>Or you may be new (or not) to the club and would like to meet some other members. <br>The Red Lion has agreed to put on a chilli at a cost of £14 per head. <br>If you wish to come just for the chilli, please click in here so that I can pass on numbers for food.<br><br>I shall then contact you for payment.<br>Any questions Sarah 07738827081</div></div>
+                    </td>
+                </tr>
+                <tr class="row-alt clickable-row" onclick="toggleDescription(25)">
+                    <td class="date-col" data-label="Date" data-time="9:00 AM">Saturday 29th Nov</td>
+                    <td class="time-col" data-label="Time">9:00 AM</td>
+                    <td class="run-col" data-label="Run" data-location="Winchcombe Back Lane Car Park, Back Ln, Cheltenham, GL54 5PZ, United Kingdom">Saturday Expedition</td>
+                    <td class="location-col" data-label="Location"><a href="https://www.google.com/maps/search/?api=1&query=Winchcombe+Back+Lane+Car+Park%2C+Back+Ln%2C+Cheltenham%2C+GL54+5PZ%2C+United+Kingdom" target="_blank" class="location-link">Winchcombe Back Lane Car Park, Back Ln, Cheltenham, GL54 5PZ, United Kingdom</a></td>
+                    <td class="level-col" data-label="Level"><span class="level-badge level-all">All Levels</span></td>
+                    <td class="leader-col" data-label="Leader">Julie Slack</td>
+                </tr>
+                <tr class="description-row" id="desc-25">
+                    <td colspan="6">
+                        <div class="description-content"><div class="event-detail"><strong>Title:</strong> Saturday Expedition</div><div class="event-detail"><strong>Start:</strong> 9:00 AM</div><div class="event-detail"><strong>End:</strong> 11:00 AM</div><div class="event-detail"><strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=Winchcombe+Back+Lane+Car+Park%2C+Back+Ln%2C+Cheltenham%2C+GL54+5PZ%2C+United+Kingdom" target="_blank" class="location-link">Winchcombe Back Lane Car Park, Back Ln, Cheltenham, GL54 5PZ, United Kingdom</a></div><div class="event-detail"><strong>Organizer:</strong> Julie Slack</div><div class="event-detail"><strong>Strava:</strong> <a href="https://www.strava.com/clubs/208705/group_events/2155136" target="_blank" class="event-url">https://www.strava.com/clubs/208705/group_events/2155136</a></div><div class="event-description-text">Meet at the Car park for a 09:00am start. A circular route starting in Winchcombe. About 15km with approximately 450m elevation. <br><br>This is a lovely Cotswold route with ancient burial ground, Roman Villa and Norman Castle (I think) along the way. It has some 'lovely' elevations but we'll tackle these however we feel on the day. <br><br>There's a lovely coffee shop which Sarah A and I rested out so all should be good! <br><br>Train shoes required and bring water and whatever are you nutrition requiements. <br>Please click out / keep in touch so that our start is prompt. Thank you. <br><br>LiRF: Julie Slack 07599393367</div></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="footer-subtle">
+            <a href="https://bkach.github.io/StravaCal/output/schedules/schedule.ics" target="_blank" class="calendar-download-link">
+                📅 Add to Calendar
+            </a>
+            <div class="footer-help-text">
+                Download the ICS file or copy the link to import into Google, Apple, or Outlook calendars
+            </div>
+        </div>
+    </div>
+</body>
+</html>

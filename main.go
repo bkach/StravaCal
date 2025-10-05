@@ -197,7 +197,7 @@ func generateICSOnly() {
 	})
 
 	// Ensure output directory exists
-	if err := os.MkdirAll("output/schedules", 0755); err != nil {
+	if err := os.MkdirAll("output", 0755); err != nil {
 		log.Fatalf("Failed to create output directory: %v", err)
 	}
 

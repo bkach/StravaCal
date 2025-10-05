@@ -2,31 +2,59 @@
 
 Automatically syncs Strava club events to Google Calendar. Runs every 15 minutes via GitHub Actions.
 
-## 📅 View the Calendar
+## 🏃 Buzzard Running Club Calendar
 
-**Google Calendar (Recommended)**: [View Calendar](https://calendar.google.com/calendar/u/0/embed?src=b46aef20694569443acfef51d9e19e413b17addeb0190f9cefd8dad63ec30e77@group.calendar.google.com&ctz=Europe/London)
-- Bookmark this link for easy access
-- No subscription needed, just view events directly
+Stay up to date with all upcoming Malvern Buzzard runs.
 
-**Subscribe to Calendar**:
-- Google Calendar: [Add to your Google Calendar](https://calendar.google.com/calendar/u/0?cid=YjQ2YWVmMjA2OTQ1Njk0NDNhY2ZlZjUxZDllMTllNDEzYjE3YWRkZWIwMTkwZjljZWZkOGRhZDYzZWMzMGU3N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-- Other calendar apps: [Download ICS file](https://bkach.github.io/StravaCal/calendar.ics) and import into your calendar app
+### 📅 View the Calendar (Recommended)
 
-## Setup
+**Google Calendar Embed:**  
+👉 [Open Buzzard Run Schedule](https://calendar.google.com/calendar/u/0/embed?src=b46aef20694569443acfef51d9e19e413b17addeb0190f9cefd8dad63ec30e77@group.calendar.google.com&ctz=Europe/London)
 
-Set environment variables:
+- Bookmark this link for quick access  
+- No subscription or login required — view events directly in your browser  
+
+---
+
+### 🔔 Subscribe to the Calendar
+
+**Add to Your Google Calendar:**  
+[+ Add Buzzard Runs to Google Calendar](https://calendar.google.com/calendar/u/0?cid=YjQ2YWVmMjA2OTQ1Njk0NDNhY2ZlZjUxZDllMTllNDEzYjE3YWRkZWIwMTkwZjljZWZkOGRhZDYzZWMzMGU3N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+**Use Another Calendar App:**  
+Download and import the `.ics` feed:  
+[📥 Download ICS File](https://bkach.github.io/StravaCal/calendar.ics)
+
+---
+
+## ⚙️ Setup – Use This for Your Own Club
+
+Want to generate a live calendar like this for your own Strava club? Do so by cloning this repo and following these (admittedly very sparse) instructions.
+
+### Required Environment Variables
+
+These are always required:
 ```bash
-export STRAVA_CLIENT_ID="your_client_id"
-export STRAVA_CLUB_ID="your_club_id"
-export CLIENT_SECRET="your_client_secret"
-export REFRESH_TOKEN="your_refresh_token"
-export GOOGLE_CALENDAR_ID="your_calendar_id"
+export STRAVA_CLIENT_ID="your_strava_client_id"
+export STRAVA_CLUB_ID="your_strava_club_id"
+export CLIENT_SECRET="your_strava_client_secret"
+export REFRESH_TOKEN="your_strava_refresh_token"
 ```
 
-For Google Calendar sync, also provide:
+### Optional: Google Calendar Sync
+
+To sync to Google Calendar (optional for ICS-only generation), add:
 ```bash
-export GOOGLE_SERVICE_ACCOUNT="your_service_account_json"
-# OR place service-account.json in the project root
+export GOOGLE_CALENDAR_ID="your_google_calendar_id"
+```
+
+And provide service account credentials (choose one method):
+```bash
+# Method 1: Environment variable (raw JSON string)
+export GOOGLE_SERVICE_ACCOUNT='{"type":"service_account","project_id":"...",...}'
+
+# Method 2: File (recommended for local development)
+# Place service-account.json in the project root
 ```
 
 ## Commands
@@ -40,15 +68,17 @@ go run . test  # Test with sample data from output/validation/events_raw.json
 
 ## GitHub Actions
 
-Runs every 15 minutes to sync events. Set up:
-1. Enable GitHub Pages (Settings → Pages → Source: GitHub Actions) - Only needed for ICS file hosting
-2. Add secrets:
-   - `STRAVA_CLIENT_ID`
-   - `STRAVA_CLUB_ID`
-   - `CLIENT_SECRET`
-   - `REFRESH_TOKEN`
-   - `GOOGLE_CALENDAR_ID`
-   - `SERVICE_ACCOUNT_B64` (base64 encoded service account JSON)
+Runs every 15 minutes to sync events to Google Calendar and generate ICS file. See [`.github/workflows/update-calendar.yml`](.github/workflows/update-calendar.yml) for the workflow configuration.
+
+Set up:
+1. Enable GitHub Pages (Settings → Pages → Source: GitHub Actions) - Only needed if you want to host the ICS file publicly
+2. Add repository secrets (Settings → Secrets and variables → Actions):
+   - `STRAVA_CLIENT_ID` - Your Strava OAuth client ID
+   - `STRAVA_CLUB_ID` - Your Strava club ID
+   - `CLIENT_SECRET` - Your Strava OAuth client secret
+   - `REFRESH_TOKEN` - Your Strava OAuth refresh token
+   - `GOOGLE_CALENDAR_ID` - Target Google Calendar ID
+   - `SERVICE_ACCOUNT_B64` - Base64 encoded Google service account JSON (see workflow for how it's decoded)
 
 ## Project Structure
 

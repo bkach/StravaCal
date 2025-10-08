@@ -200,6 +200,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 1892059,
+    "title": "Return of the Ramparts",
+    "start": "2025-10-15T18:00:00Z",
+    "end": "2025-10-15T19:00:00Z",
+    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
+    "location": "Wyche Cutting Bus Stop",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3402005019504481140,
     "title": "Tuesday 10k",
     "start": "2025-10-14T18:00:00Z",
@@ -308,25 +318,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
     "location": "",
     "organizer": "Lily Price"
-  },
-  {
-    "id": 3409128783303891546,
-    "title": "Chip chop chop - 8 Miles In 56 Minutes ",
-    "start": "2025-10-08T18:00:00Z",
-    "end": "2025-10-08T19:00:00Z",
-    "description": "8 mile (14k ISH) run in 56 mins. Relatively flat on lit pavements. High Viz still needed.\n\nYou will be rewarded with a bag of chips to share at the end. Like proper athletes.\n\nOption to drop off about 10k if you want a shorter effort session.\n\nLiRF: Sim Foreman [Phone Number Redacted]\n\nClick out if not coming so can start in time. Thanks",
-    "url": "https://www.strava.com/clubs/208705/group_events/3409128783303891546",
-    "location": "Barnards Green Fish Bar",
-    "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 1892059,
-    "title": "Return of the Ramparts",
-    "start": "2025-10-08T18:00:00Z",
-    "end": "2025-10-08T19:00:00Z",
-    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
-    "location": "Wyche Cutting Bus Stop",
-    "organizer": "Andy Dingley"
   }
 ]

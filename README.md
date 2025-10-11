@@ -1,64 +1,91 @@
-# StravaCal
+# 🏃 Malvern Buzzards Running Club Calendar
 
-Automatically syncs Strava club events to Google Calendar. Runs every 15 minutes via GitHub Actions.
-
-## 🏃 Buzzard Running Club Calendar
-
-Stay up to date with all upcoming Malvern Buzzard runs.
-
-### 📅 View the Calendar (Recommended)
-
-**Google Calendar Embed:**  
-👉 [Open Buzzard Run Schedule](https://calendar.google.com/calendar/u/0/embed?src=b46aef20694569443acfef51d9e19e413b17addeb0190f9cefd8dad63ec30e77@group.calendar.google.com&ctz=Europe/London)
-
-- Bookmark this link for quick access  
-- No subscription or login required — view events directly in your browser  
+Never miss a group run! All club events from Strava, automatically synced to your calendar.
 
 ---
 
-### 🔔 Subscribe to the Calendar
+## 📅 How to Access the Calendar
 
-**Add to Your Google Calendar:**
-[+ Add Buzzard Runs to Google Calendar](https://calendar.google.com/calendar/u/0?cid=YjQ2YWVmMjA2OTQ1Njk0NDNhY2ZlZjUxZDllMTllNDEzYjE3YWRkZWIwMTkwZjljZWZkOGRhZDYzZWMzMGU3N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+Choose the option that works best for you:
 
-### 🗓️ Use Another Calendar App
+### Option 1: View Online (Easiest)
 
-If you're **not using Google Calendar**, you can still stay up to date by subscribing to the live `.ics` feed.
+Just want to check what's coming up? **No setup required.**
 
-#### 🍎 Apple Calendar (Mac / iPhone / iPad)
-1. Copy this link:
-   ```
-   https://bkach.github.io/StravaCal/calendar.ics
-   ```
+👉 **[Open the Buzzard Run Schedule](https://calendar.google.com/calendar/u/0/embed?src=b46aef20694569443acfef51d9e19e413b17addeb0190f9cefd8dad63ec30e77@group.calendar.google.com&ctz=Europe/London)**
 
-2. Open the **Calendar app**
-3. In the menu bar, go to **File → New Calendar Subscription...**
-4. Paste the link above and click **Subscribe**
-5. (Optional) Change the name, color, and refresh frequency (e.g., *every hour*)
+Bookmark this page for quick access anytime.
 
-This will keep your Buzzard Runs calendar automatically updated.
+---
 
-#### 💼 Outlook (Desktop or Web)
-- Go to your Calendar view
-- Select **Add Calendar → Subscribe from Web**
-- Paste the same URL:
-  ```
-  https://bkach.github.io/StravaCal/calendar.ics
-  ```
-- Confirm to add and sync automatically
+### Option 2: Add to Google Calendar
 
-#### 🖥️ Other Calendar Apps
-Most calendar apps (like Thunderbird, Zoho, or Fastmail) have an option to **"Subscribe to calendar by URL."**
-Use the same `.ics` link:
+Get all club runs in your personal Google Calendar. **Updates automatically every 15 minutes.**
+
+👉 **[Click here to add to your Google Calendar](https://calendar.google.com/calendar/u/0?cid=YjQ2YWVmMjA2OTQ1Njk0NDNhY2ZlZjUxZDllMTllNDEzYjE3YWRkZWIwMTkwZjljZWZkOGRhZDYzZWMzMGU3N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**
+
+That's it! Events will appear alongside your other calendar entries.
+
+---
+
+### Option 3: Subscribe in Apple Calendar, Outlook, or Other Apps
+
+Using a different calendar app? You can subscribe to a live feed that stays up to date automatically.
+
+**Important:** You need to **subscribe** (not import) for automatic updates.
+
+#### 📋 Step 1: Copy this link
+
 ```
 https://bkach.github.io/StravaCal/calendar.ics
 ```
 
+#### 🍎 Step 2 (Apple Calendar): Subscribe to the feed
+
+**On Mac:**
+1. Open **Calendar**
+2. In the menu bar: **File → New Calendar Subscription**
+3. Paste the link and click **Subscribe**
+4. (Optional) Set refresh to *Every hour* for faster updates
+
+**On iPhone/iPad:**
+1. Open **Settings → Calendar → Accounts → Add Account**
+2. Tap **Other → Add Subscribed Calendar**
+3. Paste the link and tap **Next**, then **Save**
+
+#### 💼 Step 2 (Outlook): Subscribe to the feed
+
+1. Open Outlook Calendar
+2. Click **Add Calendar → Subscribe from web**
+3. Paste the link and confirm
+
+#### 🖥️ Step 2 (Other apps): Subscribe to the feed
+
+Most calendar apps (Thunderbird, Zoho, Fastmail, etc.) have a **"Subscribe to calendar"** or **"Add calendar by URL"** option. Paste the link above when prompted.
+
 ---
 
-🪄 **Tip:** If you *import* the file manually (instead of subscribing), it will **not update automatically** when new runs are added. Always use the subscription method if possible.
+⚠️ **Don't manually import the file** — if you download and import the `.ics` file, it won't update when new runs are added. Always use the subscription method.
 
 ---
+
+## 🤔 Questions?
+
+**How often does it update?**
+Every 15 minutes. New runs on Strava appear in the calendar within 15 minutes.
+
+**What information is included?**
+Run title, time, location, organizer, and a link to the event on Strava.
+
+**Will I get notifications?**
+That depends on your calendar settings. You can set up reminders in your calendar app just like any other event.
+
+---
+---
+
+# 🛠️ For Developers: Project Documentation
+
+This is a Go application that automatically syncs Strava club events to Google Calendar and generates `.ics` calendar files. It runs every 15 minutes via GitHub Actions.
 
 ## ⚙️ Setup – Use This for Your Own Club
 

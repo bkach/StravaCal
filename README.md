@@ -18,12 +18,45 @@ Stay up to date with all upcoming Malvern Buzzard runs.
 
 ### 🔔 Subscribe to the Calendar
 
-**Add to Your Google Calendar:**  
+**Add to Your Google Calendar:**
 [+ Add Buzzard Runs to Google Calendar](https://calendar.google.com/calendar/u/0?cid=YjQ2YWVmMjA2OTQ1Njk0NDNhY2ZlZjUxZDllMTllNDEzYjE3YWRkZWIwMTkwZjljZWZkOGRhZDYzZWMzMGU3N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
-**Use Another Calendar App:**  
-Download and import the `.ics` feed:  
-[📥 Download ICS File](https://bkach.github.io/StravaCal/calendar.ics)
+### 🗓️ Use Another Calendar App
+
+If you're **not using Google Calendar**, you can still stay up to date by subscribing to the live `.ics` feed.
+
+#### 🍎 Apple Calendar (Mac / iPhone / iPad)
+1. Copy this link:
+   ```
+   https://bkach.github.io/StravaCal/calendar.ics
+   ```
+
+2. Open the **Calendar app**
+3. In the menu bar, go to **File → New Calendar Subscription...**
+4. Paste the link above and click **Subscribe**
+5. (Optional) Change the name, color, and refresh frequency (e.g., *every hour*)
+
+This will keep your Buzzard Runs calendar automatically updated.
+
+#### 💼 Outlook (Desktop or Web)
+- Go to your Calendar view
+- Select **Add Calendar → Subscribe from Web**
+- Paste the same URL:
+  ```
+  https://bkach.github.io/StravaCal/calendar.ics
+  ```
+- Confirm to add and sync automatically
+
+#### 🖥️ Other Calendar Apps
+Most calendar apps (like Thunderbird, Zoho, or Fastmail) have an option to **"Subscribe to calendar by URL."**
+Use the same `.ics` link:
+```
+https://bkach.github.io/StravaCal/calendar.ics
+```
+
+---
+
+🪄 **Tip:** If you *import* the file manually (instead of subscribing), it will **not update automatically** when new runs are added. Always use the subscription method if possible.
 
 ---
 

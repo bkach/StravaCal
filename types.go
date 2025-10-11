@@ -30,17 +30,17 @@ type Event struct {
 // - No end_date_local, must be calculated
 // - Rich nested objects for organizer, route, etc.
 type StravaEvent struct {
-	ID                  int64  `json:"id"`
-	Title               string `json:"title"`
-	Description         string `json:"description"`
-	ClubID              int64  `json:"club_id"`
-	OrganizingAthlete   struct {
+	ID                int64  `json:"id"`
+	Title             string `json:"title"`
+	Description       string `json:"description"`
+	ClubID            int64  `json:"club_id"`
+	OrganizingAthlete struct {
 		ID        int64  `json:"id"`
 		FirstName string `json:"firstname"`
 		LastName  string `json:"lastname"`
 	} `json:"organizing_athlete"`
-	ActivityType        string    `json:"activity_type"`        // e.g., "Run"
-	RouteID             *int64    `json:"route_id"`             // May be null
+	ActivityType        string    `json:"activity_type"` // e.g., "Run"
+	RouteID             *int64    `json:"route_id"`      // May be null
 	WomenOnly           bool      `json:"women_only"`
 	Private             bool      `json:"private"`              // Always true for club events
 	SkillLevels         *int      `json:"skill_levels"`         // 1=Beginner, 2=Intermediate, 4=Advanced

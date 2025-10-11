@@ -17,6 +17,30 @@ const (
 	stravaTokenURL = "https://www.strava.com/oauth/token"
 )
 
+// Pre-compiled regex patterns for phone number redaction (for performance)
+var (
+	phoneRedactionPatterns = []*regexp.Regexp{
+		// UK landlines with 4-digit area codes (0xxx xxx xxxx) - MUST come before mobile
+		regexp.MustCompile(`\b0[1-9]\d{2}[\s\-]*\d{3}[\s\-]*\d{4}\b`),
+		// UK mobile numbers starting with 07
+		regexp.MustCompile(`\b07\d{3}[\s\-]*\d{3}[\s\-]*\d{3}\b`),
+		// London numbers (020) - 3-digit area code with 4+4 digits
+		regexp.MustCompile(`\b020[\s\-]*\d{4}[\s\-]*\d{4}\b`),
+		// UK landlines with 3-digit area codes (0xx xxxx xxxx)
+		regexp.MustCompile(`\b0[1-9]\d{2}[\s\-]*\d{4}[\s\-]*\d{4}\b`),
+		// UK landlines - more flexible (catch remaining patterns)
+		regexp.MustCompile(`\b0[1-3]\d{2,3}[\s\-]*\d{3,4}[\s\-]*\d{3,4}\b`),
+		// International format +44
+		regexp.MustCompile(`\+44\s*(?:\(0\))?\s*[1-9]\d{1,3}[\s\-]*\d{3,4}[\s\-]*\d{3,4}\b`),
+		// Bracketed area codes like (020) xxxx xxxx
+		regexp.MustCompile(`\([0-9]{3,4}\)[\s\-]*\d{3,4}[\s\-]*\d{4}\b`),
+		// Continuous digits starting with 0 (10-11 digits) - catch-all
+		regexp.MustCompile(`\b0\d{9,10}\b`),
+	}
+	oldRedactionPattern = regexp.MustCompile(`<Phone Number Redacted>`)
+	newRedactionPattern = regexp.MustCompile(`\[Phone Number Redacted\]`)
+)
+
 // getClubID returns the club ID from environment variable
 func getClubID() (string, error) {
 	clubID := os.Getenv("STRAVA_CLUB_ID")
@@ -157,47 +181,21 @@ func fetchClubEvents(tokens *TokenStore) ([]StravaEvent, error) {
 // redactPhoneNumbers removes phone numbers from text and replaces them with "[Phone Number Redacted]".
 // It handles UK mobile, landline, and international formats with optional punctuation, brackets, and spacing.
 // Examples matched:
-//  - 07801 252100
-//  - 07341 081992
-//  - 07599393367
-//  - +44 7801 252100
-//  - +44 (0)7801-252-100
-//  - (020) 7946 0018
-//  - 0207-946-0018
+//   - 07801 252100
+//   - 07341 081992
+//   - 07599393367
+//   - +44 7801 252100
+//   - +44 (0)7801-252-100
+//   - (020) 7946 0018
+//   - 0207-946-0018
 func redactPhoneNumbers(text string) string {
 	// First, clean up any existing redactions (both old and new formats)
-	text = regexp.MustCompile(`<Phone Number Redacted>`).ReplaceAllString(text, "[Phone Number Redacted]")
-	text = regexp.MustCompile(`\[Phone Number Redacted\]`).ReplaceAllString(text, "[Phone Number Redacted]")
+	text = oldRedactionPattern.ReplaceAllString(text, "[Phone Number Redacted]")
+	text = newRedactionPattern.ReplaceAllString(text, "[Phone Number Redacted]")
 
-	// Define comprehensive patterns for UK phone numbers
-	phonePatterns := []*regexp.Regexp{
-		// UK landlines with 4-digit area codes (0xxx xxx xxxx) - MUST come before mobile
-		regexp.MustCompile(`\b0[1-9]\d{2}[\s\-]*\d{3}[\s\-]*\d{4}\b`),
-
-		// UK mobile numbers starting with 07
-		regexp.MustCompile(`\b07\d{3}[\s\-]*\d{3}[\s\-]*\d{3}\b`),
-
-		// London numbers (020) - 3-digit area code with 4+4 digits
-		regexp.MustCompile(`\b020[\s\-]*\d{4}[\s\-]*\d{4}\b`),
-
-		// UK landlines with 3-digit area codes (0xx xxxx xxxx)
-		regexp.MustCompile(`\b0[1-9]\d{2}[\s\-]*\d{4}[\s\-]*\d{4}\b`),
-
-		// UK landlines - more flexible (catch remaining patterns)
-		regexp.MustCompile(`\b0[1-3]\d{2,3}[\s\-]*\d{3,4}[\s\-]*\d{3,4}\b`),
-
-		// International format +44
-		regexp.MustCompile(`\+44\s*(?:\(0\))?\s*[1-9]\d{1,3}[\s\-]*\d{3,4}[\s\-]*\d{3,4}\b`),
-
-		// Bracketed area codes like (020) xxxx xxxx
-		regexp.MustCompile(`\([0-9]{3,4}\)[\s\-]*\d{3,4}[\s\-]*\d{4}\b`),
-
-		// Continuous digits starting with 0 (10-11 digits) - catch-all
-		regexp.MustCompile(`\b0\d{9,10}\b`),
-	}
-
+	// Apply all phone number patterns using pre-compiled regexes
 	result := text
-	for _, pattern := range phonePatterns {
+	for _, pattern := range phoneRedactionPatterns {
 		result = pattern.ReplaceAllString(result, "[Phone Number Redacted]")
 	}
 

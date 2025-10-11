@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"regexp"
 	"strings"
 	"time"
 )
@@ -106,43 +107,65 @@ func generateICS(events []Event) string {
 	return icsContent.String()
 }
 
-// escapeICSText escapes special characters for ICS format
+// stripHTML removes HTML tags from text for Apple Calendar compatibility
+func stripHTML(input string) string {
+	// Remove HTML tags
+	re := regexp.MustCompile(`<[^>]*>`)
+	text := re.ReplaceAllString(input, "")
+
+	// Decode common HTML entities
+	text = strings.ReplaceAll(text, "&nbsp;", " ")
+	text = strings.ReplaceAll(text, "&amp;", "&")
+	text = strings.ReplaceAll(text, "&lt;", "<")
+	text = strings.ReplaceAll(text, "&gt;", ">")
+	text = strings.ReplaceAll(text, "&quot;", "\"")
+	text = strings.ReplaceAll(text, "&#39;", "'")
+	text = strings.ReplaceAll(text, "&apos;", "'")
+
+	return text
+}
+
+// escapeICSText escapes special characters per RFC 5545 for Apple Calendar compatibility
 func escapeICSText(s string) string {
-	s = strings.ReplaceAll(s, "\\", "\\\\")
-	s = strings.ReplaceAll(s, ";", "\\;")
-	s = strings.ReplaceAll(s, ",", "\\,")
-	// For Google Calendar subscription compatibility, keep real newlines instead of escaping them
+	// Must escape in this order to avoid double-escaping
+	s = strings.ReplaceAll(s, "\\", "\\\\")  // Backslash must be first
+	s = strings.ReplaceAll(s, ";", "\\;")    // Semicolon
+	s = strings.ReplaceAll(s, ",", "\\,")    // Comma
+	s = strings.ReplaceAll(s, "\r\n", "\\n") // CRLF to literal \n
+	s = strings.ReplaceAll(s, "\n", "\\n")   // LF to literal \n
+	s = strings.ReplaceAll(s, "\r", "\\n")   // CR to literal \n
 	return s
 }
 
-// foldLine wraps long lines according to ICS specification (max 75 characters per line)
+// foldLine wraps long lines per RFC 5545 (max 75 octets per line)
+// Apple Calendar strictly requires this for proper display
 func foldLine(text string) string {
 	const maxLen = 75
 
-	// Split by actual newlines first, then fold each line individually
-	lines := strings.Split(text, "\n")
-	var result strings.Builder
-
-	for i, line := range lines {
-		if i > 0 {
-			result.WriteString("\r\n") // Real newline between logical lines
-		}
-
-		// Fold long lines with continuation
-		for len(line) > maxLen {
-			result.WriteString(line[:maxLen])
-			result.WriteString("\r\n ") // Fold continuation with space
-			line = line[maxLen:]
-		}
-		result.WriteString(line)
+	if len(text) <= maxLen {
+		return text
 	}
+
+	var result strings.Builder
+	for len(text) > maxLen {
+		result.WriteString(text[:maxLen])
+		result.WriteString("\r\n ") // Continuation: CRLF + space
+		text = text[maxLen:]
+	}
+	result.WriteString(text)
 
 	return result.String()
 }
 
-// formatICSProperty formats a property with proper escaping and line folding
+// formatICSProperty formats a property with proper escaping and line folding for Apple Calendar
 func formatICSProperty(property, value string) string {
-	escaped := escapeICSText(value)
+	// Strip HTML for Apple Calendar compatibility
+	cleaned := stripHTML(value)
+	// Escape special characters per RFC 5545
+	escaped := escapeICSText(cleaned)
+	// Combine property name and value
 	line := property + ":" + escaped
-	return foldLine(line) + "\r\n"
+	// Fold long lines (max 75 octets)
+	folded := foldLine(line)
+	return folded + "\r\n"
 }

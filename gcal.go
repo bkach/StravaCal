@@ -97,7 +97,6 @@ func syncStravaEvents(events []Event, srv *calendar.Service, calendarID string) 
 			n, err := fmt.Sscanf(gcalEvent.ICalUID, "%d@strava.com", &stravaID)
 			if err != nil || n != 1 || stravaID == 0 {
 				// Not a Strava event or failed to parse, skip
-				log.Printf("[DEBUG] Skipping non-Strava event: %s (UID: %s)", gcalEvent.Summary, gcalEvent.ICalUID)
 				continue
 			}
 		} else {
@@ -169,18 +168,13 @@ func syncStravaEvents(events []Event, srv *calendar.Service, calendarID string) 
 	}
 
 	// Create new events that don't exist in Google Calendar
+	// Use Import API which handles both create and update based on iCalUID
 	for _, stravaEvent := range events {
 		if !processedStravaIDs[stravaEvent.ID] {
-			// This is a new event, create it
 			newEvent := createGoogleCalendarEvent(stravaEvent, syncTime, london)
-			_, err := srv.Events.Insert(calendarID, newEvent).Context(ctx).Do()
+			_, err := srv.Events.Import(calendarID, newEvent).Context(ctx).Do()
 			if err != nil {
-				// Check if it's a duplicate error (409)
-				if strings.Contains(err.Error(), "409") || strings.Contains(err.Error(), "duplicate") {
-					log.Printf("[SYNC] Event %d already exists (skipped duplicate): %s", stravaEvent.ID, stravaEvent.Title)
-				} else {
-					log.Printf("[ERROR] Failed to create event %d: %v", stravaEvent.ID, err)
-				}
+				log.Printf("[ERROR] Failed to import event %d: %v", stravaEvent.ID, err)
 			} else {
 				startLocal := stravaEvent.Start.In(london)
 				log.Printf("[SYNC] Created: %s (%s)", stravaEvent.Title, startLocal.Format("Mon 2 Jan"))

@@ -110,20 +110,9 @@ func main() {
 			log.Fatalf("Failed to authenticate with Google Calendar: %v", err)
 		}
 
-		// Filter events for next 60 days (same as ICS generation)
-		now := time.Now()
-		sixtyDaysFromNow := now.AddDate(0, 0, 60)
-
-		var eventsToSync []Event
-		for _, event := range finalEvents {
-			if event.Start.After(now) && event.Start.Before(sixtyDaysFromNow) {
-				eventsToSync = append(eventsToSync, event)
-			}
-		}
-
-		// Sync events with Google Calendar
-		log.Printf("Syncing %d events with Google Calendar...", len(eventsToSync))
-		if err := syncStravaEvents(eventsToSync, calendarService, calendarID); err != nil {
+		// Sync all events with Google Calendar (no date filtering)
+		log.Printf("Syncing %d events with Google Calendar...", len(finalEvents))
+		if err := syncStravaEvents(finalEvents, calendarService, calendarID); err != nil {
 			log.Fatalf("Failed to sync events with Google Calendar: %v", err)
 		}
 

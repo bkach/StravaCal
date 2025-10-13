@@ -21,6 +21,8 @@ type Event struct {
 	URL         string    `json:"url"`
 	Location    string    `json:"location"`
 	Organizer   string    `json:"organizer"`
+	SkillLevels *int      `json:"skill_levels,omitempty"` // 1=Beginner, 2=Intermediate, 4=Advanced
+	Terrain     *int      `json:"terrain,omitempty"`      // 0=Road, 1=Trail, 2=Mixed
 }
 
 // StravaEvent represents the actual structure returned by the Strava API

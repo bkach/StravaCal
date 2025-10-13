@@ -178,6 +178,56 @@ func fetchClubEvents(tokens *TokenStore) ([]StravaEvent, error) {
 	return allEvents, nil
 }
 
+// getSkillLevelString converts the numeric skill level to a readable string
+func getSkillLevelString(skillLevels *int) string {
+	if skillLevels == nil {
+		return ""
+	}
+	switch *skillLevels {
+	case 1:
+		return "Beginner"
+	case 2:
+		return "Intermediate"
+	case 4:
+		return "Advanced"
+	default:
+		return ""
+	}
+}
+
+// getTerrainString converts the numeric terrain code to a readable string
+func getTerrainString(terrain *int) string {
+	if terrain == nil {
+		return ""
+	}
+	switch *terrain {
+	case 0:
+		return "Road"
+	case 1:
+		return "Trail"
+	case 2:
+		return "Mixed"
+	default:
+		return ""
+	}
+}
+
+// formatEventMetadata creates a formatted string combining skill level and terrain
+// Returns format: "Intermediate / Road" or empty string if both are nil
+func formatEventMetadata(skillLevels *int, terrain *int) string {
+	skill := getSkillLevelString(skillLevels)
+	terr := getTerrainString(terrain)
+
+	if skill != "" && terr != "" {
+		return skill + " / " + terr
+	} else if skill != "" {
+		return skill
+	} else if terr != "" {
+		return terr
+	}
+	return ""
+}
+
 // redactPhoneNumbers removes phone numbers from text and replaces them with "[Phone Number Redacted]".
 // It handles UK mobile, landline, and international formats with optional punctuation, brackets, and spacing.
 // Examples matched:
@@ -238,6 +288,8 @@ func convertStravaEvent(se StravaEvent) (*Event, error) {
 		URL:         fmt.Sprintf("https://www.strava.com/clubs/%s/group_events/%d", clubID, se.ID),
 		Location:    se.Address,
 		Organizer:   organizer,
+		SkillLevels: se.SkillLevels,
+		Terrain:     se.Terrain,
 	}
 
 	return event, nil

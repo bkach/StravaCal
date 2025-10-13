@@ -121,7 +121,15 @@ func syncStravaEvents(events []Event, srv *calendar.Service, calendarID string) 
 
 		// Check if the event needs updating
 		needsUpdate := false
-		if gcalEvent.Summary != stravaEvent.Title {
+
+		// Build expected title with skill level
+		expectedTitle := stravaEvent.Title
+		skillLevel := getSkillLevelString(stravaEvent.SkillLevels)
+		if skillLevel != "" {
+			expectedTitle = expectedTitle + " | " + skillLevel
+		}
+
+		if gcalEvent.Summary != expectedTitle {
 			needsUpdate = true
 		}
 
@@ -142,13 +150,7 @@ func syncStravaEvents(events []Event, srv *calendar.Service, calendarID string) 
 		if err != nil {
 			return err
 		}
-		newDesc := fmt.Sprintf("Leader: %s\n\nLocation: %s\n\n%s\n\nView on Strava: %s\n\nSynced from Strava Club %s on %s",
-			stravaEvent.Organizer,
-			stravaEvent.Location,
-			stravaEvent.Description,
-			stravaEvent.URL,
-			clubID,
-			syncTime)
+		newDesc := buildEventDescription(stravaEvent, clubID, syncTime)
 
 		// Normalize whitespace for comparison
 		if strings.TrimSpace(gcalEvent.Description) != strings.TrimSpace(newDesc) {
@@ -185,6 +187,36 @@ func syncStravaEvents(events []Event, srv *calendar.Service, calendarID string) 
 	return nil
 }
 
+// buildEventDescription creates a formatted description for an event
+func buildEventDescription(event Event, clubID string, syncTime string) string {
+	// Build header section with Leader, Difficulty, and Terrain (single newlines between)
+	headerParts := []string{}
+	headerParts = append(headerParts, fmt.Sprintf("Leader: %s", event.Organizer))
+
+	skillLevel := getSkillLevelString(event.SkillLevels)
+	if skillLevel != "" {
+		headerParts = append(headerParts, fmt.Sprintf("Difficulty: %s", skillLevel))
+	}
+
+	terrain := getTerrainString(event.Terrain)
+	if terrain != "" {
+		headerParts = append(headerParts, fmt.Sprintf("Terrain: %s", terrain))
+	}
+
+	header := strings.Join(headerParts, "\n")
+
+	// Build the full description with double newlines separating sections
+	descParts := []string{header}
+
+	if event.Description != "" {
+		descParts = append(descParts, event.Description)
+	}
+	descParts = append(descParts, fmt.Sprintf("View on Strava: %s", event.URL))
+	descParts = append(descParts, fmt.Sprintf("Synced from Strava Club %s on %s", clubID, syncTime))
+
+	return strings.Join(descParts, "\n\n")
+}
+
 // createGoogleCalendarEvent creates a Google Calendar event object from a Strava event
 func createGoogleCalendarEvent(event Event, syncTime string, location *time.Location) *calendar.Event {
 	startLocal := event.Start.In(location)
@@ -196,16 +228,17 @@ func createGoogleCalendarEvent(event Event, syncTime string, location *time.Loca
 		log.Printf("[ERROR] Failed to get club ID: %v", err)
 		clubID = "unknown"
 	}
-	description := fmt.Sprintf("Leader: %s\n\nLocation: %s\n\n%s\n\nView on Strava: %s\n\nSynced from Strava Club %s on %s",
-		event.Organizer,
-		event.Location,
-		event.Description,
-		event.URL,
-		clubID,
-		syncTime)
+	description := buildEventDescription(event, clubID, syncTime)
+
+	// Add skill level to title if available
+	title := event.Title
+	skillLevel := getSkillLevelString(event.SkillLevels)
+	if skillLevel != "" {
+		title = title + " | " + skillLevel
+	}
 
 	return &calendar.Event{
-		Summary:     event.Title,
+		Summary:     title,
 		Location:    event.Location,
 		Description: description,
 		Start: &calendar.EventDateTime{

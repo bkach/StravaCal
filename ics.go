@@ -56,8 +56,13 @@ func generateICS(events []Event) string {
 		icsContent.WriteString(fmt.Sprintf("DTEND;TZID=Europe/London:%s\r\n", endLocal))
 		icsContent.WriteString(fmt.Sprintf("DTSTAMP:%s\r\n", nowUTC))
 
-		// Event details
-		icsContent.WriteString(fmt.Sprintf("SUMMARY:%s\r\n", escapeICSText(event.Title)))
+		// Event details - Add skill level to title if available
+		title := event.Title
+		skillLevelForTitle := getSkillLevelString(event.SkillLevels)
+		if skillLevelForTitle != "" {
+			title = title + " | " + skillLevelForTitle
+		}
+		icsContent.WriteString(fmt.Sprintf("SUMMARY:%s\r\n", escapeICSText(title)))
 
 		// Description with details including sync timestamp in Europe/London timezone
 		now := time.Now().In(london)
@@ -66,24 +71,54 @@ func generateICS(events []Event) string {
 		if err != nil {
 			clubID = "unknown"
 		}
-		description := fmt.Sprintf("Leader: %s\n\nLocation: %s\n\n%s\n\nView on Strava: %s\n\nSynced from Strava Club %s on %s",
-			event.Organizer,
-			event.Location,
-			event.Description,
-			event.URL,
-			clubID,
-			syncTime)
+		// Build description with structured metadata
+		// Build header section with Leader, Difficulty, and Terrain (single newlines between)
+		headerParts := []string{}
+		headerParts = append(headerParts, fmt.Sprintf("Leader: %s", event.Organizer))
+
+		skillLevel := getSkillLevelString(event.SkillLevels)
+		if skillLevel != "" {
+			headerParts = append(headerParts, fmt.Sprintf("Difficulty: %s", skillLevel))
+		}
+
+		terrain := getTerrainString(event.Terrain)
+		if terrain != "" {
+			headerParts = append(headerParts, fmt.Sprintf("Terrain: %s", terrain))
+		}
+
+		header := strings.Join(headerParts, "\n")
+
+		// Build the full description with double newlines separating sections
+		descParts := []string{header}
+
+		if event.Description != "" {
+			descParts = append(descParts, event.Description)
+		}
+		descParts = append(descParts, fmt.Sprintf("View on Strava: %s", event.URL))
+		descParts = append(descParts, fmt.Sprintf("Synced from Strava Club %s on %s", clubID, syncTime))
+
+		description := strings.Join(descParts, "\n\n")
 		icsContent.WriteString(formatICSProperty("DESCRIPTION", description))
 
 		// Add HTML version for better Google Calendar display
-		htmlDescription := fmt.Sprintf("<p><strong>Leader:</strong> %s</p><p><strong>Location:</strong> %s</p><p>%s</p><p><strong>View on Strava:</strong> <a href=\"%s\">%s</a></p><p><strong>Synced from Strava Club %s on:</strong> %s</p>",
-			strings.ReplaceAll(event.Organizer, "\n", "<br>"),
-			strings.ReplaceAll(event.Location, "\n", "<br>"),
-			strings.ReplaceAll(event.Description, "\n", "<br>"),
-			event.URL,
-			event.URL,
-			clubID,
-			syncTime)
+		htmlParts := []string{}
+		htmlParts = append(htmlParts, fmt.Sprintf("<p><strong>Leader:</strong> %s</p>", strings.ReplaceAll(event.Organizer, "\n", "<br>")))
+
+		if skillLevel != "" {
+			htmlParts = append(htmlParts, fmt.Sprintf("<p><strong>Difficulty:</strong> %s</p>", skillLevel))
+		}
+
+		if terrain != "" {
+			htmlParts = append(htmlParts, fmt.Sprintf("<p><strong>Terrain:</strong> %s</p>", terrain))
+		}
+
+		if event.Description != "" {
+			htmlParts = append(htmlParts, fmt.Sprintf("<p>%s</p>", strings.ReplaceAll(event.Description, "\n", "<br>")))
+		}
+		htmlParts = append(htmlParts, fmt.Sprintf("<p><strong>View on Strava:</strong> <a href=\"%s\">%s</a></p>", event.URL, event.URL))
+		htmlParts = append(htmlParts, fmt.Sprintf("<p><strong>Synced from Strava Club %s on:</strong> %s</p>", clubID, syncTime))
+
+		htmlDescription := strings.Join(htmlParts, "")
 		icsContent.WriteString(formatICSProperty("X-ALT-DESC;FMTTYPE=text/html", htmlDescription))
 
 		// Location

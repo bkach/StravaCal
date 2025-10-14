@@ -172,6 +172,18 @@
     "terrain": 0
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2025-10-26T08:00:00Z",
+    "end": "2025-10-26T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2,
+    "terrain": 1
+  },
+  {
     "id": 3410937853154950000,
     "title": "Buzzard Birthday Darters - Flight Club [NOT A RUN]",
     "start": "2025-10-19T17:45:00Z",
@@ -194,18 +206,6 @@
     "organizer": "Sim Buzzard",
     "skill_levels": 1,
     "terrain": 0
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2025-10-19T07:00:00Z",
-    "end": "2025-10-19T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2,
-    "terrain": 1
   },
   {
     "id": 2164888,

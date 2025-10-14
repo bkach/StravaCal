@@ -184,6 +184,18 @@
     "terrain": 1
   },
   {
+    "id": 3402005019504481140,
+    "title": "Tuesday 10k",
+    "start": "2025-10-21T18:00:00Z",
+    "end": "2025-10-21T19:00:00Z",
+    "description": "\nMeet at the corner of Peachfield Road and St Andrew's Road, by the postbox. \n\nA road run for those who are regularly running upwards of 8k and want to do 10k in 1 1/4 hours. \n\nNobody will be left behind and we will walk-run hills as required. \n\nHi-Viz and head / chest torches please so that you can be seen and are safe. \n\nPlease click out if you become unable to take part.\n\nLiRF: Julie Slack [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
+    "location": "Peachfield Road, Peachfield Road, Malvern, WR14 4AR, United Kingdom",
+    "organizer": "Julie Slack",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
     "id": 3410937853154950000,
     "title": "Buzzard Birthday Darters - Flight Club [NOT A RUN]",
     "start": "2025-10-19T17:45:00Z",
@@ -302,29 +314,5 @@
     "organizer": "Andy Dingley",
     "skill_levels": 2,
     "terrain": 1
-  },
-  {
-    "id": 3412456697622173470,
-    "title": "SFD - Technical Session - Bursts \u0026 Hills (1 Hour Session Approx 7-8k)",
-    "start": "2025-10-14T18:00:00Z",
-    "end": "2025-10-14T19:00:00Z",
-    "description": "Structured sessions with wu followed by short pyramid sprints, recovery, efforts and a couple of power hills before winding down and back. It should be about an hour and your total running distance will depend on your pace but as they are loops you won't be left.  Expect 7k - 8k session in hour. \n\nHi Viz please.\nLiRF - Sim Buzzard [Phone Number Redacted]\n\nClick out if you are unable to make it please click out. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3412456697622173470",
-    "location": "St Andrews Road / Peachfield Road Postbox",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 2,
-    "terrain": 0
-  },
-  {
-    "id": 3402005019504481140,
-    "title": "Tuesday 10k",
-    "start": "2025-10-14T18:00:00Z",
-    "end": "2025-10-14T19:00:00Z",
-    "description": "\nMeet at the corner of Peachfield Road and St Andrew's Road, by the postbox. \n\nA road run for those who are regularly running upwards of 8k and want to do 10k in 1 1/4 hours. \n\nNobody will be left behind and we will walk-run hills as required. \n\nHi-Viz and head / chest torches please so that you can be seen and are safe. \n\nPlease click out if you become unable to take part.\n\nLiRF: Julie Slack [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
-    "location": "Peachfield Road, Peachfield Road, Malvern, WR14 4AR, United Kingdom",
-    "organizer": "Julie Slack",
-    "skill_levels": 1,
-    "terrain": 0
   }
 ]

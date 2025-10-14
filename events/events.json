@@ -304,18 +304,6 @@
     "terrain": 1
   },
   {
-    "id": 3402005019504481140,
-    "title": "Tuesday 10k",
-    "start": "2025-10-14T18:00:00Z",
-    "end": "2025-10-14T19:00:00Z",
-    "description": "\nMeet at the corner of Peachfield Road and St Andrew's Road, by the postbox. \n\nA road run for those who are regularly running upwards of 8k and want to do 10k in 1 1/4 hours. \n\nNobody will be left behind and we will walk-run hills as required. \n\nHi-Viz and head / chest torches please so that you can be seen and are safe. \n\nPlease click out if you become unable to take part.\n\nLiRF: Julie Slack [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
-    "location": "Peachfield Road, Peachfield Road, Malvern, WR14 4AR, United Kingdom",
-    "organizer": "Julie Slack",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3412456697622173470,
     "title": "SFD - Technical Session - Bursts \u0026 Hills (1 Hour Session Approx 7-8k)",
     "start": "2025-10-14T18:00:00Z",
@@ -328,15 +316,15 @@
     "terrain": 0
   },
   {
-    "id": 3410957682909940196,
-    "title": "BCB - 10k fartlek session (56 minutes)",
-    "start": "2025-10-14T04:30:00Z",
-    "end": "2025-10-14T05:30:00Z",
-    "description": "10k road session to be completed in 56 minutes. 8 minute ish mile running will be interspersed with random efforts of varying distances from 2 lamposts to 2 minutes etc. \n\nOpportunity to reward yourself with Greggs at the end. \n\nLirf: Sim [Phone Number Redacted]\n\nHead torch and hi viz please.\n\nclick out if you can't make it.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3410957682909940196",
-    "location": "GREGGS, 326 Worcester Road, Malvern, WR14 1BD, United Kingdom",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 2,
+    "id": 3402005019504481140,
+    "title": "Tuesday 10k",
+    "start": "2025-10-14T18:00:00Z",
+    "end": "2025-10-14T19:00:00Z",
+    "description": "\nMeet at the corner of Peachfield Road and St Andrew's Road, by the postbox. \n\nA road run for those who are regularly running upwards of 8k and want to do 10k in 1 1/4 hours. \n\nNobody will be left behind and we will walk-run hills as required. \n\nHi-Viz and head / chest torches please so that you can be seen and are safe. \n\nPlease click out if you become unable to take part.\n\nLiRF: Julie Slack [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
+    "location": "Peachfield Road, Peachfield Road, Malvern, WR14 4AR, United Kingdom",
+    "organizer": "Julie Slack",
+    "skill_levels": 1,
     "terrain": 0
   }
 ]

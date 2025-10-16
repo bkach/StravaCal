@@ -184,6 +184,18 @@
     "terrain": 1
   },
   {
+    "id": 3392553444318075416,
+    "title": "Thursday Hills ‘Buzzard Day Special’ ",
+    "start": "2025-10-23T17:30:00Z",
+    "end": "2025-10-23T18:30:00Z",
+    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nJust for one week ‘Thursday 16th October’ to celebrate Malvern Buzzards Birthday’ \nWe will try to create a buzzard in Strava art. Run will be approx 9.5km about 1-  1/2 hours due to navigation. \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
+    "location": "",
+    "organizer": "Lily Price",
+    "skill_levels": 2,
+    "terrain": 1
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2025-10-22T18:00:00Z",
@@ -280,18 +292,6 @@
     "terrain": 0
   },
   {
-    "id": 3412712642072071786,
-    "title": "Buzzard Birthday 10k (In Hour)",
-    "start": "2025-10-16T18:00:00Z",
-    "end": "2025-10-16T19:00:00Z",
-    "description": "Buzzard birthday 10k. A longer run option from the Buzzards down to Buzzard crescent and returning into town for Meet up at Weavers for those who want it.\n\nHead torch and high Viz please.\n\n10k in about an hour.\n\nLiRF: Simeon Foreman [Phone Number Redacted]\n\nPlease click out if you can't make it.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3412712642072071786",
-    "location": "Rosebank Gardens",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3408714500514679632,
     "title": "Buzzard Day Pilgrimage ",
     "start": "2025-10-16T18:00:00Z",
@@ -304,15 +304,15 @@
     "terrain": 0
   },
   {
-    "id": 3392553444318075416,
-    "title": "Thursday Hills ‘Buzzard Day Special’ ",
-    "start": "2025-10-16T17:30:00Z",
-    "end": "2025-10-16T18:30:00Z",
-    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nJust for one week ‘Thursday 16th October’ to celebrate Malvern Buzzards Birthday’ \nWe will try to create a buzzard in Strava art. Run will be approx 9.5km about 1-  1/2 hours due to navigation. \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
-    "location": "",
-    "organizer": "Lily Price",
-    "skill_levels": 2,
-    "terrain": 1
+    "id": 3412712642072071786,
+    "title": "Buzzard Birthday 10k (In Hour)",
+    "start": "2025-10-16T18:00:00Z",
+    "end": "2025-10-16T19:00:00Z",
+    "description": "Buzzard birthday 10k. A longer run option from the Buzzards down to Buzzard crescent and returning into town for Meet up at Weavers for those who want it.\n\nHead torch and high Viz please.\n\n10k in about an hour.\n\nLiRF: Simeon Foreman [Phone Number Redacted]\n\nPlease click out if you can't make it.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3412712642072071786",
+    "location": "Rosebank Gardens",
+    "organizer": "Sim Buzzard",
+    "skill_levels": 1,
+    "terrain": 0
   }
 ]

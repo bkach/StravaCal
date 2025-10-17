@@ -184,6 +184,18 @@
     "terrain": 1
   },
   {
+    "id": 2171556,
+    "title": "Rise \u0026 Run",
+    "start": "2025-10-24T05:30:00Z",
+    "end": "2025-10-24T06:30:00Z",
+    "description": "**Rise \u0026 Run**\n\nWeekly run of approximately 5km on the hills to start your day.\n\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.\nNo one left behind.\n\nDistance: 5km\n\nTime: ~45 minutes\n\nMeeting point: The Buzzards in Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember to click out if you can no longer make it.\n\nHannah \n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/2171556",
+    "location": "Rosebank Gardens",
+    "organizer": "Hannah Thompson",
+    "skill_levels": 1,
+    "terrain": 1
+  },
+  {
     "id": 3392553444318075416,
     "title": "Thursday Hills ‘Buzzard Day Special’ ",
     "start": "2025-10-23T17:30:00Z",
@@ -265,18 +277,6 @@
     "location": "Rosebank Gardens",
     "organizer": "Andrew Kenchington",
     "skill_levels": 2,
-    "terrain": 1
-  },
-  {
-    "id": 2171556,
-    "title": "Rise \u0026 Run",
-    "start": "2025-10-17T05:30:00Z",
-    "end": "2025-10-17T06:30:00Z",
-    "description": "**Rise \u0026 Run**\n\nWeekly run of approximately 5km on the hills to start your day.\n\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.\nNo one left behind.\n\nDistance: 5km\n\nTime: ~45 minutes\n\nMeeting point: The Buzzards in Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember to click out if you can no longer make it.\n\nHannah \n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/2171556",
-    "location": "Rosebank Gardens",
-    "organizer": "Hannah Thompson",
-    "skill_levels": 1,
     "terrain": 1
   }
 ]

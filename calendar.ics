@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:3402005019504481140@strava.com
 DTSTART;TZID=Europe/London:20251021T190000
 DTEND;TZID=Europe/London:20251021T200000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Tuesday Trails | Beginner
 DESCRIPTION:Leader: Julie Slack\nDifficulty: Beginner\nTerrain: Trail\n\nNo
  te: Hannah covering for Julie this week which means we're heading back on t
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 UID:1892059@strava.com
 DTSTART;TZID=Europe/London:20251022T190000
 DTEND;TZID=Europe/London:20251022T200000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Return of the Ramparts | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\nTerrain: Trail\
  n\nIt's back - the popular run around British Camp ramparts.  Roughly 11km 
@@ -79,7 +79,7 @@ BEGIN:VEVENT
 UID:3414221009946059632@strava.com
 DTSTART;TZID=Europe/London:20251022T190000
 DTEND;TZID=Europe/London:20251022T200000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Link Top Hustle | Advanced
 DESCRIPTION:Leader: Neil Warne\nDifficulty: Advanced\nTerrain: Road\n\n16km
   (10 mile) trip around Malvern with all the ups\, downs\, and engaging conv
@@ -107,7 +107,7 @@ BEGIN:VEVENT
 UID:3392553444318075416@strava.com
 DTSTART;TZID=Europe/London:20251023T183000
 DTEND;TZID=Europe/London:20251023T193000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Thursday Hills  | Intermediate
 DESCRIPTION:Leader: Lily Price\nDifficulty: Intermediate\nTerrain: Trail\n\
  nThursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run 
@@ -133,7 +133,7 @@ BEGIN:VEVENT
 UID:3414740899964580056@strava.com
 DTSTART;TZID=Europe/London:20251023T190000
 DTEND;TZID=Europe/London:20251023T200000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Thirsty Thursday - The Nags Head  | Intermediate
 DESCRIPTION:Leader: Barbara Gawlak\nDifficulty: Intermediate\nTerrain: Road
  \n\n10km road run. Should be done within an hour. Pace 5.15-5.30min/km. \n\
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 UID:3414765487585411596@strava.com
 DTSTART;TZID=Europe/London:20251023T190000
 DTEND;TZID=Europe/London:20251023T200000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Thirsty Thursday @ Nags / Beginner | Beginner
 DESCRIPTION:Leader: Boris Kachscovsky\nDifficulty: Beginner\nTerrain: Road\
  n\nThirsty Thursday @ the Nags!\n\nCome for the run\, stay for the beer and
@@ -181,7 +181,7 @@ BEGIN:VEVENT
 UID:2171556@strava.com
 DTSTART;TZID=Europe/London:20251024T063000
 DTEND;TZID=Europe/London:20251024T073000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Rise & Run | Beginner
 DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\nTerrain: Trail\n
  \n**Rise & Run**\n\nWeekly run of approximately 5km on the hills to start y
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20251026T080000
 DTEND;TZID=Europe/London:20251026T090000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\nTerrain: Trail\
  n\nThere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 UID:1954769@strava.com
 DTSTART;TZID=Europe/London:20251026T090000
 DTEND;TZID=Europe/London:20251026T100000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:*League event* Stroud half marathon and 10k | Beginner
 DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\nTerrain: Road\n\nA 
  new addition to this year’s league\, but their website promises 13.1 mile
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 UID:3415250384771630020@strava.com
 DTSTART;TZID=Europe/London:20251101T083000
 DTEND;TZID=Europe/London:20251101T093000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Buzzard Cross Country Route Trial | Intermediate
 DESCRIPTION:Leader: Andrew Kenchington\nDifficulty: Intermediate\nTerrain: 
  Trail\n\nMeet at gate entry to bottom of Common by railway bridge on Thirls
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 UID:2111840@strava.com
 DTSTART;TZID=Europe/London:20251109T090000
 DTEND;TZID=Europe/London:20251109T100000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Monopoly Board\, London (Grand Day Out) 16 Miles In 5-6 Hours | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nBuz
  zard Grand Day Out to London to run the "Monopoly Board". This is a 16 mile
@@ -314,7 +314,7 @@ BEGIN:VEVENT
 UID:1985882@strava.com
 DTSTART;TZID=Europe/London:20251114T190000
 DTEND;TZID=Europe/London:20251114T200000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:WBUH Firewalk **Not A Run** | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Mixed\n\nFi
  nal "Elements" event from Worcestershire Breast Unit Haven (WBUH) is a fire
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 UID:3414215569911744646@strava.com
 DTSTART;TZID=Europe/London:20251115T080000
 DTEND;TZID=Europe/London:20251115T090000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Not a run London Marathon Reject draw | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nIf
   you have a London Marathon reject email\, then you are eligible for this d
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 UID:3411241455336834270@strava.com
 DTSTART;TZID=Europe/London:20251115T080000
 DTEND;TZID=Europe/London:20251115T090000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Club Photo (NOT A RUN) | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nAnn
  ual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun 
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 UID:3394381358581372894@strava.com
 DTSTART;TZID=Europe/London:20251116T113000
 DTEND;TZID=Europe/London:20251116T123000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:*League event* HBXC Winter XC: Race #2 Croft Ambrey  | Beginner
 DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\nTerrain: Mixed\n\n
  Winter XC Race #2 hosted by Croft Ambrey. The race is approx. 10km (6 miles
@@ -415,7 +415,7 @@ BEGIN:VEVENT
 UID:3405493636671738844@strava.com
 DTSTART;TZID=Europe/London:20251117T183000
 DTEND;TZID=Europe/London:20251117T193000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Pre celebration run | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nTh
  is run is aimed at the latest Take Flight cohort\, any previous TF cohorts\
@@ -443,7 +443,7 @@ BEGIN:VEVENT
 UID:3405491541734617052@strava.com
 DTSTART;TZID=Europe/London:20251117T191500
 DTEND;TZID=Europe/London:20251117T201500
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Not a run\, Take Flight Celebration  | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nTh
  is celebration is aimed at anyone who has done Take Flight or who has suppo
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 UID:2155136@strava.com
 DTSTART;TZID=Europe/London:20251129T090000
 DTEND;TZID=Europe/London:20251129T100000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Saturday Expedition | Intermediate
 DESCRIPTION:Leader: Julie Slack\nDifficulty: Intermediate\nTerrain: Trail\n
  \nMeet at the Car park for a 09:00am start. A circular route starting in Wi
@@ -508,7 +508,7 @@ BEGIN:VEVENT
 UID:3394382327576638940@strava.com
 DTSTART;TZID=Europe/London:20251207T113000
 DTEND;TZID=Europe/London:20251207T123000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:HBXC Winter XC: Race #3
 DESCRIPTION:Leader: Andrew Elwood\n\nRace #3 of the Winter XC series. Host 
  club is TBD so more information will follow once I know.\n\nThe route will 
@@ -531,7 +531,7 @@ BEGIN:VEVENT
 UID:3397472338987462066@strava.com
 DTSTART;TZID=Europe/London:20251213T170000
 DTEND;TZID=Europe/London:20251213T180000
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:Worcestershire County XC Championships 2025 | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\n202
  5 Worcestershire County XC Championships\nDate is Saturday 13th December\, 
@@ -560,7 +560,7 @@ BEGIN:VEVENT
 UID:2160491@strava.com
 DTSTART;TZID=Europe/London:20251214T101500
 DTEND;TZID=Europe/London:20251214T111500
-DTSTAMP:20251021T113234Z
+DTSTAMP:20251021T113235Z
 SUMMARY:* League event* Telford 10k | Beginner
 DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\nTerrain: Road\n\nA 
  new addition to this year’s league and apparently statistically proven as

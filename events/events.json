@@ -195,6 +195,18 @@
     "terrain": 1
   },
   {
+    "id": 3402005019504481140,
+    "title": "Tuesday Trails",
+    "start": "2025-10-28T19:00:00Z",
+    "end": "2025-10-28T20:00:00Z",
+    "description": "Note: Hannah covering for Julie this week which means we're heading back on the trails (in the dark!)\n\nDistance: ~8km\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or jeffing the ups.\nTime: Approx 1hr 15mins \nMeeting point: Buzzards in Rosebank Gardens\n\nNobody will be left behind and we will walk-run hills as required. \n\nHead torches essential so we can see where we are going!\n\nPlease remember to click out if you can no longer make it.\n\nLiRF: Hannah Thompson [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Julie Slack",
+    "skill_levels": 1,
+    "terrain": 1
+  },
+  {
     "id": 1954769,
     "title": "*League event* Stroud half marathon and 10k",
     "start": "2025-10-26T09:00:00Z",
@@ -267,18 +279,6 @@
     "terrain": 1
   },
   {
-    "id": 3414221009946059632,
-    "title": "Link Top Hustle",
-    "start": "2025-10-22T18:00:00Z",
-    "end": "2025-10-22T19:00:00Z",
-    "description": "16km (10 mile) trip around Malvern with all the ups, downs, and engaging conversation you would expect from this kind of activity.\n\nI have not nailed down the route yet, but I can share it (somehow) once I do. \n\nDistance: 16km (10 miles)\nTerrain: Road\nPace: 4:30-4:45min/km\n\nIt'll be dark, be visible with lights, bright clothing etc...\n\nLet me know if you have any queries. \nNeil. \n\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3414221009946059632",
-    "location": "Link Top Car Park, Newtown Rd Malvern, Malvern, WR14 1PD, United Kingdom",
-    "organizer": "Neil Warne",
-    "skill_levels": 4,
-    "terrain": 0
-  },
-  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2025-10-22T18:00:00Z",
@@ -291,15 +291,15 @@
     "terrain": 1
   },
   {
-    "id": 3402005019504481140,
-    "title": "Tuesday Trails",
-    "start": "2025-10-21T18:00:00Z",
-    "end": "2025-10-21T19:00:00Z",
-    "description": "Note: Hannah covering for Julie this week which means we're heading back on the trails (in the dark!)\n\nDistance: ~8km\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or jeffing the ups.\nTime: Approx 1hr 15mins \nMeeting point: Buzzards in Rosebank Gardens\n\nNobody will be left behind and we will walk-run hills as required. \n\nHead torches essential so we can see where we are going!\n\nPlease remember to click out if you can no longer make it.\n\nLiRF: Hannah Thompson [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
-    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
-    "organizer": "Julie Slack",
-    "skill_levels": 1,
-    "terrain": 1
+    "id": 3414221009946059632,
+    "title": "Link Top Hustle",
+    "start": "2025-10-22T18:00:00Z",
+    "end": "2025-10-22T19:00:00Z",
+    "description": "16km (10 mile) trip around Malvern with all the ups, downs, and engaging conversation you would expect from this kind of activity.\n\nI have not nailed down the route yet, but I can share it (somehow) once I do. \n\nDistance: 16km (10 miles)\nTerrain: Road\nPace: 4:30-4:45min/km\n\nIt'll be dark, be visible with lights, bright clothing etc...\n\nLet me know if you have any queries. \nNeil. \n\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3414221009946059632",
+    "location": "Link Top Car Park, Newtown Rd Malvern, Malvern, WR14 1PD, United Kingdom",
+    "organizer": "Neil Warne",
+    "skill_levels": 4,
+    "terrain": 0
   }
 ]

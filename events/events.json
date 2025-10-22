@@ -135,18 +135,6 @@
     "terrain": 2
   },
   {
-    "id": 3411241455336834270,
-    "title": "Club Photo (NOT A RUN)",
-    "start": "2025-11-15T08:00:00Z",
-    "end": "2025-11-15T09:00:00Z",
-    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
-    "location": "Rosebank Gardens",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3414215569911744646,
     "title": "Not a run London Marathon Reject draw",
     "start": "2025-11-15T08:00:00Z",
@@ -155,6 +143,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
     "location": "Rosebank Gardens",
     "organizer": "Sarah Fowkes",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
+    "id": 3411241455336834270,
+    "title": "Club Photo (NOT A RUN)",
+    "start": "2025-11-15T08:00:00Z",
+    "end": "2025-11-15T09:00:00Z",
+    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
+    "location": "Rosebank Gardens",
+    "organizer": "Sim Buzzard",
     "skill_levels": 1,
     "terrain": 0
   },
@@ -191,6 +191,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3415250384771630020",
     "location": "Malvern college, thirlstane road",
     "organizer": "Andrew Kenchington",
+    "skill_levels": 2,
+    "terrain": 1
+  },
+  {
+    "id": 1892059,
+    "title": "Return of the Ramparts",
+    "start": "2025-10-29T19:00:00Z",
+    "end": "2025-10-29T20:00:00Z",
+    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
+    "location": "Wyche Cutting Bus Stop",
+    "organizer": "Andy Dingley",
     "skill_levels": 2,
     "terrain": 1
   },
@@ -277,29 +289,5 @@
     "organizer": "Lily Price",
     "skill_levels": 2,
     "terrain": 1
-  },
-  {
-    "id": 1892059,
-    "title": "Return of the Ramparts",
-    "start": "2025-10-22T18:00:00Z",
-    "end": "2025-10-22T19:00:00Z",
-    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
-    "location": "Wyche Cutting Bus Stop",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2,
-    "terrain": 1
-  },
-  {
-    "id": 3414221009946059632,
-    "title": "Link Top Hustle",
-    "start": "2025-10-22T18:00:00Z",
-    "end": "2025-10-22T19:00:00Z",
-    "description": "16km (10 mile) trip around Malvern with all the ups, downs, and engaging conversation you would expect from this kind of activity.\n\nI have not nailed down the route yet, but I can share it (somehow) once I do. \n\nDistance: 16km (10 miles)\nTerrain: Road\nPace: 4:30-4:45min/km\n\nIt'll be dark, be visible with lights, bright clothing etc...\n\nLet me know if you have any queries. \nNeil. \n\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3414221009946059632",
-    "location": "Link Top Car Park, Newtown Rd Malvern, Malvern, WR14 1PD, United Kingdom",
-    "organizer": "Neil Warne",
-    "skill_levels": 4,
-    "terrain": 0
   }
 ]

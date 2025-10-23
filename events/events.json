@@ -207,6 +207,18 @@
     "terrain": 1
   },
   {
+    "id": 3392553444318075416,
+    "title": "Thursday Hills ",
+    "start": "2025-10-30T18:30:00Z",
+    "end": "2025-10-30T19:30:00Z",
+    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
+    "location": "",
+    "organizer": "Lily Price",
+    "skill_levels": 2,
+    "terrain": 1
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2025-10-29T19:00:00Z",
@@ -267,18 +279,6 @@
     "terrain": 1
   },
   {
-    "id": 3414765487585411596,
-    "title": "Thirsty Thursday @ Nags / Beginner",
-    "start": "2025-10-23T18:00:00Z",
-    "end": "2025-10-23T19:00:00Z",
-    "description": "Thirsty Thursday @ the Nags!\n\nCome for the run, stay for the beer and the posh crisps. I think they have truffle flavor and stuff, it's great.\n\n5k - 6-7m/km to give some idea but nobody left behind, so we can go at any pace really.\n\nWe'll be on the roads, so bring lights / hi-viz.\n\nBoris [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3414765487585411596",
-    "location": "The Nag's Head",
-    "organizer": "Boris Kachscovsky",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3414740899964580056,
     "title": "Thirsty Thursday - The Nags Head ",
     "start": "2025-10-23T18:00:00Z",
@@ -291,15 +291,15 @@
     "terrain": 0
   },
   {
-    "id": 3392553444318075416,
-    "title": "Thursday Hills ",
-    "start": "2025-10-23T17:30:00Z",
-    "end": "2025-10-23T18:30:00Z",
-    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
-    "location": "",
-    "organizer": "Lily Price",
-    "skill_levels": 2,
-    "terrain": 1
+    "id": 3414765487585411596,
+    "title": "Thirsty Thursday @ Nags / Beginner",
+    "start": "2025-10-23T18:00:00Z",
+    "end": "2025-10-23T19:00:00Z",
+    "description": "Thirsty Thursday @ the Nags!\n\nCome for the run, stay for the beer and the posh crisps. I think they have truffle flavor and stuff, it's great.\n\n5k - 6-7m/km to give some idea but nobody left behind, so we can go at any pace really.\n\nWe'll be on the roads, so bring lights / hi-viz.\n\nBoris [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3414765487585411596",
+    "location": "The Nag's Head",
+    "organizer": "Boris Kachscovsky",
+    "skill_levels": 1,
+    "terrain": 0
   }
 ]

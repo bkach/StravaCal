@@ -147,18 +147,6 @@
     "terrain": 2
   },
   {
-    "id": 3411241455336834270,
-    "title": "Club Photo (NOT A RUN)",
-    "start": "2025-11-15T08:00:00Z",
-    "end": "2025-11-15T09:00:00Z",
-    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
-    "location": "Rosebank Gardens",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3414215569911744646,
     "title": "Not a run London Marathon Reject draw",
     "start": "2025-11-15T08:00:00Z",
@@ -167,6 +155,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
     "location": "Rosebank Gardens",
     "organizer": "Sarah Fowkes",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
+    "id": 3411241455336834270,
+    "title": "Club Photo (NOT A RUN)",
+    "start": "2025-11-15T08:00:00Z",
+    "end": "2025-11-15T09:00:00Z",
+    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
+    "location": "Rosebank Gardens",
+    "organizer": "Sim Buzzard",
     "skill_levels": 1,
     "terrain": 0
   },
@@ -251,18 +251,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3417086631128256728",
     "location": "Barnard's green bus stop",
     "organizer": "Boris Kachscovsky",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
-    "id": 3416766328040794008,
-    "title": "Thursday Run",
-    "start": "2025-10-30T19:00:00Z",
-    "end": "2025-10-30T20:00:00Z",
-    "description": "We shall run from the bus stop in Barnards Green and do about 5k in around 40 minutes.\nNo one left behind. \nHi viz and torches please. \nAny questions: Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3416766328040794008",
-    "location": "(52.1085, -2.3120)",
-    "organizer": "Sarah Fowkes",
     "skill_levels": 1,
     "terrain": 0
   },

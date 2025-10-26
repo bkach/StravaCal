@@ -147,18 +147,6 @@
     "terrain": 2
   },
   {
-    "id": 3414215569911744646,
-    "title": "Not a run London Marathon Reject draw",
-    "start": "2025-11-15T08:00:00Z",
-    "end": "2025-11-15T09:00:00Z",
-    "description": "If you have a London Marathon reject email, then you are eligible for this draw. We have coincided this to be done at the same time as the club photo.  \nTo make it fair, only a none participating committee member will do the draw.\nPlease click in so that we have your names to put in our famous golden hat. \nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
-    "location": "Rosebank Gardens",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3411241455336834270,
     "title": "Club Photo (NOT A RUN)",
     "start": "2025-11-15T08:00:00Z",
@@ -167,6 +155,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
     "location": "Rosebank Gardens",
     "organizer": "Sim Buzzard",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
+    "id": 3414215569911744646,
+    "title": "Not a run London Marathon Reject draw",
+    "start": "2025-11-15T08:00:00Z",
+    "end": "2025-11-15T09:00:00Z",
+    "description": "If you have a London Marathon reject email, then you are eligible for this draw. We have coincided this to be done at the same time as the club photo.  \nTo make it fair, only a none participating committee member will do the draw.\nPlease click in so that we have your names to put in our famous golden hat. \nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
+    "location": "Rosebank Gardens",
+    "organizer": "Sarah Fowkes",
     "skill_levels": 1,
     "terrain": 0
   },
@@ -313,17 +313,5 @@
     "organizer": "Julie Slack",
     "skill_levels": 1,
     "terrain": 1
-  },
-  {
-    "id": 1954769,
-    "title": "*League event* Stroud half marathon and 10k",
-    "start": "2025-10-26T09:00:00Z",
-    "end": "2025-10-26T10:00:00Z",
-    "description": "A new addition to this year’s league, but their website promises 13.1 miles of fun and frolics!\n\nA lovely progression for anyone running Worcester 10k in September, or if you’re already fit for Worcester half marathon you may as well do this one too.\n\nMore information at Stroudhalf(dot)com\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/1954769",
-    "location": "",
-    "organizer": "Sarah Reeves",
-    "skill_levels": 1,
-    "terrain": 0
   }
 ]

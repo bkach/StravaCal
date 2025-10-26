@@ -147,18 +147,6 @@
     "terrain": 2
   },
   {
-    "id": 3411241455336834270,
-    "title": "Club Photo (NOT A RUN)",
-    "start": "2025-11-15T08:00:00Z",
-    "end": "2025-11-15T09:00:00Z",
-    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
-    "location": "Rosebank Gardens",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3414215569911744646,
     "title": "Not a run London Marathon Reject draw",
     "start": "2025-11-15T08:00:00Z",
@@ -167,6 +155,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
     "location": "Rosebank Gardens",
     "organizer": "Sarah Fowkes",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
+    "id": 3411241455336834270,
+    "title": "Club Photo (NOT A RUN)",
+    "start": "2025-11-15T08:00:00Z",
+    "end": "2025-11-15T09:00:00Z",
+    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
+    "location": "Rosebank Gardens",
+    "organizer": "Sim Buzzard",
     "skill_levels": 1,
     "terrain": 0
   },
@@ -231,18 +231,6 @@
     "terrain": 1
   },
   {
-    "id": 3416893196303736798,
-    "title": "Thursday Run",
-    "start": "2025-10-30T19:00:00Z",
-    "end": "2025-10-30T20:00:00Z",
-    "description": "We shall meet at the bus stop at the bottom of the Avenue and shall run for around 5k in around 40 to 45 minutes according to the group. No one left behind. \nThere is an option for a run debrief in the Morgan pub afterwards.\nAny questions: Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3416893196303736798",
-    "location": "Barnard's Green",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3416742655423209688,
     "title": "Thursday Run ",
     "start": "2025-10-30T19:00:00Z",
@@ -256,7 +244,7 @@
   },
   {
     "id": 3417086631128256728,
-    "title": "Thirsty Thursday",
+    "title": "Thursday Run",
     "start": "2025-10-30T19:00:00Z",
     "end": "2025-10-30T20:00:00Z",
     "description": "Sarah will be leading this run - I just created it on her behalf 😊\n\n\"We shall meet at the bus stop at the bottom of the Avenue and run about 5k in 40-45 minutes depending on the group. No one left behind.\n\nHi viz and torches please.\n\nThere is an option for a debrief in the Morgan pub, if you wish.\n\nAny questions: Sarah [Phone Number Redacted]\"",

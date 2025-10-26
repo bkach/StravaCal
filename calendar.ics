@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:1954769@strava.com
 DTSTART;TZID=Europe/London:20251026T090000
 DTEND;TZID=Europe/London:20251026T100000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:*League event* Stroud half marathon and 10k | Beginner
 DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\nTerrain: Road\n\nA 
  new addition to this year’s league\, but their website promises 13.1 mile
@@ -34,14 +34,14 @@ DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\nTerrain: Road\n\nA
  10k in September\, or if you’re already fit for Worcester half marathon y
  ou may as well do this one too.\n\nMore information at Stroudhalf(dot)com\n
  \n\nView on Strava: https://www.strava.com/clubs/208705/group_events/195476
- 9\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ 9\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesDifficulty: BeginnerTerrai
  n: RoadA new addition to this year’s league\, but their website promises 
  13.1 miles of fun and frolics!A lovely progression for anyone running Worce
  ster 10k in September\, or if you’re already fit for Worcester half marat
  hon you may as well do this one too.More information at Stroudhalf(dot)comV
  iew on Strava: https://www.strava.com/clubs/208705/group_events/1954769Sync
- ed from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ ed from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/1954769
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 UID:3402005019504481140@strava.com
 DTSTART;TZID=Europe/London:20251028T190000
 DTEND;TZID=Europe/London:20251028T200000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Tuesday Trails | Beginner
 DESCRIPTION:Leader: Julie Slack\nDifficulty: Beginner\nTerrain: Trail\n\nNo
  te: Hannah covering for Julie this week which means we're heading back on t
@@ -61,7 +61,7 @@ DESCRIPTION:Leader: Julie Slack\nDifficulty: Beginner\nTerrain: Trail\n\nNo
  click out if you can no longer make it.\n\nLiRF: Hannah Thompson [Phone Num
  ber Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/group_
  events/3402005019504481140\n\nSynced from Strava Club 208705 on Sun\, 26 Oc
- t @ 4:32 AM
+ t @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackDifficulty: BeginnerTerrain
  : TrailNote: Hannah covering for Julie this week which means we're heading 
  back on the trails (in the dark!)Distance: ~8kmPace: We will average betwee
@@ -71,7 +71,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackDifficulty: BeginnerTerrain
  essential so we can see where we are going!Please remember to click out if 
  you can no longer make it.LiRF: Hannah Thompson [Phone Number Redacted]View
   on Strava: https://www.strava.com/clubs/208705/group_events/34020050195044
- 81140Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ 81140Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Rosebank Gardens\, Malvern\, WR14 4RQ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3402005019504481140
 CATEGORIES:Running,Club Event
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 UID:3416768015124570714@strava.com
 DTSTART;TZID=Europe/London:20251029T183000
 DTEND;TZID=Europe/London:20251029T193000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:5k keep it going not a Monday  | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nWe
   shall meet above the bandstand and then run for 5k in about 40 to 45 minut
@@ -88,14 +88,14 @@ DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nWe
  ike a social chatty run or is recovering from injury is welcome. \nAny ques
  tions: Sarah [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/3416768015124570714\n\nSynced from Strava Clu
- b 208705 on Sun\, 26 Oct @ 4:32 AM
+ b 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  n: RoadWe shall meet above the bandstand and then run for 5k in about 40 to
   45 minutes. This is aimed at the recent Take Flight cohort but anyone who 
  would like a social chatty run or is recovering from injury is welcome. Any
   questions: Sarah [Phone Number Redacted]View on Strava: https://www.strava
  .com/clubs/208705/group_events/3416768015124570714Synced from Strava Club 2
- 08705 on: Sun\, 26 Oct @ 4:32 AM
+ 08705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Priory Park
 URL:https://www.strava.com/clubs/208705/group_events/3416768015124570714
 CATEGORIES:Running,Club Event
@@ -104,20 +104,20 @@ BEGIN:VEVENT
 UID:1892059@strava.com
 DTSTART;TZID=Europe/London:20251029T190000
 DTEND;TZID=Europe/London:20251029T200000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Return of the Ramparts | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\nTerrain: Trail\
  n\nIt's back - the popular run around British Camp ramparts.  Roughly 11km 
  - it's not too hilly or challenging.  Please note time change for this week
  ! Contact Andy [Phone Number Redacted]\n\nView on Strava: https://www.strav
  a.com/clubs/208705/group_events/1892059\n\nSynced from Strava Club 208705 o
- n Sun\, 26 Oct @ 4:32 AM
+ n Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTe
  rrain: TrailIt's back - the popular run around British Camp ramparts.  Roug
  hly 11km - it's not too hilly or challenging.  Please note time change for 
  this week! Contact Andy [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/1892059Synced from Strava Club 208705 
- on: Sun\, 26 Oct @ 4:32 AM
+ on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Wyche Cutting Bus Stop
 URL:https://www.strava.com/clubs/208705/group_events/1892059
 CATEGORIES:Running,Club Event
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 UID:3416811431950809054@strava.com
 DTSTART;TZID=Europe/London:20251029T190000
 DTEND;TZID=Europe/London:20251029T200000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Bridges of Light Festival 5k (Social Run 45-60 Mins) | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nThi
  s a 5k taking in the attractions and sights of the Bridges of Light Festiva
@@ -136,7 +136,7 @@ DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nThi
  ck out if you can't make it and car share if possible.\n\nSeek out the ligh
  t between....\n\nView on Strava: https://www.strava.com/clubs/208705/group_
  events/3416811431950809054\n\nSynced from Strava Club 208705 on Sun\, 26 Oc
- t @ 4:32 AM
+ t @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  : RoadThis a 5k taking in the attractions and sights of the Bridges of Ligh
  t Festival in Worcester. I expect to do this in 45 - 60 mins as we will sto
@@ -144,7 +144,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  ts I still recommend high Viz. LiRF - Sim Buzzard [Phone Number Redacted]Cl
  ick out if you can't make it and car share if possible.Seek out the light b
  etween....View on Strava: https://www.strava.com/clubs/208705/group_events/
- 3416811431950809054Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 A
+ 3416811431950809054Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 A
  M
 LOCATION:McDonald's Worcester uk
 URL:https://www.strava.com/clubs/208705/group_events/3416811431950809054
@@ -154,7 +154,7 @@ BEGIN:VEVENT
 UID:3392553444318075416@strava.com
 DTSTART;TZID=Europe/London:20251030T183000
 DTEND;TZID=Europe/London:20251030T193000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Thursday Hills  | Intermediate
 DESCRIPTION:Leader: Lily Price\nDifficulty: Intermediate\nTerrain: Trail\n\
  nThursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run 
@@ -164,7 +164,7 @@ DESCRIPTION:Leader: Lily Price\nDifficulty: Intermediate\nTerrain: Trail\n\
   weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Re
  dacted]\n\nView on Strava: https://www.strava.com/clubs/208705/group_events
  /3392553444318075416\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:
- 32 AM
+ 48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceDifficulty: IntermediateTerr
  ain: TrailThursday Hills 7/8km on the hills in 1hours/1 hour 10 mins Social
   run - whether it’s your chatty run pace or pushy pace you will be suppor
@@ -172,7 +172,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceDifficulty: IntermediateTerr
  tum and keep together. trail shoes needed Headtorch needed Route changes we
  eklyAlways start at Wyche cutting bus stop Lily - [Phone Number Redacted]Vi
  ew on Strava: https://www.strava.com/clubs/208705/group_events/339255344431
- 8075416Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ 8075416Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/3392553444318075416
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 UID:3417086631128256728@strava.com
 DTSTART;TZID=Europe/London:20251030T190000
 DTEND;TZID=Europe/London:20251030T200000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Thursday Run | Beginner
 DESCRIPTION:Leader: Boris Kachscovsky\nDifficulty: Beginner\nTerrain: Road\
  n\nSarah will be leading this run - I just created it on her behalf 😊\n\
@@ -189,7 +189,7 @@ DESCRIPTION:Leader: Boris Kachscovsky\nDifficulty: Beginner\nTerrain: Road\
  d torches please.\n\nThere is an option for a debrief in the Morgan pub\, i
  f you wish.\n\nAny questions: Sarah [Phone Number Redacted]"\n\nView on Str
  ava: https://www.strava.com/clubs/208705/group_events/3417086631128256728\n
- \nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ \nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Boris KachscovskyDifficulty: BeginnerT
  errain: RoadSarah will be leading this run - I just created it on her behal
  f 😊"We shall meet at the bus stop at the bottom of the Avenue and run ab
@@ -197,7 +197,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Boris KachscovskyDifficulty: BeginnerT
  nd torches please.There is an option for a debrief in the Morgan pub\, if y
  ou wish.Any questions: Sarah [Phone Number Redacted]"View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3417086631128256728Synced from S
- trava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ trava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Barnard's green bus stop
 URL:https://www.strava.com/clubs/208705/group_events/3417086631128256728
 CATEGORIES:Running,Club Event
@@ -206,20 +206,20 @@ BEGIN:VEVENT
 UID:3416742655423209688@strava.com
 DTSTART;TZID=Europe/London:20251030T190000
 DTEND;TZID=Europe/London:20251030T200000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Thursday Run  | Intermediate
 DESCRIPTION:Leader: Barbara Gawlak\nDifficulty: Intermediate\nTerrain: Road
  \n\nA 10km road run out around Barnards Green and surrounding areas. Aiming
   to complete the run within an hour. \nPace 5.15-5.30min/km. \nHigh Viz and
   lights are essential! \n\nBarbara [Phone Number Redacted]\n\nView on Strav
  a: https://www.strava.com/clubs/208705/group_events/3416742655423209688\n\n
- Synced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ Synced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Barbara GawlakDifficulty: Intermediate
  Terrain: RoadA 10km road run out around Barnards Green and surrounding area
  s. Aiming to complete the run within an hour. Pace 5.15-5.30min/km. High Vi
  z and lights are essential! Barbara [Phone Number Redacted]View on Strava: 
  https://www.strava.com/clubs/208705/group_events/3416742655423209688Synced 
- from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Barnards Green bus stop 
 URL:https://www.strava.com/clubs/208705/group_events/3416742655423209688
 CATEGORIES:Running,Club Event
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 UID:2171556@strava.com
 DTSTART;TZID=Europe/London:20251031T063000
 DTEND;TZID=Europe/London:20251031T073000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Rise & Run | Beginner
 DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\nTerrain: Trail\n
  \n**Rise & Run**\n\nWeekly run of approximately 5km on the hills to start y
@@ -238,7 +238,7 @@ DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\nTerrain: Trail\n
  dens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember
   to click out if you can no longer make it.\n\nHannah \n[Phone Number Redac
  ted]\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/21
- 71556\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ 71556\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonDifficulty: BeginnerTer
  rain: Trail**Rise & Run**Weekly run of approximately 5km on the hills to st
  art your day.Pace: We will average between 8-9min/km overall. Running the f
@@ -247,7 +247,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonDifficulty: BeginnerTer
  es needed for the start of the run now!Please remember to click out if you 
  can no longer make it.Hannah [Phone Number Redacted]View on Strava: https:/
  /www.strava.com/clubs/208705/group_events/2171556Synced from Strava Club 20
- 8705 on: Sun\, 26 Oct @ 4:32 AM
+ 8705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Rosebank Gardens
 URL:https://www.strava.com/clubs/208705/group_events/2171556
 CATEGORIES:Running,Club Event
@@ -256,7 +256,7 @@ BEGIN:VEVENT
 UID:3415250384771630020@strava.com
 DTSTART;TZID=Europe/London:20251101T083000
 DTEND;TZID=Europe/London:20251101T093000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Buzzard Cross Country Route Trial | Intermediate
 DESCRIPTION:Leader: Andrew Kenchington\nDifficulty: Intermediate\nTerrain: 
  Trail\n\nMeet at gate entry to bottom of Common by railway bridge on Thirls
@@ -267,7 +267,7 @@ DESCRIPTION:Leader: Andrew Kenchington\nDifficulty: Intermediate\nTerrain:
  we go. \n\nExpected around 7 miles total and finish by 10 latest. Wear off 
  road or spikes! \n\nAny queries - Andy K [Phone Number Redacted].\n\nView o
  n Strava: https://www.strava.com/clubs/208705/group_events/3415250384771630
- 020\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ 020\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew KenchingtonDifficulty: Intermed
  iateTerrain: TrailMeet at gate entry to bottom of Common by railway bridge 
  on Thirlstane Road. We will then go onto Common to test run the new Buzzard
@@ -277,7 +277,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew KenchingtonDifficulty: Intermed
  as we go. Expected around 7 miles total and finish by 10 latest. Wear off r
  oad or spikes! Any queries - Andy K [Phone Number Redacted].View on Strava:
   https://www.strava.com/clubs/208705/group_events/3415250384771630020Synced
-  from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+  from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Malvern college\, thirlstane road
 URL:https://www.strava.com/clubs/208705/group_events/3415250384771630020
 CATEGORIES:Running,Club Event
@@ -286,18 +286,18 @@ BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20251102T080000
 DTEND;TZID=Europe/London:20251102T090000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\nTerrain: Trail\
  n\nThere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7
   min km Intermediate level - [Phone Number Redacted]\n\nView on Strava: htt
  ps://www.strava.com/clubs/208705/group_events/1457866\n\nSynced from Strava
-  Club 208705 on Sun\, 26 Oct @ 4:32 AM
+  Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTe
  rrain: TrailThere'll be hills - various routes.  10 miles / 16km. Pace betw
  een 6 & 7 min km Intermediate level - [Phone Number Redacted]View on Strava
  : https://www.strava.com/clubs/208705/group_events/1457866Synced from Strav
- a Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ a Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Wyche Cutting\, Malvern\, WR13 6PJ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/1457866
 CATEGORIES:Running,Club Event
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 UID:2111840@strava.com
 DTSTART;TZID=Europe/London:20251109T090000
 DTEND;TZID=Europe/London:20251109T100000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Monopoly Board\, London (Grand Day Out) 16 Miles In 5-6 Hours | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nBuz
  zard Grand Day Out to London to run the "Monopoly Board". This is a 16 mile
@@ -318,7 +318,7 @@ DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nBuz
  rab a few "sets" if you want the day out.\n\nDo not pass Go\, do not collec
  t £200...\n\nSim Buzzard and Julie Slack\n[Phone Number Redacted]\n\nView 
  on Strava: https://www.strava.com/clubs/208705/group_events/2111840\n\nSync
- ed from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ ed from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  : RoadBuzzard Grand Day Out to London to run the "Monopoly Board". This is 
  a 16 mile run and we have about 5 -6 hours to do it.Train leaves GMV about 
@@ -329,7 +329,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
   few "sets" if you want the day out.Do not pass Go\, do not collect £200..
  .Sim Buzzard and Julie Slack[Phone Number Redacted]View on Strava: https://
  www.strava.com/clubs/208705/group_events/2111840Synced from Strava Club 208
- 705 on: Sun\, 26 Oct @ 4:32 AM
+ 705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Great Malvern Station
 URL:https://www.strava.com/clubs/208705/group_events/2111840
 CATEGORIES:Running,Club Event
@@ -338,7 +338,7 @@ BEGIN:VEVENT
 UID:1985882@strava.com
 DTSTART;TZID=Europe/London:20251114T190000
 DTEND;TZID=Europe/London:20251114T200000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:WBUH Firewalk **Not A Run** | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Mixed\n\nFi
  nal "Elements" event from Worcestershire Breast Unit Haven (WBUH) is a fire
@@ -347,7 +347,7 @@ DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Mixed\n\nFi
  BUH directly. Links will be shared on our other platforms due to Strava's s
  illy ban on them.\n\nFeet of fire 🔥 make you faster I am told....\n\nVie
  w on Strava: https://www.strava.com/clubs/208705/group_events/1985882\n\nSy
- nced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ nced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  : MixedFinal "Elements" event from Worcestershire Breast Unit Haven (WBUH) 
  is a firewalk 🔥 Venue and timings to be confirmed but another placeholde
@@ -355,7 +355,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  WBUH directly. Links will be shared on our other platforms due to Strava's 
  silly ban on them.Feet of fire 🔥 make you faster I am told....View on St
  rava: https://www.strava.com/clubs/208705/group_events/1985882Synced from S
- trava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ trava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:TBC
 URL:https://www.strava.com/clubs/208705/group_events/1985882
 CATEGORIES:Running,Club Event
@@ -364,20 +364,20 @@ BEGIN:VEVENT
 UID:3411241455336834270@strava.com
 DTSTART;TZID=Europe/London:20251115T080000
 DTEND;TZID=Europe/London:20251115T090000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Club Photo (NOT A RUN) | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\nAnn
  ual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun 
  Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and
   something pink/blue/white if you don't. \n\n\nView on Strava: https://www.
  strava.com/clubs/208705/group_events/3411241455336834270\n\nSynced from Str
- ava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ ava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  : RoadAnnual club photo in the Rosebank Gardens. Timed to allow regular par
  krun Buzzards to make their 0900 start. Please wear club kit if you have an
  d something pink/blue/white if you don't. View on Strava: https://www.strav
  a.com/clubs/208705/group_events/3411241455336834270Synced from Strava Club 
- 208705 on: Sun\, 26 Oct @ 4:32 AM
+ 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Rosebank Gardens
 URL:https://www.strava.com/clubs/208705/group_events/3411241455336834270
 CATEGORIES:Running,Club Event
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 UID:3414215569911744646@strava.com
 DTSTART;TZID=Europe/London:20251115T080000
 DTEND;TZID=Europe/London:20251115T090000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Not a run London Marathon Reject draw | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nIf
   you have a London Marathon reject email\, then you are eligible for this d
@@ -395,7 +395,7 @@ DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nIf
   draw.\nPlease click in so that we have your names to put in our famous gol
  den hat. \nAny questions Sarah [Phone Number Redacted]\n\nView on Strava: h
  ttps://www.strava.com/clubs/208705/group_events/3414215569911744646\n\nSync
- ed from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ ed from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  n: RoadIf you have a London Marathon reject email\, then you are eligible f
  or this draw. We have coincided this to be done at the same time as the clu
@@ -403,7 +403,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
   do the draw.Please click in so that we have your names to put in our famou
  s golden hat. Any questions Sarah [Phone Number Redacted]View on Strava: ht
  tps://www.strava.com/clubs/208705/group_events/3414215569911744646Synced fr
- om Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ om Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Rosebank Gardens
 URL:https://www.strava.com/clubs/208705/group_events/3414215569911744646
 CATEGORIES:Running,Club Event
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 UID:3394381358581372894@strava.com
 DTSTART;TZID=Europe/London:20251116T113000
 DTEND;TZID=Europe/London:20251116T123000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:*League event* HBXC Winter XC: Race #2 Croft Ambrey  | Beginner
 DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\nTerrain: Mixed\n\n
  Winter XC Race #2 hosted by Croft Ambrey. The race is approx. 10km (6 miles
@@ -422,7 +422,7 @@ DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\nTerrain: Mixed\n\n
  d in to as many of these as possible\, so please get involved. \n\nMore inf
  ormation to follow.\n\nView on Strava: https://www.strava.com/clubs/208705/
  group_events/3394381358581372894\n\nSynced from Strava Club 208705 on Sun\,
-  26 Oct @ 4:32 AM
+  26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerTerra
  in: MixedWinter XC Race #2 hosted by Croft Ambrey. The race is approx. 10km
   (6 miles)  in length on varying terrain (mainly off road).This is also the
@@ -431,7 +431,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerTerra
  ed in to as many of these as possible\, so please get involved. More inform
  ation to follow.View on Strava: https://www.strava.com/clubs/208705/group_e
  vents/3394381358581372894Synced from Strava Club 208705 on: Sun\, 26 Oct @ 
- 4:32 AM
+ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/3394381358581372894
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -439,7 +439,7 @@ BEGIN:VEVENT
 UID:3405493636671738844@strava.com
 DTSTART;TZID=Europe/London:20251117T183000
 DTEND;TZID=Europe/London:20251117T193000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Pre celebration run | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nTh
  is run is aimed at the latest Take Flight cohort\, any previous TF cohorts\
@@ -449,7 +449,7 @@ DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nTh
  n where we shall have chilli and refreshments.\nPlease click into both even
  ts  if you wish to have chilli.\nAny questions Sarah [Phone Number Redacted
  ]\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/34054
- 93636671738844\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ 93636671738844\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  n: RoadThis run is aimed at the latest Take Flight cohort\, any previous TF
   cohorts\, any supporters and club members. We shall meet at the bandstand 
@@ -458,7 +458,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  d Lion where we shall have chilli and refreshments.Please click into both e
  vents  if you wish to have chilli.Any questions Sarah [Phone Number Redacte
  d]View on Strava: https://www.strava.com/clubs/208705/group_events/34054936
- 36671738844Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ 36671738844Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Priory Park
 URL:https://www.strava.com/clubs/208705/group_events/3405493636671738844
 CATEGORIES:Running,Club Event
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 UID:3405491541734617052@strava.com
 DTSTART;TZID=Europe/London:20251117T191500
 DTEND;TZID=Europe/London:20251117T201500
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Not a run\, Take Flight Celebration  | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nTh
  is celebration is aimed at anyone who has done Take Flight or who has suppo
@@ -479,7 +479,7 @@ DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nTh
   numbers for food.\n\nI shall then contact you for payment.\nAny questions 
  Sarah [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clu
  bs/208705/group_events/3405491541734617052\n\nSynced from Strava Club 20870
- 5 on Sun\, 26 Oct @ 4:32 AM
+ 5 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  n: RoadThis celebration is aimed at anyone who has done Take Flight or who 
  has supported Take Flight. We want to celebrate our new cohort and all the 
@@ -490,7 +490,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
   on numbers for food.I shall then contact you for payment.Any questions Sar
  ah [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/2087
  05/group_events/3405491541734617052Synced from Strava Club 208705 on: Sun\,
-  26 Oct @ 4:32 AM
+  26 Oct @ 4:48 AM
 LOCATION:Red Lion
 URL:https://www.strava.com/clubs/208705/group_events/3405491541734617052
 CATEGORIES:Running,Club Event
@@ -499,7 +499,7 @@ BEGIN:VEVENT
 UID:3415714991688652934@strava.com
 DTSTART;TZID=Europe/London:20251121T193000
 DTEND;TZID=Europe/London:20251121T203000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Skittles Night (and draw for London Marathon place). NOT A RUN | Beginner
 DESCRIPTION:Leader: Andrew Dickenson\nDifficulty: Beginner\n\nA return of t
  he Buzzards Skittles night\, and another chance to discover it really is ha
@@ -509,7 +509,7 @@ DESCRIPTION:Leader: Andrew Dickenson\nDifficulty: Beginner\n\nA return of t
  e Sarah's post for how to get entries and the chance to run London (open to
   all 1st claim members). But\, come for the skittles anyway. \n\nView on St
  rava: https://www.strava.com/clubs/208705/group_events/3415714991688652934\
- n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew DickensonDifficulty: BeginnerA 
  return of the Buzzards Skittles night\, and another chance to discover it r
  eally is harder than it looks. Hopefully we can get a good number of Buzzar
@@ -518,7 +518,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew DickensonDifficulty: BeginnerA
   event\; see Sarah's post for how to get entries and the chance to run Lond
  on (open to all 1st claim members). But\, come for the skittles anyway. Vie
  w on Strava: https://www.strava.com/clubs/208705/group_events/3415714991688
- 652934Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ 652934Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/3415714991688652934
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -526,7 +526,7 @@ BEGIN:VEVENT
 UID:3416356031218992438@strava.com
 DTSTART;TZID=Europe/London:20251121T200000
 DTEND;TZID=Europe/London:20251121T210000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:London Marathon draw *not a run* | Beginner
 DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nLo
  ndon Marathon Places 2026\nIf you wish to be in the draw for the other plac
@@ -538,7 +538,7 @@ DESCRIPTION:Leader: Sarah Fowkes\nDifficulty: Beginner\nTerrain: Road\n\nLo
  een confirmed\, I shall let you know when the raffle is open and how to lab
  el the donation.\n\nPlease click in if you wish to be in the draw.\n\nView 
  on Strava: https://www.strava.com/clubs/208705/group_events/341635603121899
- 2438\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:32 AM
+ 2438\n\nSynced from Strava Club 208705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  n: RoadLondon Marathon Places 2026If you wish to be in the draw for the oth
  er place (open to any first claim member)\,  the selection will be made by 
@@ -549,7 +549,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesDifficulty: BeginnerTerrai
  s been confirmed\, I shall let you know when the raffle is open and how to 
  label the donation.Please click in if you wish to be in the draw.View on St
  rava: https://www.strava.com/clubs/208705/group_events/3416356031218992438S
- ynced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ ynced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/3416356031218992438
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 UID:2155136@strava.com
 DTSTART;TZID=Europe/London:20251129T090000
 DTEND;TZID=Europe/London:20251129T100000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Saturday Expedition | Intermediate
 DESCRIPTION:Leader: Julie Slack\nDifficulty: Intermediate\nTerrain: Trail\n
  \nMeet at the Car park for a 09:00am start. A circular route starting in Wi
@@ -570,7 +570,7 @@ DESCRIPTION:Leader: Julie Slack\nDifficulty: Intermediate\nTerrain: Trail\n
  / keep in touch so that our start is prompt. Thank you. \n\nLiRF: Julie Sla
  ck [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/
  208705/group_events/2155136\n\nSynced from Strava Club 208705 on Sun\, 26 O
- ct @ 4:32 AM
+ ct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackDifficulty: IntermediateTer
  rain: TrailMeet at the Car park for a 09:00am start. A circular route start
  ing in Winchcombe. About 15km with approximately 450m elevation. This is a 
@@ -581,7 +581,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackDifficulty: IntermediateTer
  ng water and whatever are you nutrition requiements. Please click out / kee
  p in touch so that our start is prompt. Thank you. LiRF: Julie Slack [Phone
   Number Redacted]View on Strava: https://www.strava.com/clubs/208705/group_
- events/2155136Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ events/2155136Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Winchcombe Back Lane Car Park\, Back Ln\, Cheltenham\, GL54 5PZ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/2155136
 CATEGORIES:Running,Club Event
@@ -590,7 +590,7 @@ BEGIN:VEVENT
 UID:3394382327576638940@strava.com
 DTSTART;TZID=Europe/London:20251207T113000
 DTEND;TZID=Europe/London:20251207T123000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:HBXC Winter XC: Race #3
 DESCRIPTION:Leader: Andrew Elwood\n\nRace #3 of the Winter XC series. Host 
  club is TBD so more information will follow once I know.\n\nThe route will 
@@ -598,14 +598,14 @@ DESCRIPTION:Leader: Andrew Elwood\n\nRace #3 of the Winter XC series. Host
  t and a nice way to meet people and compete against other clubs.\n\nPlease 
  click in if you are interested. \n\nView on Strava: https://www.strava.com/
  clubs/208705/group_events/3394382327576638940\n\nSynced from Strava Club 20
- 8705 on Sun\, 26 Oct @ 4:32 AM
+ 8705 on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodRace #3 of the Winter XC 
  series. Host club is TBD so more information will follow once I know.The ro
  ute will be approx. 10km (6 miles) on varying terrain. It should be a good 
  club event and a nice way to meet people and compete against other clubs.Pl
  ease click in if you are interested. View on Strava: https://www.strava.com
  /clubs/208705/group_events/3394382327576638940Synced from Strava Club 20870
- 5 on: Sun\, 26 Oct @ 4:32 AM
+ 5 on: Sun\, 26 Oct @ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/3394382327576638940
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -613,7 +613,7 @@ BEGIN:VEVENT
 UID:3397472338987462066@strava.com
 DTSTART;TZID=Europe/London:20251213T170000
 DTEND;TZID=Europe/London:20251213T180000
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:Worcestershire County XC Championships 2025 | Beginner
 DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\n202
  5 Worcestershire County XC Championships\nDate is Saturday 13th December\, 
@@ -624,7 +624,7 @@ DESCRIPTION:Leader: Sim Buzzard\nDifficulty: Beginner\nTerrain: Road\n\n202
  oing to be holding a joint Championships with Warwickshire.\nAge groups U11
   to Seniors.\n\n\nView on Strava: https://www.strava.com/clubs/208705/group
  _events/3397472338987462066\n\nSynced from Strava Club 208705 on Sun\, 26 O
- ct @ 4:32 AM
+ ct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  : Road2025 Worcestershire County XC ChampionshipsDate is Saturday 13th Dece
  mber\, Venue is Warley Woods Smethwick.Entries are now open for the County 
@@ -633,7 +633,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardDifficulty: BeginnerTerrain
  an be found on the file below.Worcestershire as hosts\, are once again goin
  g to be holding a joint Championships with Warwickshire.Age groups U11 to S
  eniors.View on Strava: https://www.strava.com/clubs/208705/group_events/339
- 7472338987462066Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:32 AM
+ 7472338987462066Synced from Strava Club 208705 on: Sun\, 26 Oct @ 4:48 AM
 LOCATION:Warley Woods
 URL:https://www.strava.com/clubs/208705/group_events/3397472338987462066
 CATEGORIES:Running,Club Event
@@ -642,7 +642,7 @@ BEGIN:VEVENT
 UID:2160491@strava.com
 DTSTART;TZID=Europe/London:20251214T101500
 DTEND;TZID=Europe/London:20251214T111500
-DTSTAMP:20251026T043238Z
+DTSTAMP:20251026T044828Z
 SUMMARY:* League event* Telford 10k | Beginner
 DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\nTerrain: Road\n\nA 
  new addition to this year’s league and apparently statistically proven as
@@ -651,7 +651,7 @@ DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\nTerrain: Road\n\nA
  Telford Town Park\, and the Silkin Way (a former railway line). \n\nEntries
   and info at atwevents (dot) co (dot) uk\n\nView on Strava: https://www.str
  ava.com/clubs/208705/group_events/2160491\n\nSynced from Strava Club 208705
-  on Sun\, 26 Oct @ 4:32 AM
+  on Sun\, 26 Oct @ 4:48 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesDifficulty: BeginnerTerrai
  n: RoadA new addition to this year’s league and apparently statistically 
  proven as the fastest 10k course in the UK\, for those looking for a PB. Th
@@ -659,7 +659,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesDifficulty: BeginnerTerrai
  se using Telford Town Park\, and the Silkin Way (a former railway line). En
  tries and info at atwevents (dot) co (dot) ukView on Strava: https://www.st
  rava.com/clubs/208705/group_events/2160491Synced from Strava Club 208705 on
- : Sun\, 26 Oct @ 4:32 AM
+ : Sun\, 26 Oct @ 4:48 AM
 URL:https://www.strava.com/clubs/208705/group_events/2160491
 CATEGORIES:Running,Club Event
 END:VEVENT

@@ -42,6 +42,18 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3418239673966744014,
+    "title": "***League event*** Forest of  Dean: Christmas Tree Race",
+    "start": "2025-12-21T10:00:00Z",
+    "end": "2025-12-21T11:00:00Z",
+    "description": "The final and potentially deciding race of the 2025 league. Great off road route through the trails and footpaths of the forest of dean. There will be lots of mud, puddles and hills and soup and roll for all!\n\nEntries have just opened at:\nwww(dot)fabian4(dot)co(dot)uk",
+    "url": "https://www.strava.com/clubs/208705/group_events/3418239673966744014",
+    "location": "Ellwood Football Club, Bromley Rd, Coleford, GL16 7LY, United Kingdom",
+    "organizer": "Sarah Reeves",
+    "skill_levels": 1,
+    "terrain": 1
+  },
+  {
     "id": 2160491,
     "title": "* League event* Telford 10k",
     "start": "2025-12-14T10:15:00Z",
@@ -147,18 +159,6 @@
     "terrain": 2
   },
   {
-    "id": 3411241455336834270,
-    "title": "Club Photo (NOT A RUN)",
-    "start": "2025-11-15T08:00:00Z",
-    "end": "2025-11-15T09:00:00Z",
-    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
-    "location": "Rosebank Gardens",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3414215569911744646,
     "title": "Not a run London Marathon Reject draw",
     "start": "2025-11-15T08:00:00Z",
@@ -167,6 +167,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
     "location": "Rosebank Gardens",
     "organizer": "Sarah Fowkes",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
+    "id": 3411241455336834270,
+    "title": "Club Photo (NOT A RUN)",
+    "start": "2025-11-15T08:00:00Z",
+    "end": "2025-11-15T09:00:00Z",
+    "description": "Annual club photo in the Rosebank Gardens. \n\nTimed to allow regular parkrun Buzzards to make their 0900 start. \n\nPlease wear club kit if you have and something pink/blue/white if you don't. \n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
+    "location": "Rosebank Gardens",
+    "organizer": "Sim Buzzard",
     "skill_levels": 1,
     "terrain": 0
   },

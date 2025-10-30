@@ -159,6 +159,18 @@
     "terrain": 2
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2025-11-16T08:00:00Z",
+    "end": "2025-11-16T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2,
+    "terrain": 1
+  },
+  {
     "id": 3418293979393318350,
     "title": "Hill Run after Club Photo",
     "start": "2025-11-15T08:30:00Z",
@@ -265,18 +277,6 @@
     "organizer": "Julie Slack",
     "skill_levels": 1,
     "terrain": 0
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2025-11-02T08:00:00Z",
-    "end": "2025-11-02T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2,
-    "terrain": 1
   },
   {
     "id": 3415250384771630020,

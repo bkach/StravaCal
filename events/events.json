@@ -219,18 +219,6 @@
     "terrain": 2
   },
   {
-    "id": 3420399954983601810,
-    "title": "Simtervals 400m Session (Evening) Your pace ",
-    "start": "2025-11-11T19:00:00Z",
-    "end": "2025-11-11T20:00:00Z",
-    "description": "Structured interval session. Maxim of 60 mins and 5 miles. Your 5k pace.\n\nMeet at bus stop by Malvern Spa (opposite Aldi). \n\nYou will be in sight of all other participants at all times.\n\n10 reps is advanced session. 8 intermediate and 6 beginner. \n\nHigh Viz please.\n\nLiRF: Sim [Phone Number Redacted]\n\nClick out if you can't make it. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3420399954983601810",
-    "location": "Malvern Spa",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3402005019504481140,
     "title": "Tuesday 10k",
     "start": "2025-11-11T19:00:00Z",
@@ -239,6 +227,18 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
     "location": "",
     "organizer": "Julie Slack",
+    "skill_levels": 1,
+    "terrain": 0
+  },
+  {
+    "id": 3420399954983601810,
+    "title": "Intervals - 400m Session (Evening) Your pace ",
+    "start": "2025-11-11T19:00:00Z",
+    "end": "2025-11-11T20:00:00Z",
+    "description": "Structured interval session. Maxim of 60 mins and 5 miles. Your 5k pace.\n\nMeet at bus stop by Malvern Spa (opposite Aldi). \n\nYou will be in sight of all other participants at all times.\n\n10 reps is advanced session. 8 intermediate and 6 beginner. \n\nHigh Viz please.\n\nLiRF: Sim [Phone Number Redacted] (with Boris leading if my train is delayed)\n\nClick out if you can't make it. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3420399954983601810",
+    "location": "Malvern Spa",
+    "organizer": "Sim Buzzard",
     "skill_levels": 1,
     "terrain": 0
   },

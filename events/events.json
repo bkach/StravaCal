@@ -8,8 +8,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/2089682",
     "location": "Worcester",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3394384294634509798,
@@ -50,8 +49,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3418239673966744014",
     "location": "Ellwood Football Club, Bromley Rd, Coleford, GL16 7LY, United Kingdom",
     "organizer": "Sarah Reeves",
-    "skill_levels": 1,
-    "terrain": 1
+    "skill_levels": 1
   },
   {
     "id": 2160491,
@@ -62,8 +60,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/2160491",
     "location": "",
     "organizer": "Sarah Reeves",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3397472338987462066,
@@ -74,8 +71,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3397472338987462066",
     "location": "Warley Woods",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3394382327576638940,
@@ -96,8 +92,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/2155136",
     "location": "Winchcombe Back Lane Car Park, Back Ln, Cheltenham, GL54 5PZ, United Kingdom",
     "organizer": "Julie Slack",
-    "skill_levels": 2,
-    "terrain": 1
+    "skill_levels": 2
   },
   {
     "id": 3416356031218992438,
@@ -108,8 +103,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3416356031218992438",
     "location": "",
     "organizer": "Sarah Fowkes",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3415714991688652934,
@@ -131,8 +125,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3405491541734617052",
     "location": "Red Lion",
     "organizer": "Sarah Fowkes",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3405493636671738844,
@@ -143,8 +136,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3405493636671738844",
     "location": "Priory Park",
     "organizer": "Sarah Fowkes",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3394381358581372894,
@@ -155,8 +147,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3394381358581372894",
     "location": "",
     "organizer": "Andrew Elwood",
-    "skill_levels": 1,
-    "terrain": 2
+    "skill_levels": 1
   },
   {
     "id": 1457866,
@@ -167,8 +158,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/1457866",
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
-    "skill_levels": 2,
-    "terrain": 1
+    "skill_levels": 2
   },
   {
     "id": 3418293979393318350,
@@ -179,8 +169,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
     "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
     "organizer": "Andy Dingley",
-    "skill_levels": 2,
-    "terrain": 1
+    "skill_levels": 2
   },
   {
     "id": 3414215569911744646,
@@ -191,8 +180,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
     "location": "Rosebank Gardens",
     "organizer": "Sarah Fowkes",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3411241455336834270,
@@ -203,8 +191,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3411241455336834270",
     "location": "Rosebank Gardens",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 1985882,
@@ -215,8 +202,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/1985882",
     "location": "TBC",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 2
+    "skill_levels": 1
   },
   {
     "id": 3392553444318075416,
@@ -227,8 +213,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
     "location": "",
     "organizer": "Lily Price",
-    "skill_levels": 2,
-    "terrain": 1
+    "skill_levels": 2
   },
   {
     "id": 1892059,
@@ -239,8 +224,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/1892059",
     "location": "Wyche Cutting Bus Stop",
     "organizer": "Andy Dingley",
-    "skill_levels": 2,
-    "terrain": 1
+    "skill_levels": 2
   },
   {
     "id": 3402005019504481140,
@@ -251,8 +235,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3402005019504481140",
     "location": "",
     "organizer": "Julie Slack",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3420399954983601810,
@@ -263,8 +246,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3420399954983601810",
     "location": "Malvern Spa",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 2111840,
@@ -275,8 +257,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/2111840",
     "location": "Great Malvern Station",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1,
-    "terrain": 0
+    "skill_levels": 1
   },
   {
     "id": 3418971114185778128,
@@ -287,8 +268,7 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3418971114185778128",
     "location": "Waitrose, Graham Rd, Malvern, WR14 4WR, United Kingdom",
     "organizer": "Julie Slack",
-    "skill_levels": 1,
-    "terrain": 2
+    "skill_levels": 1
   },
   {
     "id": 2171556,
@@ -299,7 +279,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/2171556",
     "location": "Rosebank Gardens",
     "organizer": "Hannah Thompson",
-    "skill_levels": 1,
-    "terrain": 1
+    "skill_levels": 1
   }
 ]

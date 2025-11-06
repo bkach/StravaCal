@@ -219,6 +219,18 @@
     "terrain": 2
   },
   {
+    "id": 3392553444318075416,
+    "title": "Thursday Hills ",
+    "start": "2025-11-13T18:30:00Z",
+    "end": "2025-11-13T19:30:00Z",
+    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
+    "location": "",
+    "organizer": "Lily Price",
+    "skill_levels": 2,
+    "terrain": 1
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2025-11-12T18:00:00Z",
@@ -291,18 +303,6 @@
     "terrain": 1
   },
   {
-    "id": 3418973280890416410,
-    "title": "‘Thinking about a run?’ Thursday",
-    "start": "2025-11-06T19:00:00Z",
-    "end": "2025-11-06T20:00:00Z",
-    "description": "Meet by the entrance to Waitrose. \n\n5-6 k run at about 7 min/ km\n\nOptional debrief at Weavers post run. \n\nHi viz and head/ chest lights for safety please. \nLead by : Julie Slack\nAny questions message [Phone Number Redacted]\nIf you become unable to attend please click out. \n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3418973280890416410",
-    "location": "Waitrose, Graham Rd, Malvern, WR14 4WR, United Kingdom",
-    "organizer": "Julie Slack",
-    "skill_levels": 1,
-    "terrain": 0
-  },
-  {
     "id": 3419845375842499664,
     "title": "Thursday 10k (intermediate)",
     "start": "2025-11-06T19:00:00Z",
@@ -315,15 +315,15 @@
     "terrain": 0
   },
   {
-    "id": 3392553444318075416,
-    "title": "Thursday Hills ",
-    "start": "2025-11-06T18:30:00Z",
-    "end": "2025-11-06T19:30:00Z",
-    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
-    "location": "",
-    "organizer": "Lily Price",
-    "skill_levels": 2,
-    "terrain": 1
+    "id": 3418973280890416410,
+    "title": "‘Thinking about a run?’ Thursday",
+    "start": "2025-11-06T19:00:00Z",
+    "end": "2025-11-06T20:00:00Z",
+    "description": "Meet by the entrance to Waitrose. \n\n5-6 k run at about 7 min/ km\n\nOptional debrief at Weavers post run. \n\nHi viz and head/ chest lights for safety please. \nLead by : Julie Slack\nAny questions message [Phone Number Redacted]\nIf you become unable to attend please click out. \n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3418973280890416410",
+    "location": "Waitrose, Graham Rd, Malvern, WR14 4WR, United Kingdom",
+    "organizer": "Julie Slack",
+    "skill_levels": 1,
+    "terrain": 0
   }
 ]

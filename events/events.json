@@ -95,6 +95,17 @@
     "skill_levels": 2
   },
   {
+    "id": 3421927736331136424,
+    "title": "Cross Country Training",
+    "start": "2025-11-29T08:30:00Z",
+    "end": "2025-11-29T09:30:00Z",
+    "description": "Meet by the Buzzards in Rosebank. Warm up jog down to Common. Then a series of loops/hill interval efforts on the Buzzard XC course. All at own effort and regrouping regularly so no-one left behind. Finish with cool down jog back to Rosebank. Total approx. 7 miles. Off-road shoes needed. Any queries handy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421927736331136424",
+    "location": "Rosebank Gardens",
+    "organizer": "Andrew Kenchington",
+    "skill_levels": 2
+  },
+  {
     "id": 3416356031218992438,
     "title": "London Marathon draw *not a run*",
     "start": "2025-11-21T20:00:00Z",
@@ -161,17 +172,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3418293979393318350,
-    "title": "Hill Run after Club Photo",
-    "start": "2025-11-15T08:30:00Z",
-    "end": "2025-11-15T09:30:00Z",
-    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
-    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
-  },
-  {
     "id": 3421894797180117846,
     "title": "Post Photo Run (+ ☕)",
     "start": "2025-11-15T08:30:00Z",
@@ -180,6 +180,17 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
     "location": "Rose Bank Gardens",
     "organizer": "Andrew Elwood",
+    "skill_levels": 2
+  },
+  {
+    "id": 3418293979393318350,
+    "title": "Hill Run after Club Photo",
+    "start": "2025-11-15T08:30:00Z",
+    "end": "2025-11-15T09:30:00Z",
+    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Andy Dingley",
     "skill_levels": 2
   },
   {

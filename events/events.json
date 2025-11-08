@@ -172,17 +172,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3418293979393318350,
-    "title": "Hill Run after Club Photo",
-    "start": "2025-11-15T08:30:00Z",
-    "end": "2025-11-15T09:30:00Z",
-    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
-    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
-  },
-  {
     "id": 3421894797180117846,
     "title": "Post Photo Run (+ ☕)",
     "start": "2025-11-15T08:30:00Z",
@@ -191,6 +180,17 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
     "location": "Rose Bank Gardens",
     "organizer": "Andrew Elwood",
+    "skill_levels": 2
+  },
+  {
+    "id": 3418293979393318350,
+    "title": "Hill Run after Club Photo",
+    "start": "2025-11-15T08:30:00Z",
+    "end": "2025-11-15T09:30:00Z",
+    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Andy Dingley",
     "skill_levels": 2
   },
   {
@@ -260,6 +260,17 @@
     "skill_levels": 1
   },
   {
+    "id": 3421819985871462004,
+    "title": "It’s a run and it’s Thursday",
+    "start": "2025-11-13T19:00:00Z",
+    "end": "2025-11-13T20:00:00Z",
+    "description": "I’m back from my travels! \nWe shall meet in the car park by Victoria Park and run around 5k in about 35 to 40 minutes.\nPlease wear high viz and head/chest torches. \n\nAny questions: Sarah [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421819985871462004",
+    "location": "(52.1263, -2.3118)",
+    "organizer": "Sarah Fowkes",
+    "skill_levels": 1
+  },
+  {
     "id": 3422181714355573052,
     "title": "Thursday Run Victoria Park ",
     "start": "2025-11-13T19:00:00Z",
@@ -271,15 +282,15 @@
     "skill_levels": 2
   },
   {
-    "id": 3421819985871462004,
-    "title": "It’s a run and it’s Thursday",
+    "id": 3421821297774869576,
+    "title": "Thursday Run- Vicky Park",
     "start": "2025-11-13T19:00:00Z",
     "end": "2025-11-13T20:00:00Z",
-    "description": "I’m back from my travels! \nWe shall meet in the car park by Victoria Park and run around 5k in about 35 to 40 minutes.\nPlease wear high viz and head/chest torches. \n\nAny questions: Sarah [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421819985871462004",
-    "location": "(52.1263, -2.3118)",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1
+    "description": "A change is as good as a holiday! \n\nWe're mixing things up a little and running from some different locations to offer variety and unlock some different routes. \n\nThis week we'll run from Victoria Park in Malvern Link and do our normal 10km run. Pace 5.10-5.30min/km. \nIt should take up to 1 hour or a tad less. \n\nHigh Viz and lights are essential!!! \n\nPlease note: \n\nOptional debrief will be agreed at the beginning of each run, so people can still go for a drink at the nearest pub if they wish to and maintain the social element. 🙂\n\nBarbara [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421821297774869576",
+    "location": "Victoria Park",
+    "organizer": "Barbara Gawlak",
+    "skill_levels": 2
   },
   {
     "id": 3392553444318075416,

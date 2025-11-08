@@ -172,17 +172,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3421894797180117846,
-    "title": "Post Photo Run (+ ☕)",
-    "start": "2025-11-15T08:30:00Z",
-    "end": "2025-11-15T09:30:00Z",
-    "description": "Intermediate 8km after the Buzzard Photo in the morning. Will stick to roads and keep it short. \n\nDistance: 8km\nTime: ~45mins\nPlace: 5:00-5:45 / km\n\nOptional debrief for coffee afterwards if you want. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
-    "location": "Rose Bank Gardens",
-    "organizer": "Andrew Elwood",
-    "skill_levels": 2
-  },
-  {
     "id": 3418293979393318350,
     "title": "Hill Run after Club Photo",
     "start": "2025-11-15T08:30:00Z",
@@ -191,6 +180,17 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
     "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
     "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
+    "id": 3421894797180117846,
+    "title": "Post Photo Run (+ ☕)",
+    "start": "2025-11-15T08:30:00Z",
+    "end": "2025-11-15T09:30:00Z",
+    "description": "Intermediate 8km after the Buzzard Photo in the morning. Will stick to roads and keep it short. \n\nDistance: 8km\nTime: ~45mins\nPlace: 5:00-5:45 / km\n\nOptional debrief for coffee afterwards if you want. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
+    "location": "Rose Bank Gardens",
+    "organizer": "Andrew Elwood",
     "skill_levels": 2
   },
   {
@@ -323,6 +323,17 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3420399954983601810",
     "location": "Malvern Spa",
     "organizer": "Sim Buzzard",
+    "skill_levels": 1
+  },
+  {
+    "id": 3421806745652530248,
+    "title": "Wyche! 7k in ~50m",
+    "start": "2025-11-10T19:00:00Z",
+    "end": "2025-11-10T20:00:00Z",
+    "description": "7k to British Camp and back!\n\nOptional debrief at the Wyche Inn, where they have a st. bernard puppy who I hear has grown a foot a week, and given I haven't been there in two months I'm really excited to see!\n\n- Headtorch Requried\n- Hi-viz highly recommended\n- It'll likely be a bit muddy",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421806745652530248",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Boris Kachscovsky",
     "skill_levels": 1
   },
   {

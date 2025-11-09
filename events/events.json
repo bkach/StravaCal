@@ -172,17 +172,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3418293979393318350,
-    "title": "Hill Run after Club Photo",
-    "start": "2025-11-15T08:30:00Z",
-    "end": "2025-11-15T09:30:00Z",
-    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
-    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
-  },
-  {
     "id": 3421894797180117846,
     "title": "Post Photo Run (+ ☕)",
     "start": "2025-11-15T08:30:00Z",
@@ -191,6 +180,17 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
     "location": "Rose Bank Gardens",
     "organizer": "Andrew Elwood",
+    "skill_levels": 2
+  },
+  {
+    "id": 3418293979393318350,
+    "title": "Hill Run after Club Photo",
+    "start": "2025-11-15T08:30:00Z",
+    "end": "2025-11-15T09:30:00Z",
+    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Andy Dingley",
     "skill_levels": 2
   },
   {
@@ -356,17 +356,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3421826410757733752",
     "location": "Wyche Cutting",
     "organizer": "Boris Kachscovsky",
-    "skill_levels": 1
-  },
-  {
-    "id": 2111840,
-    "title": "Monopoly Board, London (Grand Day Out) 16 Miles In 5-6 Hours",
-    "start": "2025-11-09T09:00:00Z",
-    "end": "2025-11-09T10:00:00Z",
-    "description": "Buzzard Grand Day Out to London to run the \"Monopoly Board\". This is a 16 mile run and we have about 5 -6 hours to do it.\nTrain leaves GMV about 0900 and gets into PAD about 1130. Return train about 1730 back to Malvern about 2000.\n\nGroup travel will be booked if we get more than 10 people. \n\nChatty pace to have fun. Multiple run leaders in this so it proves to be a bumper day. \n\nHopefully time to get up to the distance bit you could always grab a few \"sets\" if you want the day out.\n\nDo not pass Go, do not collect £200...\n\nSim Buzzard and Julie Slack\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/2111840",
-    "location": "Great Malvern Station",
-    "organizer": "Sim Buzzard",
     "skill_levels": 1
   }
 ]

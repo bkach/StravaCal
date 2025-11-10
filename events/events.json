@@ -13,22 +13,24 @@
   {
     "id": 3394384294634509798,
     "title": "HBXC Winter XC: Race #5",
-    "start": "2026-02-01T11:30:00Z",
-    "end": "2026-02-01T12:30:00Z",
+    "start": "2026-02-01T11:00:00Z",
+    "end": "2026-02-01T12:00:00Z",
     "description": "Race 5 of the Winter XC series will be hosted by Hereford Tri Club.\n\nRoute will be approx. 10km (6 miles) over varying terrain.\n\nGet clicked in if you want to race and keep an eye on strava / whatsapp for more information in future.",
     "url": "https://www.strava.com/clubs/208705/group_events/3394384294634509798",
     "location": "",
-    "organizer": "Andrew Elwood"
+    "organizer": "Andrew Elwood",
+    "skill_levels": 1
   },
   {
     "id": 3394383189748997692,
     "title": "HBXC Winter XC: Race #4",
-    "start": "2026-01-04T11:30:00Z",
-    "end": "2026-01-04T12:30:00Z",
+    "start": "2026-01-04T11:00:00Z",
+    "end": "2026-01-04T12:00:00Z",
     "description": "Winter XC race #4: Malvern College.\n\nRoute will be approx. 10km (6 miles) over varying terrain (mainly off road). Event is open to people of all abilities to compete for the club.\n\nThis is an event for those wishing to compete in the 4th race of this year's winter XC series taking place from Malvern College. This promises to be a good event, and maximum turn out would be amazing as we are hositng this race.\n\nMore information to follow. ",
     "url": "https://www.strava.com/clubs/208705/group_events/3394383189748997692",
     "location": "Malvern College, College Rd, Malvern, WR14 3DF, United Kingdom",
-    "organizer": "Andrew Elwood"
+    "organizer": "Andrew Elwood",
+    "skill_levels": 1
   },
   {
     "id": 3396483086907526824,
@@ -76,12 +78,13 @@
   {
     "id": 3394382327576638940,
     "title": "HBXC Winter XC: Race #3",
-    "start": "2025-12-07T11:30:00Z",
-    "end": "2025-12-07T12:30:00Z",
+    "start": "2025-12-07T11:00:00Z",
+    "end": "2025-12-07T12:00:00Z",
     "description": "Race #3 of the Winter XC series. Host club is TBD so more information will follow once I know.\n\nThe route will be approx. 10km (6 miles) on varying terrain. It should be a good club event and a nice way to meet people and compete against other clubs.\n\nPlease click in if you are interested. ",
     "url": "https://www.strava.com/clubs/208705/group_events/3394382327576638940",
     "location": "",
-    "organizer": "Andrew Elwood"
+    "organizer": "Andrew Elwood",
+    "skill_levels": 1
   },
   {
     "id": 2155136,
@@ -152,8 +155,8 @@
   {
     "id": 3394381358581372894,
     "title": "*League event* HBXC Winter XC: Race #2 Croft Ambrey ",
-    "start": "2025-11-16T11:30:00Z",
-    "end": "2025-11-16T12:30:00Z",
+    "start": "2025-11-16T11:00:00Z",
+    "end": "2025-11-16T12:00:00Z",
     "description": "Winter XC Race #2 hosted by Croft Ambrey. The race is approx. 10km (6 miles)  in length on varying terrain (mainly off road).\n\nThis is also the November Buzzard league race with flat rate points for all participants.\n\nAfter our success this summer, it would be great to see as many of you clicked in to as many of these as possible, so please get involved. \n\nMore information to follow.",
     "url": "https://www.strava.com/clubs/208705/group_events/3394381358581372894",
     "location": "",

@@ -263,17 +263,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3422181714355573052,
-    "title": "Thursday Run Victoria Park ",
-    "start": "2025-11-13T19:00:00Z",
-    "end": "2025-11-13T20:00:00Z",
-    "description": "A change is as good as a holiday!\n\n I'm mixing things up a bit to keep it interesting and offer some alternative routes. \nUsual 10km run. Should be done within 1 hour. Pace 5.10-5.30min/km. \nHigh Viz and lights are essential. \n\nPlease note: \n\nOptional debrief will be agreed at the beginning of each run. So people can still go for a drink at the nearest pub if they wish to and maintain the social element! \n\nBarbara [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3422181714355573052",
-    "location": "Victoria Park",
-    "organizer": "Barbara Gawlak",
-    "skill_levels": 2
-  },
-  {
     "id": 3421819985871462004,
     "title": "It’s a run and it’s Thursday",
     "start": "2025-11-13T19:00:00Z",
@@ -283,6 +272,17 @@
     "location": "(52.1263, -2.3118)",
     "organizer": "Sarah Fowkes",
     "skill_levels": 1
+  },
+  {
+    "id": 3422181714355573052,
+    "title": "Thursday Run Victoria Park ",
+    "start": "2025-11-13T19:00:00Z",
+    "end": "2025-11-13T20:00:00Z",
+    "description": "A change is as good as a holiday!\n\n I'm mixing things up a bit to keep it interesting and offer some alternative routes. \nUsual 10km run. Should be done within 1 hour. Pace 5.10-5.30min/km. \nHigh Viz and lights are essential. \n\nPlease note: \n\nOptional debrief will be agreed at the beginning of each run. So people can still go for a drink at the nearest pub if they wish to and maintain the social element! \n\nBarbara [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3422181714355573052",
+    "location": "Victoria Park",
+    "organizer": "Barbara Gawlak",
+    "skill_levels": 2
   },
   {
     "id": 3392553444318075416,

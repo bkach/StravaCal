@@ -197,6 +197,17 @@
     "skill_levels": 2
   },
   {
+    "id": 3424076081242057652,
+    "title": "LBCB - Mid-week hump slump - 3.5 miles/6k in 40 mins ",
+    "start": "2025-11-19T06:30:00Z",
+    "end": "2025-11-19T07:30:00Z",
+    "description": "3.5 miles around town in approx 40 mins. Optional coffee afterwards.\n\nHi viz please.\n\nLiRF: Sim [Phone Number Redacted]\n\nClick out if you can't make it.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3424076081242057652",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Sim Buzzard",
+    "skill_levels": 1
+  },
+  {
     "id": 3421897696601470708,
     "title": "The Sugar Rush",
     "start": "2025-11-18T19:30:00Z",
@@ -241,6 +252,17 @@
     "skill_levels": 1
   },
   {
+    "id": 3424075496705057642,
+    "title": "LBCB - Start the week with optional Greggs treat (4.5 miles / 7.5 k in 45 min)",
+    "start": "2025-11-17T06:30:00Z",
+    "end": "2025-11-17T07:30:00Z",
+    "description": "45 minutes run around Link and Spring Lane. Head torch and hi viz please. Distance is 4.5 miles (about 7.5k).\n\nI will have Greggs coffee at end as part of marathon taper and fuel.\n\nLiRF: Sim [Phone Number Redacted]\n\nClick out if you can't make. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3424075496705057642",
+    "location": "GREGGS, 326 Worcester Road, Malvern, WR14 1BD, United Kingdom",
+    "organizer": "Sim Buzzard",
+    "skill_levels": 2
+  },
+  {
     "id": 3394381358581372894,
     "title": "*League event* HBXC Winter XC: Race #2 Croft Ambrey ",
     "start": "2025-11-16T11:00:00Z",
@@ -263,17 +285,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3418293979393318350,
-    "title": "Hill Run after Club Photo",
-    "start": "2025-11-15T08:30:00Z",
-    "end": "2025-11-15T09:30:00Z",
-    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
-    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
-  },
-  {
     "id": 3421894797180117846,
     "title": "Post Photo Run (+ ☕)",
     "start": "2025-11-15T08:30:00Z",
@@ -282,6 +293,17 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
     "location": "Rose Bank Gardens",
     "organizer": "Andrew Elwood",
+    "skill_levels": 2
+  },
+  {
+    "id": 3418293979393318350,
+    "title": "Hill Run after Club Photo",
+    "start": "2025-11-15T08:30:00Z",
+    "end": "2025-11-15T09:30:00Z",
+    "description": "It won't be fast, but it will be hilly.  12km around the hills - everyone welcome.  Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3418293979393318350",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Andy Dingley",
     "skill_levels": 2
   },
   {

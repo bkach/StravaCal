@@ -175,6 +175,17 @@
     "skill_levels": 1
   },
   {
+    "id": 3392553444318075416,
+    "title": "Thursday Hills ",
+    "start": "2025-11-20T18:30:00Z",
+    "end": "2025-11-20T19:30:00Z",
+    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
+    "location": "",
+    "organizer": "Lily Price",
+    "skill_levels": 2
+  },
+  {
     "id": 3424060212400440198,
     "title": "Link Top Hustle, with hills",
     "start": "2025-11-19T19:00:00Z",
@@ -362,17 +373,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3421819985871462004,
-    "title": "It’s a run and it’s Thursday",
-    "start": "2025-11-13T19:00:00Z",
-    "end": "2025-11-13T20:00:00Z",
-    "description": "I’m back from my travels! \nWe shall meet in the car park by Victoria Park and run around 5k in about 35 to 40 minutes.\nPlease wear high viz and head/chest torches. \n\nAny questions: Sarah [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421819985871462004",
-    "location": "(52.1263, -2.3118)",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1
-  },
-  {
     "id": 3422181714355573052,
     "title": "Thursday Run Victoria Park ",
     "start": "2025-11-13T19:00:00Z",
@@ -384,14 +384,14 @@
     "skill_levels": 2
   },
   {
-    "id": 3392553444318075416,
-    "title": "Thursday Hills ",
-    "start": "2025-11-13T18:30:00Z",
-    "end": "2025-11-13T19:30:00Z",
-    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 10 mins \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
-    "location": "",
-    "organizer": "Lily Price",
-    "skill_levels": 2
+    "id": 3421819985871462004,
+    "title": "It’s a run and it’s Thursday",
+    "start": "2025-11-13T19:00:00Z",
+    "end": "2025-11-13T20:00:00Z",
+    "description": "I’m back from my travels! \nWe shall meet in the car park by Victoria Park and run around 5k in about 35 to 40 minutes.\nPlease wear high viz and head/chest torches. \n\nAny questions: Sarah [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421819985871462004",
+    "location": "(52.1263, -2.3118)",
+    "organizer": "Sarah Fowkes",
+    "skill_levels": 1
   }
 ]

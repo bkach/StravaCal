@@ -307,17 +307,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3421894797180117846,
-    "title": "Post Photo Run (+ ☕)",
-    "start": "2025-11-15T08:30:00Z",
-    "end": "2025-11-15T09:30:00Z",
-    "description": "Intermediate 8km after the Buzzard Photo in the morning. Will stick to roads and keep it short. \n\nDistance: 8km\nTime: ~45mins\nPlace: 5:00-5:45 / km\n\nOptional debrief for coffee afterwards if you want. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
-    "location": "Rose Bank Gardens",
-    "organizer": "Andrew Elwood",
-    "skill_levels": 2
-  },
-  {
     "id": 3418293979393318350,
     "title": "Hill Run after Club Photo",
     "start": "2025-11-15T08:30:00Z",
@@ -338,6 +327,17 @@
     "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
     "organizer": "Sim Buzzard",
     "skill_levels": 1
+  },
+  {
+    "id": 3421894797180117846,
+    "title": "Post Photo Run (+ ☕)",
+    "start": "2025-11-15T08:05:00Z",
+    "end": "2025-11-15T09:05:00Z",
+    "description": "Edit: Time changed to 08:05 as we wk start straight after the photo rather than waiting until 08:30.\n\nIntermediate 8km after the Buzzard Photo in the morning. Will stick to roads and keep it short. \n\nDistance: 8km\nTime: ~45mins\nPlace: 5:00-5:45 / km\n\nOptional debrief for coffee afterwards if you want. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
+    "location": "Rose Bank Gardens",
+    "organizer": "Andrew Elwood",
+    "skill_levels": 2
   },
   {
     "id": 3414215569911744646,

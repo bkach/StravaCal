@@ -241,16 +241,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3424543982038821958,
-    "title": "🏔️ Beacon Hill Sprints 🔥",
-    "start": "2025-11-18T19:00:00Z",
-    "end": "2025-11-18T20:00:00Z",
-    "description": "⛰️ Hill Sprint Session – Pyramids!\n\n🏁 We’ll meet at Wyche Cutting bus stop, then take a short walk/jog up to the bottom of Beacon Hill (top of Summer Hill) to warm the legs before getting into the fun stuff.\n\n🔥 Session structure (pyramid sets):\n\nEach rep is sprint up → jog back down (jogging back is part of your recovery).\n\nSet 1:\n- 30s\n- 45s\n- 30s\nRest\n\nSet 2:\n- 30s\n- 45s\n- 60s\n- 45s\n- 30s\nRest\n\nSet 3:\n- 30s\n- 45s\n- 60s\n- 90s\n- 60s\n- 45s\n- 30s\nRest\n\n🏁 And you're done! Easy 😅\n\nWe’ll use the paved path on the Gloucestershire side of the Beacon for smooth footing and consistent effort — though feel free to pick your own path, as there are multiple ways if you prefer a different gradient or terrain, just note that it may be more slippy. Since everything is time-based, it’s all about your own effort, not how far anyone else gets.\n\n♥️ All levels welcome! Go at whatever effort feels strong for you — nobody gets left behind, and we’ll regroup naturally on the recoveries.\n\n⚠️ Safety stuff\n- Headtorch required (make sure it’s charged!) 💡\n- High-viz recommended\n- Expect wet, slippy, rocky sections on the approach — be prepared\n- We’ll stick together on the way up and down.\n\nCome ready to work hard, have fun, and feel that uphill burn! 🔥💪\n\n🦺Note: it's high up and slippy - so if it rains that day, we'll do a separate session that's a bit safer\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3424543982038821958",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Boris Kachscovsky"
-  },
-  {
     "id": 3402005019504481140,
     "title": "Tuesday 10k",
     "start": "2025-11-18T19:00:00Z",
@@ -260,6 +250,16 @@
     "location": "",
     "organizer": "Julie Slack",
     "skill_levels": 1
+  },
+  {
+    "id": 3424543982038821958,
+    "title": "🏔️ Beacon Hill Sprints 🔥",
+    "start": "2025-11-18T19:00:00Z",
+    "end": "2025-11-18T20:00:00Z",
+    "description": "⛰️ Hill Sprint Session – Pyramids!\n\n🏁 We’ll meet at Wyche Cutting bus stop, then take a short walk/jog up to the bottom of Beacon Hill (top of Summer Hill) to warm the legs before getting into the fun stuff.\n\n🔥 Session structure (pyramid sets):\n\nEach rep is sprint up → jog back down (jogging back is part of your recovery).\n\nSet 1:\n- 30s\n- 45s\n- 30s\nRest\n\nSet 2:\n- 30s\n- 45s\n- 60s\n- 45s\n- 30s\nRest\n\nSet 3:\n- 30s\n- 45s\n- 60s\n- 90s\n- 60s\n- 45s\n- 30s\nRest\n\n🏁 And you're done! Easy 😅\n\nWe’ll use the paved path on the Gloucestershire side of the Beacon for smooth footing and consistent effort — though feel free to pick your own path, as there are multiple ways if you prefer a different gradient or terrain, just note that it may be more slippy. Since everything is time-based, it’s all about your own effort, not how far anyone else gets.\n\n♥️ All levels welcome! Go at whatever effort feels strong for you — nobody gets left behind, and we’ll regroup naturally on the recoveries.\n\n⚠️ Safety stuff\n- Headtorch required (make sure it’s charged!) 💡\n- High-viz recommended\n- Expect wet, slippy, rocky sections on the approach — be prepared\n- We’ll stick together on the way up and down.\n\nCome ready to work hard, have fun, and feel that uphill burn! 🔥💪\n\n🦺Note: it's high up and slippy - so if it rains that day, we'll do a separate session that's a bit safer\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3424543982038821958",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Boris Kachscovsky"
   },
   {
     "id": 3405491541734617052,
@@ -315,38 +315,5 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3421894797180117846,
-    "title": "Post Photo Run (+ ☕)",
-    "start": "2025-11-15T08:05:00Z",
-    "end": "2025-11-15T09:05:00Z",
-    "description": "Edit: Time changed to 08:05 as we wk start straight after the photo rather than waiting until 08:30.\n\nIntermediate 8km after the Buzzard Photo in the morning. Will stick to roads and keep it short. \n\nDistance: 8km\nTime: ~45mins\nPlace: 5:00-5:45 / km\n\nOptional debrief for coffee afterwards if you want. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421894797180117846",
-    "location": "Rose Bank Gardens",
-    "organizer": "Andrew Elwood",
-    "skill_levels": 2
-  },
-  {
-    "id": 3421900070193004818,
-    "title": "XC Loop (see the course approx 6k in 50 mins)",
-    "start": "2025-11-15T08:05:00Z",
-    "end": "2025-11-15T09:05:00Z",
-    "description": "6k ish run from Buzzards to the Peachfield Common where I will take you round the proposed XC course although starting at a mid point. We will then head back to Buzzards and there is optional meet up for coffee/tea with Andrew E group.\n\nLiRF: Sim [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421900070193004818",
-    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 1
-  },
-  {
-    "id": 3414215569911744646,
-    "title": "Not a run London Marathon Reject draw",
-    "start": "2025-11-15T08:00:00Z",
-    "end": "2025-11-15T09:00:00Z",
-    "description": "If you have a London Marathon reject email, then you are eligible for this draw. We have coincided this to be done at the same time as the club photo.  \nTo make it fair, only a none participating committee member will do the draw.\nPlease click in so that we have your names to put in our famous golden hat. \nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3414215569911744646",
-    "location": "Rosebank Gardens",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1
   }
 ]

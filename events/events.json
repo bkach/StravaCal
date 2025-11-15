@@ -1,5 +1,16 @@
 [
   {
+    "id": 3424485294161176582,
+    "title": "Just A Test",
+    "start": "2026-11-15T09:00:00Z",
+    "end": "2026-11-15T10:00:00Z",
+    "description": "Just a test",
+    "url": "https://www.strava.com/clubs/208705/group_events/3424485294161176582",
+    "location": "Great Malvern",
+    "organizer": "Simon Bond",
+    "skill_levels": 1
+  },
+  {
     "id": 2089682,
     "title": "Joust 2026 - 24 Hour Relay (4-6 September)",
     "start": "2026-09-05T08:00:00Z",

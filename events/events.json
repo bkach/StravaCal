@@ -197,16 +197,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3424744397367025752,
-    "title": "Thirsty Thursday: Nag's Head",
-    "start": "2025-11-20T19:00:00Z",
-    "end": "2025-11-20T20:00:00Z",
-    "description": "We will run ~10km from the Nag's head in around 50-55mins sticking to roads for this time of year. \n\nPlease wear hi-viz and bring headtorches as well as dressing appropriately for the weather conditions. \n\nOptional debrief at the Nag's after should you wish. \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3424744397367025752",
-    "location": "The Nag's Head, 19-21 Bank St, Malvern, WR14 2JG, United Kingdom",
-    "organizer": "Andrew Elwood"
-  },
-  {
     "id": 3424037411180620678,
     "title": "Thirsty Thursday - Nags Head",
     "start": "2025-11-20T19:00:00Z",
@@ -216,6 +206,16 @@
     "location": "The Nags Head",
     "organizer": "Sarah Fowkes",
     "skill_levels": 1
+  },
+  {
+    "id": 3424744397367025752,
+    "title": "Thirsty Thursday: Nag's Head",
+    "start": "2025-11-20T19:00:00Z",
+    "end": "2025-11-20T20:00:00Z",
+    "description": "We will run ~10km from the Nag's head in around 50-55mins sticking to roads for this time of year. \n\nPlease wear hi-viz and bring headtorches as well as dressing appropriately for the weather conditions. \n\nOptional debrief at the Nag's after should you wish. \n\nAndrew\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3424744397367025752",
+    "location": "The Nag's Head, 19-21 Bank St, Malvern, WR14 2JG, United Kingdom",
+    "organizer": "Andrew Elwood"
   },
   {
     "id": 3392553444318075416,
@@ -301,27 +301,6 @@
     "description": "This celebration is aimed at anyone who has done Take Flight or who has supported Take Flight. We want to celebrate our new cohort and all the previous ones of whom many have progressed into seasoned runners. \nOr you may be new (or not) to the club and would like to meet some other members. \nThe Red Lion has agreed to put on a chilli at a cost of £14 per head. \nIf you wish to come just for the chilli, please click in here so that I can pass on numbers for food.\n\nI shall then contact you for payment.\nAny questions Sarah [Phone Number Redacted]",
     "url": "https://www.strava.com/clubs/208705/group_events/3405491541734617052",
     "location": "Red Lion",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1
-  },
-  {
-    "id": 3424742969455035934,
-    "title": "Monday Joust Loop",
-    "start": "2025-11-17T18:30:00Z",
-    "end": "2025-11-17T19:30:00Z",
-    "description": "Monday evening Joust loop. Will try this at 18:30 but may adjust in future. \n\nDistance: ~8km\nPace: 5:00 - 5:45 / km\n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3424742969455035934",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andrew Elwood"
-  },
-  {
-    "id": 3405493636671738844,
-    "title": "Pre celebration run",
-    "start": "2025-11-17T18:30:00Z",
-    "end": "2025-11-17T19:30:00Z",
-    "description": "This run is aimed at the latest Take Flight cohort, any previous TF cohorts, any supporters and club members. We shall meet at the bandstand in Priory Park and run for 5k taking about 45 minutes, walking/Jeffing up any hills.\nHigh Viz and head/chest torches please.\nThe run will end at the Red Lion where we shall have chilli and refreshments.\nPlease click into both events  if you wish to have chilli.\nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3405493636671738844",
-    "location": "Priory Park",
     "organizer": "Sarah Fowkes",
     "skill_levels": 1
   }

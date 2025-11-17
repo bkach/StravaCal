@@ -305,17 +305,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3405493636671738844,
-    "title": "Pre celebration run",
-    "start": "2025-11-17T18:30:00Z",
-    "end": "2025-11-17T19:30:00Z",
-    "description": "This run is aimed at the latest Take Flight cohort, any previous TF cohorts, any supporters and club members. We shall meet at the bandstand in Priory Park and run for 5k taking about 45 minutes, walking/Jeffing up any hills.\nHigh Viz and head/chest torches please.\nThe run will end at the Red Lion where we shall have chilli and refreshments.\nPlease click into both events  if you wish to have chilli.\nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3405493636671738844",
-    "location": "Priory Park",
-    "organizer": "Sarah Fowkes",
-    "skill_levels": 1
-  },
-  {
     "id": 3424742969455035934,
     "title": "Monday Joust Loop",
     "start": "2025-11-17T18:30:00Z",
@@ -326,14 +315,14 @@
     "organizer": "Andrew Elwood"
   },
   {
-    "id": 3424075496705057642,
-    "title": "LBCB - Start the week with optional Greggs treat (4.5 miles / 7.5 k in 45 min)",
-    "start": "2025-11-17T06:30:00Z",
-    "end": "2025-11-17T07:30:00Z",
-    "description": "45 minutes run around Link and Spring Lane. Head torch and hi viz please. Distance is 4.5 miles (about 7.5k).\n\nI will have Greggs coffee at end as part of marathon taper and fuel.\n\nLiRF: Sim [Phone Number Redacted]\n\nClick out if you can't make. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3424075496705057642",
-    "location": "GREGGS, 326 Worcester Road, Malvern, WR14 1BD, United Kingdom",
-    "organizer": "Sim Buzzard",
-    "skill_levels": 2
+    "id": 3405493636671738844,
+    "title": "Pre celebration run",
+    "start": "2025-11-17T18:30:00Z",
+    "end": "2025-11-17T19:30:00Z",
+    "description": "This run is aimed at the latest Take Flight cohort, any previous TF cohorts, any supporters and club members. We shall meet at the bandstand in Priory Park and run for 5k taking about 45 minutes, walking/Jeffing up any hills.\nHigh Viz and head/chest torches please.\nThe run will end at the Red Lion where we shall have chilli and refreshments.\nPlease click into both events  if you wish to have chilli.\nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3405493636671738844",
+    "location": "Priory Park",
+    "organizer": "Sarah Fowkes",
+    "skill_levels": 1
   }
 ]

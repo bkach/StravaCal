@@ -54,6 +54,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3425971061138698228,
+    "title": "🎄Christmas Eve Beacon🎄",
+    "start": "2025-12-24T08:00:00Z",
+    "end": "2025-12-24T09:00:00Z",
+    "description": "Join me for a Christmas Eve jaunt up to the Beacon and around North Hill. Christmas attire and accessories strongly encouraged!\n\nDistance: 8km/5miles\nPace: We will walk or Jeff the ups, run the flats and downs\nTime: ~1hr 15mins\nMeeting Point: Wyche Cutting Bus Stop\n\nPlease remember to click out if you can’t make it.\n\nHannah\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3425971061138698228",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Hannah Thompson"
+  },
+  {
     "id": 3418239673966744014,
     "title": "***League event*** Forest of  Dean: Christmas Tree Race",
     "start": "2025-12-21T10:00:00Z",
@@ -142,6 +152,17 @@
     "skill_levels": 2
   },
   {
+    "id": 3421897696601470708,
+    "title": "The Sugar Rush",
+    "start": "2025-11-25T19:30:00Z",
+    "end": "2025-11-25T20:30:00Z",
+    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary weekly. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:30. \n\nTorches, visible clothing required. \n\n***This week's run will be a 5k loop in approximately 40 minutes ***\n\nLirf: Robyn - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421897696601470708",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall",
+    "skill_levels": 1
+  },
+  {
     "id": 3402005019504481140,
     "title": "Tuesday 10k",
     "start": "2025-11-25T19:00:00Z",
@@ -206,6 +227,16 @@
     "location": "Barnards Green Cricket Club, North End Lane Malvern England WR14 2ET United Kingdom",
     "organizer": "Andrew Dickenson",
     "skill_levels": 1
+  },
+  {
+    "id": 3425975239782104502,
+    "title": "5 on Friday",
+    "start": "2025-11-21T09:30:00Z",
+    "end": "2025-11-21T10:30:00Z",
+    "description": "Meet at Waitrose entrance; inside if it’s cold.\n\nNo specific route but onto the hills so trail shoes advised. We will walk up hills as needed and will cover at least 5k in 40 mins or so. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3425975239782104502",
+    "location": "Waitrose, Malvern, England, United Kingdom",
+    "organizer": "Julie Slack"
   },
   {
     "id": 2171556,
@@ -281,17 +312,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3424076081242057652",
     "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
     "organizer": "Sim Buzzard",
-    "skill_levels": 1
-  },
-  {
-    "id": 3421897696601470708,
-    "title": "The Sugar Rush",
-    "start": "2025-11-18T19:30:00Z",
-    "end": "2025-11-18T20:30:00Z",
-    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary weekly. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:30. \n\nTorches, visible clothing required. \n\n***This week's run will be a 5k loop in approximately 40 minutes ***\n\nLirf: Robyn - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421897696601470708",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall",
     "skill_levels": 1
   }
 ]

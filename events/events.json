@@ -152,6 +152,17 @@
     "skill_levels": 2
   },
   {
+    "id": 3392553444318075416,
+    "title": "Thursday Hills",
+    "start": "2025-11-27T18:30:00Z",
+    "end": "2025-11-27T19:30:00Z",
+    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 5 mins \nPace set includes hills \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price",
+    "skill_levels": 2
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2025-11-26T18:00:00Z",
@@ -261,16 +272,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3424744397367025752,
-    "title": "Thirsty Thursday: Nag's Head",
-    "start": "2025-11-20T19:00:00Z",
-    "end": "2025-11-20T20:00:00Z",
-    "description": "We will run ~10km from the Nag's head in around 50-55mins sticking to roads for this time of year. \n\nPlease wear hi-viz and bring headtorches as well as dressing appropriately for the weather conditions. \n\nOptional debrief at the Nag's after should you wish. \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3424744397367025752",
-    "location": "The Nag's Head, 19-21 Bank St, Malvern, WR14 2JG, United Kingdom",
-    "organizer": "Andrew Elwood"
-  },
-  {
     "id": 3424037411180620678,
     "title": "Thirsty Thursday - Nags Head",
     "start": "2025-11-20T19:00:00Z",
@@ -282,14 +283,13 @@
     "skill_levels": 1
   },
   {
-    "id": 3392553444318075416,
-    "title": "Thursday Hills",
-    "start": "2025-11-20T18:30:00Z",
-    "end": "2025-11-20T19:30:00Z",
-    "description": "Thursday Hills 7/8km on the hills in 1hours/1 hour 5 mins \nPace set includes hills \n\nSocial run - whether it’s your chatty run pace or pushy pace you will be supported by the group or support others. \n30:30 (run/walk) on hills to keep momentum and keep together. \ntrail shoes needed \nHeadtorch needed \nRoute changes weekly\nAlways start at Wyche cutting bus stop \n\nLily - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3392553444318075416",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price",
-    "skill_levels": 2
+    "id": 3424744397367025752,
+    "title": "Thirsty Thursday: Nag's Head",
+    "start": "2025-11-20T19:00:00Z",
+    "end": "2025-11-20T20:00:00Z",
+    "description": "We will run ~10km from the Nag's head in around 50-55mins sticking to roads for this time of year. \n\nPlease wear hi-viz and bring headtorches as well as dressing appropriately for the weather conditions. \n\nOptional debrief at the Nag's after should you wish. \n\nAndrew\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3424744397367025752",
+    "location": "The Nag's Head, 19-21 Bank St, Malvern, WR14 2JG, United Kingdom",
+    "organizer": "Andrew Elwood"
   }
 ]

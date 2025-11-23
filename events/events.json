@@ -130,6 +130,17 @@
     "skill_levels": 1
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2025-11-30T08:00:00Z",
+    "end": "2025-11-30T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 2155136,
     "title": "Saturday Expedition",
     "start": "2025-11-29T09:00:00Z",
@@ -267,16 +278,5 @@
     "location": "(52.0959, -2.3209)",
     "organizer": "Sarah Fowkes",
     "skill_levels": 1
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2025-11-23T08:00:00Z",
-    "end": "2025-11-23T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

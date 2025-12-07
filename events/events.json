@@ -149,6 +149,16 @@
     "skill_levels": 1
   },
   {
+    "id": 3432515266365182244,
+    "title": "Thirsty Thursday @ Weavers 5k edition!",
+    "start": "2025-12-11T19:00:00Z",
+    "end": "2025-12-11T20:00:00Z",
+    "description": "Come for a run, stay for the fun!\n\nJoin us for a 5k run in around 40m, nobody left behind.\n\nBring lights / hi viz!\n\nOptional hang at the pub after.\n\nRun leader: Boris [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3432515266365182244",
+    "location": "The Weavers Real Ale House",
+    "organizer": "Boris Kachscovsky"
+  },
+  {
     "id": 3432517251346052116,
     "title": "Thirsty Thursday 10k: Weavers",
     "start": "2025-12-11T19:00:00Z",
@@ -157,16 +167,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3432517251346052116",
     "location": "The Weavers Real Ale House",
     "organizer": "Andrew Elwood"
-  },
-  {
-    "id": 3432515266365182244,
-    "title": "Thirsty Thursday @ Weavers 5k edition!",
-    "start": "2025-12-11T19:00:00Z",
-    "end": "2025-12-11T20:00:00Z",
-    "description": "Come for a run, stay for the fun!\n\nJoin us for a 5k run in around 40m, nobody left behind.\n\nBring lights / hi viz!\n\nRun leader: Boris [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3432515266365182244",
-    "location": "The Weavers Real Ale House",
-    "organizer": "Boris Kachscovsky"
   },
   {
     "id": 3392553444318075416,

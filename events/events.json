@@ -95,6 +95,17 @@
     "organizer": "Barbara Gawlak"
   },
   {
+    "id": 1892059,
+    "title": "Return of the Ramparts",
+    "start": "2025-12-17T18:00:00Z",
+    "end": "2025-12-17T19:00:00Z",
+    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
+    "location": "Wyche Cutting Bus Stop",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3421897696601470708,
     "title": "The Sugar Rush",
     "start": "2025-12-16T19:30:00Z",
@@ -209,16 +220,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3431619879244088526",
     "location": "1–27 Peachfield Road Malvern England WR14 United Kingdom",
     "organizer": "Lily Price"
-  },
-  {
-    "id": 1892059,
-    "title": "Return of the Ramparts",
-    "start": "2025-12-10T18:00:00Z",
-    "end": "2025-12-10T19:00:00Z",
-    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
-    "location": "Wyche Cutting Bus Stop",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

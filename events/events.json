@@ -95,6 +95,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3435243904760383140,
+    "title": "5 on Friday",
+    "start": "2025-12-19T08:30:00Z",
+    "end": "2025-12-19T09:30:00Z",
+    "description": "5k road run\nEarlier time and change of location as the heating engineer is coming to service the boiler. \n\nChatty run. \nPotentially 40-45 minutes. Depends on who turns up but all levels welcome. \n\nOptional coffee debrief afterwards. \n\nLiRF: Julie S [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3435243904760383140",
+    "location": "Victoria Park Playground, 3 Pickersleigh Ave., Malvern, WR14 2LP, United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 2171556,
     "title": "Rise \u0026 Run",
     "start": "2025-12-19T06:30:00Z",
@@ -177,16 +187,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3429912367924567150",
     "location": "Victoria Park",
     "organizer": "Robyn Hall"
-  },
-  {
-    "id": 2160491,
-    "title": "* League event* Telford 10k",
-    "start": "2025-12-14T10:15:00Z",
-    "end": "2025-12-14T11:15:00Z",
-    "description": "A new addition to this year’s league and apparently statistically proven as the fastest 10k course in the UK, for those looking for a PB. This is a generally flat 2 lap traffic free, very well sheltered tarmac course using Telford Town Park, and the Silkin Way (a former railway line). \n\nEntries and info at atwevents (dot) co (dot) uk",
-    "url": "https://www.strava.com/clubs/208705/group_events/2160491",
-    "location": "",
-    "organizer": "Lily Price",
-    "skill_levels": 1
   }
 ]

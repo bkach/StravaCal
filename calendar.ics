@@ -26,53 +26,29 @@ BEGIN:VEVENT
 UID:3424033058764537324@strava.com
 DTSTART;TZID=Europe/London:20251218T183000
 DTEND;TZID=Europe/London:20251218T193000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Reindeer Strava art  | Beginner
 DESCRIPTION:Leader: Lily Price\nDifficulty: Beginner\n\n8km in 1 hour / 1 h
  our 15mins \nJeffing 60:30 \nMeet at Victoria Park\nThursday Hills heading 
  to the flat lands for a bit of Christmas Strava Art. \nBack by popular dema
  nd. \nAnyone who regularly runs 5km will able to join. \n\nView on Strava: 
  https://www.strava.com/clubs/208705/group_events/3424033058764537324\n\nSyn
- ced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ ced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceDifficulty: Beginner8km in 1
   hour / 1 hour 15mins Jeffing 60:30 Meet at Victoria ParkThursday Hills hea
  ding to the flat lands for a bit of Christmas Strava Art. Back by popular d
  emand. Anyone who regularly runs 5km will able to join. View on Strava: htt
  ps://www.strava.com/clubs/208705/group_events/3424033058764537324Synced fro
- m Strava Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+ m Strava Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:(52.1262\, -2.3133)
 URL:https://www.strava.com/clubs/208705/group_events/3424033058764537324
 CATEGORIES:Running,Club Event
 END:VEVENT
 BEGIN:VEVENT
-UID:3435386513007290312@strava.com
-DTSTART;TZID=Europe/London:20251218T190000
-DTEND;TZID=Europe/London:20251218T200000
-DTSTAMP:20251218T173809Z
-SUMMARY:Thirsty Thursday 10k: Christmas Lights Edition
-DESCRIPTION:Leader: Andrew Elwood\n\nThirsty Thursday 10k group. This week 
- we will meet at the Bluebell Inn and got for a nice 10k run\, keeping it as
-  flat as possible and hopefully seeing plenty of festive Christmas lights. 
- \n\nHi Viz and head torch required. \n\nAny questions\, please get in touch
- .\n\nAndrew\n[Phone Number Redacted]\n\nView on Strava: https://www.strava.
- com/clubs/208705/group_events/3435386513007290312\n\nSynced from Strava Clu
- b 208705 on Thu\, 18 Dec @ 5:38 PM
-X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodThirsty Thursday 10k grou
- p. This week we will meet at the Bluebell Inn and got for a nice 10k run\, 
- keeping it as flat as possible and hopefully seeing plenty of festive Chris
- tmas lights. Hi Viz and head torch required. Any questions\, please get in 
- touch.Andrew[Phone Number Redacted]View on Strava: https://www.strava.com/c
- lubs/208705/group_events/3435386513007290312Synced from Strava Club 208705 
- on: Thu\, 18 Dec @ 5:38 PM
-LOCATION:Bluebell Inn\, Malvern\, WR14 3QP\, United Kingdom
-URL:https://www.strava.com/clubs/208705/group_events/3435386513007290312
-CATEGORIES:Running,Club Event
-END:VEVENT
-BEGIN:VEVENT
 UID:3436501673583113082@strava.com
-DTSTART;TZID=Europe/London:20251218T190000
-DTEND;TZID=Europe/London:20251218T200000
-DTSTAMP:20251218T173809Z
+DTSTART;TZID=Europe/London:20251218T183000
+DTEND;TZID=Europe/London:20251218T193000
+DTSTAMP:20251218T175228Z
 SUMMARY:Thursday Hustlin' 
 DESCRIPTION:Leader: Neil Warne\n\n***Stop Press***\nHustling is happening!\
  n\nThursday special\, meet at Christ Church\, Avenue Rd.\n\nAnother interva
@@ -81,7 +57,7 @@ DESCRIPTION:Leader: Neil Warne\n\n***Stop Press***\nHustling is happening!\
  ter on the intervals\nRoute: warm-up to the Spa\, intervals\, and back. \n\
  nCome along and give it a go! \n\nNeil\n[Phone Number Redacted]\n\n\nView o
  n Strava: https://www.strava.com/clubs/208705/group_events/3436501673583113
- 082\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ 082\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Neil Warne***Stop Press***Hustling is 
  happening!Thursday special\, meet at Christ Church\, Avenue Rd.Another inte
  rvals session\, with a warm up and a couple of long (2 mile!) intervals\, a
@@ -89,16 +65,40 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Neil Warne***Stop Press***Hustling is
   on the intervalsRoute: warm-up to the Spa\, intervals\, and back. Come alo
  ng and give it a go! Neil[Phone Number Redacted]View on Strava: https://www
  .strava.com/clubs/208705/group_events/3436501673583113082Synced from Strava
-  Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+  Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Avenue Road
 URL:https://www.strava.com/clubs/208705/group_events/3436501673583113082
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3435386513007290312@strava.com
+DTSTART;TZID=Europe/London:20251218T190000
+DTEND;TZID=Europe/London:20251218T200000
+DTSTAMP:20251218T175228Z
+SUMMARY:Thirsty Thursday 10k: Christmas Lights Edition
+DESCRIPTION:Leader: Andrew Elwood\n\nThirsty Thursday 10k group. This week 
+ we will meet at the Bluebell Inn and got for a nice 10k run\, keeping it as
+  flat as possible and hopefully seeing plenty of festive Christmas lights. 
+ \n\nHi Viz and head torch required. \n\nAny questions\, please get in touch
+ .\n\nAndrew\n[Phone Number Redacted]\n\nView on Strava: https://www.strava.
+ com/clubs/208705/group_events/3435386513007290312\n\nSynced from Strava Clu
+ b 208705 on Thu\, 18 Dec @ 5:52 PM
+X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodThirsty Thursday 10k grou
+ p. This week we will meet at the Bluebell Inn and got for a nice 10k run\, 
+ keeping it as flat as possible and hopefully seeing plenty of festive Chris
+ tmas lights. Hi Viz and head torch required. Any questions\, please get in 
+ touch.Andrew[Phone Number Redacted]View on Strava: https://www.strava.com/c
+ lubs/208705/group_events/3435386513007290312Synced from Strava Club 208705 
+ on: Thu\, 18 Dec @ 5:52 PM
+LOCATION:Bluebell Inn\, Malvern\, WR14 3QP\, United Kingdom
+URL:https://www.strava.com/clubs/208705/group_events/3435386513007290312
 CATEGORIES:Running,Club Event
 END:VEVENT
 BEGIN:VEVENT
 UID:2171556@strava.com
 DTSTART;TZID=Europe/London:20251219T063000
 DTEND;TZID=Europe/London:20251219T073000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Rise & Run | Beginner
 DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\n\n**Rise & Run**
  \n\nWeekly run of approximately 5km on the hills to start your day. Sim cov
@@ -108,7 +108,7 @@ DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\n\n**Rise & Run**
   Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPl
  ease remember to click out if you can no longer make it.\n\nSim\n[Phone Num
  ber Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/group_
- events/2171556\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ events/2171556\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonDifficulty: Beginner**R
  ise & Run**Weekly run of approximately 5km on the hills to start your day. 
  Sim covering this weeks run.Pace: We will average between 8-9min/km overall
@@ -117,7 +117,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonDifficulty: Beginner**R
  ardensHeadtorches needed for the start of the run now!Please remember to cl
  ick out if you can no longer make it.Sim[Phone Number Redacted]View on Stra
  va: https://www.strava.com/clubs/208705/group_events/2171556Synced from Str
- ava Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+ ava Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/2171556
 CATEGORIES:Running,Club Event
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 UID:3435243904760383140@strava.com
 DTSTART;TZID=Europe/London:20251219T083000
 DTEND;TZID=Europe/London:20251219T093000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:5 on Friday
 DESCRIPTION:Leader: Julie Slack\n\n5k road run\nEarlier time and change of 
  location as the heating engineer is coming to service the boiler. \n\nChatt
@@ -134,13 +134,13 @@ DESCRIPTION:Leader: Julie Slack\n\n5k road run\nEarlier time and change of
  welcome. \n\nOptional coffee debrief afterwards. \n\nLiRF: Julie S [Phone N
  umber Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/grou
  p_events/3435243904760383140\n\nSynced from Strava Club 208705 on Thu\, 18 
- Dec @ 5:38 PM
+ Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack5k road runEarlier time and
   change of location as the heating engineer is coming to service the boiler
  . Chatty run. Potentially 40-45 minutes. Depends on who turns up but all le
  vels welcome. Optional coffee debrief afterwards. LiRF: Julie S [Phone Numb
  er Redacted]View on Strava: https://www.strava.com/clubs/208705/group_event
- s/3435243904760383140Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:38
+ s/3435243904760383140Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:52
   PM
 LOCATION:Victoria Park Playground\, 3 Pickersleigh Ave.\, Malvern\, WR14 2LP\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3435243904760383140
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 UID:3436336887208176066@strava.com
 DTSTART;TZID=Europe/London:20251219T183500
 DTEND;TZID=Europe/London:20251219T193500
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Moonlight Wall Crawl
 DESCRIPTION:Leader: Sim Buzzard\n\nTrain from Great Malvern (18:43) to Ledb
  ury to then do a ten mile run back taking in a visit to the Berlin Wall on 
@@ -159,7 +159,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nTrain from Great Malvern (18:43) to Ledb
  aybe a drink at the end if people fancy it.\n\nLiRF: Sim Buzzard [Phone Num
  ber Redacted]\n\n10 miles in 2.5 hours target time.\n\nView on Strava: http
  s://www.strava.com/clubs/208705/group_events/3436336887208176066\n\nSynced 
- from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardTrain from Great Malvern (1
  8:43) to Ledbury to then do a ten mile run back taking in a visit to the Be
  rlin Wall on the way. Head torch and supplies needed for the run which I th
@@ -167,7 +167,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardTrain from Great Malvern (1
  gle)Maybe a drink at the end if people fancy it.LiRF: Sim Buzzard [Phone Nu
  mber Redacted]10 miles in 2.5 hours target time.View on Strava: https://www
  .strava.com/clubs/208705/group_events/3436336887208176066Synced from Strava
-  Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+  Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Great Malvern Railway Station\, Avenue Rd\, Malvern\, WR14 3AX\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3436336887208176066
 CATEGORIES:Running,Club Event
@@ -176,7 +176,7 @@ BEGIN:VEVENT
 UID:3430528085851178772@strava.com
 DTSTART;TZID=Europe/London:20251221T073000
 DTEND;TZID=Europe/London:20251221T083000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Winter Solstice Sunrise 10k-ish (about 1.75 - 2 hours)
 DESCRIPTION:Leader: Sim Buzzard\n\nLeaving Wyche Shelter at 0730 we will he
  ad to the Beacon on the ridge and enjoy the Winter solstice sunrise before 
@@ -188,7 +188,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nLeaving Wyche Shelter at 0730 we will he
  rds if anywhere open (I will research and update).\n\nLiRF: Sim Buzzard [Ph
  one Number Redacted]\n\nHead torch advised as a bit dark when we start.\n\n
  View on Strava: https://www.strava.com/clubs/208705/group_events/3430528085
- 851178772\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ 851178772\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardLeaving Wyche Shelter at 07
  30 we will head to the Beacon on the ridge and enjoy the Winter solstice su
  nrise before continuing to End Hill and then looping back along Alice Bette
@@ -199,7 +199,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardLeaving Wyche Shelter at 07
  terwards if anywhere open (I will research and update).LiRF: Sim Buzzard [P
  hone Number Redacted]Head torch advised as a bit dark when we start.View on
   Strava: https://www.strava.com/clubs/208705/group_events/34305280858511787
- 72Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+ 72Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Wyche Cutting\, Malvern\, WR13 6PJ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3430528085851178772
 CATEGORIES:Running,Club Event
@@ -208,18 +208,18 @@ BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20251221T080000
 DTEND;TZID=Europe/London:20251221T090000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nThere'll be h
  ills - various routes.  10 miles / 16km. Pace between 6 & 7 min km Intermed
  iate level - [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/1457866\n\nSynced from Strava Club 208705 on 
- Thu\, 18 Dec @ 5:38 PM
+ Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTh
  ere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7 min 
  km Intermediate level - [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/1457866Synced from Strava Club 208705 
- on: Thu\, 18 Dec @ 5:38 PM
+ on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Wyche Cutting\, Malvern\, WR13 6PJ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/1457866
 CATEGORIES:Running,Club Event
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 UID:3418239673966744014@strava.com
 DTSTART;TZID=Europe/London:20251221T100000
 DTEND;TZID=Europe/London:20251221T110000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:***League event*** Forest of  Dean: Christmas Tree Race | Beginner
 DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\n\nThe final and pot
  entially deciding race of the 2025 league. Great off road route through the
@@ -236,14 +236,14 @@ DESCRIPTION:Leader: Sarah Reeves\nDifficulty: Beginner\n\nThe final and pot
  ddles and hills and soup and roll for all!\n\nEntries have just opened at:\
  nwww(dot)fabian4(dot)co(dot)uk\n\nView on Strava: https://www.strava.com/cl
  ubs/208705/group_events/3418239673966744014\n\nSynced from Strava Club 2087
- 05 on Thu\, 18 Dec @ 5:38 PM
+ 05 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesDifficulty: BeginnerThe fi
  nal and potentially deciding race of the 2025 league. Great off road route 
  through the trails and footpaths of the forest of dean. There will be lots 
  of mud\, puddles and hills and soup and roll for all!Entries have just open
  ed at:www(dot)fabian4(dot)co(dot)ukView on Strava: https://www.strava.com/c
  lubs/208705/group_events/3418239673966744014Synced from Strava Club 208705 
- on: Thu\, 18 Dec @ 5:38 PM
+ on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Ellwood Football Club\, Bromley Rd\, Coleford\, GL16 7LY\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3418239673966744014
 CATEGORIES:Running,Club Event
@@ -252,7 +252,7 @@ BEGIN:VEVENT
 UID:3421897696601470708@strava.com
 DTSTART;TZID=Europe/London:20251223T193000
 DTEND;TZID=Europe/London:20251223T203000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:The Sugar Rush | Beginner
 DESCRIPTION:Leader: Robyn Hall\nDifficulty: Beginner\n\nFREE CAKE AND SOFT 
  DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms\, 
@@ -262,7 +262,7 @@ DESCRIPTION:Leader: Robyn Hall\nDifficulty: Beginner\n\nFREE CAKE AND SOFT
  r Rush between 20:00 & 20:15\n\nTorches\, visible clothing required. \n\nLi
  rf: Robyn - [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3421897696601470708\n\nSynced from Strava Club
-  208705 on Thu\, 18 Dec @ 5:38 PM
+  208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallDifficulty: BeginnerFREE CAK
  E AND SOFT DRINK .....Got your attention?? 😬 A run from the Foresters ar
  ms\, returning back to them where they have kindly offered free cake and a 
@@ -271,7 +271,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallDifficulty: BeginnerFREE CAK
   Rush between 20:00 & 20:15Torches\, visible clothing required. Lirf: Robyn
   - [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/2087
  05/group_events/3421897696601470708Synced from Strava Club 208705 on: Thu\,
-  18 Dec @ 5:38 PM
+  18 Dec @ 5:52 PM
 LOCATION:The Foresters Arms
 URL:https://www.strava.com/clubs/208705/group_events/3421897696601470708
 CATEGORIES:Running,Club Event
@@ -280,7 +280,7 @@ BEGIN:VEVENT
 UID:3425971061138698228@strava.com
 DTSTART;TZID=Europe/London:20251224T080000
 DTEND;TZID=Europe/London:20251224T090000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:🎄Christmas Eve Beacon🎄
 DESCRIPTION:Leader: Hannah Thompson\n\nJoin me for a Christmas Eve jaunt up
   to the Beacon and around North Hill. Christmas attire and accessories stro
@@ -289,7 +289,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\nJoin me for a Christmas Eve jaunt up
  g Bus Stop\n\nPlease remember to click out if you can’t make it.\n\nHanna
  h\n[Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/
  208705/group_events/3425971061138698228\n\nSynced from Strava Club 208705 o
- n Thu\, 18 Dec @ 5:38 PM
+ n Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonJoin me for a Christmas
   Eve jaunt up to the Beacon and around North Hill. Christmas attire and acc
  essories strongly encouraged!Distance: 8km/5milesPace: We will walk or Jeff
@@ -297,7 +297,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonJoin me for a Christmas
  ting Bus StopPlease remember to click out if you can’t make it.Hannah[Pho
  ne Number Redacted]View on Strava: https://www.strava.com/clubs/208705/grou
  p_events/3425971061138698228Synced from Strava Club 208705 on: Thu\, 18 Dec
-  @ 5:38 PM
+  @ 5:52 PM
 LOCATION:Walwyn Road\, Upper Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3425971061138698228
 CATEGORIES:Running,Club Event
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 UID:3434158650840320374@strava.com
 DTSTART;TZID=Europe/London:20260101T150000
 DTEND;TZID=Europe/London:20260101T160000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Multi-purpose run
 DESCRIPTION:Leader: Julie Slack\n\n - New Year Run\n - Red January launch\n
   - 'Good luck' Sarah A (for your Canadian adventure) \n - Any other reason 
@@ -316,7 +316,7 @@ DESCRIPTION:Leader: Julie Slack\n\n - New Year Run\n - Red January launch\n
   seeing you. \n\nPlease remember to click out if you become unable to join 
  in. \n\nLiRF: Julie S [Phone Number Redacted]\n\nView on Strava: https://ww
  w.strava.com/clubs/208705/group_events/3434158650840320374\n\nSynced from S
- trava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ trava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack - New Year Run - Red Janua
  ry launch - 'Good luck' Sarah A (for your Canadian adventure)  - Any other 
  reason that suits you.....About 5k in 40-45 mins ending with a drinkie-poos
@@ -325,7 +325,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack - New Year Run - Red Janua
  ng you. Please remember to click out if you become unable to join in. LiRF:
   Julie S [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3434158650840320374Synced from Strava Club 208705 on:
-  Thu\, 18 Dec @ 5:38 PM
+  Thu\, 18 Dec @ 5:52 PM
 LOCATION:The Nag's Head\, 19-21 Bank St\, Malvern\, WR14 2JG\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3434158650840320374
 CATEGORIES:Running,Club Event
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 UID:3396483086907526824@strava.com
 DTSTART;TZID=Europe/London:20260104T100000
 DTEND;TZID=Europe/London:20260104T110000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Buzzard Cross Country Hosting - VOLUNTEERS (NOT A RUN)
 DESCRIPTION:Leader: Sim Buzzard\n\nThis is a Strava event for volunteers to
   help marshal and take on other tasks as the Club hosts a race in the Heref
@@ -342,14 +342,14 @@ DESCRIPTION:Leader: Sim Buzzard\n\nThis is a Strava event for volunteers to
  but please hold the date.\n\nIf you want to me more involved then see the S
  trava post or drop a note or message to Sim Buzzard [Phone Number Redacted]
  .\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/33964
- 83086907526824\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ 83086907526824\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardThis is a Strava event for 
  volunteers to help marshal and take on other tasks as the Club hosts a race
   in the Herefordshire and Borders XC league.  You will allocated a role nea
  rer the time but please hold the date.If you want to me more involved then 
  see the Strava post or drop a note or message to Sim Buzzard [Phone Number 
  Redacted].View on Strava: https://www.strava.com/clubs/208705/group_events/
- 3396483086907526824Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:38 P
+ 3396483086907526824Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:52 P
  M
 LOCATION:Malvern College Playing Fields\, Malvern\, WR14 3ED\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3396483086907526824
@@ -359,7 +359,7 @@ BEGIN:VEVENT
 UID:3394383189748997692@strava.com
 DTSTART;TZID=Europe/London:20260104T110000
 DTEND;TZID=Europe/London:20260104T120000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:HBXC Winter XC: Race #4 | Beginner
 DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\n\nWinter XC race #
  4: Malvern College.\n\nRoute will be approx. 10km (6 miles) over varying te
@@ -369,7 +369,7 @@ DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\n\nWinter XC race #
  is promises to be a good event\, and maximum turn out would be amazing as w
  e are hositng this race.\n\nMore information to follow. \n\nView on Strava:
   https://www.strava.com/clubs/208705/group_events/3394383189748997692\n\nSy
- nced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ nced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerWinte
  r XC race #4: Malvern College.Route will be approx. 10km (6 miles) over var
  ying terrain (mainly off road). Event is open to people of all abilities to
@@ -378,7 +378,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerWinte
   This promises to be a good event\, and maximum turn out would be amazing a
  s we are hositng this race.More information to follow. View on Strava: http
  s://www.strava.com/clubs/208705/group_events/3394383189748997692Synced from
-  Strava Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+  Strava Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 LOCATION:Malvern College\, College Rd\, Malvern\, WR14 3DF\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3394383189748997692
 CATEGORIES:Running,Club Event
@@ -387,20 +387,20 @@ BEGIN:VEVENT
 UID:1892059@strava.com
 DTSTART;TZID=Europe/London:20260107T183000
 DTEND;TZID=Europe/London:20260107T193000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:Return of the Ramparts | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nIt's back - t
  he popular run around British Camp ramparts.  Roughly 11km - it's not too h
  illy or challenging.  Please note time change for this week! Contact Andy [
  Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/2087
  05/group_events/1892059\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @
-  5:38 PM
+  5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateIt
  's back - the popular run around British Camp ramparts.  Roughly 11km - it'
  s not too hilly or challenging.  Please note time change for this week! Con
  tact Andy [Phone Number Redacted]View on Strava: https://www.strava.com/clu
  bs/208705/group_events/1892059Synced from Strava Club 208705 on: Thu\, 18 D
- ec @ 5:38 PM
+ ec @ 5:52 PM
 LOCATION:Wyche Cutting Bus Stop
 URL:https://www.strava.com/clubs/208705/group_events/1892059
 CATEGORIES:Running,Club Event
@@ -409,20 +409,20 @@ BEGIN:VEVENT
 UID:3394384294634509798@strava.com
 DTSTART;TZID=Europe/London:20260201T110000
 DTEND;TZID=Europe/London:20260201T120000
-DTSTAMP:20251218T173809Z
+DTSTAMP:20251218T175228Z
 SUMMARY:HBXC Winter XC: Race #5 | Beginner
 DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\n\nRace 5 of the Wi
  nter XC series will be hosted by Hereford Tri Club.\n\nRoute will be approx
  . 10km (6 miles) over varying terrain.\n\nGet clicked in if you want to rac
  e and keep an eye on strava / whatsapp for more information in future.\n\nV
  iew on Strava: https://www.strava.com/clubs/208705/group_events/33943842946
- 34509798\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:38 PM
+ 34509798\n\nSynced from Strava Club 208705 on Thu\, 18 Dec @ 5:52 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerRace 
  5 of the Winter XC series will be hosted by Hereford Tri Club.Route will be
   approx. 10km (6 miles) over varying terrain.Get clicked in if you want to 
  race and keep an eye on strava / whatsapp for more information in future.Vi
  ew on Strava: https://www.strava.com/clubs/208705/group_events/339438429463
- 4509798Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:38 PM
+ 4509798Synced from Strava Club 208705 on: Thu\, 18 Dec @ 5:52 PM
 URL:https://www.strava.com/clubs/208705/group_events/3394384294634509798
 CATEGORIES:Running,Club Event
 END:VEVENT

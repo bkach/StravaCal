@@ -64,6 +64,17 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 2171556,
+    "title": "Rise \u0026 Run",
+    "start": "2025-12-26T06:30:00Z",
+    "end": "2025-12-26T07:30:00Z",
+    "description": "**Rise \u0026 Run**\n\nWeekly run of approximately 5km on the hills to start your day. Sim covering this weeks run.\n\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.\nNo one left behind.\n\nDistance: 5km\n\nTime: ~45 minutes\n\nMeeting point: The Buzzards in Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember to click out if you can no longer make it.\n\nSim\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/2171556",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Hannah Thompson",
+    "skill_levels": 1
+  },
+  {
     "id": 3425971061138698228,
     "title": "🎄Christmas Eve Beacon🎄",
     "start": "2025-12-24T08:00:00Z",
@@ -135,16 +146,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3435243904760383140",
     "location": "Victoria Park Playground, 3 Pickersleigh Ave., Malvern, WR14 2LP, United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 2171556,
-    "title": "Rise \u0026 Run",
-    "start": "2025-12-19T06:30:00Z",
-    "end": "2025-12-19T07:30:00Z",
-    "description": "**Rise \u0026 Run**\n\nWeekly run of approximately 5km on the hills to start your day. Sim covering this weeks run.\n\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.\nNo one left behind.\n\nDistance: 5km\n\nTime: ~45 minutes\n\nMeeting point: The Buzzards in Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember to click out if you can no longer make it.\n\nSim\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/2171556",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Hannah Thompson",
-    "skill_levels": 1
   }
 ]

@@ -64,6 +64,17 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 3421897696601470708,
+    "title": "The Sugar Rush",
+    "start": "2025-12-30T19:30:00Z",
+    "end": "2025-12-30T20:30:00Z",
+    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\n5k ish in approximately 35/40 minutes.\nRoutes will vary weekly. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3421897696601470708",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall",
+    "skill_levels": 1
+  },
+  {
     "id": 3437436946244550660,
     "title": "Tuesday 10",
     "start": "2025-12-30T19:00:00Z",
@@ -144,26 +155,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3425971061138698228",
     "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
     "organizer": "Hannah Thompson"
-  },
-  {
-    "id": 3437424189074408434,
-    "title": "Sugar Push!!! SFD - 40 mins structured session",
-    "start": "2025-12-23T19:30:00Z",
-    "end": "2025-12-23T20:30:00Z",
-    "description": "Starting at same time as Sugar Rush, this is 40 minute structured session with sprints and longer efforts. I will plan a route but expect whole session to be 40 mins. We will then return to the Foresters to review progress, talk 2026 goals and eat cake.\n\nLiRF: Sim Buzzard [Phone Number Redacted]\n\nHead torch and high Viz please.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3437424189074408434",
-    "location": "The Foresters Arms",
-    "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3421897696601470708,
-    "title": "The Sugar Rush",
-    "start": "2025-12-23T19:30:00Z",
-    "end": "2025-12-23T20:30:00Z",
-    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\n5k ish in approximately 35/40 minutes.\nRoutes will vary weekly. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3421897696601470708",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall",
-    "skill_levels": 1
   }
 ]

@@ -11,6 +11,36 @@
     "skill_levels": 1
   },
   {
+    "id": 3439825963526494246,
+    "title": "Take Flight Graduation 5k (venue TBC)",
+    "start": "2026-02-14T09:00:00Z",
+    "end": "2026-02-14T10:00:00Z",
+    "description": "The Take Flight graduation flight will take place at a local parkrun or 5k event. The venue will be chosen by the athletes in the group. This placeholder will be then be updated. Thank you.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439825963526494246",
+    "location": "",
+    "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3439825250326672472,
+    "title": "Take Flight - Week 6 (60 minutes)",
+    "start": "2026-02-10T18:30:00Z",
+    "end": "2026-02-10T19:30:00Z",
+    "description": "Week 6 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439825250326672472",
+    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
+    "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3439824904772328150,
+    "title": "Take Flight - Week 5  (55 Minutes)",
+    "start": "2026-02-03T18:30:00Z",
+    "end": "2026-02-03T19:30:00Z",
+    "description": "Week 5 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439824904772328150",
+    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
+    "organizer": "Sim Buzzard"
+  },
+  {
     "id": 3394384294634509798,
     "title": "HBXC Winter XC: Race #5",
     "start": "2026-02-01T11:00:00Z",
@@ -22,6 +52,36 @@
     "skill_levels": 1
   },
   {
+    "id": 3439824506821039192,
+    "title": "Take Flight - Week 4 (50 minutes)",
+    "start": "2026-01-27T18:30:00Z",
+    "end": "2026-01-27T19:30:00Z",
+    "description": "Week 4 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439824506821039192",
+    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
+    "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3439824123482390566,
+    "title": "Take Flight Week 3 (January 2026) - 45 minutes",
+    "start": "2026-01-20T18:30:00Z",
+    "end": "2026-01-20T19:30:00Z",
+    "description": "Week 3 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439824123482390566",
+    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
+    "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3439823303584180262,
+    "title": "Take Flight - Week 2 January 2026 (45 mins)",
+    "start": "2026-01-13T18:30:00Z",
+    "end": "2026-01-13T19:30:00Z",
+    "description": "Week 2 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439823303584180262",
+    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
+    "organizer": "Sim Buzzard"
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2026-01-07T18:30:00Z",
@@ -31,6 +91,16 @@
     "location": "Wyche Cutting Bus Stop",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3439822444429616594,
+    "title": "Take Flight Week 1 (January 2026) 40 minutes",
+    "start": "2026-01-06T18:30:00Z",
+    "end": "2026-01-06T19:30:00Z",
+    "description": "Week 1 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3439822444429616594",
+    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
+    "organizer": "Sim Buzzard"
   },
   {
     "id": 3394383189748997692,

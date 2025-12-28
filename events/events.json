@@ -124,6 +124,17 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-01-04T08:00:00Z",
+    "end": "2026-01-04T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 2171556,
     "title": "Rise \u0026 Run - 8am start",
     "start": "2026-01-02T08:00:00Z",
@@ -204,16 +215,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3438193268071226686",
     "location": "1 Court Road Malvern England WR14 3BS United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2025-12-28T08:00:00Z",
-    "end": "2025-12-28T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

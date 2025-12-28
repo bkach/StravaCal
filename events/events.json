@@ -82,6 +82,17 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-01-11T08:00:00Z",
+    "end": "2026-01-11T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2026-01-07T18:30:00Z",
@@ -122,17 +133,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3396483086907526824",
     "location": "Malvern College Playing Fields, Malvern, WR14 3ED, United Kingdom",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-01-04T08:00:00Z",
-    "end": "2026-01-04T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   },
   {
     "id": 2171556,

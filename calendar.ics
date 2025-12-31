@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:3434158650840320374@strava.com
 DTSTART;TZID=Europe/London:20260101T150000
 DTEND;TZID=Europe/London:20260101T160000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Multi-purpose run
 DESCRIPTION:Leader: Julie Slack\n\n - New Year Run\n - Red January launch\n
   - 'Good luck' Sarah A (for your Canadian adventure) \n - Any other reason 
@@ -36,7 +36,7 @@ DESCRIPTION:Leader: Julie Slack\n\n - New Year Run\n - Red January launch\n
   seeing you. \n\nPlease remember to click out if you become unable to join 
  in. \n\nLiRF: Julie S [Phone Number Redacted]\n\nView on Strava: https://ww
  w.strava.com/clubs/208705/group_events/3434158650840320374\n\nSynced from S
- trava Club 208705 on Wed\, 31 Dec @ 10:50 PM
+ trava Club 208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack - New Year Run - Red Janua
  ry launch - 'Good luck' Sarah A (for your Canadian adventure)  - Any other 
  reason that suits you.....About 5k in 40-45 mins ending with a drinkie-poos
@@ -45,7 +45,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack - New Year Run - Red Janua
  ng you. Please remember to click out if you become unable to join in. LiRF:
   Julie S [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3434158650840320374Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:The Nag's Head\, 19-21 Bank St\, Malvern\, WR14 2JG\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3434158650840320374
 CATEGORIES:Running,Club Event
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 UID:2171556@strava.com
 DTSTART;TZID=Europe/London:20260102T080000
 DTEND;TZID=Europe/London:20260102T090000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Rise & Run - 8am start | Beginner
 DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\n\n**Rise & Run**
  \n\nA later start of 8am while we’re still in the holiday period!\n\nWeek
@@ -65,7 +65,7 @@ DESCRIPTION:Leader: Hannah Thompson\nDifficulty: Beginner\n\n**Rise & Run**
  ed for the start of the run now!\n\nPlease remember to click out if you can
   no longer make it.\n\nHannah\n[Phone Number Redacted]\n\nView on Strava: h
  ttps://www.strava.com/clubs/208705/group_events/2171556\n\nSynced from Stra
- va Club 208705 on Wed\, 31 Dec @ 10:50 PM
+ va Club 208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonDifficulty: Beginner**R
  ise & Run**A later start of 8am while we’re still in the holiday period!W
  eekly run of approximately 5km on the hills to start your day.Pace: We will
@@ -74,8 +74,8 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonDifficulty: Beginner**R
   point: The Buzzards in Rosebank GardensHeadtorches needed for the start of
   the run now!Please remember to click out if you can no longer make it.Hann
  ah[Phone Number Redacted]View on Strava: https://www.strava.com/clubs/20870
- 5/group_events/2171556Synced from Strava Club 208705 on: Wed\, 31 Dec @ 10:
- 50 PM
+ 5/group_events/2171556Synced from Strava Club 208705 on: Wed\, 31 Dec @ 11:
+ 10 PM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/2171556
 CATEGORIES:Running,Club Event
@@ -84,7 +84,7 @@ BEGIN:VEVENT
 UID:3396483086907526824@strava.com
 DTSTART;TZID=Europe/London:20260104T100000
 DTEND;TZID=Europe/London:20260104T110000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Buzzard Cross Country Hosting - VOLUNTEERS (NOT A RUN)
 DESCRIPTION:Leader: Sim Buzzard\n\nThis is a Strava event for volunteers to
   help marshal and take on other tasks as the Club hosts a race in the Heref
@@ -92,14 +92,14 @@ DESCRIPTION:Leader: Sim Buzzard\n\nThis is a Strava event for volunteers to
  but please hold the date.\n\nIf you want to me more involved then see the S
  trava post or drop a note or message to Sim Buzzard [Phone Number Redacted]
  .\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/33964
- 83086907526824\n\nSynced from Strava Club 208705 on Wed\, 31 Dec @ 10:50 PM
+ 83086907526824\n\nSynced from Strava Club 208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardThis is a Strava event for 
  volunteers to help marshal and take on other tasks as the Club hosts a race
   in the Herefordshire and Borders XC league.  You will allocated a role nea
  rer the time but please hold the date.If you want to me more involved then 
  see the Strava post or drop a note or message to Sim Buzzard [Phone Number 
  Redacted].View on Strava: https://www.strava.com/clubs/208705/group_events/
- 3396483086907526824Synced from Strava Club 208705 on: Wed\, 31 Dec @ 10:50 
+ 3396483086907526824Synced from Strava Club 208705 on: Wed\, 31 Dec @ 11:10 
  PM
 LOCATION:Malvern College Playing Fields\, Malvern\, WR14 3ED\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3396483086907526824
@@ -109,7 +109,7 @@ BEGIN:VEVENT
 UID:3394383189748997692@strava.com
 DTSTART;TZID=Europe/London:20260104T110000
 DTEND;TZID=Europe/London:20260104T120000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:HBXC Winter XC: Race #4 | Beginner
 DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\n\nWinter XC race #
  4: Malvern College.\n\nRoute will be approx. 10km (6 miles) over varying te
@@ -119,7 +119,7 @@ DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\n\nWinter XC race #
  is promises to be a good event\, and maximum turn out would be amazing as w
  e are hositng this race.\n\nMore information to follow. \n\nView on Strava:
   https://www.strava.com/clubs/208705/group_events/3394383189748997692\n\nSy
- nced from Strava Club 208705 on Wed\, 31 Dec @ 10:50 PM
+ nced from Strava Club 208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerWinte
  r XC race #4: Malvern College.Route will be approx. 10km (6 miles) over var
  ying terrain (mainly off road). Event is open to people of all abilities to
@@ -128,7 +128,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerWinte
   This promises to be a good event\, and maximum turn out would be amazing a
  s we are hositng this race.More information to follow. View on Strava: http
  s://www.strava.com/clubs/208705/group_events/3394383189748997692Synced from
-  Strava Club 208705 on: Wed\, 31 Dec @ 10:50 PM
+  Strava Club 208705 on: Wed\, 31 Dec @ 11:10 PM
 LOCATION:Malvern College\, College Rd\, Malvern\, WR14 3DF\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3394383189748997692
 CATEGORIES:Running,Club Event
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 UID:3439822444429616594@strava.com
 DTSTART;TZID=Europe/London:20260106T183000
 DTEND;TZID=Europe/London:20260106T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight Week 1 (January 2026) 40 minutes
 DESCRIPTION:Leader: Sim Buzzard\n\nWeek 1 of the Malvern Buzzards' "TAKE FL
  IGHT" programme. \n\nOur twist on Couch to 5k\, takes you on a running a jo
@@ -147,7 +147,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nWeek 1 of the Malvern Buzzards' "TAKE FL
  ons will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: 
  Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3439822444429616594\n\nSynced from Strava Club
-  208705 on Wed\, 31 Dec @ 10:50 PM
+  208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 1 of the Malvern Buzza
  rds' "TAKE FLIGHT" programme. Our twist on Couch to 5k\, takes you on a run
  ning a journey over six weeks and culminates in a local event supported by 
@@ -156,7 +156,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 1 of the Malvern Buzza
  Sessions will last from 40-60 minutes.Headtorch and hi-viz needed.LiRF: Sim
   Buzzard [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3439822444429616594Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:Priory Park\, Malvern\, WR14 3DS\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3439822444429616594
 CATEGORIES:Running,Club Event
@@ -165,20 +165,20 @@ BEGIN:VEVENT
 UID:1892059@strava.com
 DTSTART;TZID=Europe/London:20260107T183000
 DTEND;TZID=Europe/London:20260107T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Return of the Ramparts | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nIt's back - t
  he popular run around British Camp ramparts.  Roughly 11km - it's not too h
  illy or challenging.  Please note time change for this week! Contact Andy [
  Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/2087
  05/group_events/1892059\n\nSynced from Strava Club 208705 on Wed\, 31 Dec @
-  10:50 PM
+  11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateIt
  's back - the popular run around British Camp ramparts.  Roughly 11km - it'
  s not too hilly or challenging.  Please note time change for this week! Con
  tact Andy [Phone Number Redacted]View on Strava: https://www.strava.com/clu
  bs/208705/group_events/1892059Synced from Strava Club 208705 on: Wed\, 31 D
- ec @ 10:50 PM
+ ec @ 11:10 PM
 LOCATION:Wyche Cutting Bus Stop
 URL:https://www.strava.com/clubs/208705/group_events/1892059
 CATEGORIES:Running,Club Event
@@ -187,18 +187,18 @@ BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20260111T080000
 DTEND;TZID=Europe/London:20260111T090000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nThere'll be h
  ills - various routes.  10 miles / 16km. Pace between 6 & 7 min km Intermed
  iate level - [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/1457866\n\nSynced from Strava Club 208705 on 
- Wed\, 31 Dec @ 10:50 PM
+ Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTh
  ere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7 min 
  km Intermediate level - [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/1457866Synced from Strava Club 208705 
- on: Wed\, 31 Dec @ 10:50 PM
+ on: Wed\, 31 Dec @ 11:10 PM
 LOCATION:Wyche Cutting\, Malvern\, WR13 6PJ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/1457866
 CATEGORIES:Running,Club Event
@@ -207,7 +207,7 @@ BEGIN:VEVENT
 UID:3439823303584180262@strava.com
 DTSTART;TZID=Europe/London:20260113T183000
 DTEND;TZID=Europe/London:20260113T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight - Week 2 January 2026 (45 mins)
 DESCRIPTION:Leader: Sim Buzzard\n\nWeek 2 of the Malvern Buzzards' "TAKE FL
  IGHT" programme. \n\nOur twist on Couch to 5k\, takes you on a running a jo
@@ -217,7 +217,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nWeek 2 of the Malvern Buzzards' "TAKE FL
  ons will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: 
  Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3439823303584180262\n\nSynced from Strava Club
-  208705 on Wed\, 31 Dec @ 10:50 PM
+  208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 2 of the Malvern Buzza
  rds' "TAKE FLIGHT" programme. Our twist on Couch to 5k\, takes you on a run
  ning a journey over six weeks and culminates in a local event supported by 
@@ -226,7 +226,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 2 of the Malvern Buzza
  Sessions will last from 40-60 minutes.Headtorch and hi-viz needed.LiRF: Sim
   Buzzard [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3439823303584180262Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:Priory Park\, Malvern\, WR14 3DS\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3439823303584180262
 CATEGORIES:Running,Club Event
@@ -235,7 +235,7 @@ BEGIN:VEVENT
 UID:3439824123482390566@strava.com
 DTSTART;TZID=Europe/London:20260120T183000
 DTEND;TZID=Europe/London:20260120T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight Week 3 (January 2026) - 45 minutes
 DESCRIPTION:Leader: Sim Buzzard\n\nWeek 3 of the Malvern Buzzards' "TAKE FL
  IGHT" programme. \n\nOur twist on Couch to 5k\, takes you on a running a jo
@@ -245,7 +245,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nWeek 3 of the Malvern Buzzards' "TAKE FL
  ons will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: 
  Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3439824123482390566\n\nSynced from Strava Club
-  208705 on Wed\, 31 Dec @ 10:50 PM
+  208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 3 of the Malvern Buzza
  rds' "TAKE FLIGHT" programme. Our twist on Couch to 5k\, takes you on a run
  ning a journey over six weeks and culminates in a local event supported by 
@@ -254,7 +254,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 3 of the Malvern Buzza
  Sessions will last from 40-60 minutes.Headtorch and hi-viz needed.LiRF: Sim
   Buzzard [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3439824123482390566Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:Priory Park\, Malvern\, WR14 3DS\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3439824123482390566
 CATEGORIES:Running,Club Event
@@ -263,7 +263,7 @@ BEGIN:VEVENT
 UID:3439824506821039192@strava.com
 DTSTART;TZID=Europe/London:20260127T183000
 DTEND;TZID=Europe/London:20260127T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight - Week 4 (50 minutes)
 DESCRIPTION:Leader: Sim Buzzard\n\nWeek 4 of the Malvern Buzzards' "TAKE FL
  IGHT" programme. \n\nOur twist on Couch to 5k\, takes you on a running a jo
@@ -273,7 +273,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nWeek 4 of the Malvern Buzzards' "TAKE FL
  ons will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: 
  Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3439824506821039192\n\nSynced from Strava Club
-  208705 on Wed\, 31 Dec @ 10:50 PM
+  208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 4 of the Malvern Buzza
  rds' "TAKE FLIGHT" programme. Our twist on Couch to 5k\, takes you on a run
  ning a journey over six weeks and culminates in a local event supported by 
@@ -282,7 +282,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 4 of the Malvern Buzza
  Sessions will last from 40-60 minutes.Headtorch and hi-viz needed.LiRF: Sim
   Buzzard [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3439824506821039192Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:Priory Park\, Malvern\, WR14 3DS\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3439824506821039192
 CATEGORIES:Running,Club Event
@@ -291,20 +291,20 @@ BEGIN:VEVENT
 UID:3394384294634509798@strava.com
 DTSTART;TZID=Europe/London:20260201T110000
 DTEND;TZID=Europe/London:20260201T120000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:HBXC Winter XC: Race #5 | Beginner
 DESCRIPTION:Leader: Andrew Elwood\nDifficulty: Beginner\n\nRace 5 of the Wi
  nter XC series will be hosted by Hereford Tri Club.\n\nRoute will be approx
  . 10km (6 miles) over varying terrain.\n\nGet clicked in if you want to rac
  e and keep an eye on strava / whatsapp for more information in future.\n\nV
  iew on Strava: https://www.strava.com/clubs/208705/group_events/33943842946
- 34509798\n\nSynced from Strava Club 208705 on Wed\, 31 Dec @ 10:50 PM
+ 34509798\n\nSynced from Strava Club 208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodDifficulty: BeginnerRace 
  5 of the Winter XC series will be hosted by Hereford Tri Club.Route will be
   approx. 10km (6 miles) over varying terrain.Get clicked in if you want to 
  race and keep an eye on strava / whatsapp for more information in future.Vi
  ew on Strava: https://www.strava.com/clubs/208705/group_events/339438429463
- 4509798Synced from Strava Club 208705 on: Wed\, 31 Dec @ 10:50 PM
+ 4509798Synced from Strava Club 208705 on: Wed\, 31 Dec @ 11:10 PM
 URL:https://www.strava.com/clubs/208705/group_events/3394384294634509798
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -312,7 +312,7 @@ BEGIN:VEVENT
 UID:3439824904772328150@strava.com
 DTSTART;TZID=Europe/London:20260203T183000
 DTEND;TZID=Europe/London:20260203T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight - Week 5  (55 Minutes)
 DESCRIPTION:Leader: Sim Buzzard\n\nWeek 5 of the Malvern Buzzards' "TAKE FL
  IGHT" programme. \n\nOur twist on Couch to 5k\, takes you on a running a jo
@@ -322,7 +322,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nWeek 5 of the Malvern Buzzards' "TAKE FL
  ons will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: 
  Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3439824904772328150\n\nSynced from Strava Club
-  208705 on Wed\, 31 Dec @ 10:50 PM
+  208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 5 of the Malvern Buzza
  rds' "TAKE FLIGHT" programme. Our twist on Couch to 5k\, takes you on a run
  ning a journey over six weeks and culminates in a local event supported by 
@@ -331,7 +331,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 5 of the Malvern Buzza
  Sessions will last from 40-60 minutes.Headtorch and hi-viz needed.LiRF: Sim
   Buzzard [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3439824904772328150Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:Priory Park\, Malvern\, WR14 3DS\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3439824904772328150
 CATEGORIES:Running,Club Event
@@ -340,7 +340,7 @@ BEGIN:VEVENT
 UID:3439825250326672472@strava.com
 DTSTART;TZID=Europe/London:20260210T183000
 DTEND;TZID=Europe/London:20260210T193000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight - Week 6 (60 minutes)
 DESCRIPTION:Leader: Sim Buzzard\n\nWeek 6 of the Malvern Buzzards' "TAKE FL
  IGHT" programme. \n\nOur twist on Couch to 5k\, takes you on a running a jo
@@ -350,7 +350,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nWeek 6 of the Malvern Buzzards' "TAKE FL
  ons will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: 
  Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3439825250326672472\n\nSynced from Strava Club
-  208705 on Wed\, 31 Dec @ 10:50 PM
+  208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 6 of the Malvern Buzza
  rds' "TAKE FLIGHT" programme. Our twist on Couch to 5k\, takes you on a run
  ning a journey over six weeks and culminates in a local event supported by 
@@ -359,7 +359,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardWeek 6 of the Malvern Buzza
  Sessions will last from 40-60 minutes.Headtorch and hi-viz needed.LiRF: Sim
   Buzzard [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3439825250326672472Synced from Strava Club 208705 on:
-  Wed\, 31 Dec @ 10:50 PM
+  Wed\, 31 Dec @ 11:10 PM
 LOCATION:Priory Park\, Malvern\, WR14 3DS\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3439825250326672472
 CATEGORIES:Running,Club Event
@@ -368,20 +368,20 @@ BEGIN:VEVENT
 UID:3439825963526494246@strava.com
 DTSTART;TZID=Europe/London:20260214T090000
 DTEND;TZID=Europe/London:20260214T100000
-DTSTAMP:20251231T225051Z
+DTSTAMP:20251231T231013Z
 SUMMARY:Take Flight Graduation 5k (venue TBC)
 DESCRIPTION:Leader: Sim Buzzard\n\nThe Take Flight graduation flight will t
  ake place at a local parkrun or 5k event. The venue will be chosen by the a
  thletes in the group. This placeholder will be then be updated. Thank you.\
  n\nLiRF: Sim Buzzard [Phone Number Redacted]\n\nView on Strava: https://www
  .strava.com/clubs/208705/group_events/3439825963526494246\n\nSynced from St
- rava Club 208705 on Wed\, 31 Dec @ 10:50 PM
+ rava Club 208705 on Wed\, 31 Dec @ 11:10 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardThe Take Flight graduation 
  flight will take place at a local parkrun or 5k event. The venue will be ch
  osen by the athletes in the group. This placeholder will be then be updated
  . Thank you.LiRF: Sim Buzzard [Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3439825963526494246Synced from S
- trava Club 208705 on: Wed\, 31 Dec @ 10:50 PM
+ trava Club 208705 on: Wed\, 31 Dec @ 11:10 PM
 URL:https://www.strava.com/clubs/208705/group_events/3439825963526494246
 CATEGORIES:Running,Club Event
 END:VEVENT

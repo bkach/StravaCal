@@ -103,6 +103,17 @@
     "skill_levels": 2
   },
   {
+    "id": 2171556,
+    "title": "Rise \u0026 Run - 8am start",
+    "start": "2026-01-09T08:00:00Z",
+    "end": "2026-01-09T09:00:00Z",
+    "description": "**Rise \u0026 Run**\n\nA later start of 8am while we’re still in the holiday period!\n\nWeekly run of approximately 5km on the hills to start your day.\n\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.\nNo one left behind.\n\nDistance: 5km\n\nTime: ~45 minutes\n\nMeeting point: The Buzzards in Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember to click out if you can no longer make it.\n\nHannah\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/2171556",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Hannah Thompson",
+    "skill_levels": 1
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2026-01-07T18:30:00Z",
@@ -153,16 +164,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3396483086907526824",
     "location": "Malvern College Playing Fields, Malvern, WR14 3ED, United Kingdom",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 2171556,
-    "title": "Rise \u0026 Run - 8am start",
-    "start": "2026-01-02T08:00:00Z",
-    "end": "2026-01-02T09:00:00Z",
-    "description": "**Rise \u0026 Run**\n\nA later start of 8am while we’re still in the holiday period!\n\nWeekly run of approximately 5km on the hills to start your day.\n\nPace: We will average between 8-9min/km overall. Running the flats/downs, and walking or run/walk the ups.\nNo one left behind.\n\nDistance: 5km\n\nTime: ~45 minutes\n\nMeeting point: The Buzzards in Rosebank Gardens\n\nHeadtorches needed for the start of the run now!\n\nPlease remember to click out if you can no longer make it.\n\nHannah\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/2171556",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Hannah Thompson",
-    "skill_levels": 1
   }
 ]

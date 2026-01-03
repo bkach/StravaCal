@@ -72,11 +72,21 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3442508313055425640,
+    "title": "Defrillator Challenge Day 2",
+    "start": "2026-01-18T00:00:00Z",
+    "end": "2026-01-18T01:00:00Z",
+    "description": "SIGN UP for the Challenge (Sunday)  to let organiser know who is going to participate - hopefully lots and lots! \n\nPlease note that there is no run leader for this charity event. All runners participate at their own risk. \n\nAll details are available as a Club post. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442508313055425640",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3442507962218361960,
     "title": "Defibrillator Challenge Day 1",
     "start": "2026-01-17T06:00:00Z",
     "end": "2026-01-17T07:00:00Z",
-    "description": "SIGN UP for the Challenge (Saturday)  to let organiser know who is going to participate - hopefully lots and lots! \n\nPlease note that there is no run leader for this charity event. All runners participate at their own risk. \n\nAll details are available as a the Club post. ",
+    "description": "SIGN UP for the Challenge (Saturday)  to let organiser know who is going to participate - hopefully lots and lots! \n\nPlease note that there is no run leader for this charity event. All runners participate at their own risk. \n\nAll details are available as a  Club post. ",
     "url": "https://www.strava.com/clubs/208705/group_events/3442507962218361960",
     "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
     "organizer": "Julie Slack"
@@ -102,16 +112,6 @@
     "organizer": "Wesley Ogden"
   },
   {
-    "id": 3441782870696857796,
-    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
-    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
-    "organizer": "Sim Buzzard"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-11T08:00:00Z",
@@ -121,6 +121,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3441782870696857796,
+    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
+    "start": "2026-01-11T08:00:00Z",
+    "end": "2026-01-11T09:00:00Z",
+    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
+    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
+    "organizer": "Sim Buzzard"
   },
   {
     "id": 3442471880884734822,

@@ -72,6 +72,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3442507962218361960,
+    "title": "Defibrillator Challenge Day 1",
+    "start": "2026-01-17T06:00:00Z",
+    "end": "2026-01-17T07:00:00Z",
+    "description": "SIGN UP for the Challenge (Saturday)  to let organiser know who is going to participate - hopefully lots and lots! \n\nPlease note that there is no run leader for this charity event. All runners participate at their own risk. \n\nAll details are available as a the Club post. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442507962218361960",
+    "location": "Rosebank Gardens, Malvern, WR14 4RQ, United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3439823303584180262,
     "title": "Take Flight - Week 2 January 2026 (45 mins)",
     "start": "2026-01-13T18:30:00Z",
@@ -134,16 +144,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3442491946894451558,
-    "title": "Thirsty Thursday 10k: The Malvern Tavern",
-    "start": "2026-01-08T19:00:00Z",
-    "end": "2026-01-08T20:00:00Z",
-    "description": "New venue for Thirsty Thursday to start 2026! We will meet at the Malvern Tavern 79 Belmont Rd, Malvern WR14 1PN, and go for a run around the roads for approximately 10km. Aim is to do it in about 55-57mins. \n\nDetails Summary:\n- Distance: 10k (6miles)\n- Time: 55-57mins\n- Pace: 5:30-5:45/km\n\nAny questions, let me know. \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442491946894451558",
-    "location": "The Malvern Tavern",
-    "organizer": "Andrew Elwood"
-  },
-  {
     "id": 3442479732379962472,
     "title": "Thirsty Thursday The Malvern Tavern",
     "start": "2026-01-08T19:00:00Z",
@@ -152,6 +152,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442479732379962472",
     "location": "79 Belmont Road Malvern England WR14 1PN United Kingdom",
     "organizer": "Sarah Fowkes"
+  },
+  {
+    "id": 3442491946894451558,
+    "title": "Thirsty Thursday 10k: The Malvern Tavern",
+    "start": "2026-01-08T19:00:00Z",
+    "end": "2026-01-08T20:00:00Z",
+    "description": "New venue for Thirsty Thursday to start 2026! We will meet at the Malvern Tavern 79 Belmont Rd, Malvern WR14 1PN, and go for a run around the roads for approximately 10km. Aim is to do it in about 55-57mins. \n\nDetails Summary:\n- Distance: 10k (6miles)\n- Time: 55-57mins\n- Pace: 5:30-5:45/km\n\nAny questions, let me know. \n\nAndrew\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442491946894451558",
+    "location": "The Malvern Tavern",
+    "organizer": "Andrew Elwood"
   },
   {
     "id": 1892059,

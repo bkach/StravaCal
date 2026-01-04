@@ -11,6 +11,36 @@
     "skill_levels": 1
   },
   {
+    "id": 3442917965611387160,
+    "title": "***League event*** Cotswold Way Relay",
+    "start": "2026-07-04T06:00:00Z",
+    "end": "2026-07-04T07:00:00Z",
+    "description": "This is a team event, please contact Sarah Reeves (team manager) to sign up.\n\nFull details:\ncotswoldwayrelay(dot)co(dot)uk\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442917965611387160",
+    "location": "Chipping Campden, Gloucestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3442916833695894818,
+    "title": "***League event*** Suckley Quarter Marathon",
+    "start": "2026-05-17T10:00:00Z",
+    "end": "2026-05-17T11:00:00Z",
+    "description": "Placeholder - entry details to follow",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442916833695894818",
+    "location": "WR6 5EQ, Worcester, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3442915869531965600,
+    "title": "***League event*** MARTLEY MADNESS",
+    "start": "2026-04-19T10:00:00Z",
+    "end": "2026-04-19T11:00:00Z",
+    "description": "Spectacular Scenery, Hills and Friendly Support\n10ish miles over undulating and spectacular Worcestershire countryside\nProceeds will to go to the Worcestershire Trailblazers and their chosen charity Cardiac Risk in the Young (C.R.Y)\nFree cake and fruit for all finishers!\n\nFull details and entry:\nwww(dot)entrycentral(dot)com/Martleymadness",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442915869531965600",
+    "location": "WR6 6QA, Worcester, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
     "id": 3442909105963114656,
     "title": "***League event*** GLOUCESTER HALF MARATHON \u0026 10K",
     "start": "2026-03-22T09:00:00Z",
@@ -122,6 +152,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3441782870696857796,
+    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
+    "start": "2026-01-11T08:00:00Z",
+    "end": "2026-01-11T09:00:00Z",
+    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
+    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
+    "organizer": "Sim Buzzard"
+  },
+  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-11T08:00:00Z",
@@ -131,16 +171,6 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3441782870696857796,
-    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
-    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
-    "organizer": "Sim Buzzard"
   },
   {
     "id": 3442481363904503976,
@@ -174,16 +204,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3442479732379962472,
-    "title": "Thirsty Thursday The Malvern Tavern",
-    "start": "2026-01-08T19:00:00Z",
-    "end": "2026-01-08T20:00:00Z",
-    "description": "A new venue for us The Malvern Tavern, 79 Belmont Road WR14 1PN \n///flank.taps.patio\nWe shall run around 5k in about 40 to 50 minutes - walking/Jeffing any hills.\nHi viz and torches please \n\nAny questions Sarah [Phone Number Redacted]\n\nOptional refreshments afterwards. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442479732379962472",
-    "location": "79 Belmont Road Malvern England WR14 1PN United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
     "id": 3442491946894451558,
     "title": "Thirsty Thursday 10k: The Malvern Tavern",
     "start": "2026-01-08T19:00:00Z",
@@ -192,6 +212,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442491946894451558",
     "location": "The Malvern Tavern",
     "organizer": "Andrew Elwood"
+  },
+  {
+    "id": 3442479732379962472,
+    "title": "Thirsty Thursday The Malvern Tavern",
+    "start": "2026-01-08T19:00:00Z",
+    "end": "2026-01-08T20:00:00Z",
+    "description": "A new venue for us The Malvern Tavern, 79 Belmont Road WR14 1PN \n///flank.taps.patio\nWe shall run around 5k in about 40 to 50 minutes - walking/Jeffing any hills.\nHi viz and torches please \n\nAny questions Sarah [Phone Number Redacted]\n\nOptional refreshments afterwards. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442479732379962472",
+    "location": "79 Belmont Road Malvern England WR14 1PN United Kingdom",
+    "organizer": "Sarah Fowkes"
   },
   {
     "id": 1892059,

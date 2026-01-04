@@ -112,16 +112,6 @@
     "organizer": "Wesley Ogden"
   },
   {
-    "id": 3441782870696857796,
-    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
-    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
-    "organizer": "Sim Buzzard"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-11T08:00:00Z",
@@ -131,6 +121,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3441782870696857796,
+    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
+    "start": "2026-01-11T08:00:00Z",
+    "end": "2026-01-11T09:00:00Z",
+    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
+    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
+    "organizer": "Sim Buzzard"
   },
   {
     "id": 3442471880884734822,
@@ -154,16 +154,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3442491946894451558,
-    "title": "Thirsty Thursday 10k: The Malvern Tavern",
-    "start": "2026-01-08T19:00:00Z",
-    "end": "2026-01-08T20:00:00Z",
-    "description": "New venue for Thirsty Thursday to start 2026! We will meet at the Malvern Tavern 79 Belmont Rd, Malvern WR14 1PN, and go for a run around the roads for approximately 10km. Aim is to do it in about 55-57mins. \n\nDetails Summary:\n- Distance: 10k (6miles)\n- Time: 55-57mins\n- Pace: 5:30-5:45/km\n\nAny questions, let me know. \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442491946894451558",
-    "location": "The Malvern Tavern",
-    "organizer": "Andrew Elwood"
-  },
-  {
     "id": 3442479732379962472,
     "title": "Thirsty Thursday The Malvern Tavern",
     "start": "2026-01-08T19:00:00Z",
@@ -172,6 +162,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442479732379962472",
     "location": "79 Belmont Road Malvern England WR14 1PN United Kingdom",
     "organizer": "Sarah Fowkes"
+  },
+  {
+    "id": 3442491946894451558,
+    "title": "Thirsty Thursday 10k: The Malvern Tavern",
+    "start": "2026-01-08T19:00:00Z",
+    "end": "2026-01-08T20:00:00Z",
+    "description": "New venue for Thirsty Thursday to start 2026! We will meet at the Malvern Tavern 79 Belmont Rd, Malvern WR14 1PN, and go for a run around the roads for approximately 10km. Aim is to do it in about 55-57mins. \n\nDetails Summary:\n- Distance: 10k (6miles)\n- Time: 55-57mins\n- Pace: 5:30-5:45/km\n\nAny questions, let me know. \n\nAndrew\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442491946894451558",
+    "location": "The Malvern Tavern",
+    "organizer": "Andrew Elwood"
   },
   {
     "id": 1892059,
@@ -254,15 +254,5 @@
     "location": "Malvern College, College Rd, Malvern, WR14 3DF, United Kingdom",
     "organizer": "Andrew Elwood",
     "skill_levels": 1
-  },
-  {
-    "id": 3396483086907526824,
-    "title": "Buzzard Cross Country Hosting - VOLUNTEERS (NOT A RUN)",
-    "start": "2026-01-04T10:00:00Z",
-    "end": "2026-01-04T11:00:00Z",
-    "description": "This is a Strava event for volunteers to help marshal and take on other tasks as the Club hosts a race in the Herefordshire and Borders XC league.  You will allocated a role nearer the time but please hold the date.\n\nIf you want to me more involved then see the Strava post or drop a note or message to Sim Buzzard [Phone Number Redacted].",
-    "url": "https://www.strava.com/clubs/208705/group_events/3396483086907526824",
-    "location": "Malvern College Playing Fields, Malvern, WR14 3ED, United Kingdom",
-    "organizer": "Sim Buzzard"
   }
 ]

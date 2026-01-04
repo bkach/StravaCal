@@ -102,16 +102,6 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3442481363904503976,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
-    "location": "Victoria Park CP, Park Cl, Malvern, WR14 2LS, United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-11T08:00:00Z",
@@ -121,6 +111,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3442481363904503976,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-01-11T08:00:00Z",
+    "end": "2026-01-11T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
+    "location": "Victoria Park CP, Park Cl, Malvern, WR14 2LS, United Kingdom",
+    "organizer": "Wesley Ogden"
   },
   {
     "id": 3441782870696857796,
@@ -243,16 +243,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442476803472353126",
     "location": "78 Barnard's Green Road Malvern England WR14 3LY United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3394383189748997692,
-    "title": "HBXC Winter XC: Race #4",
-    "start": "2026-01-04T11:00:00Z",
-    "end": "2026-01-04T12:00:00Z",
-    "description": "Winter XC race #4: Malvern College.\n\nRoute will be approx. 10km (6 miles) over varying terrain (mainly off road). Event is open to people of all abilities to compete for the club.\n\nThis is an event for those wishing to compete in the 4th race of this year's winter XC series taking place from Malvern College. This promises to be a good event, and maximum turn out would be amazing as we are hositng this race.\n\nMore information to follow. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3394383189748997692",
-    "location": "Malvern College, College Rd, Malvern, WR14 3DF, United Kingdom",
-    "organizer": "Andrew Elwood",
-    "skill_levels": 1
   }
 ]

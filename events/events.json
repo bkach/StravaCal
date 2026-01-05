@@ -142,6 +142,17 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-01-18T08:00:00Z",
+    "end": "2026-01-18T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3442508313055425640,
     "title": "Defrillator Challenge Day 2",
     "start": "2026-01-18T00:00:00Z",
@@ -180,17 +191,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
     "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   },
   {
     "id": 3442481363904503976,

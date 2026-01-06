@@ -173,6 +173,16 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 3442519841778912102,
+    "title": "The Sugar Rush",
+    "start": "2026-01-13T19:30:00Z",
+    "end": "2026-01-13T20:30:00Z",
+    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
     "id": 3442469464108467832,
     "title": "Tuesday 10",
     "start": "2026-01-13T19:00:00Z",
@@ -203,16 +213,6 @@
     "organizer": "Boris Kachscovsky"
   },
   {
-    "id": 3442481363904503976,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
-    "location": "Victoria Park CP, Park Cl, Malvern, WR14 2LS, United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 3441782870696857796,
     "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
     "start": "2026-01-11T08:00:00Z",
@@ -221,6 +221,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
     "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
     "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3442481363904503976,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-01-11T08:00:00Z",
+    "end": "2026-01-11T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
+    "location": "Victoria Park CP, Park Cl, Malvern, WR14 2LS, United Kingdom",
+    "organizer": "Wesley Ogden"
   },
   {
     "id": 3442471880884734822,
@@ -283,25 +293,5 @@
     "location": "Wyche Cutting Bus Stop",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3442519841778912102,
-    "title": "The Sugar Rush",
-    "start": "2026-01-06T19:30:00Z",
-    "end": "2026-01-06T20:30:00Z",
-    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
-  },
-  {
-    "id": 3442499612129917798,
-    "title": "Structured Session - 45 minutes - All welcome",
-    "start": "2026-01-06T19:15:00Z",
-    "end": "2026-01-06T20:15:00Z",
-    "description": "Meet at  Bandstand. This is structured workout session immediately following Take Flight. It will last 45 minutes - it may include hill reps, shuttles, bananas and or pyramids. You will not be left behind - you should be able to see others all the time. When you WORK you work at your power level and pace. \n\nHeadtorch and hi-viz please.\n\nLiRF: Sim [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442499612129917798",
-    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
-    "organizer": "Sim Buzzard"
   }
 ]

@@ -101,6 +101,16 @@
     "organizer": "Sarah Reeves"
   },
   {
+    "id": 3442481363904503976,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-02-08T08:00:00Z",
+    "end": "2026-02-08T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
+    "location": "Malvern England WR14 United Kingdom",
+    "organizer": "Wesley Ogden"
+  },
+  {
     "id": 3444400174910285946,
     "title": "AGM - NOT A RUN",
     "start": "2026-02-05T19:30:00Z",
@@ -292,25 +302,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3444696214961176374",
     "location": "Malvern England WR14 United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3442481363904503976,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
-    "location": "Malvern England WR14 United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
-    "id": 3441782870696857796,
-    "title": "Straight Outta Compton / Roll(right) with it - Double A-side - Adventure (10.6 miles in 2 hours ish)",
-    "start": "2026-01-11T08:00:00Z",
-    "end": "2026-01-11T09:00:00Z",
-    "description": "10.6 mile trail run from Little Compton to Great Compton taking in a visit to the Rollright Stones. Run followed by a sarnie or cuppa if cafe open (otherwise stop off on way back to Malvern). Expect to be out for 2 - 2.5 hours to allow for photos and map checking.\n\nDress for the weather and bring supplies.\n\nLiRF@ Sim Buzzard [Phone Number Redacted]\n\nLeaving Malvern about 07:00 and please car share if you can.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3441782870696857796",
-    "location": "The Red Lion @ Little Compton, Pill Ln, Moreton-in-Marsh, GL56 0RT, United Kingdom",
-    "organizer": "Sim Buzzard"
   }
 ]

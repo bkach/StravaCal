@@ -182,6 +182,16 @@
     "organizer": "Andrew Kenchington"
   },
   {
+    "id": 3442519841778912102,
+    "title": "The Sugar Rush",
+    "start": "2026-01-20T19:30:00Z",
+    "end": "2026-01-20T20:30:00Z",
+    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
     "id": 3442469464108467832,
     "title": "Tuesday 10",
     "start": "2026-01-20T19:00:00Z",
@@ -202,16 +212,6 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3445407926711592446,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-01-18T08:00:00Z",
-    "end": "2026-01-18T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3445407926711592446",
-    "location": "Victoria Park, Victoria Park, Malvern, England, United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-18T08:00:00Z",
@@ -221,6 +221,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3445407926711592446,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-01-18T08:00:00Z",
+    "end": "2026-01-18T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3445407926711592446",
+    "location": "Victoria Park, Victoria Park, Malvern, England, United Kingdom",
+    "organizer": "Wesley Ogden"
   },
   {
     "id": 3442508313055425640,
@@ -312,15 +322,5 @@
     "location": "Wyche Cutting Bus Stop",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3442519841778912102,
-    "title": "The Sugar Rush",
-    "start": "2026-01-13T19:30:00Z",
-    "end": "2026-01-13T20:30:00Z",
-    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
   }
 ]

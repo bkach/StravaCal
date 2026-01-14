@@ -182,6 +182,17 @@
     "organizer": "Andrew Kenchington"
   },
   {
+    "id": 1892059,
+    "title": "Return of the Ramparts",
+    "start": "2026-01-21T18:30:00Z",
+    "end": "2026-01-21T19:30:00Z",
+    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
+    "location": "Wyche Cutting Bus Stop",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3442519841778912102,
     "title": "The Sugar Rush",
     "start": "2026-01-20T19:30:00Z",
@@ -212,16 +223,6 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3445407926711592446,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-01-18T08:00:00Z",
-    "end": "2026-01-18T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3445407926711592446",
-    "location": "Victoria Park, Victoria Park, Malvern, England, United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-18T08:00:00Z",
@@ -231,6 +232,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3445407926711592446,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-01-18T08:00:00Z",
+    "end": "2026-01-18T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3445407926711592446",
+    "location": "Victoria Park, Victoria Park, Malvern, England, United Kingdom",
+    "organizer": "Wesley Ogden"
   },
   {
     "id": 3442508313055425640,
@@ -321,16 +332,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3445934335937628994",
     "location": "Christ church, avenue Road ",
     "organizer": "Neil Warne"
-  },
-  {
-    "id": 1892059,
-    "title": "Return of the Ramparts",
-    "start": "2026-01-14T18:30:00Z",
-    "end": "2026-01-14T19:30:00Z",
-    "description": "It's back - the popular run around British Camp ramparts.  Roughly 11km - it's not too hilly or challenging.  Please note time change for this week! Contact Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1892059",
-    "location": "Wyche Cutting Bus Stop",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

@@ -193,16 +193,6 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3447919685839971856,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-01-25T08:00:00Z",
-    "end": "2026-01-25T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3447919685839971856",
-    "location": "Victoria Park, Victoria Park, Malvern, England, United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-01-25T08:00:00Z",
@@ -212,6 +202,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3447919685839971856,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-01-25T08:00:00Z",
+    "end": "2026-01-25T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3447919685839971856",
+    "location": "Victoria Park, Victoria Park, Malvern, England, United Kingdom",
+    "organizer": "Wesley Ogden"
   },
   {
     "id": 3444809115575545460,
@@ -282,15 +282,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
     "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
     "organizer": "Lily Price"
-  },
-  {
-    "id": 3448613044633672094,
-    "title": "Hustling - Real Vale",
-    "start": "2026-01-21T19:00:00Z",
-    "end": "2026-01-21T20:00:00Z",
-    "description": "Meet at Christ Church, Avenue Road\n\nHustling does intervals:\n\nHills last week, intervals this week. After a tidy warm-up to Malvern Vale we'll do a series of intervals (1200m and 400m) followed by a trot back at the end.\n\nDistance: about 15km total\nPace: 5min/km on WU and CD, quicker on efforts. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3448613044633672094",
-    "location": "Avenue Road",
-    "organizer": "Neil Warne"
   }
 ]

@@ -253,17 +253,6 @@
     "organizer": "Sarah Fowkes"
   },
   {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-01-25T08:00:00Z",
-    "end": "2026-01-25T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
-  },
-  {
     "id": 3447919685839971856,
     "title": "Sunday Morning Road Run",
     "start": "2026-01-25T08:00:00Z",
@@ -274,13 +263,14 @@
     "organizer": "Wesley Ogden"
   },
   {
-    "id": 3444809115575545460,
-    "title": "Cross country training",
-    "start": "2026-01-24T09:00:00Z",
-    "end": "2026-01-24T10:00:00Z",
-    "description": "Meet at the Buzzards. Jog warm-up down to the Common. Then a mix of interval efforts on flat and hills loops - all at own effort, re-grouping after sets. We'll use various bits of the Buzzard XC course. Finish with jog back to Buzzards - all done by 10:30am. Off road shoes needed - good prep for last XC race. Any queries Andy K [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3444809115575545460",
-    "location": "Rosebank Gardens, Great Malvern",
-    "organizer": "Andrew Kenchington"
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-01-25T08:00:00Z",
+    "end": "2026-01-25T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
   }
 ]

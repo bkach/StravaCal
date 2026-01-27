@@ -172,16 +172,6 @@
     "skill_levels": 1
   },
   {
-    "id": 3450488450624154436,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-02-01T08:00:00Z",
-    "end": "2026-02-01T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3450488450624154436",
-    "location": "Malvern England WR14 United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-02-01T08:00:00Z",
@@ -191,6 +181,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3450488450624154436,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-02-01T08:00:00Z",
+    "end": "2026-02-01T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3450488450624154436",
+    "location": "Malvern England WR14 United Kingdom",
+    "organizer": "Wesley Ogden"
   },
   {
     "id": 3445052171608238340,
@@ -272,15 +272,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3449511465610004548",
     "location": "Victoria Park, Malvern, England, United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 3439824506821039192,
-    "title": "Take Flight - Week 4 (50 minutes)",
-    "start": "2026-01-27T18:30:00Z",
-    "end": "2026-01-27T19:30:00Z",
-    "description": "Week 4 of the Malvern Buzzards' \"TAKE FLIGHT\" programme. \n\nOur twist on Couch to 5k, takes you on a running a journey over six weeks and culminates in a local event supported by Buzzards where you will smash your goal. With a mixture of theory, exercises and structured sessions, the running distance will increase each week. \n\nSessions will last from 40-60 minutes.\n\nHeadtorch and hi-viz needed.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3439824506821039192",
-    "location": "Priory Park, Malvern, WR14 3DS, United Kingdom",
-    "organizer": "Sim Buzzard"
   }
 ]

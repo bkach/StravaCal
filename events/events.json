@@ -151,6 +151,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-02-05T18:30:00Z",
+    "end": "2026-02-05T19:30:00Z",
+    "description": "Thursday Hills *Andy D leading 22/1/26*\n7/8km on hills in  1/1:10 hour \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
+  },
+  {
     "id": 1892059,
     "title": "Return of the Ramparts",
     "start": "2026-02-04T18:30:00Z",
@@ -254,16 +264,6 @@
     "organizer": "Hannah Thompson"
   },
   {
-    "id": 3449762531791824816,
-    "title": "5k Thirsty Thursday - The Bluebell Inn",
-    "start": "2026-01-29T19:00:00Z",
-    "end": "2026-01-29T20:00:00Z",
-    "description": "Around 5k in 40 to 45 minutes depending on the elevation. We shall Jeff/run/walk any hills. \nAll welcome. \nNo one left behind. \nAny questions Sarah [Phone Number Redacted]\nHi viz and torches please. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3449762531791824816",
-    "location": "Bluebell Inn, 4 Guarlford Road Malvern England WR14 3QP United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
     "id": 3450470332620635440,
     "title": "Thirsty Thursday 10k: The Bluebell",
     "start": "2026-01-29T19:00:00Z",
@@ -274,13 +274,13 @@
     "organizer": "Andrew Elwood"
   },
   {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-01-29T18:30:00Z",
-    "end": "2026-01-29T19:30:00Z",
-    "description": "Thursday Hills *Andy D leading 22/1/26*\n7/8km on hills in  1/1:10 hour \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
+    "id": 3449762531791824816,
+    "title": "5k Thirsty Thursday - The Bluebell Inn",
+    "start": "2026-01-29T19:00:00Z",
+    "end": "2026-01-29T20:00:00Z",
+    "description": "Around 5k in 40 to 45 minutes depending on the elevation. We shall Jeff/run/walk any hills. \nAll welcome. \nNo one left behind. \nAny questions Sarah [Phone Number Redacted]\nHi viz and torches please. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3449762531791824816",
+    "location": "Bluebell Inn, 4 Guarlford Road Malvern England WR14 3QP United Kingdom",
+    "organizer": "Sarah Fowkes"
   }
 ]

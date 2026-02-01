@@ -131,6 +131,17 @@
     "organizer": "Sarah Reeves"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-02-08T08:00:00Z",
+    "end": "2026-02-08T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3442481363904503976,
     "title": "Sunday Morning Road Run",
     "start": "2026-02-08T08:00:00Z",
@@ -261,26 +272,5 @@
     "location": "",
     "organizer": "Andrew Elwood",
     "skill_levels": 1
-  },
-  {
-    "id": 3450488450624154436,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-02-01T08:00:00Z",
-    "end": "2026-02-01T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3450488450624154436",
-    "location": "Malvern England WR14 United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-02-01T08:00:00Z",
-    "end": "2026-02-01T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

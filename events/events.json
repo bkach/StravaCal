@@ -221,6 +221,16 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 3449511465610004548,
+    "title": "Tuesday 10",
+    "start": "2026-02-10T19:00:00Z",
+    "end": "2026-02-10T20:00:00Z",
+    "description": "10k run\n1hr 15mins (ish)\nRun-walk hills as required \n\nHi-viz and head /chest torch for visibility and safety. \n\nPlease click in as early as you can and click out as soon as you know you can’t make it.\nLiRF : Julie S [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3449511465610004548",
+    "location": "Victoria Park, Malvern, England, United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3439825250326672472,
     "title": "Take Flight - Week 6 (60 minutes)",
     "start": "2026-02-10T18:30:00Z",
@@ -341,15 +351,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
     "location": "The Foresters Arms",
     "organizer": "Robyn Hall"
-  },
-  {
-    "id": 3449511465610004548,
-    "title": "Tuesday 10",
-    "start": "2026-02-03T19:00:00Z",
-    "end": "2026-02-03T20:00:00Z",
-    "description": "10k run\n1hr 15mins (ish)\nRun-walk hills as required \n\nHi-viz and head /chest torch for visibility and safety. \n\nPlease click in as early as you can and click out as soon as you know you can’t make it.\nLiRF : Julie S [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3449511465610004548",
-    "location": "Victoria Park, Malvern, England, United Kingdom",
-    "organizer": "Julie Slack"
   }
 ]

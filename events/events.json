@@ -211,6 +211,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3451945162783453498,
+    "title": "5 on Friday",
+    "start": "2026-02-13T09:30:00Z",
+    "end": "2026-02-13T10:30:00Z",
+    "description": "5k road run \n\nChatty paced run , 35-40 mins\n\nWait at Waitrose entrance… probably inside if chilly! \n\nOptional coffee debrief. \n\nLiRF: Julie S [Phone Number Redacted]\n\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3451945162783453498",
+    "location": "Waitrose, Waitrose, Malvern, England, United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3453735461733453918,
     "title": "5 on Friday 'Away day'",
     "start": "2026-02-13T09:00:00Z",
@@ -301,16 +311,6 @@
     "organizer": "Sarah Reeves"
   },
   {
-    "id": 3442481363904503976,
-    "title": "Sunday Morning Road Run",
-    "start": "2026-02-08T08:00:00Z",
-    "end": "2026-02-08T09:00:00Z",
-    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
-    "location": "Malvern England WR14 United Kingdom",
-    "organizer": "Wesley Ogden"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-02-08T08:00:00Z",
@@ -322,13 +322,13 @@
     "skill_levels": 2
   },
   {
-    "id": 3451945162783453498,
-    "title": "5 on Friday",
-    "start": "2026-02-06T09:30:00Z",
-    "end": "2026-02-06T10:30:00Z",
-    "description": "5k road run \n\nChatty paced run , 35-40 mins\n\nWait at Waitrose entrance… probably inside if chilly! \n\nOptional coffee debrief. \n\nLiRF: Julie S [Phone Number Redacted]\n\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3451945162783453498",
-    "location": "Waitrose, Waitrose, Malvern, England, United Kingdom",
-    "organizer": "Julie Slack"
+    "id": 3442481363904503976,
+    "title": "Sunday Morning Road Run",
+    "start": "2026-02-08T08:00:00Z",
+    "end": "2026-02-08T09:00:00Z",
+    "description": "**PLEASE NOTE DISTANCE AND PACE BEFORE JOINING**\n\nJoin me as I prepare for a half-marathon in April. This is planned as a long run at the end of the week, so the effort is intended to be steady and comfortable. The distance, pace and route will vary from week to week.\n\nAny questions: Wesley @ [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442481363904503976",
+    "location": "Malvern England WR14 United Kingdom",
+    "organizer": "Wesley Ogden"
   }
 ]

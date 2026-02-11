@@ -201,6 +201,16 @@
     "organizer": "Hannah Thompson"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-02-18T18:30:00Z",
+    "end": "2026-02-18T19:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Wyche Cutting, Wyche Cutting, Colwall, England, United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3442519841778912102,
     "title": "The Sugar Rush",
     "start": "2026-02-17T19:30:00Z",
@@ -221,16 +231,6 @@
     "organizer": "Julie Slack"
   },
   {
-    "id": 3456221503329997020,
-    "title": "Sunday morning road run ",
-    "start": "2026-02-15T08:00:00Z",
-    "end": "2026-02-15T09:00:00Z",
-    "description": "****Please note distance and pace before joining***\n\nOne off Sunday morning road run in the interim whilst Wesley is not around. \nThis will be a 16km exercise encountering some up hills and descending on down hills section for a good measure. \n\nBarbara 077637450",
-    "url": "https://www.strava.com/clubs/208705/group_events/3456221503329997020",
-    "location": "Victoria Park",
-    "organizer": "Barbara Gawlak"
-  },
-  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-02-15T08:00:00Z",
@@ -240,6 +240,16 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
+  },
+  {
+    "id": 3456221503329997020,
+    "title": "Sunday morning road run ",
+    "start": "2026-02-15T08:00:00Z",
+    "end": "2026-02-15T09:00:00Z",
+    "description": "****Please note distance and pace before joining***\n\nOne off Sunday morning road run in the interim whilst Wesley is not around. \nThis will be a 16km exercise encountering some up hills and descending on down hills section for a good measure. \n\nBarbara 077637450",
+    "url": "https://www.strava.com/clubs/208705/group_events/3456221503329997020",
+    "location": "Victoria Park",
+    "organizer": "Barbara Gawlak"
   },
   {
     "id": 3439825963526494246,
@@ -310,15 +320,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
     "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
     "organizer": "Lily Price"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-02-11T18:30:00Z",
-    "end": "2026-02-11T19:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Wyche Cutting, Wyche Cutting, Colwall, England, United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

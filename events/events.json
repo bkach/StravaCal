@@ -221,6 +221,17 @@
     "organizer": "Barbara Gawlak"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-02-22T08:00:00Z",
+    "end": "2026-02-22T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3457333727823422612,
     "title": "Sack of potatoes - run + circuit mix",
     "start": "2026-02-21T08:30:00Z",
@@ -319,26 +330,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3457502899904893812",
     "location": "Link Top Long Stay Carpark",
     "organizer": "Maria Crawford"
-  },
-  {
-    "id": 3456221503329997020,
-    "title": "Sunday morning road run ",
-    "start": "2026-02-15T08:00:00Z",
-    "end": "2026-02-15T09:00:00Z",
-    "description": "****Please note distance and pace before joining***\n\nOne off Sunday morning road run in the interim whilst Wesley is not around. \nThis will be a 16km exercise encountering some up hills and descending on down hills section for a good measure. \n\nBarbara 077637450",
-    "url": "https://www.strava.com/clubs/208705/group_events/3456221503329997020",
-    "location": "Victoria Park",
-    "organizer": "Barbara Gawlak"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-02-15T08:00:00Z",
-    "end": "2026-02-15T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

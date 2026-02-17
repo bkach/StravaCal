@@ -211,6 +211,16 @@
     "organizer": "Andy Dingley"
   },
   {
+    "id": 3442519841778912102,
+    "title": "The Sugar Rush",
+    "start": "2026-02-24T19:30:00Z",
+    "end": "2026-02-24T20:30:00Z",
+    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
     "id": 3449511465610004548,
     "title": "Tuesday 10",
     "start": "2026-02-24T19:00:00Z",
@@ -231,6 +241,16 @@
     "organizer": "Maria Crawford"
   },
   {
+    "id": 3457771609135650046,
+    "title": "Sunday morning road run ",
+    "start": "2026-02-22T08:00:00Z",
+    "end": "2026-02-22T09:00:00Z",
+    "description": "*** Please note the pace and distance before joining***\nOne more from the road runs kind. This run will also be up to 16 km in distance with a pace of 5-5.30 min/km. \n\nBarbara [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3457771609135650046",
+    "location": "Victoria Park",
+    "organizer": "Barbara Gawlak"
+  },
+  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-02-22T08:00:00Z",
@@ -240,16 +260,6 @@
     "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3457771609135650046,
-    "title": "Sunday morning road run ",
-    "start": "2026-02-22T08:00:00Z",
-    "end": "2026-02-22T09:00:00Z",
-    "description": "*** Please note the pace and distance before joining***\nOne more from the road runs kind. This run will also be up to 16 km in distance with a pace of 5-5.30 min/km. \n\nBarbara [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3457771609135650046",
-    "location": "Victoria Park",
-    "organizer": "Barbara Gawlak"
   },
   {
     "id": 3457333727823422612,
@@ -320,15 +330,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3457772017223501054",
     "location": "Avenue Road",
     "organizer": "Neil Warne"
-  },
-  {
-    "id": 3442519841778912102,
-    "title": "The Sugar Rush",
-    "start": "2026-02-17T19:30:00Z",
-    "end": "2026-02-17T20:30:00Z",
-    "description": "FREE CAKE AND SOFT DRINK .....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to them where they have kindly offered free cake and a soft drink! (or tea/coffee)\n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Robyn - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
   }
 ]

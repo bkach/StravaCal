@@ -211,6 +211,16 @@
     "organizer": "Hannah Thompson"
   },
   {
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-02-26T18:30:00Z",
+    "end": "2026-02-26T19:30:00Z",
+    "description": "Thursday Hills \n7/8km on hills in  1/1:10 hour \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
+  },
+  {
     "id": 3455162324584765606,
     "title": "Round The Ramparts",
     "start": "2026-02-25T18:30:00Z",
@@ -302,16 +312,6 @@
     "organizer": "Hannah Thompson"
   },
   {
-    "id": 3457330453516740756,
-    "title": "Thirsty Thursday the Forresters Arms",
-    "start": "2026-02-19T19:00:00Z",
-    "end": "2026-02-19T20:00:00Z",
-    "description": "Meet at the Forresters Arms and then run around 5k in 40 to 45 minutes depending on cohort. Hills will be walked/Jeffed and no one left behind. \nThis run is aimed at our recent and previous TF cohorts, anyone returning from injury and if you want a social chatty run.\nHi viz and torches please. \nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3457330453516740756",
-    "location": "The Foresters Arms, 2 Wilton Road Malvern England WR14 3RL United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
     "id": 3458900746684370764,
     "title": "10k Thirsty Thursday: Foresters Arms",
     "start": "2026-02-19T19:00:00Z",
@@ -322,13 +322,13 @@
     "organizer": "Andrew Elwood"
   },
   {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-02-19T18:30:00Z",
-    "end": "2026-02-19T19:30:00Z",
-    "description": "Thursday Hills \n7/8km on hills in  1/1:10 hour \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
+    "id": 3457330453516740756,
+    "title": "Thirsty Thursday the Forresters Arms",
+    "start": "2026-02-19T19:00:00Z",
+    "end": "2026-02-19T20:00:00Z",
+    "description": "Meet at the Forresters Arms and then run around 5k in 40 to 45 minutes depending on cohort. Hills will be walked/Jeffed and no one left behind. \nThis run is aimed at our recent and previous TF cohorts, anyone returning from injury and if you want a social chatty run.\nHi viz and torches please. \nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3457330453516740756",
+    "location": "The Foresters Arms, 2 Wilton Road Malvern England WR14 3RL United Kingdom",
+    "organizer": "Sarah Fowkes"
   }
 ]

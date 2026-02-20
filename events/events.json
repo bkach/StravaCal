@@ -201,6 +201,17 @@
     "organizer": "Hannah Thompson"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-03-01T08:00:00Z",
+    "end": "2026-03-01T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3451945162783453498,
     "title": "5 on Friday",
     "start": "2026-02-27T09:30:00Z",
@@ -289,17 +300,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3457771609135650046",
     "location": "Victoria Park",
     "organizer": "Barbara Gawlak"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-02-22T08:00:00Z",
-    "end": "2026-02-22T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   },
   {
     "id": 3457333727823422612,

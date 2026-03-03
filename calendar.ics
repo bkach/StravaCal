@@ -23,51 +23,23 @@ TZNAME:GMT
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3442519841778912102@strava.com
-DTSTART;TZID=Europe/London:20260303T193000
-DTEND;TZID=Europe/London:20260303T203000
-DTSTAMP:20260303T190856Z
-SUMMARY:The Sugar Rush
-DESCRIPTION:Leader: Robyn Hall\n\nFREE CAKE AND SOFT DRINK .....\nGot your 
- attention?? 😬 \n\nA run from the Foresters arms\, returning back to them
-  where they have kindly offered free cake and a soft drink! (or tea/coffee)
- \n\nRoutes and distance will vary slightly weekly but approximately 5k. Set
- ting off at 19:30\, always aiming to arrive for our Sugar Rush between 20:0
- 0 & 20:15\n\nTorches\, visible clothing required. \n\nLirf: Robyn - [Phone 
- Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/gro
- up_events/3442519841778912102\n\nSynced from Strava Club 208705 on Tue\, 3 
- Mar @ 7:08 PM
-X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallFREE CAKE AND SOFT DRINK ...
- ..Got your attention?? 😬 A run from the Foresters arms\, returning back 
- to them where they have kindly offered free cake and a soft drink! (or tea/
- coffee)Routes and distance will vary slightly weekly but approximately 5k. 
- Setting off at 19:30\, always aiming to arrive for our Sugar Rush between 2
- 0:00 & 20:15Torches\, visible clothing required. Lirf: Robyn - [Phone Numbe
- r Redacted]View on Strava: https://www.strava.com/clubs/208705/group_events
- /3442519841778912102Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:08 P
- M
-LOCATION:The Foresters Arms
-URL:https://www.strava.com/clubs/208705/group_events/3442519841778912102
-CATEGORIES:Running,Club Event
-END:VEVENT
-BEGIN:VEVENT
 UID:3455162324584765606@strava.com
 DTSTART;TZID=Europe/London:20260304T183000
 DTEND;TZID=Europe/London:20260304T193000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Round The Ramparts
 DESCRIPTION:Leader: Andy Dingley\n\nStarting at Wyhe Cutting Bus Stop.  Thi
  s is an 11km run along to British Camp and around the ramparts.  Headtorch 
  required.  All trail - so trail shoes preferable especially in wet conditio
  ns. 6:30 - 7:15 mins per km roughly\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3455162324584765606\n\nSynced from Strava Club
-  208705 on Tue\, 3 Mar @ 7:08 PM
+  208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyStarting at Wyhe Cutting B
  us Stop.  This is an 11km run along to British Camp and around the ramparts
  .  Headtorch required.  All trail - so trail shoes preferable especially in
   wet conditions. 6:30 - 7:15 mins per km roughlyView on Strava: https://www
  .strava.com/clubs/208705/group_events/3455162324584765606Synced from Strava
-  Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+  Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:Wyche Cutting\, Wyche Cutting\, Colwall\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3455162324584765606
 CATEGORIES:Running,Club Event
@@ -76,7 +48,7 @@ BEGIN:VEVENT
 UID:3461798373834516622@strava.com
 DTSTART;TZID=Europe/London:20260304T190000
 DTEND;TZID=Europe/London:20260304T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Sprints at Priory
 DESCRIPTION:Leader: Joe de la Mata\n\nBecause sprints are a prior-ity! 😜
  \n\nThis will be a fun running session starting with a quick warmup followe
@@ -93,7 +65,7 @@ DESCRIPTION:Leader: Joe de la Mata\n\nBecause sprints are a prior-ity! 😜
  cked the park and is well lit though but bring your torches.\n\nLiRF: Joe -
   [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/20
  8705/group_events/3461798373834516622\n\nSynced from Strava Club 208705 on 
- Tue\, 3 Mar @ 7:08 PM
+ Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Joe de la MataBecause sprints are a pr
  ior-ity! 😜This will be a fun running session starting with a quick warmu
  p followed by a 10-20min set of sprints + an easy-pace recovery 3K run + an
@@ -108,7 +80,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Joe de la MataBecause sprints are a pr
  r Kit: high-vis clothing and head-torches recommended. I checked the park a
  nd is well lit though but bring your torches.LiRF: Joe - [Phone Number Reda
  cted]View on Strava: https://www.strava.com/clubs/208705/group_events/34617
- 98373834516622Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ 98373834516622Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3461798373834516622
 CATEGORIES:Running,Club Event
@@ -117,7 +89,7 @@ BEGIN:VEVENT
 UID:3463900982186727172@strava.com
 DTSTART;TZID=Europe/London:20260304T190000
 DTEND;TZID=Europe/London:20260304T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Avenue Road Hustle 
 DESCRIPTION:Leader: Neil Warne\n\nIt's intervals week! By popular request\,
   this is a session with a Warm-up and 5x1mile reps\, we will head to the Sp
@@ -126,14 +98,14 @@ DESCRIPTION:Leader: Neil Warne\n\nIt's intervals week! By popular request\,
  fforts\n\nYou'll still need bright clothes/light \n\nNeil \n[Phone Number R
  edacted]\n\nView on Strava: https://www.strava.com/clubs/208705/group_event
  s/3463900982186727172\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:
- 08 PM
+ 49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Neil WarneIt's intervals week! By popu
  lar request\, this is a session with a Warm-up and 5x1mile reps\, we will h
  ead to the Spa for those. As ever the WU/CD will be more gentle pace than t
  he main event. Pace:5min/km on WU/CD 10km pace on effortsRegroup between ef
  fortsYou'll still need bright clothes/light Neil [Phone Number Redacted]Vie
  w on Strava: https://www.strava.com/clubs/208705/group_events/3463900982186
- 727172Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ 727172Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:Christ Church\, Avenue Road
 URL:https://www.strava.com/clubs/208705/group_events/3463900982186727172
 CATEGORIES:Running,Club Event
@@ -142,7 +114,7 @@ BEGIN:VEVENT
 UID:3451166774563688452@strava.com
 DTSTART;TZID=Europe/London:20260305T090000
 DTEND;TZID=Europe/London:20260305T100000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Duck Trails
 DESCRIPTION:Leader: Robyn Hall\n\nDuck Trails Charity Event. \n\nA crazy ad
  venture with a little duck buddy. Points and prizes up for grabs. \nAre you
@@ -150,14 +122,14 @@ DESCRIPTION:Leader: Robyn Hall\n\nDuck Trails Charity Event. \n\nA crazy ad
  ur duck! Ducks available from the AGM when the adventuring will begin. \n\n
  Please see discussion for full details. \n\n\n\nView on Strava: https://www
  .strava.com/clubs/208705/group_events/3451166774563688452\n\nSynced from St
- rava Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ rava Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallDuck Trails Charity Event. A
   crazy adventure with a little duck buddy. Points and prizes up for grabs. 
  Are you Quakers enough to take part? £5 entry to wbuh link will secure you
   your duck! Ducks available from the AGM when the adventuring will begin. P
  lease see discussion for full details. View on Strava: https://www.strava.c
  om/clubs/208705/group_events/3451166774563688452Synced from Strava Club 208
- 705 on: Tue\, 3 Mar @ 7:08 PM
+ 705 on: Tue\, 3 Mar @ 7:49 PM
 URL:https://www.strava.com/clubs/208705/group_events/3451166774563688452
 CATEGORIES:Running,Club Event
 END:VEVENT
@@ -165,18 +137,18 @@ BEGIN:VEVENT
 UID:3442919329882560672@strava.com
 DTSTART;TZID=Europe/London:20260305T183000
 DTEND;TZID=Europe/London:20260305T193000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Thursday Hills
 DESCRIPTION:Leader: Lily Price\n\nThursday Hills \n5km on hills in  40/45 m
  ins \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche c
  utting bus stop \n\nView on Strava: https://www.strava.com/clubs/208705/gro
  up_events/3442919329882560672\n\nSynced from Strava Club 208705 on Tue\, 3 
- Mar @ 7:08 PM
+ Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceThursday Hills 5km on hills 
  in  40/45 mins 30:30 run:walk hills Route changes weekly Always start at wy
  che cutting bus stop View on Strava: https://www.strava.com/clubs/208705/gr
  oup_events/3442919329882560672Synced from Strava Club 208705 on: Tue\, 3 Ma
- r @ 7:08 PM
+ r @ 7:49 PM
 LOCATION:Walwyn Road\, Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442919329882560672
 CATEGORIES:Running,Club Event
@@ -185,20 +157,20 @@ BEGIN:VEVENT
 UID:3463298871486070566@strava.com
 DTSTART;TZID=Europe/London:20260305T190000
 DTEND;TZID=Europe/London:20260305T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Thirsty Thursday
 DESCRIPTION:Leader: Julie Slack\n\nMeet at The Nag’s Head\n\nThis is the 
  ‘run more gently’ group. All welcome for a 5k run with walks uphill as 
  necessary. \n\nOptional debrief in the Nag’s afterwards. \n\nHiviz and he
  ad/chest lights for safety.\n\nLiRF: Julie Slack [Phone Number Redacted]\n\
  nView on Strava: https://www.strava.com/clubs/208705/group_events/346329887
- 1486070566\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ 1486070566\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackMeet at The Nag’s HeadThi
  s is the ‘run more gently’ group. All welcome for a 5k run with walks u
  phill as necessary. Optional debrief in the Nag’s afterwards. Hiviz and h
  ead/chest lights for safety.LiRF: Julie Slack [Phone Number Redacted]View o
  n Strava: https://www.strava.com/clubs/208705/group_events/3463298871486070
- 566Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ 566Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:19-21 Bank Street Malvern England WR14 2JG United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3463298871486070566
 CATEGORIES:Running,Club Event
@@ -207,7 +179,7 @@ BEGIN:VEVENT
 UID:3463163018278801816@strava.com
 DTSTART;TZID=Europe/London:20260305T190000
 DTEND;TZID=Europe/London:20260305T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Thursday Run\, make it Thirsty if you want
 DESCRIPTION:Leader: Neil Warne\n\nAndrew is away this week so I have steppe
  d up to lead. \n\nWe'll meet at the Nags Head and do a tidy 10k around Malv
@@ -216,7 +188,7 @@ DESCRIPTION:Leader: Neil Warne\n\nAndrew is away this week so I have steppe
   will be an optional debrief in the Nags Head after for those who are inter
  ested.\n\nNeil\n[Phone Number Redacted]\n\nView on Strava: https://www.stra
  va.com/clubs/208705/group_events/3463163018278801816\n\nSynced from Strava 
- Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Neil WarneAndrew is away this week so 
  I have stepped up to lead. We'll meet at the Nags Head and do a tidy 10k ar
  ound Malvern\, inevitably it will include uphills and down (ideally in equa
@@ -224,7 +196,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Neil WarneAndrew is away this week so
  e will be an optional debrief in the Nags Head after for those who are inte
  rested.Neil[Phone Number Redacted]View on Strava: https://www.strava.com/cl
  ubs/208705/group_events/3463163018278801816Synced from Strava Club 208705 o
- n: Tue\, 3 Mar @ 7:08 PM
+ n: Tue\, 3 Mar @ 7:49 PM
 LOCATION:The Nag's Head
 URL:https://www.strava.com/clubs/208705/group_events/3463163018278801816
 CATEGORIES:Running,Club Event
@@ -233,7 +205,7 @@ BEGIN:VEVENT
 UID:3445052171608238340@strava.com
 DTSTART;TZID=Europe/London:20260306T063000
 DTEND;TZID=Europe/London:20260306T073000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Rise & Run
 DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nWeekly run of appr
  oximately 5km on the hills to start your day.\n\n🏃‍♀️‍➡️ Pac
@@ -243,7 +215,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nWeekly run of appr
   torches required!\n\nPlease remember to click out if you can no longer mak
  e it.\n\nHannah\n[Phone Number Redacted]\n\nView on Strava: https://www.str
  ava.com/clubs/208705/group_events/3445052171608238340\n\nSynced from Strava
-  Club 208705 on Tue\, 3 Mar @ 7:08 PM
+  Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Weekly ru
  n of approximately 5km on the hills to start your day.🏃‍♀️‍➡�
  � Pace: We will average between 8-9min/km overall. Running the flats/downs\
@@ -252,7 +224,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Weekly ru
  quired!Please remember to click out if you can no longer make it.Hannah[Pho
  ne Number Redacted]View on Strava: https://www.strava.com/clubs/208705/grou
  p_events/3445052171608238340Synced from Strava Club 208705 on: Tue\, 3 Mar 
- @ 7:08 PM
+ @ 7:49 PM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3445052171608238340
 CATEGORIES:Running,Club Event
@@ -261,18 +233,18 @@ BEGIN:VEVENT
 UID:3451945162783453498@strava.com
 DTSTART;TZID=Europe/London:20260306T093000
 DTEND;TZID=Europe/London:20260306T103000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:5 on Friday
 DESCRIPTION:Leader: Julie Slack\n\n5k road run \n\nChatty paced run \, 35-4
  0 mins\n\nWait at Waitrose entrance… probably inside if chilly! \n\nOptio
  nal coffee debrief. \n\nLiRF: Julie S [Phone Number Redacted]\n\n\n\nView o
  n Strava: https://www.strava.com/clubs/208705/group_events/3451945162783453
- 498\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ 498\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack5k road run Chatty paced ru
  n \, 35-40 minsWait at Waitrose entrance… probably inside if chilly! Opti
  onal coffee debrief. LiRF: Julie S [Phone Number Redacted]View on Strava: h
  ttps://www.strava.com/clubs/208705/group_events/3451945162783453498Synced f
- rom Strava Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ rom Strava Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:Back Lane Malvern Hills England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3451945162783453498
 CATEGORIES:Running,Club Event
@@ -281,7 +253,7 @@ BEGIN:VEVENT
 UID:3445489035018041292@strava.com
 DTSTART;TZID=Europe/London:20260307T090000
 DTEND;TZID=Europe/London:20260307T100000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Saturday Expedition: End to End (and back again) 
 DESCRIPTION:Leader: Julie Slack\n\nEnd to End and back again! \n\nOutward o
  ver the peaks and back along lower trails. \n\nThis is a demanding venture 
@@ -294,7 +266,7 @@ DESCRIPTION:Leader: Julie Slack\n\nEnd to End and back again! \n\nOutward o
  parts of the run but contact Julie to outline your plans and to organise ti
  mes if necessary.  \n\nLiRF: Julie S [Phone Number Redacted]\n\n\nView on S
  trava: https://www.strava.com/clubs/208705/group_events/3445489035018041292
- \n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ \n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackEnd to End and back again! 
  Outward over the peaks and back along lower trails. This is a demanding ven
  ture and participants need to be regular\, long distance trail runners and 
@@ -306,7 +278,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackEnd to End and back again!
  the run but contact Julie to outline your plans and to organise times if ne
  cessary.  LiRF: Julie S [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/3445489035018041292Synced from Strava 
- Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:North Quarry\, North Quarry\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3445489035018041292
 CATEGORIES:Running,Club Event
@@ -315,18 +287,18 @@ BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20260308T080000
 DTEND;TZID=Europe/London:20260308T090000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nThere'll be h
  ills - various routes.  10 miles / 16km. Pace between 6 & 7 min km Intermed
  iate level - [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/1457866\n\nSynced from Strava Club 208705 on 
- Tue\, 3 Mar @ 7:08 PM
+ Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTh
  ere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7 min 
  km Intermediate level - [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/1457866Synced from Strava Club 208705 
- on: Tue\, 3 Mar @ 7:08 PM
+ on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:Wyche Cutting\, Malvern\, WR13 6PJ\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/1457866
 CATEGORIES:Running,Club Event
@@ -335,7 +307,7 @@ BEGIN:VEVENT
 UID:3453740682204271956@strava.com
 DTSTART;TZID=Europe/London:20260310T190000
 DTEND;TZID=Europe/London:20260310T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 2 of 10
 DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 2 of 10\nMoving 
  runners to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 
@@ -344,7 +316,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 2 of 10\nMoving
  nIf you become unable to attend please click out in good time. \n\nLiRF: Ju
  lie Slack [Phone Number Redacted]\n\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3453740682204271956\n\nSynced from Strava Club
-  208705 on Tue\, 3 Mar @ 7:08 PM
+  208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 2 o
  f 10Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026
  Distance 6kmRoad runs with some elevation – walked if necessary. Time: 44
@@ -352,7 +324,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 2 o
   you become unable to attend please click out in good time. LiRF: Julie Sla
  ck [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/2087
  05/group_events/3453740682204271956Synced from Strava Club 208705 on: Tue\,
-  3 Mar @ 7:08 PM
+  3 Mar @ 7:49 PM
 LOCATION:Malvern England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453740682204271956
 CATEGORIES:Running,Club Event
@@ -361,7 +333,7 @@ BEGIN:VEVENT
 UID:3453741250091578344@strava.com
 DTSTART;TZID=Europe/London:20260317T190000
 DTEND;TZID=Europe/London:20260317T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 3 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 3 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 6.5k
@@ -370,7 +342,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 3 of 10\nMoving runn
  f you become unable to attend please click out in good time. \n\nLiRF: Hann
  ah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.strava
  .com/clubs/208705/group_events/3453741250091578344\n\nSynced from Strava Cl
- ub 208705 on Tue\, 3 Mar @ 7:08 PM
+ ub 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 3 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 6.5kmRoad runs with some elevation – walked if necessary. Time: 48 m
@@ -378,7 +350,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 3 of 10
  ou become unable to attend please click out in good time. LiRF: Hannah Thom
  pson [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/20
  8705/group_events/3453741250091578344Synced from Strava Club 208705 on: Tue
- \, 3 Mar @ 7:08 PM
+ \, 3 Mar @ 7:49 PM
 LOCATION:Rose Bank Gardens\, Rose Bank Gardens\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453741250091578344
 CATEGORIES:Running,Club Event
@@ -387,7 +359,7 @@ BEGIN:VEVENT
 UID:3442909105963114656@strava.com
 DTSTART;TZID=Europe/London:20260322T090000
 DTEND;TZID=Europe/London:20260322T100000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:***League event*** GLOUCESTER HALF MARATHON & 10K
 DESCRIPTION:Leader: Sarah Reeves\n\nStarting and finishing at Gloucester Pa
  rk\, the course follows a scenic route around the pedestrianised city centr
@@ -398,7 +370,7 @@ DESCRIPTION:Leader: Sarah Reeves\n\nStarting and finishing at Gloucester Pa
  9m | Terrain - Road/Gravel\n\nFull details and entry:\nwww(dot)gloucesterru
  nningfestival(dot)com\n\nView on Strava: https://www.strava.com/clubs/20870
  5/group_events/3442909105963114656\n\nSynced from Strava Club 208705 on Tue
- \, 3 Mar @ 7:08 PM
+ \, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesStarting and finishing at 
  Gloucester Park\, the course follows a scenic route around the pedestrianis
  ed city centre streets\, passing around Gloucester Cathedral\, before headi
@@ -407,8 +379,8 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesStarting and finishing at
  MarathonElevation - 70m | Terrain - Road/Gravel09:00 am - 10kElevation - 39
  m | Terrain - Road/GravelFull details and entry:www(dot)gloucesterrunningfe
  stival(dot)comView on Strava: https://www.strava.com/clubs/208705/group_eve
- nts/3442909105963114656Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:0
- 8 PM
+ nts/3442909105963114656Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:4
+ 9 PM
 LOCATION:GL1 1LB\, Gloucester\, Gloucestershire\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442909105963114656
 CATEGORIES:Running,Club Event
@@ -417,7 +389,7 @@ BEGIN:VEVENT
 UID:3453741952972338284@strava.com
 DTSTART;TZID=Europe/London:20260324T190000
 DTEND;TZID=Europe/London:20260324T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 4 of 10
 DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 4 of 10\nMoving 
  runners to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 
@@ -426,7 +398,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 4 of 10\nMoving
  nIf you become unable to attend please click out in good time. \n\nLiRF: Ju
  lie Slack [Phone Number Redacted]\n\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3453741952972338284\n\nSynced from Strava Club
-  208705 on Tue\, 3 Mar @ 7:08 PM
+  208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 4 o
  f 10Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026
  Distance 7kmRoad runs with some elevation – walked if necessary. Time: 52
@@ -434,7 +406,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 4 o
   you become unable to attend please click out in good time. LiRF: Julie Sla
  ck [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/2087
  05/group_events/3453741952972338284Synced from Strava Club 208705 on: Tue\,
-  3 Mar @ 7:08 PM
+  3 Mar @ 7:49 PM
 LOCATION:Malvern England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453741952972338284
 CATEGORIES:Running,Club Event
@@ -443,7 +415,7 @@ BEGIN:VEVENT
 UID:3445489639616392702@strava.com
 DTSTART;TZID=Europe/London:20260328T090000
 DTEND;TZID=Europe/London:20260328T100000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Saturday Expedition: Bourton on the Water
 DESCRIPTION:Leader: Julie Slack\n\nThank you Jane and Sophie for route crea
  tion! \n\nThis event is suitable for those who are regularly running 10k + 
@@ -452,7 +424,7 @@ DESCRIPTION:Leader: Julie Slack\n\nThank you Jane and Sophie for route crea
  afterwards. \n\nTrail shoes\, please\, and check the forecast so you have a
  ppropriate clothing for the day. \n\nLiRF: Julie Slack [Phone Number Redact
  ed]\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/344
- 5489639616392702\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ 5489639616392702\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackThank you Jane and Sophie f
  or route creation! This event is suitable for those who are regularly runni
  ng 10k + on trails. We will meet at the Car Park on Rissington Road (near B
@@ -460,7 +432,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackThank you Jane and Sophie f
   afterwards. Trail shoes\, please\, and check the forecast so you have appr
  opriate clothing for the day. LiRF: Julie Slack [Phone Number Redacted]View
   on Strava: https://www.strava.com/clubs/208705/group_events/34454896396163
- 92702Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ 92702Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:Bourton-on-the-Water\, Bourton-on-the-Water\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3445489639616392702
 CATEGORIES:Running,Club Event
@@ -469,7 +441,7 @@ BEGIN:VEVENT
 UID:3453742505726406750@strava.com
 DTSTART;TZID=Europe/London:20260331T190000
 DTEND;TZID=Europe/London:20260331T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 5 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 5 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 7.5 
@@ -478,7 +450,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 5 of 10\nMoving runn
  If you become unable to attend please click out in good time. \n\nLiRF: Han
  nah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.strav
  a.com/clubs/208705/group_events/3453742505726406750\n\nSynced from Strava C
- lub 208705 on Tue\, 3 Mar @ 7:08 PM
+ lub 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 5 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 7.5 kmRoad runs with some elevation – walked if necessary. Time: 56 
@@ -486,7 +458,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 5 of 10
  you become unable to attend please click out in good time. LiRF: Hannah Tho
  mpson [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/2
  08705/group_events/3453742505726406750Synced from Strava Club 208705 on: Tu
- e\, 3 Mar @ 7:08 PM
+ e\, 3 Mar @ 7:49 PM
 LOCATION:Rose Bank Gardens\, Rose Bank Gardens\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453742505726406750
 CATEGORIES:Running,Club Event
@@ -495,7 +467,7 @@ BEGIN:VEVENT
 UID:3453743449894376542@strava.com
 DTSTART;TZID=Europe/London:20260407T190000
 DTEND;TZID=Europe/London:20260407T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 6 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 6 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 8 km
@@ -504,7 +476,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 6 of 10\nMoving runn
   you become unable to attend please click out in good time. \n\nLiRF: Julie
   Slack [Phone Number Redacted]\n\n\nView on Strava: https://www.strava.com/
  clubs/208705/group_events/3453743449894376542\n\nSynced from Strava Club 20
- 8705 on Tue\, 3 Mar @ 7:08 PM
+ 8705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 6 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 8 kmRoad runs with some elevation – walked if necessary. Time: 60 mi
@@ -512,7 +484,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 6 of 10
  u become unable to attend please click out in good time. LiRF: Julie Slack 
  [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208705/
  group_events/3453743449894376542Synced from Strava Club 208705 on: Tue\, 3 
- Mar @ 7:08 PM
+ Mar @ 7:49 PM
 LOCATION:Victoria Park\, Victoria Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453743449894376542
 CATEGORIES:Running,Club Event
@@ -521,7 +493,7 @@ BEGIN:VEVENT
 UID:3453743920932553588@strava.com
 DTSTART;TZID=Europe/London:20260414T190000
 DTEND;TZID=Europe/London:20260414T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 7 of 10
 DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 7 of 10\nMoving 
  runners to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 
@@ -530,7 +502,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 7 of 10\nMoving
  n\nIf you become unable to attend please click out in good time. \n\nLiRF: 
  Hannah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.st
  rava.com/clubs/208705/group_events/3453743920932553588\n\nSynced from Strav
- a Club 208705 on Tue\, 3 Mar @ 7:08 PM
+ a Club 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 7 o
  f 10Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026
  Distance 8.5kmRoad runs with some elevation – walked if necessary. Time: 
@@ -538,7 +510,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 7 o
  If you become unable to attend please click out in good time. LiRF: Hannah 
  Thompson [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3453743920932553588Synced from Strava Club 208705 on:
-  Tue\, 3 Mar @ 7:08 PM
+  Tue\, 3 Mar @ 7:49 PM
 LOCATION:Half Way\, Foley Terrace Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453743920932553588
 CATEGORIES:Running,Club Event
@@ -547,7 +519,7 @@ BEGIN:VEVENT
 UID:3442915869531965600@strava.com
 DTSTART;TZID=Europe/London:20260419T110000
 DTEND;TZID=Europe/London:20260419T120000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:***League event*** MARTLEY MADNESS
 DESCRIPTION:Leader: Sarah Reeves\n\nSpectacular Scenery\, Hills and Friendl
  y Support\n10ish miles over undulating and spectacular Worcestershire count
@@ -556,14 +528,14 @@ DESCRIPTION:Leader: Sarah Reeves\n\nSpectacular Scenery\, Hills and Friendl
   finishers!\n\nFull details and entry:\nwww(dot)entrycentral(dot)com/Martle
  ymadness\n\nView on Strava: https://www.strava.com/clubs/208705/group_event
  s/3442915869531965600\n\nSynced from Strava Club 208705 on Tue\, 3 Mar @ 7:
- 08 PM
+ 49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesSpectacular Scenery\, Hill
  s and Friendly Support10ish miles over undulating and spectacular Worcester
  shire countrysideProceeds will to go to the Worcestershire Trailblazers and
   their chosen charity Cardiac Risk in the Young (C.R.Y)Free cake and fruit 
  for all finishers!Full details and entry:www(dot)entrycentral(dot)com/Martl
  eymadnessView on Strava: https://www.strava.com/clubs/208705/group_events/3
- 442915869531965600Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:08 PM
+ 442915869531965600Synced from Strava Club 208705 on: Tue\, 3 Mar @ 7:49 PM
 LOCATION:WR6 6QA\, Worcester\, Worcestershire\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442915869531965600
 CATEGORIES:Running,Club Event
@@ -572,7 +544,7 @@ BEGIN:VEVENT
 UID:3453744381193439340@strava.com
 DTSTART;TZID=Europe/London:20260421T190000
 DTEND;TZID=Europe/London:20260421T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 8 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 8 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 9 km
@@ -581,7 +553,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 8 of 10\nMoving runn
   you become unable to attend please click out in good time. \n\nLiRF: Julie
   Slack [Phone Number Redacted]\n\n\nView on Strava: https://www.strava.com/
  clubs/208705/group_events/3453744381193439340\n\nSynced from Strava Club 20
- 8705 on Tue\, 3 Mar @ 7:08 PM
+ 8705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 8 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 9 kmRoad runs with some elevation – walked if necessary. Time: 68 mi
@@ -589,7 +561,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 8 of 10
  u become unable to attend please click out in good time. LiRF: Julie Slack 
  [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208705/
  group_events/3453744381193439340Synced from Strava Club 208705 on: Tue\, 3 
- Mar @ 7:08 PM
+ Mar @ 7:49 PM
 LOCATION:Victoria Park\, Victoria Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453744381193439340
 CATEGORIES:Running,Club Event
@@ -598,7 +570,7 @@ BEGIN:VEVENT
 UID:3453744727561750388@strava.com
 DTSTART;TZID=Europe/London:20260428T190000
 DTEND;TZID=Europe/London:20260428T200000
-DTSTAMP:20260303T190856Z
+DTSTAMP:20260303T194920Z
 SUMMARY:Flying Further Wk 9 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 9 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 9.5k
@@ -607,7 +579,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 9 of 10\nMoving runn
  f you become unable to attend please click out in good time. \n\nLiRF: Hann
  ah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.strava
  .com/clubs/208705/group_events/3453744727561750388\n\nSynced from Strava Cl
- ub 208705 on Tue\, 3 Mar @ 7:08 PM
+ ub 208705 on Tue\, 3 Mar @ 7:49 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 9 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 9.5kmRoad runs with some elevation – walked if necessary. Time: 70 m
@@ -615,7 +587,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 9 of 10
  ou become unable to attend please click out in good time. LiRF: Hannah Thom
  pson [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/20
  8705/group_events/3453744727561750388Synced from Strava Club 208705 on: Tue
- \, 3 Mar @ 7:08 PM
+ \, 3 Mar @ 7:49 PM
 LOCATION:Rose Bank Gardens\, Rose Bank Gardens\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453744727561750388
 CATEGORIES:Running,Club Event

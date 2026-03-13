@@ -171,6 +171,17 @@
     "organizer": "Sarah Reeves"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-03-22T08:00:00Z",
+    "end": "2026-03-22T09:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3451945162783453498,
     "title": "5 on Friday",
     "start": "2026-03-20T09:30:00Z",
@@ -229,17 +240,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3453741250091578344",
     "location": "Rose Bank Gardens, Rose Bank Gardens, Malvern, England, United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-03-15T08:00:00Z",
-    "end": "2026-03-15T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Wyche Cutting, Malvern, WR13 6PJ, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   },
   {
     "id": 3465477982817991884,

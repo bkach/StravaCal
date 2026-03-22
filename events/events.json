@@ -141,6 +141,17 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-03-29T07:00:00Z",
+    "end": "2026-03-29T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3445489639616392702,
     "title": "Saturday Expedition: Bourton on the Water",
     "start": "2026-03-28T09:00:00Z",
@@ -239,16 +250,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442909105963114656",
     "location": "GL1 1LB, Gloucester, Gloucestershire, England, United Kingdom",
     "organizer": "Sarah Reeves"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-03-22T08:00:00Z",
-    "end": "2026-03-22T09:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

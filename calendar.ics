@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:3445052171608238340@strava.com
 DTSTART;TZID=Europe/London:20260410T063000
 DTEND;TZID=Europe/London:20260410T073000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Rise & Run
 DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nNote: Maria leadin
  g this week\n\nWeekly run of approximately 5km on the hills to start your d
@@ -36,7 +36,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nNote: Maria leadin
   in Rosebank Gardens\n\nPlease remember to click out if you can no longer m
  ake it.\n\nMaria\n[Phone Number Redacted]\n\nView on Strava: https://www.st
  rava.com/clubs/208705/group_events/3445052171608238340\n\nSynced from Strav
- a Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ a Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Note: Mar
  ia leading this weekWeekly run of approximately 5km on the hills to start y
  our day.🏃‍♀️‍➡️ Pace: We will average between 8-9min/km over
@@ -45,7 +45,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Note: Mar
  k GardensPlease remember to click out if you can no longer make it.Maria[Ph
  one Number Redacted]View on Strava: https://www.strava.com/clubs/208705/gro
  up_events/3445052171608238340Synced from Strava Club 208705 on: Fri\, 10 Ap
- r @ 12:52 AM
+ r @ 2:14 AM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3445052171608238340
 CATEGORIES:Running,Club Event
@@ -54,16 +54,16 @@ BEGIN:VEVENT
 UID:3476638981890585746@strava.com
 DTSTART;TZID=Europe/London:20260413T183000
 DTEND;TZID=Europe/London:20260413T193000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:5k keep it going
 DESCRIPTION:Leader: Lily Price\n\nCovering for Sarah \nMeet St Andrews chur
  ch \n5k keep it going \n5km in 40/45 mins \n\n\nView on Strava: https://www
  .strava.com/clubs/208705/group_events/3476638981890585746\n\nSynced from St
- rava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ rava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceCovering for Sarah Meet St A
  ndrews church 5k keep it going 5km in 40/45 mins View on Strava: https://ww
  w.strava.com/clubs/208705/group_events/3476638981890585746Synced from Strav
- a Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ a Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Churchdown Road Malvern England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476638981890585746
 CATEGORIES:Running,Club Event
@@ -72,7 +72,7 @@ BEGIN:VEVENT
 UID:3453743920932553588@strava.com
 DTSTART;TZID=Europe/London:20260414T190000
 DTEND;TZID=Europe/London:20260414T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Flying Further Wk 7 of 10
 DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 7 of 10\nMoving 
  runners to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 
@@ -81,7 +81,7 @@ DESCRIPTION:Leader: Hannah Thompson\n\nFlying Further week 7 of 10\nMoving
  n\nIf you become unable to attend please click out in good time. \n\nLiRF: 
  Hannah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.st
  rava.com/clubs/208705/group_events/3453743920932553588\n\nSynced from Strav
- a Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ a Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 7 o
  f 10Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026
  Distance 8.5kmRoad runs with some elevation – walked if necessary. Time: 
@@ -89,7 +89,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah ThompsonFlying Further week 7 o
  If you become unable to attend please click out in good time. LiRF: Hannah 
  Thompson [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3453743920932553588Synced from Strava Club 208705 on:
-  Fri\, 10 Apr @ 12:52 AM
+  Fri\, 10 Apr @ 2:14 AM
 LOCATION:Half Way\, Foley Terrace Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453743920932553588
 CATEGORIES:Running,Club Event
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 UID:3442519841778912102@strava.com
 DTSTART;TZID=Europe/London:20260414T193000
 DTEND;TZID=Europe/London:20260414T203000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:The Sugar Rush
 DESCRIPTION:Leader: Sarah Fowkes\n\n**Sarah F to cover 14/4**\n\nFREE CAKE.
  ...\nGot your attention?? 😬 \n\nA run from the Foresters arms\, returnin
@@ -108,7 +108,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\n**Sarah F to cover 14/4**\n\nFREE CAKE.
  es\, visible clothing required. \n\nLirf: Sarah [Phone Number Redacted] (co
  vering for Robyn)\n\nView on Strava: https://www.strava.com/clubs/208705/gr
  oup_events/3442519841778912102\n\nSynced from Strava Club 208705 on Fri\, 1
- 0 Apr @ 12:52 AM
+ 0 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah Fowkes**Sarah F to cover 14/4**F
  REE CAKE....Got your attention?? 😬 A run from the Foresters arms\, retur
  ning back to there where we will enjoy a well earned treat. Routes and dist
@@ -116,7 +116,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah Fowkes**Sarah F to cover 14/4**F
   always aiming to arrive for our Sugar Rush between 20:00 & 20:15Torches\, 
  visible clothing required. Lirf: Sarah [Phone Number Redacted] (covering fo
  r Robyn)View on Strava: https://www.strava.com/clubs/208705/group_events/34
- 42519841778912102Synced from Strava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ 42519841778912102Synced from Strava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:4 Wilton Road Malvern England WR14 3RL United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442519841778912102
 CATEGORIES:Running,Club Event
@@ -125,7 +125,7 @@ BEGIN:VEVENT
 UID:3477082677404053220@strava.com
 DTSTART;TZID=Europe/London:20260415T183000
 DTEND;TZID=Europe/London:20260415T193000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Fun on the common (is back!)
 DESCRIPTION:Leader: Martin Thomas\n\nThis is an efforts session … and is 
  suitable for all abilities.\nWhatever your pace is … that’s ok. \n\nWe 
@@ -139,7 +139,7 @@ DESCRIPTION:Leader: Martin Thomas\n\nThis is an efforts session … and is
  rs will be able to do more loops in the time. \n\nIt’s fun … honest �
  �\n\nMartin \n[Phone Number Redacted]\n\n\nView on Strava: https://www.stra
  va.com/clubs/208705/group_events/3477082677404053220\n\nSynced from Strava 
- Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Martin ThomasThis is an efforts sessio
  n … and is suitable for all abilities.Whatever your pace is … that’s 
  ok. We will start with a warm up routine followed by a series of ‘low hil
@@ -151,8 +151,8 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Martin ThomasThis is an efforts sessio
  s the option to sit out for a loop(s). Faster/stronger runners will be able
   to do more loops in the time. It’s fun … honest 😁Martin [Phone Numb
  er Redacted]View on Strava: https://www.strava.com/clubs/208705/group_event
- s/3477082677404053220Synced from Strava Club 208705 on: Fri\, 10 Apr @ 12:5
- 2 AM
+ s/3477082677404053220Synced from Strava Club 208705 on: Fri\, 10 Apr @ 2:14
+  AM
 LOCATION:Churchdown Road Malvern England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3477082677404053220
 CATEGORIES:Running,Club Event
@@ -161,20 +161,20 @@ BEGIN:VEVENT
 UID:3455162324584765606@strava.com
 DTSTART;TZID=Europe/London:20260415T183000
 DTEND;TZID=Europe/London:20260415T193000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Round The Ramparts
 DESCRIPTION:Leader: Andy Dingley\n\nStarting at Wyhe Cutting Bus Stop.  Thi
  s is an 11km run along to British Camp and around the ramparts.  Headtorch 
  required.  All trail - so trail shoes preferable especially in wet conditio
  ns. 6:30 - 7:15 mins per km roughly\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3455162324584765606\n\nSynced from Strava Club
-  208705 on Fri\, 10 Apr @ 12:52 AM
+  208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyStarting at Wyhe Cutting B
  us Stop.  This is an 11km run along to British Camp and around the ramparts
  .  Headtorch required.  All trail - so trail shoes preferable especially in
   wet conditions. 6:30 - 7:15 mins per km roughlyView on Strava: https://www
  .strava.com/clubs/208705/group_events/3455162324584765606Synced from Strava
-  Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+  Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Trenython\, Jubilee Drive Malvern England WR13 6DQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3455162324584765606
 CATEGORIES:Running,Club Event
@@ -183,18 +183,18 @@ BEGIN:VEVENT
 UID:3442919329882560672@strava.com
 DTSTART;TZID=Europe/London:20260416T183000
 DTEND;TZID=Europe/London:20260416T193000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Thursday Hills
 DESCRIPTION:Leader: Lily Price\n\nThursday Hills \n7/8km in 55/1:05 mins \n
  30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting
   bus stop \n\nView on Strava: https://www.strava.com/clubs/208705/group_eve
  nts/3442919329882560672\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @
-  12:52 AM
+  2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceThursday Hills 7/8km in 55/1
  :05 mins 30:30 run:walk hills Route changes weekly Always start at wyche cu
  tting bus stop View on Strava: https://www.strava.com/clubs/208705/group_ev
- ents/3442919329882560672Synced from Strava Club 208705 on: Fri\, 10 Apr @ 1
- 2:52 AM
+ ents/3442919329882560672Synced from Strava Club 208705 on: Fri\, 10 Apr @ 2
+ :14 AM
 LOCATION:Walwyn Road\, Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442919329882560672
 CATEGORIES:Running,Club Event
@@ -203,18 +203,18 @@ BEGIN:VEVENT
 UID:3477423379092611942@strava.com
 DTSTART;TZID=Europe/London:20260417T093000
 DTEND;TZID=Europe/London:20260417T103000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:5 on Friday
 DESCRIPTION:Leader: Julie Slack\n\n5k  run on the hills! \n\nChatty relaxed
   outing with optional coffee debrief to follow. \n\nAll welcome. \n\nLiRF J
  ulie Slack [Phone Number Redacted]\n\nView on Strava: https://www.strava.co
  m/clubs/208705/group_events/3477423379092611942\n\nSynced from Strava Club 
- 208705 on Fri\, 10 Apr @ 12:52 AM
+ 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie Slack5k  run on the hills! Chatt
  y relaxed outing with optional coffee debrief to follow. All welcome. LiRF 
  Julie Slack [Phone Number Redacted]View on Strava: https://www.strava.com/c
  lubs/208705/group_events/3477423379092611942Synced from Strava Club 208705 
- on: Fri\, 10 Apr @ 12:52 AM
+ on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Waitrose\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3477423379092611942
 CATEGORIES:Running,Club Event
@@ -223,18 +223,18 @@ BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20260419T080000
 DTEND;TZID=Europe/London:20260419T090000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nThere'll be h
  ills - various routes.  10 miles / 16km. Pace between 6 & 7 min km Intermed
  iate level - [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/1457866\n\nSynced from Strava Club 208705 on 
- Fri\, 10 Apr @ 12:52 AM
+ Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTh
  ere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7 min 
  km Intermediate level - [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/1457866Synced from Strava Club 208705 
- on: Fri\, 10 Apr @ 12:52 AM
+ on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Walwyn Road\, Upper Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/1457866
 CATEGORIES:Running,Club Event
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 UID:3442915869531965600@strava.com
 DTSTART;TZID=Europe/London:20260419T110000
 DTEND;TZID=Europe/London:20260419T120000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:***League event*** MARTLEY MADNESS
 DESCRIPTION:Leader: Sarah Reeves\n\nSpectacular Scenery\, Hills and Friendl
  y Support\n10ish miles over undulating and spectacular Worcestershire count
@@ -251,16 +251,15 @@ DESCRIPTION:Leader: Sarah Reeves\n\nSpectacular Scenery\, Hills and Friendl
  osen charity Cardiac Risk in the Young (C.R.Y)\nFree cake and fruit for all
   finishers!\n\nFull details and entry:\nwww(dot)entrycentral(dot)com/Martle
  ymadness\n\nView on Strava: https://www.strava.com/clubs/208705/group_event
- s/3442915869531965600\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @ 1
- 2:52 AM
+ s/3442915869531965600\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @ 2
+ :14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesSpectacular Scenery\, Hill
  s and Friendly Support10ish miles over undulating and spectacular Worcester
  shire countrysideProceeds will to go to the Worcestershire Trailblazers and
   their chosen charity Cardiac Risk in the Young (C.R.Y)Free cake and fruit 
  for all finishers!Full details and entry:www(dot)entrycentral(dot)com/Martl
  eymadnessView on Strava: https://www.strava.com/clubs/208705/group_events/3
- 442915869531965600Synced from Strava Club 208705 on: Fri\, 10 Apr @ 12:52 A
- M
+ 442915869531965600Synced from Strava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:WR6 6QA\, Worcester\, Worcestershire\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442915869531965600
 CATEGORIES:Running,Club Event
@@ -269,7 +268,7 @@ BEGIN:VEVENT
 UID:3453744381193439340@strava.com
 DTSTART;TZID=Europe/London:20260421T190000
 DTEND;TZID=Europe/London:20260421T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Flying Further Wk 8 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 8 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 9 km
@@ -278,7 +277,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 8 of 10\nMoving runn
   you become unable to attend please click out in good time. \n\nLiRF: Julie
   Slack [Phone Number Redacted]\n\n\nView on Strava: https://www.strava.com/
  clubs/208705/group_events/3453744381193439340\n\nSynced from Strava Club 20
- 8705 on Fri\, 10 Apr @ 12:52 AM
+ 8705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 8 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 9 kmRoad runs with some elevation – walked if necessary. Time: 68 mi
@@ -286,7 +285,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 8 of 10
  u become unable to attend please click out in good time. LiRF: Julie Slack 
  [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208705/
  group_events/3453744381193439340Synced from Strava Club 208705 on: Fri\, 10
-  Apr @ 12:52 AM
+  Apr @ 2:14 AM
 LOCATION:Victoria Park\, Victoria Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453744381193439340
 CATEGORIES:Running,Club Event
@@ -295,7 +294,7 @@ BEGIN:VEVENT
 UID:3466039791677830922@strava.com
 DTSTART;TZID=Europe/London:20260422T190000
 DTEND;TZID=Europe/London:20260422T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight #1 and support
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  y Park for #1 of the six week course.\nWe shall start with run/walk and pro
@@ -306,7 +305,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  light\, however be prepared to have hi viz and torches. \nAny questions\, S
  arah (run leader) [Phone Number Redacted]\n\nView on Strava: https://www.st
  rava.com/clubs/208705/group_events/3466039791677830922\n\nSynced from Strav
- a Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ a Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  tand in Priory Park for #1 of the six week course.We shall start with run/w
  alk and progress over the weeks. Each session will have a warmup\, a runnin
@@ -316,7 +315,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  ore daylight\, however be prepared to have hi viz and torches. Any question
  s\, Sarah (run leader) [Phone Number Redacted]View on Strava: https://www.s
  trava.com/clubs/208705/group_events/3466039791677830922Synced from Strava C
- lub 208705 on: Fri\, 10 Apr @ 12:52 AM
+ lub 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3466039791677830922
 CATEGORIES:Running,Club Event
@@ -325,7 +324,7 @@ BEGIN:VEVENT
 UID:3453744727561750388@strava.com
 DTSTART;TZID=Europe/London:20260428T190000
 DTEND;TZID=Europe/London:20260428T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Flying Further Wk 9 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 9 of 10\nMoving runn
  ers to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 9.5k
@@ -334,7 +333,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 9 of 10\nMoving runn
  f you become unable to attend please click out in good time. \n\nLiRF: Hann
  ah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.strava
  .com/clubs/208705/group_events/3453744727561750388\n\nSynced from Strava Cl
- ub 208705 on Fri\, 10 Apr @ 12:52 AM
+ ub 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 9 of 10
  Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dist
  ance 9.5kmRoad runs with some elevation – walked if necessary. Time: 70 m
@@ -342,7 +341,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 9 of 10
  ou become unable to attend please click out in good time. LiRF: Hannah Thom
  pson [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/20
  8705/group_events/3453744727561750388Synced from Strava Club 208705 on: Fri
- \, 10 Apr @ 12:52 AM
+ \, 10 Apr @ 2:14 AM
 LOCATION:Rose Bank Gardens\, Rose Bank Gardens\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453744727561750388
 CATEGORIES:Running,Club Event
@@ -351,7 +350,7 @@ BEGIN:VEVENT
 UID:3476643890886318226@strava.com
 DTSTART;TZID=Europe/London:20260429T190000
 DTEND;TZID=Europe/London:20260429T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight Support #2
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  y Park for #2 of the six-week course.\nWe shall be starting with run/walk a
@@ -362,7 +361,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  torches\, but please do wear hi-viz and be prepared to be seen.\nAny questi
  ons\, Sarah (run leader) [Phone Number Redacted]\n\nView on Strava: https:/
  /www.strava.com/clubs/208705/group_events/3476643890886318226\n\nSynced fro
- m Strava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ m Strava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  tand in Priory Park for #2 of the six-week course.We shall be starting with
   run/walk and progress over the weeks. Each session will have a warm-up\, a
@@ -372,7 +371,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  t need torches\, but please do wear hi-viz and be prepared to be seen.Any q
  uestions\, Sarah (run leader) [Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3476643890886318226Synced from S
- trava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ trava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476643890886318226
 CATEGORIES:Running,Club Event
@@ -381,7 +380,7 @@ BEGIN:VEVENT
 UID:3453745143505462132@strava.com
 DTSTART;TZID=Europe/London:20260505T190000
 DTEND;TZID=Europe/London:20260505T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Flying Further Wk 10 of 10
 DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 10 of 10\nMoving run
  ners to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 10k
@@ -390,7 +389,7 @@ DESCRIPTION:Leader: Julie Slack\n\nFlying Further week 10 of 10\nMoving run
  f you become unable to attend please click out in good time. \n\nLiRF: Hann
  ah Thompson [Phone Number Redacted]\n\n\nView on Strava: https://www.strava
  .com/clubs/208705/group_events/3453745143505462132\n\nSynced from Strava Cl
- ub 208705 on Fri\, 10 Apr @ 12:52 AM
+ ub 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 10 of 1
  0Moving runners to 10k in readiness for Suckley Quarter on 17th May 2026Dis
  tance 10kmRoad runs with some elevation – walked if necessary. Time: 75 m
@@ -398,7 +397,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackFlying Further week 10 of 1
  ou become unable to attend please click out in good time. LiRF: Hannah Thom
  pson [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/20
  8705/group_events/3453745143505462132Synced from Strava Club 208705 on: Fri
- \, 10 Apr @ 12:52 AM
+ \, 10 Apr @ 2:14 AM
 LOCATION:Victoria Park\, Victoria Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3453745143505462132
 CATEGORIES:Running,Club Event
@@ -407,7 +406,7 @@ BEGIN:VEVENT
 UID:3476644698629554194@strava.com
 DTSTART;TZID=Europe/London:20260506T190000
 DTEND;TZID=Europe/London:20260506T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight support #3
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  y Park for #3 of the six-week course.\nWe shall be starting with run/walk a
@@ -418,7 +417,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  torches\, but please do wear hi-viz and be prepared to be seen.\nAny questi
  ons\, Sarah (run leader) [Phone Number Redacted]\n\nView on Strava: https:/
  /www.strava.com/clubs/208705/group_events/3476644698629554194\n\nSynced fro
- m Strava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ m Strava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  tand in Priory Park for #3 of the six-week course.We shall be starting with
   run/walk and progress over the weeks. Each session will have a warm-up\, a
@@ -428,7 +427,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  t need torches\, but please do wear hi-viz and be prepared to be seen.Any q
  uestions\, Sarah (run leader) [Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3476644698629554194Synced from S
- trava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ trava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476644698629554194
 CATEGORIES:Running,Club Event
@@ -437,7 +436,7 @@ BEGIN:VEVENT
 UID:3476645446821712918@strava.com
 DTSTART;TZID=Europe/London:20260513T190000
 DTEND;TZID=Europe/London:20260513T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight Support #4
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  y Park for #4 of the six-week course.\nWe shall be starting with run/walk a
@@ -448,7 +447,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  torches\, but please do wear hi-viz and be prepared to be seen.\nAny questi
  ons\, Sarah (run leader) [Phone Number Redacted]\n\nView on Strava: https:/
  /www.strava.com/clubs/208705/group_events/3476645446821712918\n\nSynced fro
- m Strava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ m Strava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  tand in Priory Park for #4 of the six-week course.We shall be starting with
   run/walk and progress over the weeks. Each session will have a warm-up\, a
@@ -458,7 +457,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  t need torches\, but please do wear hi-viz and be prepared to be seen.Any q
  uestions\, Sarah (run leader) [Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3476645446821712918Synced from S
- trava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ trava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476645446821712918
 CATEGORIES:Running,Club Event
@@ -467,15 +466,15 @@ BEGIN:VEVENT
 UID:3442916833695894818@strava.com
 DTSTART;TZID=Europe/London:20260517T110000
 DTEND;TZID=Europe/London:20260517T120000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:***League event*** Suckley Quarter Marathon
 DESCRIPTION:Leader: Sarah Reeves\n\nPlaceholder - entry details to follow\n
  \nView on Strava: https://www.strava.com/clubs/208705/group_events/34429168
- 33695894818\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ 33695894818\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesPlaceholder - entry detail
  s to followView on Strava: https://www.strava.com/clubs/208705/group_events
- /3442916833695894818Synced from Strava Club 208705 on: Fri\, 10 Apr @ 12:52
-  AM
+ /3442916833695894818Synced from Strava Club 208705 on: Fri\, 10 Apr @ 2:14 
+ AM
 LOCATION:WR6 5EQ\, Worcester\, Worcestershire\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442916833695894818
 CATEGORIES:Running,Club Event
@@ -484,7 +483,7 @@ BEGIN:VEVENT
 UID:3476645940049934358@strava.com
 DTSTART;TZID=Europe/London:20260520T190000
 DTEND;TZID=Europe/London:20260520T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight #5
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  y Park for #5 of the six-week course.\nWe shall be starting with run/walk a
@@ -495,7 +494,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  torches\, but please do wear hi-viz and be prepared to be seen.\nAny questi
  ons\, Sarah (run leader) [Phone Number Redacted]\n\nView on Strava: https:/
  /www.strava.com/clubs/208705/group_events/3476645940049934358\n\nSynced fro
- m Strava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ m Strava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  tand in Priory Park for #5 of the six-week course.We shall be starting with
   run/walk and progress over the weeks. Each session will have a warm-up\, a
@@ -505,7 +504,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  t need torches\, but please do wear hi-viz and be prepared to be seen.Any q
  uestions\, Sarah (run leader) [Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3476645940049934358Synced from S
- trava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ trava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476645940049934358
 CATEGORIES:Running,Club Event
@@ -514,7 +513,7 @@ BEGIN:VEVENT
 UID:3476646554000050236@strava.com
 DTSTART;TZID=Europe/London:20260527T190000
 DTEND;TZID=Europe/London:20260527T200000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight Support #6
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  y Park for #6 of the six-week course.\nWe shall be starting with run/walk a
@@ -525,7 +524,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at the bandstand in Prior
  torches\, but please do wear hi-viz and be prepared to be seen.\nAny questi
  ons\, Sarah (run leader) [Phone Number Redacted]\n\nView on Strava: https:/
  /www.strava.com/clubs/208705/group_events/3476646554000050236\n\nSynced fro
- m Strava Club 208705 on Fri\, 10 Apr @ 12:52 AM
+ m Strava Club 208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  tand in Priory Park for #6 of the six-week course.We shall be starting with
   run/walk and progress over the weeks. Each session will have a warm-up\, a
@@ -535,7 +534,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at the bands
  t need torches\, but please do wear hi-viz and be prepared to be seen.Any q
  uestions\, Sarah (run leader) [Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3476646554000050236Synced from S
- trava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ trava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476646554000050236
 CATEGORIES:Running,Club Event
@@ -544,20 +543,20 @@ BEGIN:VEVENT
 UID:3476647815026616232@strava.com
 DTSTART;TZID=Europe/London:20260530T090000
 DTEND;TZID=Europe/London:20260530T100000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Take Flight Graduation
 DESCRIPTION:Leader: Sarah Fowkes\n\nThis will be the graduation 5k run at W
  orcester Woods Parkrun.\nPlease come and support as the fledglings finally 
  take flight.\nThere will probably be cake involved!\nAny questions: Sarah (
  run leader) [Phone Number Redacted]\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3476647815026616232\n\nSynced from Strava Club
-  208705 on Fri\, 10 Apr @ 12:52 AM
+  208705 on Fri\, 10 Apr @ 2:14 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesThis will be the graduatio
  n 5k run at Worcester Woods Parkrun.Please come and support as the fledglin
  gs finally take flight.There will probably be cake involved!Any questions: 
  Sarah (run leader) [Phone Number Redacted]View on Strava: https://www.strav
  a.com/clubs/208705/group_events/3476647815026616232Synced from Strava Club 
- 208705 on: Fri\, 10 Apr @ 12:52 AM
+ 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Worcester Woods Country Park\, Worcester\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3476647815026616232
 CATEGORIES:Running,Club Event
@@ -566,7 +565,7 @@ BEGIN:VEVENT
 UID:3467183074332459076@strava.com
 DTSTART;TZID=Europe/London:20260530T100000
 DTEND;TZID=Europe/London:20260530T110000
-DTSTAMP:20260409T235206Z
+DTSTAMP:20260410T011411Z
 SUMMARY:Map Mania
 DESCRIPTION:Leader: Robyn Hall\n\nMap Mania\nSessions for basic PAPER map r
  eading and compass skills.\nAbsolutely all welcome. You don't have to have 
@@ -576,8 +575,8 @@ DESCRIPTION:Leader: Robyn Hall\n\nMap Mania\nSessions for basic PAPER map r
  pproximately 2 hours (longer if you get us lost 😉)\nIf you need reading 
  glasses\, please bring them. \nAlso wear appropriate layers for stop/starti
  ng. \n\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/
- 3467183074332459076\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @ 12:
- 52 AM
+ 3467183074332459076\n\nSynced from Strava Club 208705 on Fri\, 10 Apr @ 2:1
+ 4 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallMap ManiaSessions for basic 
  PAPER map reading and compass skills.Absolutely all welcome. You don't have
   to have attended previous sessions to join us. Meet in the car park just o
@@ -586,7 +585,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallMap ManiaSessions for basic
  g.Approximately 2 hours (longer if you get us lost 😉)If you need reading
   glasses\, please bring them. Also wear appropriate layers for stop/startin
  g. View on Strava: https://www.strava.com/clubs/208705/group_events/3467183
- 074332459076Synced from Strava Club 208705 on: Fri\, 10 Apr @ 12:52 AM
+ 074332459076Synced from Strava Club 208705 on: Fri\, 10 Apr @ 2:14 AM
 LOCATION:Welland
 URL:https://www.strava.com/clubs/208705/group_events/3467183074332459076
 CATEGORIES:Running,Club Event

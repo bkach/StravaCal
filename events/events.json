@@ -201,6 +201,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3442519841778912102,
+    "title": "The Sugar Rush",
+    "start": "2026-04-21T18:30:00Z",
+    "end": "2026-04-21T19:30:00Z",
+    "description": "**Sarah F to cover 14/4**\n\nFREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Sarah [Phone Number Redacted] (covering for Robyn)",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
+    "location": "4 Wilton Road Malvern England WR14 3RL United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
     "id": 3453744381193439340,
     "title": "Flying Further Wk 8 of 10",
     "start": "2026-04-21T18:00:00Z",
@@ -292,16 +302,6 @@
     "organizer": "Lily Price"
   },
   {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-04-15T17:30:00Z",
-    "end": "2026-04-15T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
-  },
-  {
     "id": 3477082677404053220,
     "title": "Fun on the common (is back!)",
     "start": "2026-04-15T17:30:00Z",
@@ -312,23 +312,13 @@
     "organizer": "Martin Thomas"
   },
   {
-    "id": 3442519841778912102,
-    "title": "The Sugar Rush",
-    "start": "2026-04-14T18:30:00Z",
-    "end": "2026-04-14T19:30:00Z",
-    "description": "**Sarah F to cover 14/4**\n\nFREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nTorches, visible clothing required. \n\nLirf: Sarah [Phone Number Redacted] (covering for Robyn)",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442519841778912102",
-    "location": "4 Wilton Road Malvern England WR14 3RL United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3453743920932553588,
-    "title": "Flying Further Wk 7 of 10",
-    "start": "2026-04-14T18:00:00Z",
-    "end": "2026-04-14T19:00:00Z",
-    "description": "Flying Further week 7 of 10\nMoving runners to 10k in readiness for Suckley Quarter on 17th May 2026\nDistance 8.5km\nRoad runs with some elevation – walked if necessary. \nTime: 64 mins\n\nPlease wear Hi-Viz and lights as appropriate to keep yourself safe. \n\nIf you become unable to attend please click out in good time. \n\nLiRF: Hannah Thompson [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3453743920932553588",
-    "location": "Half Way, Foley Terrace Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Hannah Thompson"
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-04-15T17:30:00Z",
+    "end": "2026-04-15T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
   }
 ]

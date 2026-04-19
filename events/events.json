@@ -181,6 +181,17 @@
     "organizer": "Hannah Thompson"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-04-26T07:00:00Z",
+    "end": "2026-04-26T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3445052171608238340,
     "title": "Rise \u0026 Run",
     "start": "2026-04-24T05:30:00Z",
@@ -289,16 +300,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442915869531965600",
     "location": "WR6 6QA, Worcester, Worcestershire, England, United Kingdom",
     "organizer": "Sarah Reeves"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-04-19T07:00:00Z",
-    "end": "2026-04-19T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

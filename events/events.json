@@ -141,6 +141,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-05-13T17:30:00Z",
+    "end": "2026-05-13T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3483417980242362064,
     "title": "The Sugar Rush",
     "start": "2026-05-12T18:30:00Z",
@@ -240,25 +250,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3485657744048226462",
     "location": "Victoria Park",
     "organizer": "Andrew Kenchington"
-  },
-  {
-    "id": 3476644698629554194,
-    "title": "Take Flight support #3",
-    "start": "2026-05-06T18:00:00Z",
-    "end": "2026-05-06T19:00:00Z",
-    "description": "We shall meet at the bandstand in Priory Park for #3 of the six-week course.\nWe shall be starting with run/walk and progress over the weeks. Each session will have a warm-up, a running activity and a cool down taking about 40 to 50 minutes.\nPlease come and support, or if you have not been running regularly and want to get back into it, then please do join us.\nWe should be lucky with daylight and not need torches, but please do wear hi-viz and be prepared to be seen.\nAny questions, Sarah (run leader) [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3476644698629554194",
-    "location": "Priory Park, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-05-06T17:30:00Z",
-    "end": "2026-05-06T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

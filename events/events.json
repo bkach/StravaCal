@@ -121,6 +121,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3483417980242362064,
+    "title": "The Sugar Rush",
+    "start": "2026-05-19T18:30:00Z",
+    "end": "2026-05-19T19:30:00Z",
+    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
     "id": 3487000889107308686,
     "title": "Tuesday Trails",
     "start": "2026-05-19T18:00:00Z",
@@ -222,16 +232,6 @@
     "organizer": "Sarah Fowkes"
   },
   {
-    "id": 3487915057745045050,
-    "title": "Fun on the Common",
-    "start": "2026-05-13T17:30:00Z",
-    "end": "2026-05-13T18:30:00Z",
-    "description": "Efforts session suitable for all abilities/paces. \n\nWarm up followed by a series of low hill repeats then cool down stretches. \n\nThe whole session is within a short distance from the meet point and all done in an hour. \n\nIt’s all about structured effort and recovery. Good for progressing and building resilience.\n\nNot a single loop run so you can’t get left behind. If you are coming back from injury or new to efforts … you can also sit out for a loop if needed. \n\nCome and have some fun\n\nMartin\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3487915057745045050",
-    "location": "Churchdown Road Malvern England WR14 United Kingdom",
-    "organizer": "Martin Thomas"
-  },
-  {
     "id": 3455162324584765606,
     "title": "Round The Ramparts",
     "start": "2026-05-13T17:30:00Z",
@@ -242,13 +242,13 @@
     "organizer": "Andy Dingley"
   },
   {
-    "id": 3483417980242362064,
-    "title": "The Sugar Rush",
-    "start": "2026-05-12T18:30:00Z",
-    "end": "2026-05-12T19:30:00Z",
-    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
+    "id": 3487915057745045050,
+    "title": "Fun on the Common",
+    "start": "2026-05-13T17:30:00Z",
+    "end": "2026-05-13T18:30:00Z",
+    "description": "Efforts session suitable for all abilities/paces. \n\nWarm up followed by a series of low hill repeats then cool down stretches. \n\nThe whole session is within a short distance from the meet point and all done in an hour. \n\nIt’s all about structured effort and recovery. Good for progressing and building resilience.\n\nNot a single loop run so you can’t get left behind. If you are coming back from injury or new to efforts … you can also sit out for a loop if needed. \n\nCome and have some fun\n\nMartin\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3487915057745045050",
+    "location": "Churchdown Road Malvern England WR14 United Kingdom",
+    "organizer": "Martin Thomas"
   }
 ]

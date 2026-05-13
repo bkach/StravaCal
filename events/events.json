@@ -111,6 +111,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3489702792066694134,
+    "title": "Cross country - hills and obstacles",
+    "start": "2026-05-21T17:30:00Z",
+    "end": "2026-05-21T18:30:00Z",
+    "description": "Meet by railway bridge at gate to Common. We will do a good warm up, some drills (all guided for beginners). Then we will do a guided session on a single loop to test running form and techique over hills (up and down) and obstacles on the Common.. Followed by cool down stretches.All finished by 7.30pm. All are welcome at any pace - the focus on technique and training together. Andy K [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3489702792066694134",
+    "location": "Thirlstane Road, M alvern college entrance",
+    "organizer": "Andrew Kenchington"
+  },
+  {
     "id": 3476645940049934358,
     "title": "Take Flight #5",
     "start": "2026-05-20T18:00:00Z",
@@ -119,6 +129,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3476645940049934358",
     "location": "Priory Park, Malvern, England, United Kingdom",
     "organizer": "Sarah Fowkes"
+  },
+  {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-05-20T17:30:00Z",
+    "end": "2026-05-20T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
   },
   {
     "id": 3483417980242362064,
@@ -202,16 +222,6 @@
     "organizer": "Sarah Fowkes"
   },
   {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-05-14T17:30:00Z",
-    "end": "2026-05-14T18:30:00Z",
-    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
-  },
-  {
     "id": 3488173429434805764,
     "title": "5-10km improvement - speed focus",
     "start": "2026-05-14T17:30:00Z",
@@ -222,33 +232,13 @@
     "organizer": "Andrew Kenchington"
   },
   {
-    "id": 3476645446821712918,
-    "title": "Take Flight Support #4",
-    "start": "2026-05-13T18:00:00Z",
-    "end": "2026-05-13T19:00:00Z",
-    "description": "We shall meet at the bandstand in Priory Park for #4 of the six-week course.\nWe shall be starting with run/walk and progress over the weeks. Each session will have a warm-up, a running activity and a cool down taking about 40 to 50 minutes.\nPlease come and support, or if you have not been running regularly and want to get back into it, then please do join us.\nWe should be lucky with daylight and not need torches, but please do wear hi-viz and be prepared to be seen.\nAny questions, Sarah (run leader) [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3476645446821712918",
-    "location": "Priory Park, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-05-13T17:30:00Z",
-    "end": "2026-05-13T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
-  },
-  {
-    "id": 3487915057745045050,
-    "title": "Fun on the Common",
-    "start": "2026-05-13T17:30:00Z",
-    "end": "2026-05-13T18:30:00Z",
-    "description": "** suggest trail shoes despite compacted grass tracks … particularly if it has rained ** \n\nEfforts session suitable for all abilities/paces. \n\nWarm up followed by a series of low hill repeats then cool down stretches. \n\nThe whole session is within a short distance from the meet point and all done in an hour. \n\nIt’s all about structured effort and recovery. Good for progressing and building resilience.\n\nNot a single loop run so you can’t get left behind. If you are coming back from injury or new to efforts … you can also sit out for a loop if needed. \n\nCome and have some fun\n\nMartin\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3487915057745045050",
-    "location": "Churchdown Road Malvern England WR14 United Kingdom",
-    "organizer": "Martin Thomas"
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-05-14T17:30:00Z",
+    "end": "2026-05-14T18:30:00Z",
+    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
   }
 ]

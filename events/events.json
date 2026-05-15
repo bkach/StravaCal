@@ -111,6 +111,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3486320846511681912,
+    "title": "5 on Friday",
+    "start": "2026-05-22T08:00:00Z",
+    "end": "2026-05-22T09:00:00Z",
+    "description": "Gentle run with walks uphill as required. \n40-45 minutes \nTrail shoes. \n\nLiRF: Julie S [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
+    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3445052171608238340,
     "title": "Rise \u0026 Run",
     "start": "2026-05-22T05:30:00Z",
@@ -200,15 +210,5 @@
     "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3486320846511681912,
-    "title": "5 on Friday",
-    "start": "2026-05-15T08:00:00Z",
-    "end": "2026-05-15T09:00:00Z",
-    "description": "Gentle run with walks uphill as required. \n40-45 minutes \nTrail shoes. \n\nLiRF: Julie S [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
-    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
-    "organizer": "Julie Slack"
   }
 ]

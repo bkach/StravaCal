@@ -81,6 +81,16 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 3487000889107308686,
+    "title": "Tuesday Trails",
+    "start": "2026-06-02T18:00:00Z",
+    "end": "2026-06-02T19:00:00Z",
+    "description": "8-9k at an easy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nWelcoming those recently graduated from Flying Further and / or those who want a gentle introduction to trail running. \n\nAs the days become more summery (hopefully) be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3467183074332459076,
     "title": "Map Mania",
     "start": "2026-05-30T09:00:00Z",
@@ -111,14 +121,24 @@
     "organizer": "Sarah Fowkes"
   },
   {
-    "id": 3487000889107308686,
-    "title": "Tuesday Trails",
+    "id": 3483417980242362064,
+    "title": "The Sugar Rush",
+    "start": "2026-05-26T18:30:00Z",
+    "end": "2026-05-26T19:30:00Z",
+    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
+    "id": 3491904304190096690,
+    "title": "Flying Further (Extra 10k)",
     "start": "2026-05-26T18:00:00Z",
     "end": "2026-05-26T19:00:00Z",
-    "description": "8-9k at an easy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nWelcoming those recently graduated from Flying Further and / or those who want a gentle introduction to trail running. \n\nAs the days become more summery (hopefully) be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Julie Slack"
+    "description": "An extra edition of the final week of Flying Further as not everyone could make it. We’ll meet at Rosebank Gardens and do a steady 10km together as a group.\n\nNote: This run replaces Tuesday Trails (for one week only!)\n\n☀️ The weather is looking toasty so we may need to adjust plans if the forecast is accurate! Please do bring plenty of water.\n\n🏃‍♀️Pace: Approx 7.5min/km\n📏Distance: 10km\n⏱️Time: ~1hr 15mins\n📍Meeting Point: Rosebank Gardens\n\nPlease remember to click out if you can no longer make it.\n\nHannah\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3491904304190096690",
+    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
+    "organizer": "Hannah Thompson"
   },
   {
     "id": 1457866,
@@ -202,16 +222,6 @@
     "organizer": "Sarah Fowkes"
   },
   {
-    "id": 3491162257269093816,
-    "title": "Fun on the Common",
-    "start": "2026-05-20T17:30:00Z",
-    "end": "2026-05-20T18:30:00Z",
-    "description": "Usual effort session suitable for all abilities. \n\n1 hour in total \nWarm up routine then series of low hill repeats. \nCool down stretches\n\nNot a single loop run so never far from where we meet. \n\nSession is adaptable for all abilities. \n\nCome and have some fun\n\nMartin\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3491162257269093816",
-    "location": "Churchdown Road Malvern England WR14 United Kingdom",
-    "organizer": "Martin Thomas"
-  },
-  {
     "id": 3455162324584765606,
     "title": "Round The Ramparts",
     "start": "2026-05-20T17:30:00Z",
@@ -222,13 +232,13 @@
     "organizer": "Andy Dingley"
   },
   {
-    "id": 3483417980242362064,
-    "title": "The Sugar Rush",
-    "start": "2026-05-19T18:30:00Z",
-    "end": "2026-05-19T19:30:00Z",
-    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
+    "id": 3491162257269093816,
+    "title": "Fun on the Common",
+    "start": "2026-05-20T17:30:00Z",
+    "end": "2026-05-20T18:30:00Z",
+    "description": "Usual effort session suitable for all abilities. \n\n1 hour in total \nWarm up routine then series of low hill repeats. \nCool down stretches\n\nNot a single loop run so never far from where we meet. \n\nSession is adaptable for all abilities. \n\nCome and have some fun\n\nMartin\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3491162257269093816",
+    "location": "Churchdown Road Malvern England WR14 United Kingdom",
+    "organizer": "Martin Thomas"
   }
 ]

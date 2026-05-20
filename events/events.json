@@ -121,6 +121,16 @@
     "organizer": "Sarah Fowkes"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-05-27T17:30:00Z",
+    "end": "2026-05-27T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3483417980242362064,
     "title": "The Sugar Rush",
     "start": "2026-05-26T18:30:00Z",
@@ -192,16 +202,6 @@
     "organizer": "Andrew Elwood"
   },
   {
-    "id": 3489702792066694134,
-    "title": "Cross country - hills and obstacles",
-    "start": "2026-05-21T17:30:00Z",
-    "end": "2026-05-21T18:30:00Z",
-    "description": "Meet by railway bridge at gate to Common. We will do a good warm up, some drills (all guided for beginners). Then we will do a guided session on a single loop to test running form and techique over hills (up and down) and obstacles on the Common.. Followed by cool down stretches.All finished by 7.30pm. All are welcome at any pace - the focus on technique and training together. Andy K [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3489702792066694134",
-    "location": "Thirlstane Road, M alvern college entrance",
-    "organizer": "Andrew Kenchington"
-  },
-  {
     "id": 3442919329882560672,
     "title": "Thursday Hills",
     "start": "2026-05-21T17:30:00Z",
@@ -212,33 +212,13 @@
     "organizer": "Lily Price"
   },
   {
-    "id": 3476645940049934358,
-    "title": "Take Flight #5",
-    "start": "2026-05-20T18:00:00Z",
-    "end": "2026-05-20T19:00:00Z",
-    "description": "We shall meet at the bandstand in Priory Park for #5 of the six-week course.\nWe shall be starting with run/walk and progress over the weeks. Each session will have a warm-up, a running activity and a cool down taking about 40 to 50 minutes.\nPlease come and support, or if you have not been running regularly and want to get back into it, then please do join us.\nWe should be lucky with daylight and not need torches, but please do wear hi-viz and be prepared to be seen.\nAny questions, Sarah (run leader) [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3476645940049934358",
-    "location": "Priory Park, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-05-20T17:30:00Z",
-    "end": "2026-05-20T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
-  },
-  {
-    "id": 3491162257269093816,
-    "title": "Fun on the Common",
-    "start": "2026-05-20T17:30:00Z",
-    "end": "2026-05-20T18:30:00Z",
-    "description": "Usual effort session suitable for all abilities. \n\n1 hour in total \nWarm up routine then series of low hill repeats. \nCool down stretches\n\nNot a single loop run so never far from where we meet. \n\nSession is adaptable for all abilities. \n\nCome and have some fun\n\nMartin\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3491162257269093816",
-    "location": "Churchdown Road Malvern England WR14 United Kingdom",
-    "organizer": "Martin Thomas"
+    "id": 3489702792066694134,
+    "title": "Cross country - hills and obstacles",
+    "start": "2026-05-21T17:30:00Z",
+    "end": "2026-05-21T18:30:00Z",
+    "description": "Meet by railway bridge at gate to Common. We will do a good warm up, some drills (all guided for beginners). Then we will do a guided session on a single loop to test running form and techique over hills (up and down) and obstacles on the Common.. Followed by cool down stretches.All finished by 7.30pm. All are welcome at any pace - the focus on technique and training together. Andy K [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3489702792066694134",
+    "location": "Thirlstane Road, M alvern college entrance",
+    "organizer": "Andrew Kenchington"
   }
 ]

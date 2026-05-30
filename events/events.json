@@ -71,6 +71,17 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-06-07T07:00:00Z",
+    "end": "2026-06-07T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3494809924603577750,
     "title": "Take Flight Graduation #2 **League event**",
     "start": "2026-06-06T08:00:00Z",
@@ -159,16 +170,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
     "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-05-31T07:00:00Z",
-    "end": "2026-05-31T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

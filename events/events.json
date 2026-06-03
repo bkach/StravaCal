@@ -91,6 +91,16 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-06-10T17:30:00Z",
+    "end": "2026-06-10T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3483417980242362064,
     "title": "The Sugar Rush",
     "start": "2026-06-09T18:30:00Z",
@@ -180,35 +190,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
     "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
     "organizer": "Lily Price"
-  },
-  {
-    "id": 3478075832361780198,
-    "title": "HBXC Summer Series: Race 1 - Treworgan ***League Race***",
-    "start": "2026-06-03T18:30:00Z",
-    "end": "2026-06-03T19:30:00Z",
-    "description": "First Race of the HBXC Summer Series hosted by Monross Trailblazers. \n\nThe race will be approximately 8-10km long around trails and mixes terrain. Typically lovely weather this time of year and a nice way to get out and explore. All abilities and levels of experience are welcome. \n\nThis race will also form part of the Buzzard race league so be sure to play your joker before competing if you want. \n\nClick in to express interest and I will create a WhatsApp group to desseminate further information. \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3478075832361780198",
-    "location": "HR96HB",
-    "organizer": "Andrew Elwood"
-  },
-  {
-    "id": 3496092730878179374,
-    "title": "Take flight support bonus session",
-    "start": "2026-06-03T18:00:00Z",
-    "end": "2026-06-03T19:00:00Z",
-    "description": "Take Flight support \nWarm up \nAbout 4km \nCool down \n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3496092730878179374",
-    "location": "Malvern England WR14 United Kingdom",
-    "organizer": "Lily Price"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-06-03T17:30:00Z",
-    "end": "2026-06-03T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

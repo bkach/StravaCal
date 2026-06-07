@@ -91,11 +91,22 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-06-14T07:00:00Z",
+    "end": "2026-06-14T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3486320846511681912,
     "title": "5 on Friday",
-    "start": "2026-06-12T08:30:00Z",
-    "end": "2026-06-12T09:30:00Z",
-    "description": "Gentle run with walks uphill as required. \n40-45 minutes \nTrail shoes. \n\nLiRF: Julie S [Phone Number Redacted]",
+    "start": "2026-06-12T08:00:00Z",
+    "end": "2026-06-12T09:00:00Z",
+    "description": "Please note earlier start time… \n\nGentle run with walks uphill as required. \n40-45 minutes \nTrail shoes. \n\nLiRF: Julie S [Phone Number Redacted]",
     "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Julie Slack"
@@ -155,7 +166,7 @@
     "title": "Fun on the Common",
     "start": "2026-06-10T17:30:00Z",
     "end": "2026-06-10T18:30:00Z",
-    "description": "Effort session suitable for all abilities. \n\nMeet at the carpark by the ‘football pitch’ half way up the top part of Pickersleigh Road. \n\nWe will do a similar routine to last time \n\nWarm up exercises followed by time based efforts (pyramid sets). \nThen cool down stretches. \n\nAll done in an hour. \n\nWhether you’re a seasoned runner or new to this … you’re very welcome. \n\nThe session will be effort up the incline and recover down. \nSets will have a break between. \nBring water. \n\nNever far from the carpark so you can’t get left behind. \n\nMartin\n[Phone Number Redacted]\n",
+    "description": "Effort session suitable for all abilities. \n\nMeet at the carpark by the ‘football pitch’ half way up the top part of Peachfield Road. \n\nWe will do a similar routine to last time \n\nWarm up exercises followed by time based efforts (pyramid sets). \nThen cool down stretches. \n\nAll done in an hour. \n\nWhether you’re a seasoned runner or new to this … you’re very welcome. \n\nThe session will be effort up the incline and recover down. \nSets will have a break between. \nBring water. \n\nNever far from the carpark so you can’t get left behind. \n\nMartin\n[Phone Number Redacted]\n",
     "url": "https://www.strava.com/clubs/208705/group_events/3498419768992826312",
     "location": "32 Peachfield Road Malvern England WR14 United Kingdom",
     "organizer": "Martin Thomas"
@@ -181,16 +192,6 @@
     "organizer": "Robyn Hall"
   },
   {
-    "id": 3487000889107308686,
-    "title": "Tuesday Trails",
-    "start": "2026-06-09T18:00:00Z",
-    "end": "2026-06-09T19:00:00Z",
-    "description": "8-9k at an easy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nWelcoming those recently graduated from Flying Further and / or those who want a gentle introduction to trail running. \n\nAs the days become more summery (hopefully) be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Julie Slack"
-  },
-  {
     "id": 3498393277393407374,
     "title": "5k: keep it going",
     "start": "2026-06-09T18:00:00Z",
@@ -201,14 +202,13 @@
     "organizer": "Maria Crawford"
   },
   {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-06-07T07:00:00Z",
-    "end": "2026-06-07T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
+    "id": 3487000889107308686,
+    "title": "Tuesday Trails",
+    "start": "2026-06-09T18:00:00Z",
+    "end": "2026-06-09T19:00:00Z",
+    "description": "8-9k at an easy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nWelcoming those recently graduated from Flying Further and / or those who want a gentle introduction to trail running. \n\nAs the days become more summery (hopefully) be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Julie Slack"
   }
 ]

@@ -81,6 +81,17 @@
     "organizer": "Andrew Kenchington"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-07-05T07:00:00Z",
+    "end": "2026-07-05T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 3442917965611387160,
     "title": "***League event*** Cotswold Way Relay",
     "start": "2026-07-04T06:00:00Z",
@@ -111,17 +122,6 @@
     "organizer": "Andy Dingley"
   },
   {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-06-28T07:00:00Z",
-    "end": "2026-06-28T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
-  },
-  {
     "id": 3486320846511681912,
     "title": "5 on Friday",
     "start": "2026-06-26T08:30:00Z",
@@ -143,7 +143,7 @@
   },
   {
     "id": 3442919329882560672,
-    "title": "Thursday Hills *no hills 25th be at track session*",
+    "title": "Thursday Hills - 5km walk in the heat",
     "start": "2026-06-25T17:30:00Z",
     "end": "2026-06-25T18:30:00Z",
     "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
@@ -166,7 +166,7 @@
     "title": "Beat the Heat - Thursday ",
     "start": "2026-06-25T05:00:00Z",
     "end": "2026-06-25T06:00:00Z",
-    "description": "Meet at Churchdown Road near the Church at 06:00. Hoping to beat the heat. \n\n5k trail route circle. ",
+    "description": "Meet at Churchdown Road near the Church at 06:00. Hoping to beat the heat. \n\n5k trail route circle. Approximately 40 minutes. ",
     "url": "https://www.strava.com/clubs/208705/group_events/3504107588662151552",
     "location": "Churchdown Road",
     "organizer": "Robyn Hall"

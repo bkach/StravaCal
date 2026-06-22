@@ -101,6 +101,16 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-07-01T17:30:00Z",
+    "end": "2026-07-01T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-06-28T07:00:00Z",
@@ -152,14 +162,14 @@
     "organizer": "Andrew Kenchington"
   },
   {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-06-24T17:30:00Z",
-    "end": "2026-06-24T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
+    "id": 3504107588662151552,
+    "title": "Beat the Heat - Thursday ",
+    "start": "2026-06-25T05:00:00Z",
+    "end": "2026-06-25T06:00:00Z",
+    "description": "Meet at Churchdown Road near the Church at 06:00. Hoping to beat the heat. \n\n5k trail route circle. ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3504107588662151552",
+    "location": "Churchdown Road",
+    "organizer": "Robyn Hall"
   },
   {
     "id": 3504041676350428964,
@@ -173,10 +183,10 @@
   },
   {
     "id": 3483417980242362064,
-    "title": "The Sugar Rush",
+    "title": "The Sugar Rush: CANCELLED ",
     "start": "2026-06-23T18:30:00Z",
     "end": "2026-06-23T19:30:00Z",
-    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
+    "description": "**CANCELLED** 23rd due to heat. \n\nFREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
     "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
     "location": "The Foresters Arms",
     "organizer": "Robyn Hall"
@@ -200,15 +210,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3504036185754350976",
     "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3501503790749695804,
-    "title": "🚍 The Bus (5k/8k/12k)",
-    "start": "2026-06-22T18:00:00Z",
-    "end": "2026-06-22T19:00:00Z",
-    "description": "Join me for a choose-your-adventure run!\n\nHop on hop off - we'll loop back to the same point at 5, 8, and 12k and you're free to leave at any point.\n\nPerfect if you want to try a longer distance, if you're not sure how long you want to run that day, or if you enjoy running in circles.\n\nThe loops aren't exactly the same, so expect variety and elevation!",
-    "url": "https://www.strava.com/clubs/208705/group_events/3501503790749695804",
-    "location": "Wyche Cutting",
-    "organizer": "Boris Kachscovsky"
   }
 ]

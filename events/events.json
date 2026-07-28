@@ -31,6 +31,26 @@
     "skill_levels": 1
   },
   {
+    "id": 3483417980242362064,
+    "title": "The Sugar Rush",
+    "start": "2026-08-04T18:30:00Z",
+    "end": "2026-08-04T19:30:00Z",
+    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
+    "id": 3487000889107308686,
+    "title": "Tuesday Trails",
+    "start": "2026-08-04T18:00:00Z",
+    "end": "2026-08-04T19:00:00Z",
+    "description": "Tuesday 12:00 update: route added…🤞🏽\n\n8-9k at an easy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nWelcoming those recently graduated from Flying Further and / or those who want a gentle introduction to trail running. \n\nAs the days become more summery (hopefully) be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-08-02T07:00:00Z",
@@ -120,25 +140,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
     "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
     "organizer": "Andy Dingley"
-  },
-  {
-    "id": 3483417980242362064,
-    "title": "The Sugar Rush",
-    "start": "2026-07-28T18:30:00Z",
-    "end": "2026-07-28T19:30:00Z",
-    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
-  },
-  {
-    "id": 3487000889107308686,
-    "title": "Tuesday Trails",
-    "start": "2026-07-28T18:00:00Z",
-    "end": "2026-07-28T19:00:00Z",
-    "description": "Tuesday 12:00 update: route added…🤞🏽\n\n8-9k at an easy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nWelcoming those recently graduated from Flying Further and / or those who want a gentle introduction to trail running. \n\nAs the days become more summery (hopefully) be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Julie Slack"
   }
 ]

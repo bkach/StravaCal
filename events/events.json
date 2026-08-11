@@ -41,6 +41,16 @@
     "skill_levels": 1
   },
   {
+    "id": 3522246995347501582,
+    "title": "Common hill session - speed improver",
+    "start": "2026-08-20T17:30:00Z",
+    "end": "2026-08-20T18:30:00Z",
+    "description": "Meet at gate onto Common by railway bridge on Thirlstane. We will do a warm up jog, some drills (all explained) and then a pyramid hill session. All on a loop on grass with effort to suit individual. \nFinish with some strides and then a cool down Total distance approx 5-6km and finish by 7.30pm. Suitable for all as training  together on a loop. Andy k [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3522246995347501582",
+    "location": "Thirlstane Road",
+    "organizer": "Andrew Kenchington"
+  },
+  {
     "id": 3522246993565124110,
     "title": "Common hill session - speed improver",
     "start": "2026-08-20T17:30:00Z",
@@ -51,14 +61,24 @@
     "organizer": "Andrew Kenchington"
   },
   {
-    "id": 3522246995347501582,
-    "title": "Common hill session - speed improver",
-    "start": "2026-08-20T17:30:00Z",
-    "end": "2026-08-20T18:30:00Z",
-    "description": "Meet at gate onto Common by railway bridge on Thirlstane. We will do a warm up jog, some drills (all explained) and then a pyramid hill session. All on a loop on grass with effort to suit individual. \nFinish with some strides and then a cool down Total distance approx 5-6km and finish by 7.30pm. Suitable for all as training  together on a loop. Andy k [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3522246995347501582",
-    "location": "Thirlstane Road",
-    "organizer": "Andrew Kenchington"
+    "id": 3483417980242362064,
+    "title": "The Sugar Rush",
+    "start": "2026-08-18T18:30:00Z",
+    "end": "2026-08-18T19:30:00Z",
+    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
+    "location": "The Foresters Arms",
+    "organizer": "Robyn Hall"
+  },
+  {
+    "id": 3487000889107308686,
+    "title": "Tuesday Trails",
+    "start": "2026-08-18T18:00:00Z",
+    "end": "2026-08-18T19:00:00Z",
+    "description": "8k ish\n\neasy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nPlease be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
+    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Julie Slack"
   },
   {
     "id": 1457866,
@@ -129,26 +149,6 @@
     "description": "Meet at the Wyche Bus Stop (not sure why Strava doesn't give this option!) \n\nPartial eclipse will be at its maximum (and near total) at 19:12 \n(The next total solar eclipse in the UK will be 23/09/2090.)\n\nPlan to set off from the Wyche at 18:30 just after the eclipse begins. Walk - run strategy. \n\nPrior to that will run a middle hill loop setting off promptly at 17:15 - usual steady run walking hills as required. \n\nFeel free to join at either point.\n\nRun ends on arrival at Worcestershire Beacon so please be prepared to make own way back down as and when you wish. \n\nHopefully it will be a clear evening so we get maximum effect from the eclipse. \n\nH\u0026S - runners to make own preparations for safe viewing. \n\nhttps://www.timeanddate.com/eclipse/in/uk\n\nAny questions (not scientific please) \nLiRF: Julie Slack [Phone Number Redacted]",
     "url": "https://www.strava.com/clubs/208705/group_events/3520045307497696626",
     "location": "Upper Wyche, Malvern Wells, United Kingdom",
-    "organizer": "Julie Slack"
-  },
-  {
-    "id": 3483417980242362064,
-    "title": "The Sugar Rush",
-    "start": "2026-08-11T18:30:00Z",
-    "end": "2026-08-11T19:30:00Z",
-    "description": "FREE CAKE....\nGot your attention?? 😬 \n\nA run from the Foresters arms, returning back to there where we will enjoy a well earned treat. \n\nRoutes and distance will vary slightly weekly but approximately 5k. Setting off at 19:30, always aiming to arrive for our Sugar Rush between 20:00 \u0026 20:15\n\nLirf: Robyn [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3483417980242362064",
-    "location": "The Foresters Arms",
-    "organizer": "Robyn Hall"
-  },
-  {
-    "id": 3487000889107308686,
-    "title": "Tuesday Trails",
-    "start": "2026-08-11T18:00:00Z",
-    "end": "2026-08-11T19:00:00Z",
-    "description": "8k ish\n\neasy pace. ie steady run but walking up hills as required.\n\nApproximately 1hr 15 min\n\nPlease be aware of your hydration requirements and come prepared.\n\nTrail shoes recommended. \n\nLiRF : Julie S. [Phone Number Redacted]\n",
-    "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
     "organizer": "Julie Slack"
   }
 ]

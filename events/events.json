@@ -1,15 +1,5 @@
 [
   {
-    "id": 3442921757788856480,
-    "title": "***League event*** Worcestershire Beacon Race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "Placeholder - time and entry details TBC",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
-    "location": "Malvern, Worcestershire, England, United Kingdom",
-    "organizer": "Sarah Reeves"
-  },
-  {
     "id": 3517998598683482380,
     "title": "***League event***Beacon race",
     "start": "2026-10-10T13:00:00Z",
@@ -17,6 +7,16 @@
     "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
     "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3442921757788856480,
+    "title": "***League event*** Worcestershire Beacon Race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "Placeholder - time and entry details TBC",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
+    "location": "Malvern, Worcestershire, England, United Kingdom",
     "organizer": "Sarah Reeves"
   },
   {

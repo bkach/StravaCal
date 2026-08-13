@@ -41,22 +41,22 @@
     "skill_levels": 1
   },
   {
-    "id": 3522246995347501582,
-    "title": "Common hill session - speed improver",
-    "start": "2026-08-20T17:30:00Z",
-    "end": "2026-08-20T18:30:00Z",
-    "description": "Meet at gate onto Common by railway bridge on Thirlstane. We will do a warm up jog, some drills (all explained) and then a pyramid hill session. All on a loop on grass with effort to suit individual. \nFinish with some strides and then a cool down Total distance approx 5-6km and finish by 7.30pm. Suitable for all as training  together on a loop. Andy k [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3522246995347501582",
-    "location": "Thirlstane Road",
-    "organizer": "Andrew Kenchington"
-  },
-  {
     "id": 3522246993565124110,
     "title": "Common hill session - speed improver",
     "start": "2026-08-20T17:30:00Z",
     "end": "2026-08-20T18:30:00Z",
     "description": "Meet at gate onto Common by railway bridge on Thirlstane. We will do a warm up jog, some drills (all explained) and then a pyramid hill session. All on a loop on grass with effort to suit individual. \nFinish with some strides and then a cool down Total distance approx 5-6km and finish by 7.30pm. Suitable for all as training  together on a loop. Andy k [Phone Number Redacted]",
     "url": "https://www.strava.com/clubs/208705/group_events/3522246993565124110",
+    "location": "Thirlstane Road",
+    "organizer": "Andrew Kenchington"
+  },
+  {
+    "id": 3522246995347501582,
+    "title": "Common hill session - speed improver",
+    "start": "2026-08-20T17:30:00Z",
+    "end": "2026-08-20T18:30:00Z",
+    "description": "Meet at gate onto Common by railway bridge on Thirlstane. We will do a warm up jog, some drills (all explained) and then a pyramid hill session. All on a loop on grass with effort to suit individual. \nFinish with some strides and then a cool down Total distance approx 5-6km and finish by 7.30pm. Suitable for all as training  together on a loop. Andy k [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3522246995347501582",
     "location": "Thirlstane Road",
     "organizer": "Andrew Kenchington"
   },
@@ -120,16 +120,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3445052171608238340",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Hannah Thompson"
-  },
-  {
-    "id": 3521626140741206128,
-    "title": "Thirsty Thursday 10k (about an hour)",
-    "start": "2026-08-13T18:00:00Z",
-    "end": "2026-08-13T19:00:00Z",
-    "description": "Thirsty Thursday 10k from the Malvern Hills Hotel to help them with some business to mitigate the A4449 road closure. \n\n10k in about an hour.\n\nSim Buzzard [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3521626140741206128",
-    "location": "Malvern Hills Hotel",
-    "organizer": "Sim Buzzard"
   },
   {
     "id": 3442919329882560672,

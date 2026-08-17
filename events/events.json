@@ -30,6 +30,17 @@
     "organizer": "Sarah Reeves"
   },
   {
+    "id": 1457866,
+    "title": "Sunday Hills",
+    "start": "2026-09-06T07:00:00Z",
+    "end": "2026-09-06T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
+  },
+  {
     "id": 2089682,
     "title": "***League event*** Joust 2026 - 24 Hour Relay (4-6 September)",
     "start": "2026-09-05T08:00:00Z",
@@ -49,17 +60,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
     "location": "Back Lane Malvern Hills England WR14 United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills",
-    "start": "2026-08-23T07:00:00Z",
-    "end": "2026-08-23T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   },
   {
     "id": 3445052171608238340,

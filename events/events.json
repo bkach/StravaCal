@@ -1,15 +1,5 @@
 [
   {
-    "id": 3517998598683482380,
-    "title": "***League event***Beacon race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
-    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Sarah Reeves"
-  },
-  {
     "id": 3442921757788856480,
     "title": "***League event*** Worcestershire Beacon Race",
     "start": "2026-10-10T13:00:00Z",
@@ -17,6 +7,16 @@
     "description": "Placeholder - time and entry details TBC",
     "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
     "location": "Malvern, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3517998598683482380,
+    "title": "***League event***Beacon race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
+    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Sarah Reeves"
   },
   {
@@ -112,16 +112,6 @@
     "organizer": "Sarah Fowkes"
   },
   {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-09-03T17:30:00Z",
-    "end": "2026-09-03T18:30:00Z",
-    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
-  },
-  {
     "id": 3529191275560506194,
     "title": "5-10km speed improvement ",
     "start": "2026-09-03T17:30:00Z",
@@ -130,6 +120,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3529191275560506194",
     "location": "Victoria Park",
     "organizer": "Andrew Kenchington"
+  },
+  {
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-09-03T17:30:00Z",
+    "end": "2026-09-03T18:30:00Z",
+    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
   },
   {
     "id": 3455162324584765606,
@@ -160,15 +160,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
     "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
     "organizer": "Hannah Thompson"
-  },
-  {
-    "id": 3527671922367493860,
-    "title": "BCB - The Drop (10k in about 50-60 mins)",
-    "start": "2026-09-01T04:30:00Z",
-    "end": "2026-09-01T05:30:00Z",
-    "description": "BCB meeting at a different Post Office this week. Classic session to go from Post Office to the top of \"The Drop\" before enjoying approximately one mile of free fall running down to Barnard's Green roundabout. \n\nThe group will the gather and grind back up to town together.\n\nLIRF: Sim Buzzard [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3527671922367493860",
-    "location": "Great Malvern Post Office",
-    "organizer": "Sim Buzzard"
   }
 ]

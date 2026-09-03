@@ -10,16 +10,6 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3442921757788856480,
-    "title": "***League event*** Worcestershire Beacon Race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "Placeholder - time and entry details TBC",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
-    "location": "Malvern, Worcestershire, England, United Kingdom",
-    "organizer": "Sarah Reeves"
-  },
-  {
     "id": 3517998598683482380,
     "title": "***League event***Beacon race",
     "start": "2026-10-10T13:00:00Z",
@@ -27,6 +17,16 @@
     "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
     "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3442921757788856480,
+    "title": "***League event*** Worcestershire Beacon Race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "Placeholder - time and entry details TBC",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
+    "location": "Malvern, Worcestershire, England, United Kingdom",
     "organizer": "Sarah Reeves"
   },
   {
@@ -68,6 +68,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442920695470660898",
     "location": "Worcester, Worcestershire, England, United Kingdom",
     "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-09-10T17:30:00Z",
+    "end": "2026-09-10T18:30:00Z",
+    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
   },
   {
     "id": 3455162324584765606,
@@ -140,25 +150,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3445052171608238340",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Hannah Thompson"
-  },
-  {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-09-03T17:30:00Z",
-    "end": "2026-09-03T18:30:00Z",
-    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
-  },
-  {
-    "id": 3529191275560506194,
-    "title": "5-10km speed improvement ",
-    "start": "2026-09-03T17:30:00Z",
-    "end": "2026-09-03T18:30:00Z",
-    "description": "Meet by cafe. We'll do a warm up with stretching and drills. Then take on an up  the clock session - repeated efforts around a loop increasing distance and donebin sets. All explained and done on same loop and to own effort level. All welcome. Total distance run 5-6km. We'll finish with cool down and stretches so all done by 7.30pm. Andy Kenchington [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3529191275560506194",
-    "location": "Victoria Park",
-    "organizer": "Andrew Kenchington"
   }
 ]

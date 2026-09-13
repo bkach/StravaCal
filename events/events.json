@@ -60,16 +60,6 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3517998598683482380,
-    "title": "***League event***Beacon race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
-    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Sarah Reeves"
-  },
-  {
     "id": 3442921757788856480,
     "title": "***League event*** Worcestershire Beacon Race",
     "start": "2026-10-10T13:00:00Z",
@@ -77,6 +67,16 @@
     "description": "Placeholder - time and entry details TBC",
     "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
     "location": "Malvern, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3517998598683482380,
+    "title": "***League event***Beacon race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
+    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Sarah Reeves"
   },
   {
@@ -229,15 +229,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
     "location": "Priory Park, Malvern, England, United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3442920695470660898,
-    "title": "***League event*** Worcester City 10k \u0026 half marathon",
-    "start": "2026-09-13T08:15:00Z",
-    "end": "2026-09-13T09:15:00Z",
-    "description": "The Worcester City 10K and Half Marathon will set off on Sunday morning, alongside the popular Junior run. Come and be part of 5000 runners taking part across the weekend!\n\nAll participants will receive a official race timing, a medal and goody bag. There is ample city centre parking, baggage services and plenty of fun activities for those not taking part\n\nFull details and entry:\nworcestercityrun(dot)com",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442920695470660898",
-    "location": "Worcester, Worcestershire, England, United Kingdom",
-    "organizer": "Sarah Reeves"
   }
 ]

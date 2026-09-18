@@ -23,43 +23,21 @@ TZNAME:GMT
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3486320846511681912@strava.com
-DTSTART;TZID=Europe/London:20260918T093000
-DTEND;TZID=Europe/London:20260918T103000
-DTSTAMP:20260918T061633Z
-SUMMARY:5 on Friday : Malvern
-DESCRIPTION:Leader: Julie Slack\n\nBack to Waitrose! \n\nIt’s helpful if 
- runners click in by 8:30 am then I know whether to drive over or not! \n\nG
- entle run with walks uphill as required. \n40-45 minutes \nTrail shoes. \n\
- nPossibly carry water too! \n\nLiRF: Julie S [Phone Number Redacted]\n\nVie
- w on Strava: https://www.strava.com/clubs/208705/group_events/3486320846511
- 681912\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 7:16 AM
-X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackBack to Waitrose! It’s he
- lpful if runners click in by 8:30 am then I know whether to drive over or n
- ot! Gentle run with walks uphill as required. 40-45 minutes Trail shoes. Po
- ssibly carry water too! LiRF: Julie S [Phone Number Redacted]View on Strava
- : https://www.strava.com/clubs/208705/group_events/3486320846511681912Synce
- d from Strava Club 208705 on: Fri\, 18 Sep @ 7:16 AM
-LOCATION:Back Lane Malvern Hills England WR14 United Kingdom
-URL:https://www.strava.com/clubs/208705/group_events/3486320846511681912
-CATEGORIES:Running,Club Event
-END:VEVENT
-BEGIN:VEVENT
 UID:1457866@strava.com
 DTSTART;TZID=Europe/London:20260920T080000
 DTEND;TZID=Europe/London:20260920T090000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Sunday Hills | Intermediate
 DESCRIPTION:Leader: Andy Dingley\nDifficulty: Intermediate\n\nThere'll be h
  ills - various routes.  10 miles / 16km. Pace between 6 & 7 min km Intermed
  iate level - [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/1457866\n\nSynced from Strava Club 208705 on 
- Fri\, 18 Sep @ 7:16 AM
+ Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyDifficulty: IntermediateTh
  ere'll be hills - various routes.  10 miles / 16km. Pace between 6 & 7 min 
  km Intermediate level - [Phone Number Redacted]View on Strava: https://www.
  strava.com/clubs/208705/group_events/1457866Synced from Strava Club 208705 
- on: Fri\, 18 Sep @ 7:16 AM
+ on: Fri\, 18 Sep @ 12:30 PM
 LOCATION:Walwyn Road\, Upper Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/1457866
 CATEGORIES:Running,Club Event
@@ -68,7 +46,7 @@ BEGIN:VEVENT
 UID:3527666368656202380@strava.com
 DTSTART;TZID=Europe/London:20260921T183000
 DTEND;TZID=Europe/London:20260921T193000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Take Flight (C25K) support
 DESCRIPTION:Leader: Sarah Fowkes\n\nPlease come and support our Take Flight
   cohort or join on here if you are returning from injury or have not run fo
@@ -76,14 +54,14 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nPlease come and support our Take Flight
  progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah 
  [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/208
  705/group_events/3527666368656202380\n\nSynced from Strava Club 208705 on F
- ri\, 18 Sep @ 7:16 AM
+ ri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesPlease come and support ou
  r Take Flight cohort or join on here if you are returning from injury or ha
  ve not run for a while and need to get back into it.We meet at the bandstan
  d and will progress over 7 weeks from run/walking to running 5k.Any questio
  ns Sarah [Phone Number Redacted]View on Strava: https://www.strava.com/club
  s/208705/group_events/3527666368656202380Synced from Strava Club 208705 on:
-  Fri\, 18 Sep @ 7:16 AM
+  Fri\, 18 Sep @ 12:30 PM
 LOCATION:Priory Park\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3527666368656202380
 CATEGORIES:Running,Club Event
@@ -92,7 +70,7 @@ BEGIN:VEVENT
 UID:3487000889107308686@strava.com
 DTSTART;TZID=Europe/London:20260922T190000
 DTEND;TZID=Europe/London:20260922T200000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Tuesday Trails
 DESCRIPTION:Leader: Julie Slack\n\nBarbara Gawlak is leading this run. \n\n
  Distance: Approximately 8km\n\nPace: Easy pace. i.e. steady run but walking
@@ -100,14 +78,14 @@ DESCRIPTION:Leader: Julie Slack\n\nBarbara Gawlak is leading this run. \n\n
   of your hydration requirements and come prepared.\n\nTrail shoes recommend
  ed.\n\nJulie\n[Phone Number Redacted]\n\n\nView on Strava: https://www.stra
  va.com/clubs/208705/group_events/3487000889107308686\n\nSynced from Strava 
- Club 208705 on Fri\, 18 Sep @ 7:16 AM
+ Club 208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackBarbara Gawlak is leading t
  his run. Distance: Approximately 8kmPace: Easy pace. i.e. steady run but wa
  lking up hills as required.Time: Approximately 1hr 15 minPlease be aware of
   your hydration requirements and come prepared.Trail shoes recommended.Juli
  e[Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208705
  /group_events/3487000889107308686Synced from Strava Club 208705 on: Fri\, 1
- 8 Sep @ 7:16 AM
+ 8 Sep @ 12:30 PM
 LOCATION:Trenython\, Jubilee Drive Malvern England WR13 6DQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3487000889107308686
 CATEGORIES:Running,Club Event
@@ -116,7 +94,7 @@ BEGIN:VEVENT
 UID:3483417980242362064@strava.com
 DTSTART;TZID=Europe/London:20260922T193000
 DTEND;TZID=Europe/London:20260922T203000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:The Sugar Rush
 DESCRIPTION:Leader: Robyn Hall\n\nFREE CAKE....\nGot your attention?? 😬 
  \n\nA run from the Foresters arms\, returning back to there where we will e
@@ -124,14 +102,14 @@ DESCRIPTION:Leader: Robyn Hall\n\nFREE CAKE....\nGot your attention?? 😬
   but approximately 5k. Setting off at 19:30\, always aiming to arrive for o
  ur Sugar Rush between 20:00 & 20:15\n\nLirf: Robyn [Phone Number Redacted]\
  n\nView on Strava: https://www.strava.com/clubs/208705/group_events/3483417
- 980242362064\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 7:16 AM
+ 980242362064\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallFREE CAKE....Got your attent
  ion?? 😬 A run from the Foresters arms\, returning back to there where we
   will enjoy a well earned treat. Routes and distance will vary slightly wee
  kly but approximately 5k. Setting off at 19:30\, always aiming to arrive fo
  r our Sugar Rush between 20:00 & 20:15Lirf: Robyn [Phone Number Redacted]Vi
  ew on Strava: https://www.strava.com/clubs/208705/group_events/348341798024
- 2362064Synced from Strava Club 208705 on: Fri\, 18 Sep @ 7:16 AM
+ 2362064Synced from Strava Club 208705 on: Fri\, 18 Sep @ 12:30 PM
 LOCATION:The Foresters Arms
 URL:https://www.strava.com/clubs/208705/group_events/3483417980242362064
 CATEGORIES:Running,Club Event
@@ -140,20 +118,20 @@ BEGIN:VEVENT
 UID:3529775374293109776@strava.com
 DTSTART;TZID=Europe/London:20260923T093000
 DTEND;TZID=Europe/London:20260923T103000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Vale of Ewyas circuit - 17km in about 3 hours ISH (Buzzard Day out)
 DESCRIPTION:Leader: Sim Buzzard\n\nVale of Ewyas circuit. 17k Black Mountai
  ns run. Walking steep climbs we will probably do this in about 3-3.5 hours.
  \n\nFollowed by lunch then head back to Malvern.\n\nLIRF: Sim Buzzard [Phon
  e Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/g
  roup_events/3529775374293109776\n\nSynced from Strava Club 208705 on Fri\, 
- 18 Sep @ 7:16 AM
+ 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardVale of Ewyas circuit. 17k 
  Black Mountains run. Walking steep climbs we will probably do this in about
   3-3.5 hours.Followed by lunch then head back to Malvern.LIRF: Sim Buzzard 
  [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208705/
  group_events/3529775374293109776Synced from Strava Club 208705 on: Fri\, 18
-  Sep @ 7:16 AM
+  Sep @ 12:30 PM
 LOCATION:Priordy Llanddewi Nant Hodni
 URL:https://www.strava.com/clubs/208705/group_events/3529775374293109776
 CATEGORIES:Running,Club Event
@@ -162,20 +140,20 @@ BEGIN:VEVENT
 UID:3455162324584765606@strava.com
 DTSTART;TZID=Europe/London:20260923T183000
 DTEND;TZID=Europe/London:20260923T193000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Round The Ramparts
 DESCRIPTION:Leader: Andy Dingley\n\nStarting at Wyhe Cutting Bus Stop.  Thi
  s is an 11km run along to British Camp and around the ramparts.  Headtorch 
  required.  All trail - so trail shoes preferable especially in wet conditio
  ns. 6:30 - 7:15 mins per km roughly\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3455162324584765606\n\nSynced from Strava Club
-  208705 on Fri\, 18 Sep @ 7:16 AM
+  208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyStarting at Wyhe Cutting B
  us Stop.  This is an 11km run along to British Camp and around the ramparts
  .  Headtorch required.  All trail - so trail shoes preferable especially in
   wet conditions. 6:30 - 7:15 mins per km roughlyView on Strava: https://www
  .strava.com/clubs/208705/group_events/3455162324584765606Synced from Strava
-  Club 208705 on: Fri\, 18 Sep @ 7:16 AM
+  Club 208705 on: Fri\, 18 Sep @ 12:30 PM
 LOCATION:Trenython\, Jubilee Drive Malvern England WR13 6DQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3455162324584765606
 CATEGORIES:Running,Club Event
@@ -184,27 +162,78 @@ BEGIN:VEVENT
 UID:3442919329882560672@strava.com
 DTSTART;TZID=Europe/London:20260924T183000
 DTEND;TZID=Europe/London:20260924T193000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Thursday Hills
 DESCRIPTION:Leader: Lily Price\n\nThursday Hills \n7/8km in 55/1:05 mins\n3
  0:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting 
  bus stop \n\nView on Strava: https://www.strava.com/clubs/208705/group_even
  ts/3442919329882560672\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 
- 7:16 AM
+ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceThursday Hills 7/8km in 55/1
  :05 mins30:30 run:walk hills Route changes weekly Always start at wyche cut
  ting bus stop View on Strava: https://www.strava.com/clubs/208705/group_eve
- nts/3442919329882560672Synced from Strava Club 208705 on: Fri\, 18 Sep @ 7:
- 16 AM
+ nts/3442919329882560672Synced from Strava Club 208705 on: Fri\, 18 Sep @ 12
+ :30 PM
 LOCATION:Walwyn Road\, Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442919329882560672
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3445052171608238340@strava.com
+DTSTART;TZID=Europe/London:20260925T063000
+DTEND;TZID=Europe/London:20260925T073000
+DTSTAMP:20260918T113050Z
+SUMMARY:Rise & Run
+DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nWeekly run of appr
+ oximately 5km on the hills to start your day.\n\n🏃‍♀️‍➡️ Pac
+ e: We will average between 8-9min/km overall. Running the flats/downs\, and
+  walking or jeffing the ups.\n\n📏 Distance: 5km\n\n⏱️ Time: ~45-60 m
+ inutes\n\n📍 Meeting point: The Buzzards in Rosebank Gardens\n\n🔦 Torc
+ hes: As we head into the winter months please remember a head torch.\n\nPle
+ ase remember to click out if you can no longer make it.\n\nHannah\n[Phone N
+ umber Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/grou
+ p_events/3445052171608238340\n\nSynced from Strava Club 208705 on Fri\, 18 
+ Sep @ 12:30 PM
+X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Weekly ru
+ n of approximately 5km on the hills to start your day.🏃‍♀️‍➡�
+ � Pace: We will average between 8-9min/km overall. Running the flats/downs\
+ , and walking or jeffing the ups.📏 Distance: 5km⏱️ Time: ~45-60 minu
+ tes📍 Meeting point: The Buzzards in Rosebank Gardens🔦 Torches: As we 
+ head into the winter months please remember a head torch.Please remember to
+  click out if you can no longer make it.Hannah[Phone Number Redacted]View o
+ n Strava: https://www.strava.com/clubs/208705/group_events/3445052171608238
+ 340Synced from Strava Club 208705 on: Fri\, 18 Sep @ 12:30 PM
+LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
+URL:https://www.strava.com/clubs/208705/group_events/3445052171608238340
+CATEGORIES:Running,Club Event
+END:VEVENT
+BEGIN:VEVENT
+UID:3486320846511681912@strava.com
+DTSTART;TZID=Europe/London:20260925T093000
+DTEND;TZID=Europe/London:20260925T103000
+DTSTAMP:20260918T113050Z
+SUMMARY:5 on Friday : Malvern
+DESCRIPTION:Leader: Julie Slack\n\nBack to Waitrose! \n\nIt’s helpful if 
+ runners click in by 8:30 am then I know whether to drive over or not! \n\nG
+ entle run with walks uphill as required. \n40-45 minutes \nTrail shoes. \n\
+ nPossibly carry water too! \n\nLiRF: Julie S [Phone Number Redacted]\n\nVie
+ w on Strava: https://www.strava.com/clubs/208705/group_events/3486320846511
+ 681912\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 12:30 PM
+X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackBack to Waitrose! It’s he
+ lpful if runners click in by 8:30 am then I know whether to drive over or n
+ ot! Gentle run with walks uphill as required. 40-45 minutes Trail shoes. Po
+ ssibly carry water too! LiRF: Julie S [Phone Number Redacted]View on Strava
+ : https://www.strava.com/clubs/208705/group_events/3486320846511681912Synce
+ d from Strava Club 208705 on: Fri\, 18 Sep @ 12:30 PM
+LOCATION:Back Lane Malvern Hills England WR14 United Kingdom
+URL:https://www.strava.com/clubs/208705/group_events/3486320846511681912
 CATEGORIES:Running,Club Event
 END:VEVENT
 BEGIN:VEVENT
 UID:3525915620537703984@strava.com
 DTSTART;TZID=Europe/London:20260926T090000
 DTEND;TZID=Europe/London:20260926T100000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Saturday Expedition 
 DESCRIPTION:Leader: Julie Slack\n\nNot too long and not too far away! \n\nA
  n opportunity to explore some of the countryside around Ledbury. Time to ta
@@ -214,7 +243,7 @@ DESCRIPTION:Leader: Julie Slack\n\nNot too long and not too far away! \n\nA
  equire for en route. \n\nAny questions please message me. \n\nLiRF: Julie S
  lack [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/club
  s/208705/group_events/3525915620537703984\n\nSynced from Strava Club 208705
-  on Fri\, 18 Sep @ 7:16 AM
+  on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackNot too long and not too fa
  r away! An opportunity to explore some of the countryside around Ledbury. T
  ime to take photos and enjoy the views.If you are a regular runner of 10k o
@@ -223,7 +252,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackNot too long and not too fa
  require for en route. Any questions please message me. LiRF: Julie Slack [P
  hone Number Redacted]View on Strava: https://www.strava.com/clubs/208705/gr
  oup_events/3525915620537703984Synced from Strava Club 208705 on: Fri\, 18 S
- ep @ 7:16 AM
+ ep @ 12:30 PM
 LOCATION:Ledbury War memorial\, Ledbury\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3525915620537703984
 CATEGORIES:Running,Club Event
@@ -232,7 +261,7 @@ BEGIN:VEVENT
 UID:3533532757683855042@strava.com
 DTSTART;TZID=Europe/London:20261004T110000
 DTEND;TZID=Europe/London:20261004T120000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Winter XC Race 1: Abbey Dore
 DESCRIPTION:Leader: Andrew Elwood\n\nFirst race of the 2026/27 winter XC le
  ague hosted by Hay Hotfooters in Abbey Dore. \n\nThe race is ~10 km (6miles
@@ -240,14 +269,14 @@ DESCRIPTION:Leader: Andrew Elwood\n\nFirst race of the 2026/27 winter XC le
  ial set of races. \n\nPlease click in if you intend to race\, and enter on 
  Entry Central.\n\nAndrew\n[Phone Number Redacted]\n\nView on Strava: https:
  //www.strava.com/clubs/208705/group_events/3533532757683855042\n\nSynced fr
- om Strava Club 208705 on Fri\, 18 Sep @ 7:16 AM
+ om Strava Club 208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodFirst race of the 2026/27
   winter XC league hosted by Hay Hotfooters in Abbey Dore. The race is ~10 k
  m (6miles) on varying trails / mud. The series promises to provide a really
   good social set of races. Please click in if you intend to race\, and ente
  r on Entry Central.Andrew[Phone Number Redacted]View on Strava: https://www
  .strava.com/clubs/208705/group_events/3533532757683855042Synced from Strava
-  Club 208705 on: Fri\, 18 Sep @ 7:16 AM
+  Club 208705 on: Fri\, 18 Sep @ 12:30 PM
 LOCATION:Abbey Dore Village Hall\, Abbey Dore\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3533532757683855042
 CATEGORIES:Running,Club Event
@@ -256,15 +285,15 @@ BEGIN:VEVENT
 UID:3442921757788856480@strava.com
 DTSTART;TZID=Europe/London:20261010T140000
 DTEND;TZID=Europe/London:20261010T150000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:***League event*** Worcestershire Beacon Race
 DESCRIPTION:Leader: Sarah Reeves\n\nPlaceholder - time and entry details TB
  C\n\nView on Strava: https://www.strava.com/clubs/208705/group_events/34429
- 21757788856480\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 7:16 AM
+ 21757788856480\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesPlaceholder - time and ent
  ry details TBCView on Strava: https://www.strava.com/clubs/208705/group_eve
- nts/3442921757788856480Synced from Strava Club 208705 on: Fri\, 18 Sep @ 7:
- 16 AM
+ nts/3442921757788856480Synced from Strava Club 208705 on: Fri\, 18 Sep @ 12
+ :30 PM
 LOCATION:Malvern\, Worcestershire\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442921757788856480
 CATEGORIES:Running,Club Event
@@ -273,18 +302,18 @@ BEGIN:VEVENT
 UID:3517998598683482380@strava.com
 DTSTART;TZID=Europe/London:20261010T140000
 DTEND;TZID=Europe/London:20261010T150000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:***League event***Beacon race
 DESCRIPTION:Leader: Sarah Reeves\n\nI don’t think this one requires a des
  cription- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x
  /2026/GBR/beaconrace/\n\nView on Strava: https://www.strava.com/clubs/20870
  5/group_events/3517998598683482380\n\nSynced from Strava Club 208705 on Fri
- \, 18 Sep @ 7:16 AM
+ \, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesI don’t think this one r
  equires a description- only 250 places- go buzzards 🦅data(dot)opentrack(
  dot)run/x/2026/GBR/beaconrace/View on Strava: https://www.strava.com/clubs/
  208705/group_events/3517998598683482380Synced from Strava Club 208705 on: F
- ri\, 18 Sep @ 7:16 AM
+ ri\, 18 Sep @ 12:30 PM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3517998598683482380
 CATEGORIES:Running,Club Event
@@ -293,7 +322,7 @@ BEGIN:VEVENT
 UID:3532872094451799930@strava.com
 DTSTART;TZID=Europe/London:20261011T090000
 DTEND;TZID=Europe/London:20261011T100000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Club photo at the Buzzards 📸 🦅🦅 ( NOT A RUN)
 DESCRIPTION:Leader: Sim Buzzard\n\nThe CLUB PHOTO at the Buzzards in Roseba
  nk Gardens returns after last one was cancelled due to bad weather.\n\nPhot
@@ -307,7 +336,7 @@ DESCRIPTION:Leader: Sim Buzzard\n\nThe CLUB PHOTO at the Buzzards in Roseba
  the photoshoot. 📸 \n\nLook forward to seeing you there.\n\nSim Buzzard \
  nClub Chair\n\n[Phone Number Redacted]\n\n\n\nView on Strava: https://www.s
  trava.com/clubs/208705/group_events/3532872094451799930\n\nSynced from Stra
- va Club 208705 on Fri\, 18 Sep @ 7:16 AM
+ va Club 208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardThe CLUB PHOTO at the Buzza
  rds in Rosebank Gardens returns after last one was cancelled due to bad wea
  ther.Photos at the Buzzards and the Malvern sign will be taken. If you have
@@ -319,8 +348,8 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sim BuzzardThe CLUB PHOTO at the Buzza
  squad will offer you a delectable smorgasbord of tasty runs after the photo
  shoot. 📸 Look forward to seeing you there.Sim Buzzard Club Chair[Phone N
  umber Redacted]View on Strava: https://www.strava.com/clubs/208705/group_ev
- ents/3532872094451799930Synced from Strava Club 208705 on: Fri\, 18 Sep @ 7
- :16 AM
+ ents/3532872094451799930Synced from Strava Club 208705 on: Fri\, 18 Sep @ 1
+ 2:30 PM
 LOCATION:Rosebank Gardens
 URL:https://www.strava.com/clubs/208705/group_events/3532872094451799930
 CATEGORIES:Running,Club Event
@@ -329,20 +358,20 @@ BEGIN:VEVENT
 UID:3530487221752159600@strava.com
 DTSTART;TZID=Europe/London:20261107T113000
 DTEND;TZID=Europe/London:20261107T123000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:The Long Mynd - 10 miles in about 3 hours
 DESCRIPTION:Leader: Sim Buzzard\n\n10 miles trail run following the Nationa
  l Trust footpath route. Led by Sim and Wesley.\n\nEstimated time about thre
  e hours. It is hilly getting up on the top and coming down but runnable whe
  n you are up there.\n\nLiRF: Sim Buzzard [Phone Number Redacted]\n\n\n\nVie
  w on Strava: https://www.strava.com/clubs/208705/group_events/3530487221752
- 159600\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 7:16 AM
+ 159600\n\nSynced from Strava Club 208705 on Fri\, 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim Buzzard10 miles trail run followin
  g the National Trust footpath route. Led by Sim and Wesley.Estimated time a
  bout three hours. It is hilly getting up on the top and coming down but run
  nable when you are up there.LiRF: Sim Buzzard [Phone Number Redacted]View o
  n Strava: https://www.strava.com/clubs/208705/group_events/3530487221752159
- 600Synced from Strava Club 208705 on: Fri\, 18 Sep @ 7:16 AM
+ 600Synced from Strava Club 208705 on: Fri\, 18 Sep @ 12:30 PM
 LOCATION:Church Stretton
 URL:https://www.strava.com/clubs/208705/group_events/3530487221752159600
 CATEGORIES:Running,Club Event
@@ -351,7 +380,7 @@ BEGIN:VEVENT
 UID:3533533259453500902@strava.com
 DTSTART;TZID=Europe/London:20261108T110000
 DTEND;TZID=Europe/London:20261108T120000
-DTSTAMP:20260918T061633Z
+DTSTAMP:20260918T113050Z
 SUMMARY:Winter XC Race 2: Croft Castle
 DESCRIPTION:Leader: Andrew Elwood\n\nSecond race of the 2026/27 winter XC l
  eague hosted by Croft Ambrey RC in Croft Castle. \n\nThe race is ~10 km (6m
@@ -360,7 +389,7 @@ DESCRIPTION:Leader: Andrew Elwood\n\nSecond race of the 2026/27 winter XC l
   on Entry Central. See the whatsapp post for more details.\n\nAndrew\n[Phon
  e Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/g
  roup_events/3533533259453500902\n\nSynced from Strava Club 208705 on Fri\, 
- 18 Sep @ 7:16 AM
+ 18 Sep @ 12:30 PM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodSecond race of the 2026/2
  7 winter XC league hosted by Croft Ambrey RC in Croft Castle. The race is ~
  10 km (6miles) on varying trails / mud. The series promises to provide a re
@@ -368,7 +397,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodSecond race of the 2026/2
  enter on Entry Central. See the whatsapp post for more details.Andrew[Phone
   Number Redacted]View on Strava: https://www.strava.com/clubs/208705/group_
  events/3533533259453500902Synced from Strava Club 208705 on: Fri\, 18 Sep @
-  7:16 AM
+  12:30 PM
 LOCATION:Croft Castle\, Croft and Yarpole\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3533533259453500902
 CATEGORIES:Running,Club Event

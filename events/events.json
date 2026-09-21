@@ -100,6 +100,16 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 3527666368656202380,
+    "title": "Take Flight (C25K) support",
+    "start": "2026-09-28T17:30:00Z",
+    "end": "2026-09-28T18:30:00Z",
+    "description": "Please come and support our Take Flight cohort or join on here if you are returning from injury or have not run for a while and need to get back into it.\nWe meet at the bandstand and will progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
+    "location": "Priory Park, Malvern, England, United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
     "id": 1457866,
     "title": "Sunday Hills",
     "start": "2026-09-27T07:00:00Z",
@@ -141,16 +151,6 @@
     "organizer": "Hannah Thompson"
   },
   {
-    "id": 3536660502430781808,
-    "title": "Thirsty Thursday 10k: The Nag's Head",
-    "start": "2026-09-24T18:00:00Z",
-    "end": "2026-09-24T19:00:00Z",
-    "description": "This is the 10k Thirsty Thursday group which will go from the Nag's head this week. \n\nThis will be a steady, social run covering 10km in 55-60mins. We will be on roads this week due to it getting dark. Please bring hi-viz and headtorch. \n\nDistance: 10km\nTime: 55-60mins\nPace: 5:30-6:00/km\nTerrain: Road\n\nAndrew Elwood\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3536660502430781808",
-    "location": "The Nag's Head",
-    "organizer": "Andrew Elwood"
-  },
-  {
     "id": 3536665949261471450,
     "title": "Thirsty Thursday 5k",
     "start": "2026-09-24T18:00:00Z",
@@ -159,6 +159,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3536665949261471450",
     "location": "The Nag's Head",
     "organizer": "Robyn Hall"
+  },
+  {
+    "id": 3536660502430781808,
+    "title": "Thirsty Thursday 10k: The Nag's Head",
+    "start": "2026-09-24T18:00:00Z",
+    "end": "2026-09-24T19:00:00Z",
+    "description": "This is the 10k Thirsty Thursday group which will go from the Nag's head this week. \n\nThis will be a steady, social run covering 10km in 55-60mins. We will be on roads this week due to it getting dark. Please bring hi-viz and headtorch. \n\nDistance: 10km\nTime: 55-60mins\nPace: 5:30-6:00/km\nTerrain: Road\n\nAndrew Elwood\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3536660502430781808",
+    "location": "The Nag's Head",
+    "organizer": "Andrew Elwood"
   },
   {
     "id": 3442919329882560672,
@@ -229,15 +239,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3537018886145747154",
     "location": "Somers Park Methodist Church",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3527666368656202380,
-    "title": "Take Flight (C25K) support",
-    "start": "2026-09-21T17:30:00Z",
-    "end": "2026-09-21T18:30:00Z",
-    "description": "Please come and support our Take Flight cohort or join on here if you are returning from injury or have not run for a while and need to get back into it.\nWe meet at the bandstand and will progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
-    "location": "Priory Park, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
   }
 ]

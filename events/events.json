@@ -120,6 +120,16 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-09-30T17:30:00Z",
+    "end": "2026-09-30T18:30:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3483417980242362064,
     "title": "The Sugar Rush",
     "start": "2026-09-29T18:30:00Z",
@@ -201,16 +211,6 @@
     "organizer": "Andrew Elwood"
   },
   {
-    "id": 3536087259230630284,
-    "title": "Focus on pace and technique ",
-    "start": "2026-09-24T17:30:00Z",
-    "end": "2026-09-24T18:30:00Z",
-    "description": "Meet by cafe. After warm up, there will be stretches and drills focusing on technique followed by an interval session on a loop so everyone working together but at own effort pace - regrouping at intervals. Finished off with a cool down jog and stretches to finish by 7.30pm. Total distance 5-6km all on grass. Andy K [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3536087259230630284",
-    "location": "Victoria Park",
-    "organizer": "Andrew Kenchington"
-  },
-  {
     "id": 3442919329882560672,
     "title": "Thursday Hills",
     "start": "2026-09-24T17:30:00Z",
@@ -221,13 +221,13 @@
     "organizer": "Lily Price"
   },
   {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-09-23T17:30:00Z",
-    "end": "2026-09-23T18:30:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
+    "id": 3536087259230630284,
+    "title": "Focus on pace and technique ",
+    "start": "2026-09-24T17:30:00Z",
+    "end": "2026-09-24T18:30:00Z",
+    "description": "Meet by cafe. After warm up, there will be stretches and drills focusing on technique followed by an interval session on a loop so everyone working together but at own effort pace - regrouping at intervals. Finished off with a cool down jog and stretches to finish by 7.30pm. Total distance 5-6km all on grass. Andy K [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3536087259230630284",
+    "location": "Victoria Park",
+    "organizer": "Andrew Kenchington"
   }
 ]

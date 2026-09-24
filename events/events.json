@@ -60,16 +60,6 @@
     "organizer": "Sarah Reeves"
   },
   {
-    "id": 3537413826615399858,
-    "title": "London Marathon rejects - not a run",
-    "start": "2026-10-11T08:00:00Z",
-    "end": "2026-10-11T09:00:00Z",
-    "description": "Please click into here if you have a reject email and you wish to be entered into the draw.\nIf lucky, you will have to show your ‘reject’ email from TCS. You MUST click in by midnight on 8th October. \nPlease also click into the photo if attending.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3537413826615399858",
-    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
     "id": 3532872094451799930,
     "title": "Club photo at the Buzzards 📸 🦅🦅 ( NOT A RUN)",
     "start": "2026-10-11T08:00:00Z",
@@ -80,14 +70,14 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3517998598683482380,
-    "title": "***League event***Beacon race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
-    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Sarah Reeves"
+    "id": 3537413826615399858,
+    "title": "London Marathon rejects - not a run",
+    "start": "2026-10-11T08:00:00Z",
+    "end": "2026-10-11T09:00:00Z",
+    "description": "Please click into here if you have a reject email and you wish to be entered into the draw.\nIf lucky, you will have to show your ‘reject’ email from TCS. You MUST click in by midnight on 8th October. \nPlease also click into the photo if attending.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3537413826615399858",
+    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
+    "organizer": "Sarah Fowkes"
   },
   {
     "id": 3442921757788856480,
@@ -97,6 +87,16 @@
     "description": "Placeholder - time and entry details TBC",
     "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
     "location": "Malvern, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3517998598683482380,
+    "title": "***League event***Beacon race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
+    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Sarah Reeves"
   },
   {
@@ -118,6 +118,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
     "location": "Back Lane Malvern Hills England WR14 United Kingdom",
     "organizer": "Julie Slack"
+  },
+  {
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-10-01T17:30:00Z",
+    "end": "2026-10-01T18:30:00Z",
+    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
   },
   {
     "id": 3455162324584765606,
@@ -189,35 +199,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3445052171608238340",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Hannah Thompson"
-  },
-  {
-    "id": 3536665949261471450,
-    "title": "Thirsty Thursday 5k",
-    "start": "2026-09-24T18:00:00Z",
-    "end": "2026-09-24T19:00:00Z",
-    "description": "Thirsty Thursday 5k from and to The Nags Head, Malvern. \n\n5k in approximately 35-40 minutes. \nChatty social run, no one left behind. \n\nLirf: Robyn \n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3536665949261471450",
-    "location": "The Nag's Head",
-    "organizer": "Robyn Hall"
-  },
-  {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-09-24T17:30:00Z",
-    "end": "2026-09-24T18:30:00Z",
-    "description": "Thursday Hills \n7/8km in 55/1:05 mins\n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
-  },
-  {
-    "id": 3536087259230630284,
-    "title": "Focus on pace and technique ",
-    "start": "2026-09-24T17:30:00Z",
-    "end": "2026-09-24T18:30:00Z",
-    "description": "Meet by cafe. After warm up, there will be stretches and drills focusing on technique followed by an interval session on a loop so everyone working together but at own effort pace - regrouping at intervals. Finished off with a cool down jog and stretches to finish by 7.30pm. Total distance 5-6km all on grass. Andy K [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3536087259230630284",
-    "location": "Victoria Park",
-    "organizer": "Andrew Kenchington"
   }
 ]

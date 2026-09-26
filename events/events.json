@@ -60,16 +60,6 @@
     "organizer": "Sarah Reeves"
   },
   {
-    "id": 3537413826615399858,
-    "title": "London Marathon rejects - not a run",
-    "start": "2026-10-11T08:00:00Z",
-    "end": "2026-10-11T09:00:00Z",
-    "description": "Please click into here if you have a reject email and you wish to be entered into the draw.\nIf lucky, you will have to show your ‘reject’ email from TCS. You MUST click in by midnight on 8th October. \nPlease also click into the photo if attending.",
-    "url": "https://www.strava.com/clubs/208705/group_events/3537413826615399858",
-    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
     "id": 3532872094451799930,
     "title": "Club photo at the Buzzards 📸 🦅🦅 ( NOT A RUN)",
     "start": "2026-10-11T08:00:00Z",
@@ -78,6 +68,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3532872094451799930",
     "location": "Rosebank Gardens",
     "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3537413826615399858,
+    "title": "London Marathon rejects - not a run",
+    "start": "2026-10-11T08:00:00Z",
+    "end": "2026-10-11T09:00:00Z",
+    "description": "Please click into here if you have a reject email and you wish to be entered into the draw.\nIf lucky, you will have to show your ‘reject’ email from TCS. You MUST click in by midnight on 8th October. \nPlease also click into the photo if attending.",
+    "url": "https://www.strava.com/clubs/208705/group_events/3537413826615399858",
+    "location": "Rosebank Gardens, Malvern, England, United Kingdom",
+    "organizer": "Sarah Fowkes"
   },
   {
     "id": 3442921757788856480,
@@ -199,15 +199,5 @@
     "location": "Walwyn Road, Upper Colwall Malvern England WR13 United Kingdom",
     "organizer": "Andy Dingley",
     "skill_levels": 2
-  },
-  {
-    "id": 3525915620537703984,
-    "title": "Saturday Expedition ",
-    "start": "2026-09-26T08:00:00Z",
-    "end": "2026-09-26T09:00:00Z",
-    "description": "Not too long and not too far away! \n\nAn opportunity to explore some of the countryside around Ledbury. Time to take photos and enjoy the views.\n\nIf you are a regular runner of 10k or further this Herefordshire outing will be suitable. It's a social morning out with refreshments to conclude. \n\nCarry any water and provisions you may require for en route. \n\nAny questions please message me. \n\nLiRF: Julie Slack [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3525915620537703984",
-    "location": "Ledbury War memorial, Ledbury, England, United Kingdom",
-    "organizer": "Julie Slack"
   }
 ]

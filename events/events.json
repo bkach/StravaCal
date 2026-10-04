@@ -60,6 +60,36 @@
     "organizer": "Sarah Reeves"
   },
   {
+    "id": 3541713369926649856,
+    "title": "Take Flight Graduation *League Event*",
+    "start": "2026-10-31T09:00:00Z",
+    "end": "2026-10-31T10:00:00Z",
+    "description": "Come and support the Take Fight fledglings as the graduate at Worcester Woods Parkeun.\nYou will be running around with TF cohort for league points. \nAs it is Halloween, there will be extra points for costumes!\nThere will also be cake!\nSarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3541713369926649856",
+    "location": "Worcester, England, United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
+    "id": 3541737853395164308,
+    "title": "Buzzard Day Beacon (Sun)RISE \u0026 RUN™ edition (5k in about 50 mins)",
+    "start": "2026-10-16T06:00:00Z",
+    "end": "2026-10-16T07:00:00Z",
+    "description": "To celebrate our 9th birthday I will be leading a special edition of Rise and Run to be at the Beacon for 07:34 for the sunrise ☀️. \n\n5k in about 45-50 mins. Walking steep ups.\n\nIf you want to meet us at the top for the photo you are very welcome 🤗. \n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3541737853395164308",
+    "location": "Rosebank Gardens",
+    "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3541738794533081686,
+    "title": "BCB - Colwall - \"Tails\" of ribaldry 10k in 55 mins",
+    "start": "2026-10-13T04:30:00Z",
+    "end": "2026-10-13T05:30:00Z",
+    "description": "Flat 10k around Colwall. Head torch 🔦 and high Viz essential.\n\nYou also need a joke.\n\nTails optional.\n\nAbout 50 mins. \n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3541738794533081686",
+    "location": "Colwall Village Hall",
+    "organizer": "Sim Buzzard"
+  },
+  {
     "id": 3541526777235109704,
     "title": "Post Club photo hills run",
     "start": "2026-10-11T08:20:00Z",
@@ -90,14 +120,15 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3517998598683482380,
-    "title": "***League event***Beacon race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
-    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Sarah Reeves"
+    "id": 1457866,
+    "title": "Sunday Hills - New Start Location - Corner of Peachfield Rd / St Andrews Rd",
+    "start": "2026-10-11T07:00:00Z",
+    "end": "2026-10-11T08:00:00Z",
+    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
+    "location": "Malvern Hills, England, United Kingdom",
+    "organizer": "Andy Dingley",
+    "skill_levels": 2
   },
   {
     "id": 3442921757788856480,
@@ -107,6 +138,16 @@
     "description": "Placeholder - time and entry details TBC",
     "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
     "location": "Malvern, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
+  },
+  {
+    "id": 3517998598683482380,
+    "title": "***League event***Beacon race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "I don’t think this one requires a description- only 250 places- go buzzards 🦅\n\ndata(dot)opentrack(dot)run/x/2026/GBR/beaconrace/",
+    "url": "https://www.strava.com/clubs/208705/group_events/3517998598683482380",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Sarah Reeves"
   },
   {
@@ -160,6 +201,16 @@
     "organizer": "Andy Dingley"
   },
   {
+    "id": 3541730581872460948,
+    "title": "Hills and speed loops",
+    "start": "2026-10-07T17:30:00Z",
+    "end": "2026-10-07T18:30:00Z",
+    "description": "Meet by railway bridge in Thirlstane Road opposite College car park. We'll do a warm up jog 1-2km across to Doppler Road development. Then after some drills we will do hill reps followed by a few flat loop efforts. Ideal prep for XC or Beacon race! All on a loop so everyone runs at own effort level and regrouping. Finish with cool down stretches and jog back to Thirlstane to finish by 7.30pm. Approx.6-7km. Andy K [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3541730581872460948",
+    "location": "Thirlstane Road",
+    "organizer": "Andrew Kenchington"
+  },
+  {
     "id": 3483417980242362064,
     "title": "The Sugar Rush",
     "start": "2026-10-06T18:30:00Z",
@@ -198,26 +249,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
     "location": "Priory Park, Malvern, England, United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3533532757683855042,
-    "title": "Winter XC Race 1: Abbey Dore",
-    "start": "2026-10-04T10:00:00Z",
-    "end": "2026-10-04T11:00:00Z",
-    "description": "First race of the 2026/27 winter XC league hosted by Hay Hotfooters in Abbey Dore. \n\nThe race is ~10 km (6miles) on varying trails / mud. The series promises to provide a really good social set of races. \n\nPlease click in if you intend to race, and enter on Entry Central.\n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3533532757683855042",
-    "location": "Abbey Dore Village Hall, Abbey Dore, England, United Kingdom",
-    "organizer": "Andrew Elwood"
-  },
-  {
-    "id": 1457866,
-    "title": "Sunday Hills - New Start Location - Corner of Peachfield Rd / St Andrews Rd",
-    "start": "2026-10-04T07:00:00Z",
-    "end": "2026-10-04T08:00:00Z",
-    "description": "There'll be hills - various routes.  10 miles / 16km. Pace between 6 \u0026 7 min km Intermediate level - [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/1457866",
-    "location": "Malvern Hills, England, United Kingdom",
-    "organizer": "Andy Dingley",
-    "skill_levels": 2
   }
 ]

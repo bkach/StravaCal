@@ -100,6 +100,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3445052171608238340,
+    "title": "Rise \u0026 Run",
+    "start": "2026-10-16T05:30:00Z",
+    "end": "2026-10-16T06:30:00Z",
+    "description": "**Rise \u0026 Run**\n\nWeekly run of approximately 5km on the hills to start your day.\n\n🏃‍♀️‍➡️ Pace: We will average between 8-9min/km overall. Running the flats/downs, and walking or jeffing the ups.\n\n📏 Distance: 5km\n\n⏱️ Time: ~45-60 minutes\n\n📍 Meeting point: The Buzzards in Rosebank Gardens\n\n🔦 Torches: As we head into the winter months please remember a head torch.\n\nPlease remember to click out if you can no longer make it.\n\nHannah\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3445052171608238340",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Hannah Thompson"
+  },
+  {
     "id": 3442919329882560672,
     "title": "Thursday Hills",
     "start": "2026-10-15T17:30:00Z",
@@ -201,16 +211,6 @@
     "skill_levels": 2
   },
   {
-    "id": 3442921757788856480,
-    "title": "***League event*** Worcestershire Beacon Race",
-    "start": "2026-10-10T13:00:00Z",
-    "end": "2026-10-10T14:00:00Z",
-    "description": "Placeholder - time and entry details TBC",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
-    "location": "Malvern, Worcestershire, England, United Kingdom",
-    "organizer": "Sarah Reeves"
-  },
-  {
     "id": 3517998598683482380,
     "title": "***League event***Beacon race",
     "start": "2026-10-10T13:00:00Z",
@@ -221,13 +221,13 @@
     "organizer": "Sarah Reeves"
   },
   {
-    "id": 3445052171608238340,
-    "title": "Rise \u0026 Run",
-    "start": "2026-10-09T05:30:00Z",
-    "end": "2026-10-09T06:30:00Z",
-    "description": "**Rise \u0026 Run**\n\nWeekly run of approximately 5km on the hills to start your day.\n\n🏃‍♀️‍➡️ Pace: We will average between 8-9min/km overall. Running the flats/downs, and walking or jeffing the ups.\n\n📏 Distance: 5km\n\n⏱️ Time: ~45-60 minutes\n\n📍 Meeting point: The Buzzards in Rosebank Gardens\n\n🔦 Torches: As we head into the winter months please remember a head torch.\n\nPlease remember to click out if you can no longer make it.\n\nHannah\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3445052171608238340",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Hannah Thompson"
+    "id": 3442921757788856480,
+    "title": "***League event*** Worcestershire Beacon Race",
+    "start": "2026-10-10T13:00:00Z",
+    "end": "2026-10-10T14:00:00Z",
+    "description": "Placeholder - time and entry details TBC",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442921757788856480",
+    "location": "Malvern, Worcestershire, England, United Kingdom",
+    "organizer": "Sarah Reeves"
   }
 ]

@@ -100,6 +100,16 @@
     "organizer": "Hannah Thompson"
   },
   {
+    "id": 3527666368656202380,
+    "title": "Take Flight (C25K) support",
+    "start": "2026-10-19T17:30:00Z",
+    "end": "2026-10-19T18:30:00Z",
+    "description": "Please come and support our Take Flight cohort or join on here if you are returning from injury or have not run for a while and need to get back into it.\nWe meet at the bandstand and will progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
+    "location": "Priory Park, Malvern, England, United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
     "id": 3544458247644133492,
     "title": "Buzzard Day - Buzzards to Buzzard Crescent - Social 5k ISH",
     "start": "2026-10-16T17:30:00Z",
@@ -188,25 +198,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3541738794533081686",
     "location": "Colwall Village Hall",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3544331788899733560,
-    "title": "Joust Loop",
-    "start": "2026-10-12T18:00:00Z",
-    "end": "2026-10-12T19:00:00Z",
-    "description": "Joust Loop, around 6k, 6-7min/km.\n\n🔦 Bring a headtorch",
-    "url": "https://www.strava.com/clubs/208705/group_events/3544331788899733560",
-    "location": "Wyche Cutting",
-    "organizer": "Boris Kachscovsky"
-  },
-  {
-    "id": 3527666368656202380,
-    "title": "Take Flight (C25K) support",
-    "start": "2026-10-12T17:30:00Z",
-    "end": "2026-10-12T18:30:00Z",
-    "description": "Please come and support our Take Flight cohort or join on here if you are returning from injury or have not run for a while and need to get back into it.\nWe meet at the bandstand and will progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
-    "location": "Priory Park, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
   }
 ]

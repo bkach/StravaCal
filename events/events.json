@@ -100,6 +100,16 @@
     "organizer": "Lily Price"
   },
   {
+    "id": 3546163208437038188,
+    "title": "Sunday Hills",
+    "start": "2026-10-25T08:00:00Z",
+    "end": "2026-10-25T09:00:00Z",
+    "description": "Starting at Rosebank Gardens - Intermediate run - around 16km.  Route will vary, there'll be hills. Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3546163208437038188",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3486320846511681912,
     "title": "5 on Friday : Malvern",
     "start": "2026-10-23T08:30:00Z",
@@ -218,15 +228,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3545750568814702096",
     "location": "156A Madresfield Road Malvern England WR14 2NS United Kingdom",
     "organizer": "Joe de la Mata"
-  },
-  {
-    "id": 3546163208437038188,
-    "title": "Sunday Hills",
-    "start": "2026-10-18T07:00:00Z",
-    "end": "2026-10-18T08:00:00Z",
-    "description": "Starting at Rosebank Gardens - Intermediate run - around 16km.  Route will vary, there'll be hills. Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3546163208437038188",
-    "location": "Wells Road, Malvern, Malvern Hills, United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

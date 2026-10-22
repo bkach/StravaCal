@@ -60,6 +60,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-11-04T18:00:00Z",
+    "end": "2026-11-04T19:00:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3536452188088957628,
     "title": "***League event*** Guy Fawkes 5",
     "start": "2026-11-01T10:00:00Z",
@@ -77,16 +87,6 @@
     "description": "Come and support the Take Fight fledglings as the graduate at Worcester Woods Parkeun.\nYou will be running around with TF cohort for league points. \nAs it is Halloween, there will be extra points for costumes!\nThere will also be cake!\nSarah [Phone Number Redacted]",
     "url": "https://www.strava.com/clubs/208705/group_events/3541713369926649856",
     "location": "Worcester, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3546549408630764354,
-    "title": "Let’s Lift the Curfew about 4.5k",
-    "start": "2026-10-28T19:00:00Z",
-    "end": "2026-10-28T20:00:00Z",
-    "description": "This is part of ‘Lift the Curfew’ and ‘This Girl Can’ to raise the profile of issues female runners often face. Wear as much high viz and lights as you can to get us noticed. \nThis run is aimed at our current and previous TF fledglings and so we shall walk any hills and do about 4.5k in about 40 to 45 minutes.\nWe shall be very sociable and expect some fun! \nNo one left behind!\nAny questions Sarah (run leader) [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3546549408630764354",
-    "location": "Malvern England WR14 United Kingdom",
     "organizer": "Sarah Fowkes"
   },
   {
@@ -110,14 +110,14 @@
     "organizer": "Sim Buzzard"
   },
   {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-10-28T17:40:00Z",
-    "end": "2026-10-28T18:40:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
+    "id": 3546549408630764354,
+    "title": "Let’s Lift the Curfew about 4.5k",
+    "start": "2026-10-28T19:00:00Z",
+    "end": "2026-10-28T20:00:00Z",
+    "description": "This is part of ‘Lift the Curfew’ and ‘This Girl Can’ to raise the profile of issues female runners often face. Wear as much high viz and lights as you can to get us noticed. \nThis run is aimed at our current and previous TF fledglings and so we shall walk any hills and do about 4.5k in about 40 to 45 minutes.\nWe shall be very sociable and expect some fun! \nNo one left behind!\nAny questions Sarah (run leader) [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3546549408630764354",
+    "location": "Malvern England WR14 United Kingdom",
+    "organizer": "Sarah Fowkes"
   },
   {
     "id": 3546904073023710316,

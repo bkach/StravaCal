@@ -90,6 +90,16 @@
     "organizer": "Sarah Reeves"
   },
   {
+    "id": 3546163208437038188,
+    "title": "Sunday Hills",
+    "start": "2026-11-01T08:00:00Z",
+    "end": "2026-11-01T09:00:00Z",
+    "description": "Starting at Rosebank Gardens - Intermediate run - around 16km.  Route will vary, there'll be hills. Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3546163208437038188",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3541713369926649856,
     "title": "Take Flight Graduation *League Event*",
     "start": "2026-10-31T09:00:00Z",
@@ -208,15 +218,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
     "location": "Priory Park, Malvern, England, United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3546163208437038188,
-    "title": "Sunday Hills",
-    "start": "2026-10-25T08:00:00Z",
-    "end": "2026-10-25T09:00:00Z",
-    "description": "Starting at Rosebank Gardens - Intermediate run - around 16km.  Route will vary, there'll be hills. Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3546163208437038188",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

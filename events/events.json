@@ -50,6 +50,16 @@
     "organizer": "Andrew Dickenson"
   },
   {
+    "id": 3527666368656202380,
+    "title": "Take Flight (C25K) support",
+    "start": "2026-11-09T18:30:00Z",
+    "end": "2026-11-09T19:30:00Z",
+    "description": "Please come and support our Take Flight cohort or join on here if you are returning from injury or have not run for a while and need to get back into it.\nWe meet at the bandstand and will progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
+    "location": "Priory Park, Malvern, England, United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
     "id": 3533533259453500902,
     "title": "Winter XC Race 2: Croft Castle",
     "start": "2026-11-08T11:00:00Z",
@@ -130,16 +140,6 @@
     "organizer": "Hannah Thompson"
   },
   {
-    "id": 3549515477839481300,
-    "title": "Thirsty Thursday 10K",
-    "start": "2026-10-29T19:00:00Z",
-    "end": "2026-10-29T20:00:00Z",
-    "description": "10K tarmac run in about 45-50 minutes.\n\nStarting and finishing at The Three Horseshoes.\n\nPlease wear hi-vis clothes and head torches.\n\nLirf: Joe. [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3549515477839481300",
-    "location": "Malvern, England, United Kingdom",
-    "organizer": "Joe de la Mata"
-  },
-  {
     "id": 3549159670940598984,
     "title": "Thirtsy Thursday 5k",
     "start": "2026-10-29T19:00:00Z",
@@ -148,6 +148,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3549159670940598984",
     "location": "The Three Horseshoes",
     "organizer": "Robyn Hall"
+  },
+  {
+    "id": 3549515477839481300,
+    "title": "Thirsty Thursday 10K",
+    "start": "2026-10-29T19:00:00Z",
+    "end": "2026-10-29T20:00:00Z",
+    "description": "10K tarmac run in about 45-50 minutes.\n\nStarting and finishing at The Three Horseshoes.\n\nPlease wear hi-vis clothes and head torches.\n\nLirf: Joe. [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3549515477839481300",
+    "location": "Malvern, England, United Kingdom",
+    "organizer": "Joe de la Mata"
   },
   {
     "id": 3442919329882560672,
@@ -218,15 +228,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
     "location": "Back Lane Malvern Hills England WR14 United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 3527666368656202380,
-    "title": "Take Flight (C25K) support",
-    "start": "2026-10-26T18:30:00Z",
-    "end": "2026-10-26T19:30:00Z",
-    "description": "Please come and support our Take Flight cohort or join on here if you are returning from injury or have not run for a while and need to get back into it.\nWe meet at the bandstand and will progress over 7 weeks from run/walking to running 5k.\nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3527666368656202380",
-    "location": "Priory Park, Malvern, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
   }
 ]

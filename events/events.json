@@ -70,6 +70,16 @@
     "organizer": "Andy Dingley"
   },
   {
+    "id": 3442919329882560672,
+    "title": "Thursday Hills",
+    "start": "2026-11-12T18:30:00Z",
+    "end": "2026-11-12T19:30:00Z",
+    "description": "Thursday Hills \n7/8km in 55/1:05 mins\nHead torch needed \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
+    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
+    "organizer": "Lily Price"
+  },
+  {
     "id": 3553184013413401288,
     "title": "Hustling: The Core Sessions",
     "start": "2026-11-11T19:00:00Z",
@@ -168,45 +178,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3445052171608238340",
     "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
     "organizer": "Hannah Thompson"
-  },
-  {
-    "id": 3551549919575835626,
-    "title": "Thirsty Thursday 10k: The Blue Bell",
-    "start": "2026-11-05T19:00:00Z",
-    "end": "2026-11-05T20:00:00Z",
-    "description": "Thirsty Thursday 10k group from the Blue Bell. \n\nDistance: 10k\nTime: 55-60mins\nPace: 5:30-6:00/km \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3551549919575835626",
-    "location": "The Blue Bell Inn",
-    "organizer": "Andrew Elwood"
-  },
-  {
-    "id": 3552347702869505874,
-    "title": "Thirsty Thursday 8k (NEW RUN OFFER)",
-    "start": "2026-11-05T19:00:00Z",
-    "end": "2026-11-05T20:00:00Z",
-    "description": "NEW RUN OFFER. In response to feedback from members to Hannah and Sarah F for an intermediate style TT run, I will be leading an 8km run in about 45-55 mins.  Aim is to arrive back at pub at the same time as other groups so people can stay for pub. \n\nHead torch and hi Viz please (Light it up!)\n\nLIRF:  Sim Buzzard [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3552347702869505874",
-    "location": "The Blue Bell Inn",
-    "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3551195370245370544,
-    "title": "Thirsty Thursday 5kish the Blue Bell",
-    "start": "2026-11-05T19:00:00Z",
-    "end": "2026-11-05T20:00:00Z",
-    "description": "The nights are drawing in, so please wear hi viz and bring a head torch. \nThis will be a 5kish run on roads in about 45 minutes. Hills will be walked/jeffed.\nNo one left behind.\nPlease ensure hydration etc.\nOptional refreshments afterwards. \nAny questions Sarah [Phone Number Redacted] (runleader)",
-    "url": "https://www.strava.com/clubs/208705/group_events/3551195370245370544",
-    "location": "Malvern Hills, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3442919329882560672,
-    "title": "Thursday Hills",
-    "start": "2026-11-05T18:30:00Z",
-    "end": "2026-11-05T19:30:00Z",
-    "description": "Thursday Hills \n7/8km in 55/1:05 mins\nHead torch needed \n30:30 run:walk hills \nRoute changes weekly \nAlways start at wyche cutting bus stop ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
-    "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
-    "organizer": "Lily Price"
   }
 ]

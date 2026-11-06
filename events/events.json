@@ -70,6 +70,26 @@
     "organizer": "Andy Dingley"
   },
   {
+    "id": 3553760156439874542,
+    "title": "Moonlight Malverns (about 10-12 miles in 2 hours ISH)",
+    "start": "2026-11-13T19:00:00Z",
+    "end": "2026-11-13T20:00:00Z",
+    "description": "A run from the clock tower up onto the ridge and all the way along to Malvern Hills Hotel. Running back along the side contours.\n\nProbably about 10-12 miles in total. Expect to be out a couple of hours.\n\nHeadtorch essential.\n\nPossibly pint at end if people fancy it.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3553760156439874542",
+    "location": "Tank Clock Tower",
+    "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3486320846511681912,
+    "title": "10 on Friday : Malvern",
+    "start": "2026-11-13T09:30:00Z",
+    "end": "2026-11-13T10:30:00Z",
+    "description": "Meet at Waitrose front entrance..\n\nGentle run with walks uphill as required. \n60-75 minutes \nTrail shoes. \n\nPossibly carry water too! \n\nOptional start the weekend drink afterwards.\n\nLiRF: Julie S [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
+    "location": "Back Lane Malvern Hills England WR14 United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3445052171608238340,
     "title": "Rise \u0026 Run",
     "start": "2026-11-13T06:30:00Z",
@@ -88,6 +108,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3442919329882560672",
     "location": "Walwyn Road, Colwall Malvern England WR13 United Kingdom",
     "organizer": "Lily Price"
+  },
+  {
+    "id": 3553756115013124078,
+    "title": "LBCB Swanning about (10k in about hour)",
+    "start": "2026-11-12T06:00:00Z",
+    "end": "2026-11-12T07:00:00Z",
+    "description": "10k up the Swanney. A tour of homes of the stars and Buzzards in Hanley Swan. Mix of road and trail. \n Head torch needed and hi Viz.\n\nAbout an hour.\nLiRF: sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3553756115013124078",
+    "location": "Swan Inn",
+    "organizer": "Sim Buzzard"
   },
   {
     "id": 3553184013413401288,
@@ -130,6 +160,16 @@
     "organizer": "Julie Slack"
   },
   {
+    "id": 3553763337243100638,
+    "title": "Holywell Choose Your Distance",
+    "start": "2026-11-09T19:00:00Z",
+    "end": "2026-11-09T20:00:00Z",
+    "description": "Choose your distance!\n\nWe'll do laps around Holywell with potentially some small trail run detours. Each lap is 3.6km and we'll loop back to the start so drop off whenever you've had enough. Great for those of you who might want to try for a longer distance.\n\n3.6k / 7.2k /10.8k / 14.4k / etc.\n\nHolywell is lovely with a bit ofa slope and some nice gas lamps, but no sidewalks so bring as many lights / hi-viz things you can muster!\n\nWe'll meet at the north entrance to Holywell. If driving park on Wells Road, or along Holywell and meet at the intersection of holywell and wells road.\n\n6-7min/km - though potentially slower if you make me run round a hundred times, nobody left behind",
+    "url": "https://www.strava.com/clubs/208705/group_events/3553763337243100638",
+    "location": "Holywell",
+    "organizer": "Boris Kachscovsky"
+  },
+  {
     "id": 3550931281748006508,
     "title": "5k keep it going",
     "start": "2026-11-09T18:30:00Z",
@@ -168,15 +208,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3530487221752159600",
     "location": "Church Stretton",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3486320846511681912,
-    "title": "10 on Friday : Malvern",
-    "start": "2026-11-06T09:30:00Z",
-    "end": "2026-11-06T10:30:00Z",
-    "description": "Meet at Waitrose front entrance..\n\nGentle run with walks uphill as required. \n60-75 minutes \nTrail shoes. \n\nPossibly carry water too! \n\nOptional start the weekend drink afterwards.\n\nLiRF: Julie S [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
-    "location": "Back Lane Malvern Hills England WR14 United Kingdom",
-    "organizer": "Julie Slack"
   }
 ]

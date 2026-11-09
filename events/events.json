@@ -110,16 +110,6 @@
     "organizer": "Hannah Thompson"
   },
   {
-    "id": 3554613768018506898,
-    "title": "Thirsty Thursday 10k: Weavers",
-    "start": "2026-11-12T19:00:00Z",
-    "end": "2026-11-12T20:00:00Z",
-    "description": "10k group from the Weavers this week for TT. We'll do 10k in 55-60mins as a group. This will be on roads, mostly well lit but please wear hi-viz and torches. \n\nAndrew\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3554613768018506898",
-    "location": "The Weavers Real Ale House",
-    "organizer": "Andrew Elwood"
-  },
-  {
     "id": 3554575055750765988,
     "title": "Thirsty Thursday 8k (about 50-60 mins)",
     "start": "2026-11-12T19:00:00Z",
@@ -128,6 +118,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3554575055750765988",
     "location": "The Weavers Real Ale House",
     "organizer": "Sim Buzzard"
+  },
+  {
+    "id": 3554613768018506898,
+    "title": "Thirsty Thursday 10k: Weavers",
+    "start": "2026-11-12T19:00:00Z",
+    "end": "2026-11-12T20:00:00Z",
+    "description": "10k group from the Weavers this week for TT. We'll do 10k in 55-60mins as a group. This will be on roads, mostly well lit but please wear hi-viz and torches. \n\nAndrew\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3554613768018506898",
+    "location": "The Weavers Real Ale House",
+    "organizer": "Andrew Elwood"
   },
   {
     "id": 3553833769335271180,
@@ -228,15 +228,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3550931281748006508",
     "location": "1 Court Road Malvern England WR14 3BS United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3553460044812607112,
-    "title": "Monday morning mooch",
-    "start": "2026-11-09T06:30:00Z",
-    "end": "2026-11-09T07:30:00Z",
-    "description": "4 miles in 50-60 mins on North Hill trails. \nHead torches needed for the first bit. \nRun leader: Maria - [Phone Number Redacted]. ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3553460044812607112",
-    "location": "Link Top Long Stay Carpark",
-    "organizer": "Maria Crawford"
   }
 ]

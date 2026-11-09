@@ -60,6 +60,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3550931281748006508,
+    "title": "5k keep it going",
+    "start": "2026-11-16T18:30:00Z",
+    "end": "2026-11-16T19:30:00Z",
+    "description": "Meet at the bus stop at the top of Barnard’s Green.\nThis is a 5k run aimed at our recent TF runners or anyone who is maybe returning from injury or would like to start the week with a 5k run in about 40 to 45 minutes.\nNo one left behind. \nAny questions Sarah [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3550931281748006508",
+    "location": "1 Court Road Malvern England WR14 3BS United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
     "id": 3546163208437038188,
     "title": "Sunday Hills",
     "start": "2026-11-15T08:00:00Z",
@@ -120,6 +130,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3553833769335271180,
+    "title": "Thirsty Thursday 5k Weavers",
+    "start": "2026-11-12T19:00:00Z",
+    "end": "2026-11-12T20:00:00Z",
+    "description": "The nights are drawing in, so please wear hi viz and bring a head torch. \nThis will be a 5k run on roads in about 40 to 45 minutes. Hills will be walked/jeffed.\nNo one left behind.\nPlease ensure hydration etc.\nOptional refreshments afterwards. \nAny questions Sarah ",
+    "url": "https://www.strava.com/clubs/208705/group_events/3553833769335271180",
+    "location": "14 Church Street Malvern England WR14 2AA United Kingdom",
+    "organizer": "Sarah Fowkes"
+  },
+  {
     "id": 3554613768018506898,
     "title": "Thirsty Thursday 10k: Weavers",
     "start": "2026-11-12T19:00:00Z",
@@ -128,16 +148,6 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3554613768018506898",
     "location": "The Weavers Real Ale House",
     "organizer": "Andrew Elwood"
-  },
-  {
-    "id": 3553833769335271180,
-    "title": "Thirsty Thursday 5k Weavers",
-    "start": "2026-11-12T19:00:00Z",
-    "end": "2026-11-12T20:00:00Z",
-    "description": "The nights are drawing in, so please wear hi viz and bring a head torch. \nThis will be a 5k run on roads in about 40 to 45 minutes. Hills will be walked/jeffed.\nNo one left behind.\nPlease ensure hydration etc.\nOptional refreshments afterwards. \nAny questions Sarah ",
-    "url": "https://www.strava.com/clubs/208705/group_events/3553833769335271180",
-    "location": "Malvern Hills, England, United Kingdom",
-    "organizer": "Sarah Fowkes"
   },
   {
     "id": 3442919329882560672,
@@ -208,25 +218,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
     "location": "Back Lane Malvern Hills England WR14 United Kingdom",
     "organizer": "Julie Slack"
-  },
-  {
-    "id": 3553763337243100638,
-    "title": "Holywell Choose Your Distance",
-    "start": "2026-11-09T19:00:00Z",
-    "end": "2026-11-09T20:00:00Z",
-    "description": "Choose your distance!\n\nWe'll do laps around Holywell with potentially some small trail run detours. Each lap is 3.6km and we'll loop back to the start so drop off whenever you've had enough. Great for those of you who might want to try for a longer distance.\n\n3.6k / 7.2k /10.8k / 14.4k / etc.\n\nHolywell is lovely with a bit of a slope and some nice gas lamps, but no sidewalks so bring as many lights / hi-viz things you can muster!\n\nWe'll meet at the north entrance to Holywell. If driving park on Wells Road, or along Holywell and meet at the intersection of holywell and wells road.\n\n6-7min/km - though potentially slower if you make me run round a hundred times, nobody left behind",
-    "url": "https://www.strava.com/clubs/208705/group_events/3553763337243100638",
-    "location": "Holywell",
-    "organizer": "Boris Kachscovsky"
-  },
-  {
-    "id": 3550931281748006508,
-    "title": "5k keep it going",
-    "start": "2026-11-09T18:30:00Z",
-    "end": "2026-11-09T19:30:00Z",
-    "description": "Meet at the bus stop at the top of Barnard’s Green.\nThis is a 5k run aimed at our recent TF runners or anyone who is maybe returning from injury or would like to start the week with a 5k run in about 40 to 45 minutes.\nNo one left behind. \nAny questions Sarah [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3550931281748006508",
-    "location": "1 Court Road Malvern England WR14 3BS United Kingdom",
-    "organizer": "Sarah Fowkes"
   }
 ]

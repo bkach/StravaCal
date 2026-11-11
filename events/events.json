@@ -60,6 +60,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-11-18T18:00:00Z",
+    "end": "2026-11-18T19:00:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3546904073023710316,
     "title": "The Sugar Rush",
     "start": "2026-11-17T19:30:00Z",
@@ -188,35 +198,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3553756115013124078",
     "location": "Swan Inn",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3553184013413401288,
-    "title": "Hustling: The Core Sessions",
-    "start": "2026-11-11T19:00:00Z",
-    "end": "2026-11-11T20:00:00Z",
-    "description": "Another dose of healthy intervals, including a warm-up, structured session, and a cool down. \n\nWU/CD: 5:00min/km\nIntervals: 4:00min/km \n\nWe'll regroup after intervals. \n\nEngaging conversation guaranteed.\n\nLet me know if you have any questions.\n\nNeil\n\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3553184013413401288",
-    "location": "Christ Church",
-    "organizer": "Neil Warne"
-  },
-  {
-    "id": 3554195013137043374,
-    "title": "Speed Intevals",
-    "start": "2026-11-11T18:30:00Z",
-    "end": "2026-11-11T19:30:00Z",
-    "description": "Meet at Link top car park - we'll jog down warm up to Vale/Sainsbury local area. After some stretches and drills then some faster efforts around loops of varying distance 400-800m - all working on  same lap at your own effort with regular regrouping.  Finish with jog back cool down to car park. All on road, please wear high viz, total run distance around. 6-8km and finish by 7.30pm Andy K [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3554195013137043374",
-    "location": "Link Top Long Stay Carpark",
-    "organizer": "Andrew Kenchington"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-11-11T18:00:00Z",
-    "end": "2026-11-11T19:00:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

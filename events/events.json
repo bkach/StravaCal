@@ -50,6 +50,16 @@
     "organizer": "Andrew Dickenson"
   },
   {
+    "id": 3486320846511681912,
+    "title": "10+on Friday : Ledbury Special",
+    "start": "2026-11-20T09:30:00Z",
+    "end": "2026-11-20T10:30:00Z",
+    "description": "Meet at Ledbury Market Hall\n\nExploring paths between Ledbury and Bromesberrow. \nMap attached is a guide as the route will be a recce. \n\nGentle run with walks uphill as needed. \n\n16-17km. \nPost run coffee. \nLiRF: Julie S [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
+    "location": "1 Church Lane Ledbury England HR8 1DS United Kingdom",
+    "organizer": "Julie Slack"
+  },
+  {
     "id": 3445052171608238340,
     "title": "Rise \u0026 Run",
     "start": "2026-11-20T06:30:00Z",
@@ -80,6 +90,16 @@
     "organizer": "Sim Buzzard"
   },
   {
+    "id": 3556282088715744558,
+    "title": "Hustling: The Core Sessions",
+    "start": "2026-11-18T19:00:00Z",
+    "end": "2026-11-18T20:00:00Z",
+    "description": "Another session of interval based structured running. After a warm-up we'll set to work on a number of intervals (details TBC), with a cool down to finish. \n\nWe'll run together but will regroup between intervals if necessary. \n\nDistance: 12-13km in total\nTerrain: road \nPace: various.\n\nNeil\n[Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3556282088715744558",
+    "location": "Christ Church",
+    "organizer": "Neil Warne"
+  },
+  {
     "id": 3455162324584765606,
     "title": "Round The Ramparts",
     "start": "2026-11-18T18:00:00Z",
@@ -108,6 +128,16 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3487000889107308686",
     "location": "Back Lane Malvern Hills England WR14 United Kingdom",
     "organizer": "Julie Slack"
+  },
+  {
+    "id": 3556266988212627714,
+    "title": "Holywell Choose Your Distance",
+    "start": "2026-11-16T19:00:00Z",
+    "end": "2026-11-16T20:00:00Z",
+    "description": "Choose your distance!\n\nWe'll do laps around Holywell with potentially some small trail run detours.\n\nEach lap is 3.6km and we'll loop back to the start so drop off whenever you've had enough. Great for those of you who might want to try for a longer distance without commitment.\n\n3.6k / 7.2k / 10.8k / 14.4k / etc.\n\nHolywell is lovely with a bit of a slope and some nice gas lamps, but no sidewalks so bring as many lights/hi-viz things you can muster!\n\nWe'll meet at the north entrance to Holywell. If driving: park on Wells Road or along Holywell and meet at the intersection of holywell and wells road.\n\n6-7min/km - though potentially slower if you make me run round a hundred times, nobody left behind",
+    "url": "https://www.strava.com/clubs/208705/group_events/3556266988212627714",
+    "location": "holywell",
+    "organizer": "Boris Kachscovsky"
   },
   {
     "id": 3550931281748006508,
@@ -148,15 +178,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3553760156439874542",
     "location": "Tank Clock Tower",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3486320846511681912,
-    "title": "10+on Friday : Ledbury Special",
-    "start": "2026-11-13T09:30:00Z",
-    "end": "2026-11-13T10:30:00Z",
-    "description": "Meet at Ledbury Market Hall\n\nExploring paths between Ledbury and Bromesberrow. \nMap attached is a guide as the route will be a recce. \n\nGentle run with walks uphill as needed. \n\n16-17km. \nPost run coffee. \nLiRF: Julie S [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3486320846511681912",
-    "location": "1 Church Lane Ledbury England HR8 1DS United Kingdom",
-    "organizer": "Julie Slack"
   }
 ]

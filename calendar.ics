@@ -26,7 +26,7 @@ BEGIN:VEVENT
 UID:3553837181651649228@strava.com
 DTSTART;TZID=Europe/London:20261114T080000
 DTEND;TZID=Europe/London:20261114T090000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Ashleworth Adventure
 DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at 8:30 outside Ashlewort
  h Hub.\nThe run is about 16.5 of trail with a small amount run on lanes. Th
@@ -39,7 +39,7 @@ DESCRIPTION:Leader: Sarah Fowkes\n\nWe shall meet at 8:30 outside Ashlewort
  ts etc.\nWe are planning to car share - leaving Malvern at 8am. \nAny quest
  ions Sarah [Phone Number Redacted] (run leader)\n\n\n\nView on Strava: http
  s://www.strava.com/clubs/208705/group_events/3553837181651649228\n\nSynced 
- from Strava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ from Strava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at 8:30 outs
  ide Ashleworth Hub.The run is about 16.5 of trail with a small amount run o
  n lanes. There are some muddy parts\, through woods and fields. A little el
@@ -51,7 +51,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesWe shall meet at 8:30 outs
  ments etc.We are planning to car share - leaving Malvern at 8am. Any questi
  ons Sarah [Phone Number Redacted] (run leader)View on Strava: https://www.s
  trava.com/clubs/208705/group_events/3553837181651649228Synced from Strava C
- lub 208705 on: Fri\, 13 Nov @ 9:42 PM
+ lub 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Kozikot\, The Village Gloucester England GL19 4JG United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3553837181651649228
 CATEGORIES:Running,Club Event
@@ -60,18 +60,18 @@ BEGIN:VEVENT
 UID:3546163208437038188@strava.com
 DTSTART;TZID=Europe/London:20261115T080000
 DTEND;TZID=Europe/London:20261115T090000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Sunday Hills
 DESCRIPTION:Leader: Andy Dingley\n\nStarting at Rosebank Gardens - Intermed
  iate run - around 16km.  Route will vary\, there'll be hills. Andy [Phone N
  umber Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/grou
- p_events/3546163208437038188\n\nSynced from Strava Club 208705 on Fri\, 13 
- Nov @ 9:42 PM
+ p_events/3546163208437038188\n\nSynced from Strava Club 208705 on Sat\, 14 
+ Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyStarting at Rosebank Garde
  ns - Intermediate run - around 16km.  Route will vary\, there'll be hills. 
  Andy [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/20
- 8705/group_events/3546163208437038188Synced from Strava Club 208705 on: Fri
- \, 13 Nov @ 9:42 PM
+ 8705/group_events/3546163208437038188Synced from Strava Club 208705 on: Sat
+ \, 14 Nov @ 1:46 AM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3546163208437038188
 CATEGORIES:Running,Club Event
@@ -80,22 +80,22 @@ BEGIN:VEVENT
 UID:3550931281748006508@strava.com
 DTSTART;TZID=Europe/London:20261116T183000
 DTEND;TZID=Europe/London:20261116T193000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:5k keep it going
 DESCRIPTION:Leader: Sarah Fowkes\n\nMeet at the bus stop at the top of Barn
  ard’s Green.\nThis is a 5k run aimed at our recent TF runners or anyone w
  ho is maybe returning from injury or would like to start the week with a 5k
   run in about 40 to 45 minutes.\nNo one left behind. \nAny questions Sarah 
  [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/208
- 705/group_events/3550931281748006508\n\nSynced from Strava Club 208705 on F
- ri\, 13 Nov @ 9:42 PM
+ 705/group_events/3550931281748006508\n\nSynced from Strava Club 208705 on S
+ at\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah FowkesMeet at the bus stop at th
  e top of Barnard’s Green.This is a 5k run aimed at our recent TF runners 
  or anyone who is maybe returning from injury or would like to start the wee
  k with a 5k run in about 40 to 45 minutes.No one left behind. Any questions
   Sarah [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/
- 208705/group_events/3550931281748006508Synced from Strava Club 208705 on: F
- ri\, 13 Nov @ 9:42 PM
+ 208705/group_events/3550931281748006508Synced from Strava Club 208705 on: S
+ at\, 14 Nov @ 1:46 AM
 LOCATION:1 Court Road Malvern England WR14 3BS United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3550931281748006508
 CATEGORIES:Running,Club Event
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 UID:3556266988212627714@strava.com
 DTSTART;TZID=Europe/London:20261116T190000
 DTEND;TZID=Europe/London:20261116T200000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Holywell Choose Your Distance
 DESCRIPTION:Leader: Boris Kachscovsky\n\nChoose your distance!\n\nWe'll do 
  laps around Holywell with potentially some small trail run detours.\n\nEach
@@ -117,8 +117,8 @@ DESCRIPTION:Leader: Boris Kachscovsky\n\nChoose your distance!\n\nWe'll do
   and meet at the intersection of holywell and wells road.\n\n6-7min/km - th
  ough potentially slower if you make me run round a hundred times\, nobody l
  eft behind\n\nView on Strava: https://www.strava.com/clubs/208705/group_eve
- nts/3556266988212627714\n\nSynced from Strava Club 208705 on Fri\, 13 Nov @
-  9:42 PM
+ nts/3556266988212627714\n\nSynced from Strava Club 208705 on Sat\, 14 Nov @
+  1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Boris KachscovskyChoose your distance!
  We'll do laps around Holywell with potentially some small trail run detours
  .Each lap is 3.6km and we'll loop back to the start so drop off whenever yo
@@ -130,7 +130,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Boris KachscovskyChoose your distance!
  et at the intersection of holywell and wells road.6-7min/km - though potent
  ially slower if you make me run round a hundred times\, nobody left behindV
  iew on Strava: https://www.strava.com/clubs/208705/group_events/35562669882
- 12627714Synced from Strava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ 12627714Synced from Strava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:holywell
 URL:https://www.strava.com/clubs/208705/group_events/3556266988212627714
 CATEGORIES:Running,Club Event
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 UID:3487000889107308686@strava.com
 DTSTART;TZID=Europe/London:20261117T190000
 DTEND;TZID=Europe/London:20261117T200000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Tuesday 10
 DESCRIPTION:Leader: Julie Slack\n\nMeet outside Waitrose entrance\n\nAim to
   cover about 10k. \n\n\nPace: Easy pace. i.e. steady run but walking up hil
@@ -147,14 +147,14 @@ DESCRIPTION:Leader: Julie Slack\n\nMeet outside Waitrose entrance\n\nAim to
  r safety requirements and come prepared to see and be seen. \n\nAny questio
  ns \nJulie\n[Phone Number Redacted]\n\n\nView on Strava: https://www.strava
  .com/clubs/208705/group_events/3487000889107308686\n\nSynced from Strava Cl
- ub 208705 on Fri\, 13 Nov @ 9:42 PM
+ ub 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackMeet outside Waitrose entra
  nceAim to cover about 10k. Pace: Easy pace. i.e. steady run but walking up 
  hills as required.Time: Approximately 1hr 15 minPlease be aware of your saf
  ety requirements and come prepared to see and be seen. Any questions Julie[
  Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208705/g
- roup_events/3487000889107308686Synced from Strava Club 208705 on: Fri\, 13 
- Nov @ 9:42 PM
+ roup_events/3487000889107308686Synced from Strava Club 208705 on: Sat\, 14 
+ Nov @ 1:46 AM
 LOCATION:Back Lane Malvern Hills England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3487000889107308686
 CATEGORIES:Running,Club Event
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 UID:3546904073023710316@strava.com
 DTSTART;TZID=Europe/London:20261117T193000
 DTEND;TZID=Europe/London:20261117T203000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:The Sugar Rush
 DESCRIPTION:Leader: Robyn Hall\n\nFREE CAKE.....\nGot your attention?? 😬
   \n\nA run from the Morgan\, returning back to there where we will enjoy a 
@@ -171,14 +171,14 @@ DESCRIPTION:Leader: Robyn Hall\n\nFREE CAKE.....\nGot your attention?? 😬
  proximately 5k. Setting off at 19:30\, always aiming to arrive for our Suga
  r Rush between 20:00 & 20:15\n\nLirf: Robyn [Phone Number Redacted]\n\nView
   on Strava: https://www.strava.com/clubs/208705/group_events/35469040730237
- 10316\n\nSynced from Strava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ 10316\n\nSynced from Strava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Robyn HallFREE CAKE.....Got your atten
  tion?? 😬 A run from the Morgan\, returning back to there where we will e
  njoy a well earned treat. Routes and distance will vary slightly weekly but
   approximately 5k. Setting off at 19:30\, always aiming to arrive for our S
  ugar Rush between 20:00 & 20:15Lirf: Robyn [Phone Number Redacted]View on S
  trava: https://www.strava.com/clubs/208705/group_events/3546904073023710316
- Synced from Strava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ Synced from Strava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:The Morgan
 URL:https://www.strava.com/clubs/208705/group_events/3546904073023710316
 CATEGORIES:Running,Club Event
@@ -187,20 +187,20 @@ BEGIN:VEVENT
 UID:3455162324584765606@strava.com
 DTSTART;TZID=Europe/London:20261118T180000
 DTEND;TZID=Europe/London:20261118T190000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Round The Ramparts
 DESCRIPTION:Leader: Andy Dingley\n\nStarting at Wyhe Cutting Bus Stop.  Thi
  s is an 11km run along to British Camp and around the ramparts.  Headtorch 
  required.  All trail - so trail shoes preferable especially in wet conditio
  ns. 6:30 - 7:15 mins per km roughly\n\nView on Strava: https://www.strava.c
  om/clubs/208705/group_events/3455162324584765606\n\nSynced from Strava Club
-  208705 on Fri\, 13 Nov @ 9:42 PM
+  208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andy DingleyStarting at Wyhe Cutting B
  us Stop.  This is an 11km run along to British Camp and around the ramparts
  .  Headtorch required.  All trail - so trail shoes preferable especially in
   wet conditions. 6:30 - 7:15 mins per km roughlyView on Strava: https://www
  .strava.com/clubs/208705/group_events/3455162324584765606Synced from Strava
-  Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+  Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Trenython\, Jubilee Drive Malvern England WR13 6DQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3455162324584765606
 CATEGORIES:Running,Club Event
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 UID:3556282088715744558@strava.com
 DTSTART;TZID=Europe/London:20261118T190000
 DTEND;TZID=Europe/London:20261118T200000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Hustling: The Core Sessions
 DESCRIPTION:Leader: Neil Warne\n\nAnother session of interval based structu
  red running. After a warm-up we'll set to work on a number of intervals (de
@@ -217,14 +217,14 @@ DESCRIPTION:Leader: Neil Warne\n\nAnother session of interval based structu
  group between intervals if necessary. \n\nDistance: 12-13km in total\nTerra
  in: road \nPace: various.\n\nNeil\n[Phone Number Redacted]\n\nView on Strav
  a: https://www.strava.com/clubs/208705/group_events/3556282088715744558\n\n
- Synced from Strava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ Synced from Strava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Neil WarneAnother session of interval 
  based structured running. After a warm-up we'll set to work on a number of 
  intervals (details TBC)\, with a cool down to finish. We'll run together bu
  t will regroup between intervals if necessary. Distance: 12-13km in totalTe
  rrain: road Pace: various.Neil[Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3556282088715744558Synced from S
- trava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ trava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Christ Church
 URL:https://www.strava.com/clubs/208705/group_events/3556282088715744558
 CATEGORIES:Running,Club Event
@@ -233,18 +233,18 @@ BEGIN:VEVENT
 UID:3553464069087666088@strava.com
 DTSTART;TZID=Europe/London:20261119T060000
 DTEND;TZID=Europe/London:20261119T070000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:LBCB - Castling  🏰 (10k in about an hour) trails
 DESCRIPTION:Leader: Sim Buzzard\n\n10k dark trails. Head torch essential.\n
  \nAbout an hour.\n\nMeet at Three Kings in Hanley Castle.\n\nLiRF Sim Buzza
  rd [Phone Number Redacted]\n\nView on Strava: https://www.strava.com/clubs/
  208705/group_events/3553464069087666088\n\nSynced from Strava Club 208705 o
- n Fri\, 13 Nov @ 9:42 PM
+ n Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sim Buzzard10k dark trails. Head torch
   essential.About an hour.Meet at Three Kings in Hanley Castle.LiRF Sim Buzz
  ard [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/208
- 705/group_events/3553464069087666088Synced from Strava Club 208705 on: Fri\
- , 13 Nov @ 9:42 PM
+ 705/group_events/3553464069087666088Synced from Strava Club 208705 on: Sat\
+ , 14 Nov @ 1:46 AM
 LOCATION:The Three Kings
 URL:https://www.strava.com/clubs/208705/group_events/3553464069087666088
 CATEGORIES:Running,Club Event
@@ -253,18 +253,18 @@ BEGIN:VEVENT
 UID:3442919329882560672@strava.com
 DTSTART;TZID=Europe/London:20261119T183000
 DTEND;TZID=Europe/London:20261119T193000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Thursday Hills
 DESCRIPTION:Leader: Lily Price\n\nThursday Hills \n7/8km in 55/1:05 mins\nH
  ead torch needed \n30:30 run:walk hills \nRoute changes weekly \nAlways sta
  rt at wyche cutting bus stop \n\nView on Strava: https://www.strava.com/clu
  bs/208705/group_events/3442919329882560672\n\nSynced from Strava Club 20870
- 5 on Fri\, 13 Nov @ 9:42 PM
+ 5 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Lily PriceThursday Hills 7/8km in 55/1
  :05 minsHead torch needed 30:30 run:walk hills Route changes weekly Always 
  start at wyche cutting bus stop View on Strava: https://www.strava.com/club
  s/208705/group_events/3442919329882560672Synced from Strava Club 208705 on:
-  Fri\, 13 Nov @ 9:42 PM
+  Sat\, 14 Nov @ 1:46 AM
 LOCATION:Walwyn Road\, Colwall Malvern England WR13 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3442919329882560672
 CATEGORIES:Running,Club Event
@@ -273,7 +273,7 @@ BEGIN:VEVENT
 UID:3445052171608238340@strava.com
 DTSTART;TZID=Europe/London:20261120T063000
 DTEND;TZID=Europe/London:20261120T073000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Rise & Run
 DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nWeekly run of appr
  oximately 5km on the hills to start your day.\n\n🏃‍♀️‍➡️ Pac
@@ -283,8 +283,8 @@ DESCRIPTION:Leader: Hannah Thompson\n\n**Rise & Run**\n\nWeekly run of appr
  hes: As we head into the winter months please remember a head torch.\n\nPle
  ase remember to click out if you can no longer make it.\n\nHannah\n[Phone N
  umber Redacted]\n\nView on Strava: https://www.strava.com/clubs/208705/grou
- p_events/3445052171608238340\n\nSynced from Strava Club 208705 on Fri\, 13 
- Nov @ 9:42 PM
+ p_events/3445052171608238340\n\nSynced from Strava Club 208705 on Sat\, 14 
+ Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Weekly ru
  n of approximately 5km on the hills to start your day.🏃‍♀️‍➡�
  � Pace: We will average between 8-9min/km overall. Running the flats/downs\
@@ -293,7 +293,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Hannah Thompson**Rise & Run**Weekly ru
  head into the winter months please remember a head torch.Please remember to
   click out if you can no longer make it.Hannah[Phone Number Redacted]View o
  n Strava: https://www.strava.com/clubs/208705/group_events/3445052171608238
- 340Synced from Strava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ 340Synced from Strava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Rosebank Gardens\, Wells Road Malvern England WR14 4RQ United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3445052171608238340
 CATEGORIES:Running,Club Event
@@ -302,20 +302,20 @@ BEGIN:VEVENT
 UID:3486320846511681912@strava.com
 DTSTART;TZID=Europe/London:20261120T093000
 DTEND;TZID=Europe/London:20261120T103000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:10 on Friday
 DESCRIPTION:Leader: Julie Slack\n\nTrail shoes. \n\nMeet at Waitrose front 
  entrance - just inside if it’s cold. \n\nNorth Hill / Beacon/ Wyche loop\
  n\nGentle run with walks uphill as needed. \n\n9-10km\nPost run coffee. \nL
  iRF: Julie S [Phone Number Redacted]\n\nView on Strava: https://www.strava.
  com/clubs/208705/group_events/3486320846511681912\n\nSynced from Strava Clu
- b 208705 on Fri\, 13 Nov @ 9:42 PM
+ b 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Julie SlackTrail shoes. Meet at Waitro
  se front entrance - just inside if it’s cold. North Hill / Beacon/ Wyche 
  loopGentle run with walks uphill as needed. 9-10kmPost run coffee. LiRF: Ju
  lie S [Phone Number Redacted]View on Strava: https://www.strava.com/clubs/2
- 08705/group_events/3486320846511681912Synced from Strava Club 208705 on: Fr
- i\, 13 Nov @ 9:42 PM
+ 08705/group_events/3486320846511681912Synced from Strava Club 208705 on: Sa
+ t\, 14 Nov @ 1:46 AM
 LOCATION:Back Lane Malvern Hills England WR14 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3486320846511681912
 CATEGORIES:Running,Club Event
@@ -324,7 +324,7 @@ BEGIN:VEVENT
 UID:3548688919186295264@strava.com
 DTSTART;TZID=Europe/London:20261120T193000
 DTEND;TZID=Europe/London:20261120T203000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Skittles Evening **NOT A RUN**
 DESCRIPTION:Leader: Andrew Dickenson\n\nClub social evening playing pub ski
  ttles at Barnards Green cricket club. A fun evening out and a chance to mee
@@ -333,7 +333,7 @@ DESCRIPTION:Leader: Andrew Dickenson\n\nClub social evening playing pub ski
  e\, but have been great fun! It will cost £3 a head to cover the cost of t
  he hire. Bar available\, which may or may not improve your game. \n\nView o
  n Strava: https://www.strava.com/clubs/208705/group_events/3548688919186295
- 264\n\nSynced from Strava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ 264\n\nSynced from Strava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew DickensonClub social evening pl
  aying pub skittles at Barnards Green cricket club. A fun evening out and a 
  chance to meet up and chat with other Buzzards. It doesn't matter if you've
@@ -341,7 +341,7 @@ X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew DickensonClub social evening pl
  own we all are\, but have been great fun! It will cost £3 a head to cover 
  the cost of the hire. Bar available\, which may or may not improve your gam
  e. View on Strava: https://www.strava.com/clubs/208705/group_events/3548688
- 919186295264Synced from Strava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ 919186295264Synced from Strava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:North End Lane\, Malvern\, Malvern Hills\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3548688919186295264
 CATEGORIES:Running,Club Event
@@ -350,7 +350,7 @@ BEGIN:VEVENT
 UID:3533533591232097766@strava.com
 DTSTART;TZID=Europe/London:20261206T110000
 DTEND;TZID=Europe/London:20261206T120000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Winter XC Race 3: Gregynog Hall
 DESCRIPTION:Leader: Andrew Elwood\n\nThird race of the 2026/27 winter XC le
  ague hosted by Maldwyn Harriers at Gregynog Hall. \n\nThe race is ~10 km (6
@@ -358,14 +358,14 @@ DESCRIPTION:Leader: Andrew Elwood\n\nThird race of the 2026/27 winter XC le
  d social set of races. \n\nPlease click in if you intend to race\, and ente
  r on Entry Central.\n\nAndrew\n[Phone Number Redacted]\n\nView on Strava: h
  ttps://www.strava.com/clubs/208705/group_events/3533533591232097766\n\nSync
- ed from Strava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ ed from Strava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodThird race of the 2026/27
   winter XC league hosted by Maldwyn Harriers at Gregynog Hall. The race is 
  ~10 km (6miles) on varying trails / mud. The series promises to provide a r
  eally good social set of races. Please click in if you intend to race\, and
   enter on Entry Central.Andrew[Phone Number Redacted]View on Strava: https:
  //www.strava.com/clubs/208705/group_events/3533533591232097766Synced from S
- trava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ trava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Gregynog Car Park\, Tregynon\, Wales\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3533533591232097766
 CATEGORIES:Running,Club Event
@@ -374,20 +374,20 @@ BEGIN:VEVENT
 UID:3543303741868604430@strava.com
 DTSTART;TZID=Europe/London:20261212T093000
 DTEND;TZID=Europe/London:20261212T103000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:***League event*** The 12Ks of Christmas
 DESCRIPTION:Leader: Sarah Reeves\n\nTraily and hilly\, has some gorgeous ru
  nnable woodland trails\, a horrible muddy downhill and was lots of fun. Wou
  ld recommend. (Description courtesy of Jacqui Wilson).\n\nBonus points for 
  fancy dress 🎄\n\nEntry via Gertlushevents.\n\nView on Strava: https://ww
  w.strava.com/clubs/208705/group_events/3543303741868604430\n\nSynced from S
- trava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ trava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Sarah ReevesTraily and hilly\, has som
  e gorgeous runnable woodland trails\, a horrible muddy downhill and was lot
  s of fun. Would recommend. (Description courtesy of Jacqui Wilson).Bonus po
  ints for fancy dress 🎄Entry via Gertlushevents.View on Strava: https://w
  ww.strava.com/clubs/208705/group_events/3543303741868604430Synced from Stra
- va Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ va Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Dursley England GL11 United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3543303741868604430
 CATEGORIES:Running,Club Event
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 UID:3533533961595404998@strava.com
 DTSTART;TZID=Europe/London:20270110T110000
 DTEND;TZID=Europe/London:20270110T120000
-DTSTAMP:20261113T214251Z
+DTSTAMP:20261114T014649Z
 SUMMARY:Winter XC Race 4: Malvern College
 DESCRIPTION:Leader: Andrew Elwood\n\nFourth race of the 2026/27 winter XC l
  eague hosted by Malvern Buzzards on Peachfield Common. \n\nThe race is ~10 
@@ -404,14 +404,14 @@ DESCRIPTION:Leader: Andrew Elwood\n\nFourth race of the 2026/27 winter XC l
  y good social set of races. \n\nPlease click in if you intend to race\, and
   enter on Entry Central.\n\nAndrew\n[Phone Number Redacted]\n\nView on Stra
  va: https://www.strava.com/clubs/208705/group_events/3533533961595404998\n\
- nSynced from Strava Club 208705 on Fri\, 13 Nov @ 9:42 PM
+ nSynced from Strava Club 208705 on Sat\, 14 Nov @ 1:46 AM
 X-ALT-DESC;FMTTYPE=text/html:Leader: Andrew ElwoodFourth race of the 2026/2
  7 winter XC league hosted by Malvern Buzzards on Peachfield Common. The rac
  e is ~10 km (6miles) on varying trails / mud. The series promises to provid
  e a really good social set of races. Please click in if you intend to race\
  , and enter on Entry Central.Andrew[Phone Number Redacted]View on Strava: h
  ttps://www.strava.com/clubs/208705/group_events/3533533961595404998Synced f
- rom Strava Club 208705 on: Fri\, 13 Nov @ 9:42 PM
+ rom Strava Club 208705 on: Sat\, 14 Nov @ 1:46 AM
 LOCATION:Malvern College\, Malvern\, England\, United Kingdom
 URL:https://www.strava.com/clubs/208705/group_events/3533533961595404998
 CATEGORIES:Running,Club Event

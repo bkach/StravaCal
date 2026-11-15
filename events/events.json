@@ -40,6 +40,16 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 3546163208437038188,
+    "title": "Sunday Hills",
+    "start": "2026-11-22T08:00:00Z",
+    "end": "2026-11-22T09:00:00Z",
+    "description": "Starting at Rosebank Gardens - Intermediate run - around 16km.  Route will vary, there'll be hills. Andy [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3546163208437038188",
+    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3548688919186295264,
     "title": "Skittles Evening **NOT A RUN**",
     "start": "2026-11-20T19:30:00Z",
@@ -100,6 +110,16 @@
     "organizer": "Neil Warne"
   },
   {
+    "id": 3556983750507303120,
+    "title": "Interval efforts on road",
+    "start": "2026-11-18T18:30:00Z",
+    "end": "2026-11-18T19:30:00Z",
+    "description": "Meet  you railway bridge/college car park. We'll do a grou jog warm up to local quiet roads, followed by some stretches. Then some interval efforts on a loop so all working at own effort but regrouping. Finish with cool down jog back to Thirlstane. Approx. 6-7km please wear high viz and headtorch recommended. Ideal session to improve your race times. Andy k [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3556983750507303120",
+    "location": "Thirlstane Road",
+    "organizer": "Andrew Kenchington"
+  },
+  {
     "id": 3455162324584765606,
     "title": "Round The Ramparts",
     "start": "2026-11-18T18:00:00Z",
@@ -148,15 +168,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3550931281748006508",
     "location": "1 Court Road Malvern England WR14 3BS United Kingdom",
     "organizer": "Sarah Fowkes"
-  },
-  {
-    "id": 3546163208437038188,
-    "title": "Sunday Hills",
-    "start": "2026-11-15T08:00:00Z",
-    "end": "2026-11-15T09:00:00Z",
-    "description": "Starting at Rosebank Gardens - Intermediate run - around 16km.  Route will vary, there'll be hills. Andy [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3546163208437038188",
-    "location": "Rosebank Gardens, Wells Road Malvern England WR14 4RQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

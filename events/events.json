@@ -80,6 +80,16 @@
     "organizer": "Andrew Elwood"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-11-25T18:00:00Z",
+    "end": "2026-11-25T19:00:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3546904073023710316,
     "title": "The Sugar Rush",
     "start": "2026-11-24T19:30:00Z",
@@ -180,43 +190,13 @@
     "organizer": "Lily Price"
   },
   {
-    "id": 3553464069087666088,
-    "title": "LBCB - Castling  🏰 (10k in about an hour) trails",
+    "id": 3558227336044286348,
+    "title": "LBCB  Link Top Drawer 10k",
     "start": "2026-11-19T06:00:00Z",
     "end": "2026-11-19T07:00:00Z",
-    "description": "10k dark trails. Head torch essential.\n\nAbout an hour.\n\nMeet at Three Kings in Hanley Castle.\n\nLiRF Sim Buzzard [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3553464069087666088",
-    "location": "The Three Kings",
+    "description": "Change of venue for LBCB. This 10k in about 55 minutes will take you places you have only dreamt of.\n\nHi Viz and headtorch. \n\nPaths but maybe a short traily bit.\n\nLiRF: Sim Buzzard [Phone Number Redacted]",
+    "url": "https://www.strava.com/clubs/208705/group_events/3558227336044286348",
+    "location": "Link Top",
     "organizer": "Sim Buzzard"
-  },
-  {
-    "id": 3556282088715744558,
-    "title": "Hustling: The Core Sessions",
-    "start": "2026-11-18T19:00:00Z",
-    "end": "2026-11-18T20:00:00Z",
-    "description": "Another session of interval based structured running. After a warm-up we'll set to work on a number of intervals (details TBC), with a cool down to finish. \n\nWe'll run together but will regroup between intervals if necessary. \n\nDistance: 12-13km in total\nTerrain: road \nPace: various.\n\nNeil\n[Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3556282088715744558",
-    "location": "Christ Church",
-    "organizer": "Neil Warne"
-  },
-  {
-    "id": 3556983750507303120,
-    "title": "Interval efforts on road",
-    "start": "2026-11-18T18:30:00Z",
-    "end": "2026-11-18T19:30:00Z",
-    "description": "Meet  you railway bridge/college car park. We'll do a grou jog warm up to local quiet roads, followed by some stretches. Then some interval efforts on a loop so all working at own effort but regrouping. Finish with cool down jog back to Thirlstane. Approx. 6-7km please wear high viz and headtorch recommended. Ideal session to improve your race times. Andy k [Phone Number Redacted]",
-    "url": "https://www.strava.com/clubs/208705/group_events/3556983750507303120",
-    "location": "Thirlstane Road",
-    "organizer": "Andrew Kenchington"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-11-18T18:00:00Z",
-    "end": "2026-11-18T19:00:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]

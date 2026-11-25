@@ -100,6 +100,16 @@
     "organizer": "Andy Dingley"
   },
   {
+    "id": 3455162324584765606,
+    "title": "Round The Ramparts",
+    "start": "2026-12-02T18:00:00Z",
+    "end": "2026-12-02T19:00:00Z",
+    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
+    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
+    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
+    "organizer": "Andy Dingley"
+  },
+  {
     "id": 3546904073023710316,
     "title": "The Sugar Rush",
     "start": "2026-12-01T19:30:00Z",
@@ -208,15 +218,5 @@
     "url": "https://www.strava.com/clubs/208705/group_events/3559167585506331302",
     "location": "Thirlstane Road",
     "organizer": "Andrew Kenchington"
-  },
-  {
-    "id": 3455162324584765606,
-    "title": "Round The Ramparts",
-    "start": "2026-11-25T18:00:00Z",
-    "end": "2026-11-25T19:00:00Z",
-    "description": "Starting at Wyhe Cutting Bus Stop.  This is an 11km run along to British Camp and around the ramparts.  Headtorch required.  All trail - so trail shoes preferable especially in wet conditions. 6:30 - 7:15 mins per km roughly",
-    "url": "https://www.strava.com/clubs/208705/group_events/3455162324584765606",
-    "location": "Trenython, Jubilee Drive Malvern England WR13 6DQ United Kingdom",
-    "organizer": "Andy Dingley"
   }
 ]
